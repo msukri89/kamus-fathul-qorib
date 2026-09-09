@@ -19,7 +19,6 @@ function tampilkanHasil(data) {
         return;
     }
 
-    // PROSES 1: Mengelompokkan data berdasarkan chapter_arabic
     const groupedData = data.reduce((grup, item) => {
         const bab = item.chapter_arabic;
         if (!grup[bab]) grup[bab] = [];
@@ -27,38 +26,39 @@ function tampilkanHasil(data) {
         return grup;
     }, {});
 
-    // PROSES 2: Menampilkan data yang sudah dikelompokkan
     for (const [bab, items] of Object.entries(groupedData)) {
         
-        // Membuat kotak Dropdown utama (Details)
         const details = document.createElement('details');
-        details.open = true; // Otomatis terbuka saat awal/dicari
+        details.open = true; 
         details.style = "background: white; border: 1px solid #cbd5e1; margin-bottom: 15px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.05);";
 
-        // Membuat Header Bab (Summary)
         const summary = document.createElement('summary');
         summary.style = "background: #0f172a; color: white; padding: 15px; font-size: 1.4em; font-weight: bold; cursor: pointer; text-align: right; direction: rtl; list-style: none;";
         summary.innerHTML = `📖 ${bab}`;
         details.appendChild(summary);
 
-        // Membuat wadah untuk isi kosakata
         const contentDiv = document.createElement('div');
         contentDiv.style = "padding: 0 15px;";
 
-        // Memasukkan setiap kosakata ke dalam bab yang sesuai
         items.forEach((item, index) => {
             const wordBlock = document.createElement('div');
-            // Garis pemisah antar kata (kecuali kata terakhir)
             const borderStyle = index < items.length - 1 ? 'border-bottom: 1px dashed #cbd5e1;' : '';
             wordBlock.style = `padding: 15px 0; ${borderStyle}`;
+            
+            // LOGIKA BARU: Cek apakah ada data sharaf atau kosong
+            let sharafHTML = '';
+            if (item.sharaf && item.sharaf.trim() !== "") {
+                sharafHTML = `
+                <div style="text-align: right; direction: rtl; color: #0369a1; font-size: 1.3em; margin-bottom: 10px;">
+                    ${item.sharaf}
+                </div>`;
+            }
             
             wordBlock.innerHTML = `
                 <div style="font-size: 1.4em; margin-bottom: 8px; text-align: right; direction: rtl; color: #0f172a;">
                     <strong>${item.term_arabic}</strong> : <span style="font-size: 0.8em; color: #334155; font-weight: normal;">${item.meaning_literal}</span>
                 </div>
-                <div style="text-align: right; direction: rtl; color: #0369a1; font-size: 1.3em; margin-bottom: 10px;">
-                    ${item.sharaf}
-                </div>
+                ${sharafHTML} <!-- Menampilkan sharaf HANYA jika ada -->
                 <div style="color: #475569; line-height: 1.6; text-align: left;">
                     <strong>Makna Fikih:</strong> ${item.meaning_fiqh}
                 </div>
@@ -71,7 +71,6 @@ function tampilkanHasil(data) {
     }
 }
 
-// Logika Pencarian
 document.getElementById('inputCari').addEventListener('keyup', function() {
     const kataKunci = this.value.toLowerCase();
     
