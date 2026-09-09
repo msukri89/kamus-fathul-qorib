@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kamus-fq-v1';
+const CACHE_NAME = 'kamus-fq-v2';
 
 // Daftar file yang WAJIB disimpan di memori HP saat pertama kali diakses
 const ASSETS_TO_CACHE = [
