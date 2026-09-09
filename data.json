@@ -3,6 +3,9 @@
     "term_arabic": "الطَّهَارَةُ",
     "transliteration": "ath-thahaaratu",
     "chapter": "Kitab Thaharah",
+    "word_form": "Isim Mashdar",
+    "fiil_madhi": "طَهُرَ / طَهَرَ (thahura/thahara)",
+    "fiil_mudhari": "يَطْهُرُ (yathhuru)",
     "meaning_literal": "Kebersihan",
     "meaning_fiqh": "Tindakan yang membolehkan shalat seperti wudhu, mandi, tayamum, dan menghilangkan najis."
   },
@@ -10,6 +13,9 @@
     "term_arabic": "النَّجَاسَةُ",
     "transliteration": "an-najaasatu",
     "chapter": "Kitab Thaharah",
+    "word_form": "Isim Mashdar",
+    "fiil_madhi": "نَجُسَ (najusa)",
+    "fiil_mudhari": "يَنْجُسُ (yanjusu)",
     "meaning_literal": "Sesuatu yang kotor (najis)",
     "meaning_fiqh": "Benda najis yang mencegah sahnya shalat, terbagi menjadi mughallazhah, mukhaffafah, dan mutawassithah."
   },
@@ -17,6 +23,9 @@
     "term_arabic": "الْحَدَثُ",
     "transliteration": "al-hadatsu",
     "chapter": "Kitab Thaharah",
+    "word_form": "Isim Mashdar",
+    "fiil_madhi": "حَدَثَ (hadatsa)",
+    "fiil_mudhari": "يَحْدُثُ (yahdutsu)",
     "meaning_literal": "Sesuatu yang baru terjadi",
     "meaning_fiqh": "Perkara abstrak pada anggota tubuh yang mencegah sahnya shalat (terbagi menjadi hadats asghar dan akbar)."
   },
@@ -24,28 +33,10 @@
     "term_arabic": "الدِّبَاغُ",
     "transliteration": "ad-dibaaghu",
     "chapter": "Kitab Thaharah",
+    "word_form": "Isim Mashdar",
+    "fiil_madhi": "دَبَغَ (dabagha)",
+    "fiil_mudhari": "يَدْبُغُ / يَدْبَغُ (yadbughu/yadbaghu)",
     "meaning_literal": "Menyamak",
     "meaning_fiqh": "Proses membersihkan kulit bangkai binatang dengan zat yang kelat/sepat agar menjadi suci."
-  },
-  {
-    "term_arabic": "الْمَاءُ الْمُطْلَقُ",
-    "transliteration": "al-ma'u al-muthlaqu",
-    "chapter": "Macam-macam Air",
-    "meaning_literal": "Air yang murni",
-    "meaning_fiqh": "Air yang suci dan mensucikan, tetap pada sifat aslinya dan tidak terikat dengan nama tambahan (seperti air sumur, air hujan)."
-  },
-  {
-    "term_arabic": "الْمَاءُ الْمُسْتَعْمَلُ",
-    "transliteration": "al-ma'u al-musta'malu",
-    "chapter": "Macam-macam Air",
-    "meaning_literal": "Air yang sudah digunakan",
-    "meaning_fiqh": "Air yang sudah digunakan untuk fardhu bersuci (wudhu/mandi wajib). Statusnya suci namun tidak bisa mensucikan yang lain."
-  },
-  {
-    "term_arabic": "الْمَاءُ الْمُتَنَجِّسُ",
-    "transliteration": "al-ma'u al-mutanajjisu",
-    "chapter": "Macam-macam Air",
-    "meaning_literal": "Air yang terkena najis",
-    "meaning_fiqh": "Air yang volumenya kurang dari dua qullah dan kejatuhan benda najis, atau lebih dari dua qullah tapi berubah sifatnya karena najis."
   }
 ]
