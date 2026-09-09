@@ -19,47 +19,67 @@ function tampilkanHasil(data) {
         return;
     }
 
-    data.forEach(item => {
-        const card = document.createElement('div');
-        card.style = "background: white; border: 1px solid #e2e8f0; padding: 15px; margin-bottom: 15px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);";
+    // PROSES 1: Mengelompokkan data berdasarkan chapter_arabic
+    const groupedData = data.reduce((grup, item) => {
+        const bab = item.chapter_arabic;
+        if (!grup[bab]) grup[bab] = [];
+        grup[bab].push(item);
+        return grup;
+    }, {});
+
+    // PROSES 2: Menampilkan data yang sudah dikelompokkan
+    for (const [bab, items] of Object.entries(groupedData)) {
         
-        // Cek apakah data sharaf ada, jika ada buat kotak khusus sharaf
-        let sharafHTML = '';
-        if(item.word_form && item.fiil_madhi) {
-            sharafHTML = `
-            <div style="background: #f8fafc; border: 1px dashed #cbd5e1; padding: 10px; margin: 10px 0; border-radius: 6px; font-size: 0.9em; color: #475569;">
-                <div style="display: flex; justify-content: space-between; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; margin-bottom: 5px;">
-                    <span><strong>Bentuk Kata:</strong> ${item.word_form}</span>
-                </div>
-                <div style="display: flex; justify-content: space-between;">
-                    <span><strong>Madhi:</strong> <span dir="rtl" style="font-size:1.1em; color:#0f172a;">${item.fiil_madhi}</span></span>
-                    <span><strong>Mudhari':</strong> <span dir="rtl" style="font-size:1.1em; color:#0f172a;">${item.fiil_mudhari}</span></span>
-                </div>
-            </div>`;
-        }
+        // Membuat kotak Dropdown utama (Details)
+        const details = document.createElement('details');
+        details.open = true; // Otomatis terbuka saat awal/dicari
+        details.style = "background: white; border: 1px solid #cbd5e1; margin-bottom: 15px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.05);";
 
-        card.innerHTML = `
-            <h2 style="margin: 0 0 5px 0; color: #0f172a; text-align: right; font-size: 1.8em;" dir="rtl">${item.term_arabic}</h2>
-            <p style="margin: 0 0 10px 0; color: #64748b; font-style: italic;">${item.transliteration}</p>
+        // Membuat Header Bab (Summary)
+        const summary = document.createElement('summary');
+        summary.style = "background: #0f172a; color: white; padding: 15px; font-size: 1.4em; font-weight: bold; cursor: pointer; text-align: right; direction: rtl; list-style: none;";
+        summary.innerHTML = `📖 ${bab}`;
+        details.appendChild(summary);
+
+        // Membuat wadah untuk isi kosakata
+        const contentDiv = document.createElement('div');
+        contentDiv.style = "padding: 0 15px;";
+
+        // Memasukkan setiap kosakata ke dalam bab yang sesuai
+        items.forEach((item, index) => {
+            const wordBlock = document.createElement('div');
+            // Garis pemisah antar kata (kecuali kata terakhir)
+            const borderStyle = index < items.length - 1 ? 'border-bottom: 1px dashed #cbd5e1;' : '';
+            wordBlock.style = `padding: 15px 0; ${borderStyle}`;
             
-            ${sharafHTML} <!-- Menampilkan kotak sharaf di sini -->
+            wordBlock.innerHTML = `
+                <div style="font-size: 1.4em; margin-bottom: 8px; text-align: right; direction: rtl; color: #0f172a;">
+                    <strong>${item.term_arabic}</strong> : <span style="font-size: 0.8em; color: #334155; font-weight: normal;">${item.meaning_literal}</span>
+                </div>
+                <div style="text-align: right; direction: rtl; color: #0369a1; font-size: 1.3em; margin-bottom: 10px;">
+                    ${item.sharaf}
+                </div>
+                <div style="color: #475569; line-height: 1.6; text-align: left;">
+                    <strong>Makna Fikih:</strong> ${item.meaning_fiqh}
+                </div>
+            `;
+            contentDiv.appendChild(wordBlock);
+        });
 
-            <p style="margin: 8px 0;"><strong>Arti:</strong> ${item.meaning_literal}</p>
-            <p style="margin: 8px 0; line-height: 1.6;"><strong>Makna Fikih:</strong> ${item.meaning_fiqh}</p>
-            <p style="margin: 15px 0 0 0; font-size: 0.85em; display: inline-block; background: #e0f2fe; color: #0369a1; padding: 4px 10px; border-radius: 20px;">🏷️ ${item.chapter}</p>
-        `;
-        container.appendChild(card);
-    });
+        details.appendChild(contentDiv);
+        container.appendChild(details);
+    }
 }
 
+// Logika Pencarian
 document.getElementById('inputCari').addEventListener('keyup', function() {
     const kataKunci = this.value.toLowerCase();
     
     const hasilFilter = kamusData.filter(item => 
         item.term_arabic.includes(kataKunci) || 
-        item.transliteration.toLowerCase().includes(kataKunci) ||
         item.meaning_literal.toLowerCase().includes(kataKunci) ||
-        item.meaning_fiqh.toLowerCase().includes(kataKunci)
+        item.meaning_fiqh.toLowerCase().includes(kataKunci) ||
+        item.chapter_arabic.includes(kataKunci)
     );
     
     tampilkanHasil(hasilFilter);
