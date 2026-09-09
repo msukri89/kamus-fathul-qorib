@@ -1,30 +1,58 @@
 [
   {
     "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
-    "term_arabic": "الطَّهَارَةُ",
-    "meaning_literal": "Kebersihan",
-    "sharaf": "طَهَرَ – يَطْهُرُ – طُهْرًا – طَهَارَةً",
+    "term_arabic": "كِتَابٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kitab / Buku",
+    "sharaf": "كَتَبَ – يَكْتُبُ – كَتْبًا – كِتَابًا – كِتَابَةً",
+    "meaning_fiqh": "Secara bahasa berarti mengumpulkan (الضم والجمع). Secara istilah berarti nama untuk sebuah kelompok dari beberapa hukum yang sejenis."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "أَحْكَامٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: حُكْمٌ). Artinya: Beberapa hukum",
+    "sharaf": "حَكَمَ – يَحْكُمُ – حُكْمًا",
+    "meaning_fiqh": "Hukum syara' yang /titah Allah yang berkaitan dengan perbuatan mukallaf."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "طَهَارَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kebersihan",
+    "sharaf": "طَهُرَ – يَطْهُرُ – طُهْرًا – طَهَارَةً",
     "meaning_fiqh": "Tindakan yang membolehkan shalat seperti wudhu, mandi, tayamum, dan menghilangkan najis."
   },
   {
     "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
-    "term_arabic": "النَّجَاسَةُ",
-    "meaning_literal": "Sesuatu yang kotor",
-    "sharaf": "نَجُسَ – يَنْجُسُ – نَجَسًا – نَجَاسَةً",
-    "meaning_fiqh": "Benda najis yang mencegah sahnya shalat, terbagi menjadi mughallazhah, mukhaffafah, dan mutawassithah."
+    "term_arabic": "لُغَةً",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Secara bahasa",
+    "sharaf": "لَغَا – يَلْغُو – لَغْوًا – لُغَةً",
+    "meaning_fiqh": "Makna etimologis yang dikenal dalam tata bahasa Arab sebelum ada spesifikasi istilah syariat."
   },
   {
-    "chapter_arabic": "كِتَابُ أَحْكَامِ الصَّلَاةِ",
-    "term_arabic": "الصَّلَاةُ",
-    "meaning_literal": "Doa",
-    "sharaf": "صَلَّى – يُصَلِّي – تَصْلِيَةً – صَلَاةً",
-    "meaning_fiqh": "Serangkaian ucapan dan gerakan tertentu yang diawali dengan takbir dan diakhiri dengan salam."
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "مَصْدَرٌ",
+    "meaning_literal": "Bentuk: Isim Makan / Masdar Mimi. Artinya: Sumber",
+    "sharaf": "صَدَرَ – يَصْدُرُ – صَدْرًا – مَصْدَرًا",
+    "meaning_fiqh": "Akar kata yang menjadi cetakan atau asal muasal pembentukan Fi'il (kata kerja) menurut ulama Bashrah."
   },
   {
-    "chapter_arabic": "كِتَابُ أَحْكَامِ الصَّلَاةِ",
-    "term_arabic": "السُّجُودُ",
-    "meaning_literal": "Tunduk / Merendahkan diri",
-    "sharaf": "سَجَدَ – يَسْجُدُ – سُجُودًا",
-    "meaning_fiqh": "Menempelkan dahi ke tempat shalat dengan syarat-syarat tertentu beserta anggota sujud lainnya."
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "مَعْنًى",
+    "meaning_literal": "Bentuk: Isim Maf'ul / Masdar Mimi. Artinya: Makna / Arti",
+    "sharaf": "عَنَى – يَعْنِي – عَنْيًا – عِنَايَةً – مَعْنًى",
+    "meaning_fiqh": "Maksud atau esensi yang dikandung oleh suatu lafaz."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "ضَمٌّ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mengumpulkan",
+    "sharaf": "ضَمَّ – يَضُمُّ – ضَمًّا",
+    "meaning_fiqh": "Menyatukan satu hal dengan hal lainnya ke dalam satu tempat/wadah."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "جَمْعٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menghimpun",
+    "sharaf": "جَمَعَ – يَجْمَعُ – جَمْعًا",
+    "meaning_fiqh": "Menghimpun hal-hal yang sebelumnya terpisah menjadi satu kesatuan (Sinonim penguat dari kata Dlomm)."
   }
 ]
