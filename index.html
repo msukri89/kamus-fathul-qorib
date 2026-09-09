@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kamus Fathul Qorib</title>
+    
+    <!-- INI BARIS BARU: Menghubungkan KTP Aplikasi (Manifest) -->
+    <link rel="manifest" href="./manifest.json">
+    
     <style>
         body { 
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
@@ -39,7 +43,18 @@
         <p style="text-align: center; color: #64748b;">Memuat data kamus...</p>
     </div>
 
-    <!-- INI BARIS YANG DITAMBAHKAN UNTUK MEMANGGIL MESIN APP.JS -->
+    <!-- Memanggil Mesin pencarian -->
     <script src="./app.js"></script>
+
+    <!-- INI BARIS BARU: Mendaftarkan Service Worker agar bisa Offline -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then((reg) => console.log('Mode Offline Aktif!'))
+                    .catch((err) => console.log('Gagal mengaktifkan mode offline:', err));
+            });
+        }
+    </script>
 </body>
 </html>
