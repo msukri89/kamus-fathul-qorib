@@ -1,0 +1,30 @@
+[
+  {
+    "term_arabic": "الطَّهَارَةُ",
+    "transliteration": "ath-thahaaratu",
+    "chapter": "Kitab Thaharah",
+    "meaning_literal": "Kebersihan",
+    "meaning_fiqh": "Tindakan yang membolehkan shalat seperti wudhu, mandi, tayamum, dan menghilangkan najis."
+  },
+  {
+    "term_arabic": "النَّجَاسَةُ",
+    "transliteration": "an-najaasatu",
+    "chapter": "Kitab Thaharah",
+    "meaning_literal": "Sesuatu yang kotor",
+    "meaning_fiqh": "Kotoran yang mencegah sahnya shalat, terbagi menjadi mughallazhah, mukhaffafah, dan mutawassithah."
+  },
+  {
+    "term_arabic": "الْحَدَثُ",
+    "transliteration": "al-hadatsu",
+    "chapter": "Kitab Thaharah",
+    "meaning_literal": "Sesuatu yang baru terjadi",
+    "meaning_fiqh": "Perkara abstrak pada anggota tubuh yang mencegah sahnya shalat (terbagi menjadi Asghar dan Akbar)."
+  },
+  {
+    "term_arabic": "الدِّبَاغُ",
+    "transliteration": "ad-dibaaghu",
+    "chapter": "Kitab Thaharah",
+    "meaning_literal": "Menyamak",
+    "meaning_fiqh": "Proses membersihkan kulit bangkai binatang dengan zat yang kelat/sepat agar menjadi suci."
+  }
+]
