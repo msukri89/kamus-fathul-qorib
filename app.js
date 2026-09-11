@@ -2,17 +2,21 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const dataResponse = await fetch('./data.json');
-        if (!dataResponse.ok) {
-            throw new Error(`Gagal memuat data.json: HTTP ${dataResponse.status}`);
+        const sumberData = ['./data.json', './data-bab2.json'];
+        const responses = await Promise.all(sumberData.map(path => fetch(path)));
+
+        for (let i = 0; i < responses.length; i++) {
+            if (!responses[i].ok) {
+                throw new Error(`Gagal memuat ${sumberData[i]}: HTTP ${responses[i].status}`);
+            }
         }
 
-        const data = await dataResponse.json();
-        if (!Array.isArray(data)) {
-            throw new Error('Format data.json tidak valid: harus berupa array.');
+        const semuaData = await Promise.all(responses.map(response => response.json()));
+        if (semuaData.some(data => !Array.isArray(data))) {
+            throw new Error('Format salah satu file data kamus tidak valid: harus berupa array.');
         }
 
-        kamusData = data;
+        kamusData = semuaData.flat();
         tampilkanHasil(kamusData);
     } catch (error) {
         console.error('Gagal memuat kamus:', error);
