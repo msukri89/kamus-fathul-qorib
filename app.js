@@ -2,18 +2,21 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
-            fetch('./data-corrections.json')
+            fetch('./data-corrections.json'),
+            fetch('./data-corrections-wudhu.json')
         ]);
 
         const data = await dataResponse.json();
         const corrections = correctionsResponse.ok ? await correctionsResponse.json() : [];
+        const wudhuCorrections = wudhuCorrectionsResponse.ok ? await wudhuCorrectionsResponse.json() : [];
+        const allCorrections = [...corrections, ...wudhuCorrections];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
         // dioverride berdasarkan kombinasi bab + istilah Arab.
         const correctionsMap = new Map(
-            corrections.map(item => [`${item.chapter_arabic}|||${item.term_arabic}`, item])
+            allCorrections.map(item => [`${item.chapter_arabic}|||${item.term_arabic}`, item])
         );
 
         kamusData = data.map(item => {
