@@ -1,65 +1,51 @@
 [
   {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
-    "term_arabic": "فَرَائِضُ",
-    "meaning_literal": "Bentuk: Jamak Taksir (Mufrad: فَرِيضَةٌ). Artinya: Beberapa kewajiban / Fardhu",
-    "sharaf": "فَرَضَ – يَفْرِضُ – فَرْضًا – فَرِيضَةً",
-    "meaning_fiqh": "Hal-hal yang wajib dilakukan dalam mandi menurut Fathul Qorib. Dalam bab ini disebutkan tiga fardhu mandi."
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "فُرُوضٌ",
+    "meaning_literal": "Bentuk: Jamak Taksir (mufrad: فَرْضٌ). Artinya: Kewajiban-kewajiban / Fardhu",
+    "sharaf": "فَرَضَ – يَفْرِضُ – فَرْضًا – فُرُوضًا",
+    "meaning_fiqh": "Kewajiban-kewajiban yang menjadi bagian pokok dalam sahnya mandi."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
-    "term_arabic": "النِّيَّةُ",
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "ثَلَاثَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (bilangan). Artinya: Tiga",
+    "sharaf": "",
+    "meaning_fiqh": "Jumlah fardhu mandi yang disebutkan dalam matan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "نِيَّةٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Niat / Maksud",
     "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
-    "meaning_fiqh": "Fardhu pertama mandi. Orang junub berniat mengangkat jinabah atau hadats besar; orang haid atau nifas berniat mengangkat hadats haid atau nifas. Niat dilakukan bersamaan dengan awal bagian tubuh yang dibasuh sebagai fardhu."
+    "meaning_fiqh": "Menyengaja dalam hati untuk mengangkat hadats besar atau memperoleh kebolehan melakukan ibadah yang mensyaratkan kesucian."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
     "term_arabic": "إِزَالَةٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Menghilangkan",
     "sharaf": "أَزَالَ – يُزِيلُ – إِزَالَةً",
-    "meaning_fiqh": "Menghilangkan najis yang terdapat pada badan orang yang mandi, jika memang ada. Fathul Qorib juga membahas perbedaan rincian antara najis hukmiyah dan najis 'ainiyah."
+    "meaning_fiqh": "Menghilangkan najis yang terdapat pada badan apabila ada, sebagai bagian dari penyempurnaan sahnya mandi."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
-    "term_arabic": "نَجَاسَةٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Najis / Keadaan najis",
-    "sharaf": "نَجُسَ – يَنْجُسُ – نَجَاسَةً",
-    "meaning_fiqh": "Benda atau keadaan yang menurut syariat harus dihilangkan dari badan apabila terdapat pada tubuh orang yang mandi."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
     "term_arabic": "إِيصَالٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Menyampaikan / Membuat sampai",
     "sharaf": "أَوْصَلَ – يُوصِلُ – إِيصَالًا",
-    "meaning_fiqh": "Menyampaikan air hingga mengenai seluruh bagian rambut dan kulit yang wajib terkena air dalam mandi."
+    "meaning_fiqh": "Menyampaikan air hingga mengenai seluruh rambut dan kulit yang wajib terkena air dalam mandi."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
-    "term_arabic": "مَاءٌ",
-    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Air",
-    "sharaf": "",
-    "meaning_fiqh": "Air yang digunakan untuk mandi harus sampai ke bagian-bagian rambut dan kulit yang menjadi cakupan fardhu mandi."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
     "term_arabic": "شَعْرٌ",
     "meaning_literal": "Bentuk: Isim Jamid. Artinya: Rambut / Bulu",
     "sharaf": "",
-    "meaning_fiqh": "Seluruh rambut yang termasuk bagian luar tubuh wajib terkena air dalam fardhu mandi, baik rambut kepala maupun rambut pada bagian tubuh lainnya."
+    "meaning_fiqh": "Rambut atau bulu yang termasuk bagian luar tubuh dan wajib terkena air dalam mandi."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
     "term_arabic": "بَشَرَةٌ",
     "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kulit",
     "sharaf": "",
-    "meaning_fiqh": "Permukaan kulit tubuh. Fardhu mandi adalah memastikan air sampai ke seluruh bagian kulit yang termasuk bagian luar tubuh."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فَرَائِضِ الْغُسْلِ",
-    "term_arabic": "جَمِيعٌ",
-    "meaning_literal": "Bentuk: Isim yang bermakna keseluruhan. Artinya: Seluruh / Semua",
-    "sharaf": "",
-    "meaning_fiqh": "Menunjukkan cakupan menyeluruh: dalam frasa جميع الشعر والبشرة, air harus mengenai seluruh rambut dan kulit yang wajib dibasuh."
+    "meaning_fiqh": "Permukaan kulit tubuh yang wajib terkena air dalam mandi."
   }
 ]
