@@ -1,0 +1,79 @@
+[
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "التَّسْمِيَةُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Penyebutan nama / Basmalah",
+    "sharaf": "سَمَّى – يُسَمِّي – تَسْمِيَةً",
+    "meaning_fiqh": "Membaca basmalah pada awal wudhu. Dalam Fathul Qorib, bentuk paling ringkasnya adalah بِسْمِ اللهِ dan bentuk yang lebih sempurna adalah بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "غَسْلُ الْكَفَّيْنِ",
+    "meaning_literal": "Artinya: Membasuh kedua telapak tangan",
+    "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا؛ كَفٌّ – كَفَّانِ – كَفَّيْنِ",
+    "meaning_fiqh": "Membasuh kedua telapak tangan sampai pergelangan sebelum memasukkannya ke wadah yang berisi air kurang dari dua qullah, sebagaimana penjelasan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "مَضْمَضَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berkumur",
+    "sharaf": "تَمَضْمَضَ – يَتَمَضْمَضُ – تَمَضْمُضًا",
+    "meaning_fiqh": "Memasukkan air ke dalam mulut. Kesempurnaan sunnahnya adalah menggerakkan air di dalam mulut lalu memuntahkannya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "اِسْتِنْشَاقٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Memasukkan air ke hidung",
+    "sharaf": "اِسْتَنْشَقَ – يَسْتَنْشِقُ – اِسْتِنْشَاقًا",
+    "meaning_fiqh": "Memasukkan air ke dalam hidung. Kesempurnaan sunnahnya adalah menarik air sampai ke bagian dalam hidung lalu mengeluarkannya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "مَسْحُ جَمِيعِ الرَّأْسِ",
+    "meaning_literal": "Artinya: Mengusap seluruh kepala",
+    "sharaf": "مَسَحَ – يَمْسَحُ – مَسْحًا؛ جَمِيعٌ – جَمِيعَةٌ",
+    "meaning_fiqh": "Mengusap seluruh kepala. Berbeda dengan mengusap sebagian kepala yang merupakan salah satu fardhu wudhu menurut Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "أُذُنٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Telinga",
+    "sharaf": "",
+    "meaning_fiqh": "Anggota telinga yang dalam sunnah wudhu diusap bagian luar dan dalamnya dengan air baru, yaitu air yang bukan sisa basahan kepala."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "تَخْلِيلُ اللِّحْيَةِ",
+    "meaning_literal": "Artinya: Menyela-nyela jenggot",
+    "sharaf": "خَلَّلَ – يُخَلِّلُ – تَخْلِيلًا؛ لِحْيَةٌ – لِحًى",
+    "meaning_fiqh": "Menyela-nyela jenggot yang lebat. Dalam penjelasan Fathul Qorib, ketentuan dan kewajiban memasukkan air berbeda antara jenggot lebat dan jenggot tipis."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "تَخْلِيلُ الْأَصَابِعِ",
+    "meaning_literal": "Artinya: Menyela-nyela jari-jari",
+    "sharaf": "خَلَّلَ – يُخَلِّلُ – تَخْلِيلًا؛ إِصْبَعٌ – أَصَابِعُ",
+    "meaning_fiqh": "Menyela-nyela jari-jari tangan dan kaki. Jika air tidak dapat sampai ke sela-selanya tanpa penyelaan, maka penyelaan menjadi wajib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "تَقْدِيمُ الْيَمِينِ",
+    "meaning_literal": "Artinya: Mendahulukan yang kanan",
+    "sharaf": "قَدَّمَ – يُقَدِّمُ – تَقْدِيمًا",
+    "meaning_fiqh": "Mendahulukan anggota sebelah kanan daripada sebelah kiri pada tangan dan kaki dalam wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "الطَّهَارَةُ ثَلَاثًا ثَلَاثًا",
+    "meaning_literal": "Artinya: Mengulang bersuci tiga kali tiga kali",
+    "sharaf": "طَهُرَ – يَطْهُرُ – طُهْرًا – طَهَارَةً",
+    "meaning_fiqh": "Mengulangi basuhan atau usapan anggota wudhu sebanyak tiga kali sebagai sunnah, sebagaimana yang dijelaskan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "مُوَالَاةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berturut-turut / Berkesinambungan",
+    "sharaf": "وَالَى – يُوَالِي – مُوَالَاةً",
+    "meaning_fiqh": "Melakukan basuhan anggota wudhu secara berturut-turut sehingga anggota berikutnya dibasuh sebelum anggota sebelumnya kering dalam keadaan cuaca, kondisi tubuh, dan waktu yang normal."
+  }
+]
