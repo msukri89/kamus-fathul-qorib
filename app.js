@@ -2,7 +2,7 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse, laranganCorrectionsResponse, thaharahDasarCorrectionsResponse, thaharahAirCorrectionsResponse, thaharahAirQCCorrectionsResponse, tathirJuludMaitahCorrectionsResponse, awaniCorrectionsResponse, siwakCorrectionsResponse, najisCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse, laranganCorrectionsResponse, thaharahDasarCorrectionsResponse, thaharahAirCorrectionsResponse, thaharahAirQCCorrectionsResponse, thaharahAhkamCorrectionsResponse, tathirJuludMaitahCorrectionsResponse, awaniCorrectionsResponse, siwakCorrectionsResponse, najisCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
             fetch('./data-corrections-wudhu.json'),
@@ -20,6 +20,7 @@ async function muatKamus() {
             fetch('./data-corrections-thaharah-dasar.json'),
             fetch('./data-corrections-thaharah-air.json'),
             fetch('./data-corrections-thaharah-air-qc.json'),
+            fetch('./data-corrections-thaharah-ahkam.json'),
             fetch('./data-corrections-tathir-julud-maitah.json'),
             fetch('./data-corrections-awani.json'),
             fetch('./data-corrections-siwak.json'),
@@ -43,6 +44,7 @@ async function muatKamus() {
         const thaharahDasarCorrections = thaharahDasarCorrectionsResponse.ok ? await thaharahDasarCorrectionsResponse.json() : [];
         const thaharahAirCorrections = thaharahAirCorrectionsResponse.ok ? await thaharahAirCorrectionsResponse.json() : [];
         const thaharahAirQCCorrections = thaharahAirQCCorrectionsResponse.ok ? await thaharahAirQCCorrectionsResponse.json() : [];
+        const thaharahAhkamCorrections = thaharahAhkamCorrectionsResponse.ok ? await thaharahAhkamCorrectionsResponse.json() : [];
         const tathirJuludMaitahCorrections = tathirJuludMaitahCorrectionsResponse.ok ? await tathirJuludMaitahCorrectionsResponse.json() : [];
         const awaniCorrections = awaniCorrectionsResponse.ok ? await awaniCorrectionsResponse.json() : [];
         const siwakCorrections = siwakCorrectionsResponse.ok ? await siwakCorrectionsResponse.json() : [];
@@ -64,6 +66,7 @@ async function muatKamus() {
             ...thaharahDasarCorrections,
             ...thaharahAirCorrections,
             ...thaharahAirQCCorrections,
+            ...thaharahAhkamCorrections,
             ...tathirJuludMaitahCorrections,
             ...awaniCorrections,
             ...siwakCorrections,
