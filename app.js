@@ -2,90 +2,17 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse, laranganCorrectionsResponse, thaharahDasarCorrectionsResponse, thaharahAirCorrectionsResponse, thaharahAirQCCorrectionsResponse, thaharahAhkamCorrectionsResponse, tathirJuludMaitahCorrectionsResponse, awaniCorrectionsResponse, siwakCorrectionsResponse, najisCorrectionsResponse] = await Promise.all([
-            fetch('./data.json'),
-            fetch('./data-corrections.json'),
-            fetch('./data-corrections-wudhu.json'),
-            fetch('./data-corrections-sunnah-wudhu.json'),
-            fetch('./data-corrections-nawaqidh-wudhu.json'),
-            fetch('./data-corrections-mujibat-ghusl.json'),
-            fetch('./data-corrections-fardhu-ghusl.json'),
-            fetch('./data-corrections-sunnah-ghusl.json'),
-            fetch('./data-corrections-aghsaal-sunnah.json'),
-            fetch('./data-corrections-khuff.json'),
-            fetch('./data-corrections-tayammum.json'),
-            fetch('./data-corrections-jabirah.json'),
-            fetch('./data-corrections-haid-nifas-istihadhah.json'),
-            fetch('./data-corrections-larangan-haid-junub-hadats.json'),
-            fetch('./data-corrections-thaharah-dasar.json'),
-            fetch('./data-corrections-thaharah-air.json'),
-            fetch('./data-corrections-thaharah-air-qc.json'),
-            fetch('./data-corrections-thaharah-ahkam.json'),
-            fetch('./data-corrections-tathir-julud-maitah.json'),
-            fetch('./data-corrections-awani.json'),
-            fetch('./data-corrections-siwak.json'),
-            fetch('./data-corrections-najis.json')
-        ]);
+        const dataResponse = await fetch('./data.json');
+        if (!dataResponse.ok) {
+            throw new Error(`Gagal memuat data.json: HTTP ${dataResponse.status}`);
+        }
 
         const data = await dataResponse.json();
-        const corrections = correctionsResponse.ok ? await correctionsResponse.json() : [];
-        const wudhuCorrections = wudhuCorrectionsResponse.ok ? await wudhuCorrectionsResponse.json() : [];
-        const sunnahWudhuCorrections = sunnahWudhuCorrectionsResponse.ok ? await sunnahWudhuCorrectionsResponse.json() : [];
-        const nawaqidhWudhuCorrections = nawaqidhWudhuCorrectionsResponse.ok ? await nawaqidhWudhuCorrectionsResponse.json() : [];
-        const mujibatGhuslCorrections = mujibatGhuslCorrectionsResponse.ok ? await mujibatGhuslCorrectionsResponse.json() : [];
-        const fardhuGhuslCorrections = fardhuGhuslCorrectionsResponse.ok ? await fardhuGhuslCorrectionsResponse.json() : [];
-        const sunnahGhuslCorrections = sunnahGhuslCorrectionsResponse.ok ? await sunnahGhuslCorrectionsResponse.json() : [];
-        const aghsaalSunnahCorrections = aghsaalSunnahCorrectionsResponse.ok ? await aghsaalSunnahCorrectionsResponse.json() : [];
-        const khuffCorrections = khuffCorrectionsResponse.ok ? await khuffCorrectionsResponse.json() : [];
-        const tayammumCorrections = tayammumCorrectionsResponse.ok ? await tayammumCorrectionsResponse.json() : [];
-        const jabirahCorrections = jabirahCorrectionsResponse.ok ? await jabirahCorrectionsResponse.json() : [];
-        const haidNifasIstihadhahCorrections = haidNifasIstihadhahCorrectionsResponse.ok ? await haidNifasIstihadhahCorrectionsResponse.json() : [];
-        const laranganCorrections = laranganCorrectionsResponse.ok ? await laranganCorrectionsResponse.json() : [];
-        const thaharahDasarCorrections = thaharahDasarCorrectionsResponse.ok ? await thaharahDasarCorrectionsResponse.json() : [];
-        const thaharahAirCorrections = thaharahAirCorrectionsResponse.ok ? await thaharahAirCorrectionsResponse.json() : [];
-        const thaharahAirQCCorrections = thaharahAirQCCorrectionsResponse.ok ? await thaharahAirQCCorrectionsResponse.json() : [];
-        const thaharahAhkamCorrections = thaharahAhkamCorrectionsResponse.ok ? await thaharahAhkamCorrectionsResponse.json() : [];
-        const tathirJuludMaitahCorrections = tathirJuludMaitahCorrectionsResponse.ok ? await tathirJuludMaitahCorrectionsResponse.json() : [];
-        const awaniCorrections = awaniCorrectionsResponse.ok ? await awaniCorrectionsResponse.json() : [];
-        const siwakCorrections = siwakCorrectionsResponse.ok ? await siwakCorrectionsResponse.json() : [];
-        const najisCorrections = najisCorrectionsResponse.ok ? await najisCorrectionsResponse.json() : [];
-        const allCorrections = [
-            ...corrections,
-            ...wudhuCorrections,
-            ...sunnahWudhuCorrections,
-            ...nawaqidhWudhuCorrections,
-            ...mujibatGhuslCorrections,
-            ...fardhuGhuslCorrections,
-            ...sunnahGhuslCorrections,
-            ...aghsaalSunnahCorrections,
-            ...khuffCorrections,
-            ...tayammumCorrections,
-            ...jabirahCorrections,
-            ...haidNifasIstihadhahCorrections,
-            ...laranganCorrections,
-            ...thaharahDasarCorrections,
-            ...thaharahAirCorrections,
-            ...thaharahAirQCCorrections,
-            ...thaharahAhkamCorrections,
-            ...tathirJuludMaitahCorrections,
-            ...awaniCorrections,
-            ...siwakCorrections,
-            ...najisCorrections
-        ];
+        if (!Array.isArray(data)) {
+            throw new Error('Format data.json tidak valid: harus berupa array.');
+        }
 
-        // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
-        // dioverride berdasarkan kombinasi bab + istilah Arab.
-        const correctionsMap = new Map(
-            allCorrections.map(item => [`${item.chapter_arabic}|||${item.term_arabic}`, item])
-        );
-
-        kamusData = data.map(item => {
-            const key = `${item.chapter_arabic}|||${item.term_arabic}`;
-            return correctionsMap.has(key)
-                ? { ...item, ...correctionsMap.get(key) }
-                : item;
-        });
-
+        kamusData = data;
         tampilkanHasil(kamusData);
     } catch (error) {
         console.error('Gagal memuat kamus:', error);
@@ -119,50 +46,50 @@ function tampilkanHasil(data) {
         summary.innerHTML = `📖 ${bab}`;
         details.appendChild(summary);
 
-        const contentDiv = document.createElement('div');
-        contentDiv.style = "padding: 0 15px;";
+        items.forEach(item => {
+            const div = document.createElement('div');
+            div.style = "padding: 15px; border-bottom: 1px solid #e2e8f0;";
 
-        items.forEach((item, index) => {
-            const wordBlock = document.createElement('div');
-            const borderStyle = index < items.length - 1 ? 'border-bottom: 1px dashed #cbd5e1;' : '';
-            wordBlock.style = `padding: 15px 0; ${borderStyle}`;
+            const term = document.createElement('h3');
+            term.textContent = item.term_arabic;
+            term.style = "margin: 0 0 10px; font-size: 1.5em; text-align: right; direction: rtl; color: #0f172a;";
+            div.appendChild(term);
 
-            let sharafHTML = '';
-            if (item.sharaf && item.sharaf.trim() !== "") {
-                sharafHTML = `
-                <div style="text-align: right; direction: rtl; color: #0369a1; font-size: 1.3em; margin-bottom: 10px;">
-                    ${item.sharaf}
-                </div>`;
-            }
+            const literal = document.createElement('p');
+            literal.innerHTML = `<strong>Makna literal:</strong> ${item.meaning_literal || '-'}`;
+            div.appendChild(literal);
 
-            wordBlock.innerHTML = `
-                <div style="font-size: 1.4em; margin-bottom: 8px; text-align: right; direction: rtl; color: #0f172a;">
-                    <strong>${item.term_arabic}</strong> : <span style="font-size: 0.8em; color: #334155; font-weight: normal;">${item.meaning_literal}</span>
-                </div>
-                ${sharafHTML}
-                <div style="color: #475569; line-height: 1.6; text-align: left;">
-                    <strong>Makna Fikih:</strong> ${item.meaning_fiqh}
-                </div>
-            `;
-            contentDiv.appendChild(wordBlock);
+            const sharaf = document.createElement('p');
+            sharaf.innerHTML = `<strong>Sharaf:</strong> ${item.sharaf || '-'}`;
+            div.appendChild(sharaf);
+
+            const fiqh = document.createElement('p');
+            fiqh.innerHTML = `<strong>Makna fiqih:</strong> ${item.meaning_fiqh || '-'}`;
+            div.appendChild(fiqh);
+
+            details.appendChild(div);
         });
 
-        details.appendChild(contentDiv);
         container.appendChild(details);
     }
 }
 
-document.getElementById('inputCari').addEventListener('keyup', function() {
-    const kataKunci = this.value.toLowerCase();
+function cariKamus() {
+    const input = document.getElementById('searchInput');
+    const keyword = input ? input.value.trim().toLowerCase() : '';
 
-    const hasilFilter = kamusData.filter(item =>
-        item.term_arabic.includes(kataKunci) ||
-        item.meaning_literal.toLowerCase().includes(kataKunci) ||
-        item.meaning_fiqh.toLowerCase().includes(kataKunci) ||
-        item.chapter_arabic.includes(kataKunci)
+    if (!keyword) {
+        tampilkanHasil(kamusData);
+        return;
+    }
+
+    const hasil = kamusData.filter(item =>
+        String(item.term_arabic || '').toLowerCase().includes(keyword) ||
+        String(item.meaning_literal || '').toLowerCase().includes(keyword) ||
+        String(item.meaning_fiqh || '').toLowerCase().includes(keyword)
     );
 
-    tampilkanHasil(hasilFilter);
-});
+    tampilkanHasil(hasil);
+}
 
 muatKamus();
