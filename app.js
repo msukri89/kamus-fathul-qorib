@@ -19,7 +19,7 @@ async function muatKamus() {
             fetch('./data-corrections-larangan-haid-junub-hadats.json'),
             fetch('./data-corrections-thaharah-dasar.json'),
             fetch('./data-corrections-thaharah-air.json'),
-            fetch('./data-corrections-air.json'),
+            fetch('./data-corrections-thaharah-air-qc.json'),
             fetch('./data-corrections-tathir-julud-maitah.json'),
             fetch('./data-corrections-awani.json'),
             fetch('./data-corrections-siwak.json'),
