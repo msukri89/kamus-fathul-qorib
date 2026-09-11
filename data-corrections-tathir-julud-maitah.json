@@ -2,71 +2,71 @@
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "جُلُودٌ",
-    "meaning_literal": "Bentuk: Jamak Taktsir (mufrad: جِلْدٌ). Artinya: Kulit-kulit",
-    "sharaf": "جِلْدٌ – جُلُودٌ",
-    "meaning_fiqh": "Kulit-kulit hewan; dalam bab ini yang dibahas adalah kulit bangkai dan hukum penyuciannya dengan penyamakan."
+    "meaning_literal": "Bentuk: Jamak taksir (mufrad: جِلْدٌ). Artinya: Kulit-kulit",
+    "sharaf": "جَلَدَ – يَجْلِدُ – جَلْدًا – جِلْدٌ",
+    "meaning_fiqh": "Dalam pembahasan ini menunjuk pada kulit bangkai yang dibahas hukum kesuciannya setelah disamak."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "مَيْتَةٌ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Bangkai",
-    "sharaf": "مَاتَ – يَمُوتُ – مَوْتًا – مَيْتَةً",
-    "meaning_fiqh": "Hewan yang mati tanpa penyembelihan yang sah menurut syariat; dalam bab ini dibahas hukum kulitnya."
+    "meaning_literal": "Bentuk: Isim (kata benda). Artinya: Bangkai / hewan yang mati tanpa penyembelihan syar'i",
+    "sharaf": "مَاتَ – يَمُوتُ – مَوْتًا – مَيْتٌ / مَيِّتٌ",
+    "meaning_fiqh": "Dalam Fathul Qorib, الميتة yang dimaksud adalah makhluk hidup yang hilang kehidupannya tanpa penyembelihan syar'i."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "تَطْهُرُ",
-    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Menjadi suci",
+    "meaning_literal": "Bentuk: Fi'il mudhari'. Artinya: Menjadi suci",
     "sharaf": "طَهُرَ – يَطْهُرُ – طُهْرًا",
-    "meaning_fiqh": "Menjadi suci; dalam bab ini merujuk pada kulit bangkai yang menjadi suci setelah memenuhi ketentuan penyamakan."
+    "meaning_fiqh": "Dalam konteks kulit bangkai, berarti menjadi suci setelah proses penyamakan yang memenuhi ketentuan fikih."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "دِبَاغٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Penyamakan",
-    "sharaf": "دَبَغَ – يَدْبُغُ – دَبْغًا – دِبَاغًا",
-    "meaning_fiqh": "Proses penyamakan kulit dengan menghilangkan sisa-sisa yang menyebabkan kulit membusuk, menggunakan bahan yang berfungsi sebagai penyamak."
+    "meaning_literal": "Bentuk: Masdar. Artinya: Penyamakan kulit",
+    "sharaf": "دَبَغَ – يَدْبُغُ – دَبْغًا / دِبَاغًا",
+    "meaning_fiqh": "Proses menghilangkan sisa-sisa yang menyebabkan kulit membusuk, seperti darah dan sejenisnya, dengan bahan penyamak yang sesuai."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "كَلْبٌ",
     "meaning_literal": "Bentuk: Isim Jamid. Artinya: Anjing",
     "sharaf": "",
-    "meaning_fiqh": "Anjing; dalam pembahasan ini kulit anjing termasuk kulit yang tidak menjadi suci dengan penyamakan menurut mazhab Syafi'i."
+    "meaning_fiqh": "Kulit anjing termasuk pengecualian yang tidak menjadi suci dengan penyamakan menurut pendapat yang dijelaskan dalam Fathul Qorib."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "خِنْزِيرٌ",
     "meaning_literal": "Bentuk: Isim Jamid. Artinya: Babi",
     "sharaf": "",
-    "meaning_fiqh": "Babi; dalam pembahasan ini kulit babi termasuk kulit yang tidak menjadi suci dengan penyamakan menurut mazhab Syafi'i."
+    "meaning_fiqh": "Kulit babi termasuk pengecualian yang tidak menjadi suci dengan penyamakan menurut pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "تَوَلَّدَ",
-    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Terlahir / Berasal dari keturunan",
+    "meaning_literal": "Bentuk: Fi'il madhi. Artinya: Lahir / berasal / terbentuk",
     "sharaf": "تَوَلَّدَ – يَتَوَلَّدُ – تَوَلُّدًا",
-    "meaning_fiqh": "Terlahir atau berasal dari keturunan; dalam bab ini merujuk pada hewan yang lahir dari anjing, babi, atau salah satu dari keduanya."
+    "meaning_fiqh": "Dalam frasa ما تولد منهما أو من أحدهما, berarti hewan yang lahir dari anjing dan babi, atau dari salah satunya dengan hewan lain yang suci."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "عَظْمٌ",
     "meaning_literal": "Bentuk: Isim Jamid. Artinya: Tulang",
     "sharaf": "",
-    "meaning_fiqh": "Tulang; dalam bab ini tulang bangkai dihukumi najis, berbeda dari kulit yang dapat menjadi suci dengan penyamakan."
+    "meaning_fiqh": "Tulang bangkai dihukumi najis dalam pembahasan ini; pengecualian untuk tulang manusia dijelaskan tersendiri."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "شَعْرٌ",
-    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Rambut / Bulu",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Rambut / bulu",
     "sharaf": "",
-    "meaning_fiqh": "Rambut atau bulu; dalam bab ini rambut atau bulu bangkai dihukumi najis, dengan pengecualian rambut manusia."
+    "meaning_fiqh": "Rambut atau bulu bangkai dihukumi najis dalam pembahasan ini, dengan pengecualian rambut manusia."
   },
   {
     "chapter_arabic": "فَصْلٌ فِي تَطْهِيرِ جُلُودِ الْمَيْتَةِ",
     "term_arabic": "آدَمِيٌّ",
-    "meaning_literal": "Bentuk: Nisbah. Artinya: Manusia / Anak Adam",
-    "sharaf": "آدَمُ – آدَمِيٌّ",
-    "meaning_fiqh": "Manusia; dalam bab ini manusia dikecualikan dari hukum najisnya bangkai hewan, dan rambut manusia juga dihukumi suci."
+    "meaning_literal": "Bentuk: Isim nisbah. Artinya: Manusia / yang berasal dari keturunan Adam",
+    "sharaf": "آدَم + يٌّ",
+    "meaning_fiqh": "Dalam konteks pengecualian الشعر, rambut manusia dihukumi suci sebagaimana mayat manusia tidak dihukumi najis."
   }
 ]
