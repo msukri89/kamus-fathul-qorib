@@ -82,5 +82,68 @@
     "meaning_literal": "Bentuk: Isim jamid. Artinya: Pasir",
     "sharaf": "",
     "meaning_fiqh": "Pasir yang dibahas dalam rincian jenis tanah dan debu yang dapat digunakan untuk tayamum menurut ketentuan mazhab Syafi'i."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "أَرْبَعَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Empat",
+    "sharaf": "",
+    "meaning_fiqh": "Bilangan yang menunjukkan empat perkara sebagai fardhu tayamum dalam Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "نِيَّةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Niat",
+    "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
+    "meaning_fiqh": "Niat tayamum yang dikaitkan dengan pemindahan debu untuk wajah dan tangan serta dipertahankan sampai mengusap bagian wajah, dengan tujuan yang sesuai dengan ibadah yang hendak dilakukan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "مَسْحٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mengusap",
+    "sharaf": "مَسَحَ – يَمْسَحُ – مَسْحًا",
+    "meaning_fiqh": "Mengusap wajah dan kedua tangan dengan debu tayamum sesuai batas yang ditentukan dalam mazhab Syafi'i."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "وَجْهٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Wajah",
+    "sharaf": "",
+    "meaning_fiqh": "Bagian wajah yang wajib terkena usapan debu dalam tayamum."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "يَدَانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: يَدٌ). Artinya: Kedua tangan",
+    "sharaf": "",
+    "meaning_fiqh": "Kedua tangan yang wajib diusap bersama kedua siku dalam tayamum menurut ketentuan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "تَرْتِيبٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berurutan",
+    "sharaf": "رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا",
+    "meaning_fiqh": "Mendahulukan usapan wajah sebelum usapan kedua tangan; meninggalkan urutan ini menyebabkan tayamum tidak sah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "تَسْمِيَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Membaca basmalah",
+    "sharaf": "سَمَّى – يُسَمِّي – تَسْمِيَةً",
+    "meaning_fiqh": "Membaca basmalah sebelum melakukan tayamum sebagai salah satu sunnah tayamum."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "تَقْدِيمٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mendahulukan",
+    "sharaf": "قَدَّمَ – يُقَدِّمُ – تَقْدِيمًا",
+    "meaning_fiqh": "Mendahulukan tangan kanan ketika mengusap kedua tangan, dan termasuk sunnah tayamum juga mendahulukan bagian atas wajah sebelum bagian bawahnya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "مُوَالَاةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berkesinambungan / Berturut-turut",
+    "sharaf": "وَالَى – يُوَالِي – مُوَالَاةً",
+    "meaning_fiqh": "Melakukan rangkaian tayamum secara berkesinambungan tanpa jeda yang memutus pelaksanaannya."
   }
 ]
