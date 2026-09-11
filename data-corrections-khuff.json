@@ -1,0 +1,44 @@
+[
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ",
+    "term_arabic": "الْمَسْحُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mengusap / Menyapu",
+    "sharaf": "مَسَحَ – يَمْسَحُ – مَسْحًا",
+    "meaning_fiqh": "Mengusap bagian tertentu dari khuf sebagai pengganti membasuh kaki dalam wudhu, dengan memenuhi syarat-syarat yang ditetapkan dalam fikih."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ",
+    "term_arabic": "خُفٌّ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Khuf / Sepatu kulit",
+    "sharaf": "",
+    "meaning_fiqh": "Khuf adalah alas kaki tertentu yang memenuhi syarat sehingga boleh digunakan untuk mengusap sebagai pengganti membasuh kaki dalam wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ",
+    "term_arabic": "مُقِيمٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Orang yang menetap / Tidak bepergian",
+    "sharaf": "أَقَامَ – يُقِيمُ – إِقَامَةً",
+    "meaning_fiqh": "Orang yang tidak berstatus musafir. Masa kebolehan mengusap khuf bagi orang mukim adalah satu hari satu malam."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ",
+    "term_arabic": "مُسَافِرٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Orang yang bepergian",
+    "sharaf": "سَافَرَ – يُسَافِرُ – مُسَافَرَةً",
+    "meaning_fiqh": "Orang yang berstatus musafir dengan perjalanan yang memenuhi ketentuan fikih. Masa kebolehan mengusap khuf bagi musafir adalah tiga hari tiga malam."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ",
+    "term_arabic": "يَوْمٌ وَلَيْلَةٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Satu hari dan satu malam",
+    "sharaf": "",
+    "meaning_fiqh": "Batas waktu mengusap khuf bagi orang mukim menurut ketentuan yang dibahas dalam Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ",
+    "term_arabic": "ثَلَاثَةُ أَيَّامٍ بِلَيَالِيهَا",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Tiga hari beserta malam-malamnya",
+    "sharaf": "",
+    "meaning_fiqh": "Batas waktu mengusap khuf bagi musafir menurut ketentuan yang dibahas dalam Fathul Qorib."
+  }
+]
