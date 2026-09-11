@@ -1651,4 +1651,187 @@
     "sharaf": "طَرَحَ – يَطْرَحُ – طَرْحًا",
     "meaning_fiqh": "Memasukkan suatu benda luar (mukhollith, seperti bawang, roti, atau ragi) ke dalam wadah arak untuk mempercepat proses fermentasi menjadi cuka. Jika ini dilakukan, maka cuka hasil akhirnya tetap dihukumi NAJIS dan tidak bisa menjadi suci."
   }
+
+  ,{
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "دِمَاءٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: دَمٌ). Artinya: Darah-darah (macam-macam darah)",
+    "sharaf": "",
+    "meaning_fiqh": "Tiga jenis darah yang keluar dari rahim perempuan yang masing-masing memiliki konsekuensi hukum fikih yang berbeda (ada yang mewajibkan mandi, ada yang sekadar membatalkan wudhu)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "حَيْضٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mengalir / Menstruasi",
+    "sharaf": "حَاضَ – يَحِيضُ – حَيْضًا",
+    "meaning_fiqh": "Darah tabiat (alami) yang keluar dari pangkal rahim perempuan yang telah mencapai usia baligh (minimal sekitar 9 tahun qamariyah) pada waktu-waktu tertentu yang menjadi siklus rutinnya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "نِفَاسٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Darah pasca persalinan",
+    "sharaf": "نَفِسَ – يَنْفَسُ – نَفَاسَةً – نِفَاسًا",
+    "meaning_fiqh": "Darah yang keluar dari rahim tepat setelah kosongnya rahim dari janin (setelah proses melahirkan selesai secara tuntas)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "اِسْتِحَاضَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Darah penyakit",
+    "sharaf": "اِسْتَحَاضَ – يَسْتَحِيضُ – اِسْتِحَاضَةً",
+    "meaning_fiqh": "Darah yang keluar karena pecahnya pembuluh darah (penyakit/fasad) yang muncul di luar rentang waktu maksimal haid atau maksimal nifas. Wanita yang istihadhah tetap wajib melaksanakan shalat dan puasa."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "صِحَّةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Sehat / Normal",
+    "sharaf": "صَحَّ – يَصِحُّ – صِحَّةً",
+    "meaning_fiqh": "Menunjukkan bahwa darah haid adalah indikator kesehatan reproduksi perempuan, bukan keluar karena adanya luka, benturan, atau penyakit infeksi."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "وِلَادَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kelahiran / Persalinan",
+    "sharaf": "وَلَدَ – يَلِدُ – وِلَادَةً",
+    "meaning_fiqh": "Penyebab utama keluarnya darah nifas. Darah yang keluar *sebelum* atau *bersamaan* dengan proses keluarnya bayi belum disebut nifas, melainkan darah penyakit atau haid (menurut sebagian rincian ulama)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "أَسْوَدُ",
+    "meaning_literal": "Bentuk: Isim Jamid / Sifat (Wazan: أَفْعَلُ). Artinya: Hitam",
+    "sharaf": "",
+    "meaning_fiqh": "Warna khas darah haid yang kuat. Dalam fikih, darah perempuan memiliki tingkatan warna dari yang paling kuat hingga yang paling lemah: Hitam, Merah, Merah kekuningan (Asyqar), Kuning (Ashfar), dan Keruh (Akdar)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "مُحْتَدِمٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Sangat panas / Pekat",
+    "sharaf": "اِحْتَدَمَ – يَحْتَدِمُ – اِحْتِدَامًا – مُحْتَدِمٌ",
+    "meaning_fiqh": "Sifat darah haid yang suhunya terasa lebih panas saat keluar dibandingkan darah biasa."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "لَذَّاعٌ",
+    "meaning_literal": "Bentuk: Shighat Mubalaghah. Artinya: Sangat perih / Menyengat",
+    "sharaf": "لَذَعَ – يَلْذَعُ – لَذْعًا – لَذَّاعٌ",
+    "meaning_fiqh": "Sifat darah haid yang memiliki aroma tajam tidak sedap dan seringkali menimbulkan rasa perih di sekitar tempat keluarnya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "عَقِبَ",
+    "meaning_literal": "Bentuk: Isim Jamid (Zharf Zaman). Artinya: Mengiringi / Tepat setelah",
+    "sharaf": "",
+    "meaning_fiqh": "Batas dimulainya hitungan darah nifas, yaitu *tepat setelah* seluruh tubuh janin keluar dari rahim."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "أَيَّامٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: يَوْمٌ). Artinya: Hari-hari",
+    "sharaf": "",
+    "meaning_fiqh": "Rentang waktu siklus alami. Jika darah terus mengalir melebihi batas maksimal hari haid (15 hari) atau nifas (60 hari), maka darah di hari-hari lebihnya itu dihukumi sebagai darah istihadhah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+    "term_arabic": "مَرَضٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Penyakit / Gangguan kesehatan",
+    "sharaf": "مَرِضَ – يَمْرَضُ – مَرَضًا",
+    "meaning_fiqh": "Penyebab utama istihadhah. Karena ini adalah kelainan medis, wanita yang mengalami istihadhah dianggap seperti orang yang 'beser kencing' (Da'imul Hadats); ia tetap suci (tidak junub), sah shalatnya, dan sah puasanya setelah membersihkan dan membalut area kemaluannya serta berwudhu setiap kali masuk waktu shalat."
+  }
+  ,{
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "أَقَلُّ",
+    "meaning_literal": "Bentuk: Isim Tafdhil. Artinya: Paling sedikit / Minimal",
+    "sharaf": "قَلَّ – يَقِلُّ – قِلَّةً – أَقَلُّ",
+    "meaning_fiqh": "Batas minimal durasi waktu suatu kondisi fikih (seperti minimal haid sehari semalam atau 24 jam)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "يَوْمٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Hari",
+    "sharaf": "",
+    "meaning_fiqh": "Satuan waktu siang hari. Batas minimal keluarnya darah haid agar dihitung sebagai darah haid secara sah adalah 24 jam (sehari semalam) secara kumulatif."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "لَيْلَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Malam hari",
+    "sharaf": "",
+    "meaning_fiqh": "Satuan waktu malam. Digabung dengan 'Yaum' menjadi satu kesatuan durasi 24 jam."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "أَكْثَرُ",
+    "meaning_literal": "Bentuk: Isim Tafdhil. Artinya: Paling banyak / Maksimal",
+    "sharaf": "كَثُرَ – يَكْثُرُ – كَثْرَةً – أَكْثَرُ",
+    "meaning_fiqh": "Batas maksimal durasi waktu (seperti maksimal haid 15 hari, jika lebih dari itu maka dikategorikan darah istihadhah/penyakit)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "خَمْسَةَ عَشَرَ",
+    "meaning_literal": "Bentuk: Isim Murakkab (Adad). Artinya: Lima belas",
+    "sharaf": "",
+    "meaning_fiqh": "Batas maksimal hari keluarnya darah haid dalam mazhab Syafi'i."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "غَالِبٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Yang umumnya / Kebiasaan",
+    "sharaf": "غَلَبَ – يَغْلِبُ – غَلَبًا – غَالِبٌ",
+    "meaning_fiqh": "Kondisi normal atau rata-rata yang paling sering dialami oleh mayoritas kaum perempuan (yakni haid selama 6 atau 7 hari)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "طُهْرٌ",
+    "meaning_literal": "Bentuk: Masdar / Isim Jamid. Artinya: Masa suci",
+    "sharaf": "طَهُرَ – يَطْهُرُ – طُهْرًا",
+    "meaning_fiqh": "Rentang waktu bersih dari darah di antara dua masa haid. Batas minimal masa suci adalah 13 hari."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "حَدٌّ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Batasan / Limit",
+    "sharaf": "حَدَّ – يَحُدُّ – حَدًّا",
+    "meaning_fiqh": "Ketentuan maksimal. Dalam mazhab Syafi'i, masa suci antara dua haid tidak memiliki batas maksimal (bisa berbulan-bulan atau bertahun-tahun seorang wanita tidak haid)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "لَحْظَةٌ",
+    "meaning_literal": "Bentuk: Isim Marrah. Artinya: Sekejap mata / Sesaat",
+    "sharaf": "لَحَظَ – يَلْحَظُ – لَحْظًا – لَحْظَةً",
+    "meaning_fiqh": "Batas minimal durasi nifas. Jika seorang ibu melahirkan dan darah nifasnya langsung berhenti seketika, ia tetap diwajibkan mandi besar."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "سِتُّونَ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Enam puluh",
+    "sharaf": "",
+    "meaning_fiqh": "Batas maksimal hari keluarnya darah nifas (60 hari). Jika darah masih keluar lewat dari 60 hari, darah selebihnya dihukumi darah istihadhah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "أَرْبَعُونَ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Empat puluh",
+    "sharaf": "",
+    "meaning_fiqh": "Durasi rata-rata (ghalib) lamanya darah nifas keluar pada kebanyakan wanita."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "حَمْلٌ",
+    "meaning_literal": "Bentuk: Masdar / Isim Jamid. Artinya: Kehamilan / Kandungan",
+    "sharaf": "حَمَلَ – يَحْمِلُ – حَمْلًا",
+    "meaning_fiqh": "Proses mengandung janin di dalam rahim ibu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "شَهْرٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Bentuk Jamak: أَشْهُرٌ / Bulan). Artinya: Bulan",
+    "sharaf": "",
+    "meaning_fiqh": "Satuan kalender qamariyah. Batas minimal masa kehamilan manusia adalah 6 bulan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُدَّةِ الْحَيْضِ وَالنِّفَاسِ",
+    "term_arabic": "سَنَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Bentuk Jamak: سِنِينَ / Tahun). Artinya: Tahun",
+    "sharaf": "سَنَهَ – يَسْنَهُ – سُنُوهًا",
+    "meaning_fiqh": "Batas maksimal kehamilan menurut pandangan ulama mazhab Syafi'i adalah 4 tahun."
+  }
 ]
