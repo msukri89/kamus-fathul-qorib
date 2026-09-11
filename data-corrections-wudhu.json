@@ -1,51 +1,13 @@
 [
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
-    "term_arabic": "نِيَّةٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Niat / Maksud",
-    "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
-    "meaning_fiqh": "Dalam Fathul Qorib, niat secara syariat adalah قصد الشيء مقترناً بفعله, yaitu bermaksud melakukan sesuatu bersamaan dengan pelaksanaannya. Dalam wudhu, niat dilakukan ketika mulai membasuh bagian wajah yang wajib dibasuh."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
-    "term_arabic": "وَجْهٌ",
-    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Wajah / Muka",
-    "sharaf": "",
-    "meaning_fiqh": "Bagian tubuh yang wajib dibasuh dalam wudhu. Fathul Qorib menjelaskan batas wajah secara panjang dan lebar serta ketentuan rambut yang tumbuh pada wajah."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
-    "term_arabic": "يَدَيْنِ",
-    "meaning_literal": "Bentuk: Isim Tatsniyah (Mutsanna). Artinya: Dua tangan",
-    "sharaf": "يَدٌ – يَدَانِ – يَدَيْنِ",
-    "meaning_fiqh": "Kedua tangan yang dibasuh sampai siku dalam salah satu fardhu wudhu."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
-    "term_arabic": "رَأْسٌ",
-    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kepala",
-    "sharaf": "",
-    "meaning_fiqh": "Bagian kepala yang berkaitan dengan fardhu mengusap sebagian kepala dalam wudhu menurut teks Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
-    "term_arabic": "رِجْلَيْنِ",
-    "meaning_literal": "Bentuk: Isim Tatsniyah (Mutsanna). Artinya: Dua kaki",
-    "sharaf": "رِجْلٌ – رِجْلَانِ – رِجْلَيْنِ",
-    "meaning_fiqh": "Kedua kaki yang wajib dibasuh sampai kedua mata kaki dalam fardhu wudhu."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
-    "term_arabic": "كَعْبَيْنِ",
-    "meaning_literal": "Bentuk: Isim Tatsniyah (Mutsanna). Artinya: Dua mata kaki",
-    "sharaf": "كَعْبٌ – كَعْبَانِ – كَعْبَيْنِ",
-    "meaning_fiqh": "Kedua mata kaki yang termasuk wilayah wajib dibasuh bersama kaki dalam wudhu."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
-    "term_arabic": "تَرْتِيبٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mengurutkan / Tertib",
-    "sharaf": "رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا",
-    "meaning_fiqh": "Melakukan anggota-anggota wudhu sesuai urutan yang disebutkan dalam Fathul Qorib: niat, membasuh wajah, membasuh tangan sampai siku, mengusap sebagian kepala, lalu membasuh kaki sampai mata kaki."
-  }
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"فُرُوضٌ","meaning_literal":"Bentuk: Jamak Taktsir (Mufrad: فَرْضٌ). Artinya: Kewajiban-kewajiban / Rukun","sharaf":"فَرَضَ – يَفْرِضُ – فَرْضًا – فُرُوضًا","meaning_fiqh":"Unsur-unsur wajib atau rukun dalam wudhu. Dalam bab ini, Fathul Qorib merinci enam fardhu wudhu."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"سِتَّةٌ","meaning_literal":"Bentuk: Isim Jamid (Adad). Artinya: Enam","sharaf":"","meaning_fiqh":"Jumlah fardhu wudhu yang dirinci dalam pembahasan ini."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"نِيَّةٌ","meaning_literal":"Bentuk: Masdar. Artinya: Niat / Maksud","sharaf":"نَوَى – يَنْوِي – نِيَّةً","meaning_fiqh":"Dalam Fathul Qorib, niat secara syariat adalah قصد الشيء مقترناً بفعله, yaitu bermaksud melakukan sesuatu bersamaan dengan pelaksanaannya. Dalam wudhu, niat dilakukan ketika mulai membasuh bagian wajah yang wajib dibasuh."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"وَجْهٌ","meaning_literal":"Bentuk: Isim Jamid. Artinya: Wajah / Muka","sharaf":"","meaning_fiqh":"Bagian tubuh yang wajib dibasuh dalam wudhu. Fathul Qorib menjelaskan batas wajah secara panjang dan lebar serta ketentuan rambut yang tumbuh pada wajah."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"يَدَانِ","meaning_literal":"Bentuk: Isim Mutsanna (Mufrad: يَدٌ). Artinya: Kedua tangan","sharaf":"يَدٌ – يَدَانِ","meaning_fiqh":"Kedua tangan yang wajib dibasuh dalam wudhu sampai mencakup kedua siku."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"مِرْفَقٌ","meaning_literal":"Bentuk: Isim Jamid. Artinya: Siku","sharaf":"","meaning_fiqh":"Siku. Kedua siku termasuk bagian yang wajib dibasuh bersama tangan dalam wudhu."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"مَسْحٌ","meaning_literal":"Bentuk: Masdar. Artinya: Mengusap","sharaf":"مَسَحَ – يَمْسَحُ – مَسْحًا","meaning_fiqh":"Mengusap bagian kepala dengan tangan yang terkena air. Dalam mazhab Syafi'i, yang wajib adalah mengusap sebagian kepala."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"رَأْسٌ","meaning_literal":"Bentuk: Isim Jamid. Artinya: Kepala","sharaf":"","meaning_fiqh":"Bagian kepala yang menjadi objek fardhu mengusap dalam wudhu. Yang wajib adalah mengusap sebagian dari wilayah kepala."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"رِجْلَانِ","meaning_literal":"Bentuk: Isim Mutsanna (Mufrad: رِجْلٌ). Artinya: Kedua kaki","sharaf":"رِجْلٌ – رِجْلَانِ","meaning_fiqh":"Kedua kaki yang wajib dibasuh dalam wudhu sampai mencakup kedua mata kaki."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"كَعْبٌ","meaning_literal":"Bentuk: Isim Jamid. Artinya: Mata kaki","sharaf":"","meaning_fiqh":"Mata kaki. Kedua mata kaki termasuk wilayah yang wajib dibasuh bersama kedua kaki."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ الْوُضُوءِ","term_arabic":"تَرْتِيبٌ","meaning_literal":"Bentuk: Masdar. Artinya: Mengurutkan / Tertib","sharaf":"رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا","meaning_fiqh":"Melaksanakan fardhu-fardhu wudhu sesuai urutan yang ditetapkan dalam pembahasan Fathul Qorib: wajah, tangan, kepala, kemudian kaki."}
 ]
