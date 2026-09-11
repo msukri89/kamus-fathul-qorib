@@ -1,5 +1,5 @@
 // UBAH VERSI DI SINI SETIAP KALI ADA PERUBAHAN FILE (HTML/JS/JSON)
-const CACHE_NAME = 'kamus-fq-v15';
+const CACHE_NAME = 'kamus-fq-v16';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -25,7 +25,7 @@ self.addEventListener('activate', (event) => {
       cacheNames.map((cache) => {
         if (cache !== CACHE_NAME) return caches.delete(cache);
       })
-    )).then(() => self.clients.claim())
+    ).then(() => self.clients.claim())
   );
 });
 
