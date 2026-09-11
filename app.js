@@ -20,6 +20,34 @@ async function muatKamus() {
     }
 }
 
+function normalisasiArab(teks) {
+    return String(teks || '')
+        .normalize('NFKC')
+        .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
+        .replace(/[إأآٱ]/g, 'ا')
+        .replace(/ى/g, 'ي')
+        .replace(/ؤ/g, 'و')
+        .replace(/ئ/g, 'ي')
+        .replace(/ة/g, 'ه')
+        .replace(/[ـ]/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+}
+
+function normalisasiTeks(teks) {
+    return String(teks || '')
+        .normalize('NFKC')
+        .toLowerCase()
+        .replace(/\s+/g, ' ')
+        .trim();
+}
+
+function cocokPencarian(teks, keyword, keywordArab) {
+    const nilai = String(teks || '');
+    return normalisasiTeks(nilai).includes(normalisasiTeks(keyword)) ||
+        normalisasiArab(nilai).includes(keywordArab);
+}
+
 function tampilkanHasil(data) {
     const container = document.getElementById('hasil');
     container.innerHTML = '';
@@ -76,7 +104,8 @@ function tampilkanHasil(data) {
 
 function cariKamus() {
     const input = document.getElementById('searchInput');
-    const keyword = input ? input.value.trim().toLowerCase() : '';
+    const keyword = input ? input.value.trim() : '';
+    const keywordArab = normalisasiArab(keyword);
 
     if (!keyword) {
         tampilkanHasil(kamusData);
@@ -84,9 +113,10 @@ function cariKamus() {
     }
 
     const hasil = kamusData.filter(item =>
-        String(item.term_arabic || '').toLowerCase().includes(keyword) ||
-        String(item.meaning_literal || '').toLowerCase().includes(keyword) ||
-        String(item.meaning_fiqh || '').toLowerCase().includes(keyword)
+        cocokPencarian(item.term_arabic, keyword, keywordArab) ||
+        cocokPencarian(item.chapter_arabic, keyword, keywordArab) ||
+        cocokPencarian(item.meaning_literal, keyword, keywordArab) ||
+        cocokPencarian(item.meaning_fiqh, keyword, keywordArab)
     );
 
     tampilkanHasil(hasil);
