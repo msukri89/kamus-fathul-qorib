@@ -1,79 +1,93 @@
 [
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
-    "term_arabic": "غُسْلٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mandi / Membasuh",
-    "sharaf": "غَسَلَ – يَغْسِلُ – غُسْلًا",
-    "meaning_fiqh": "Secara bahasa, الغسل adalah mengalirkan air pada sesuatu secara mutlak. Secara syariat, Fathul Qorib mendefinisikannya sebagai mengalirkan air ke seluruh badan dengan niat tertentu."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
-    "term_arabic": "مُوجِبٌ",
-    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Yang mewajibkan / Penyebab kewajiban",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "يُوجِبُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Mewajibkan / Mengharuskan",
     "sharaf": "أَوْجَبَ – يُوجِبُ – إِيجَابًا",
-    "meaning_fiqh": "Sesuatu yang menurut ketentuan fikih menyebabkan mandi menjadi wajib."
+    "meaning_fiqh": "Menjadi sebab adanya kewajiban mandi besar menurut ketentuan syariat."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
-    "term_arabic": "سِتَّةٌ",
-    "meaning_literal": "Bentuk: Bilangan. Artinya: Enam",
-    "sharaf": "",
-    "meaning_fiqh": "Fathul Qorib menyebut enam perkara yang mewajibkan mandi: tiga berlaku bagi laki-laki dan perempuan, serta tiga khusus perempuan."
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "تَشْتَرِكُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Bersama-sama mengalami / Berlaku bagi keduanya",
+    "sharaf": "اِشْتَرَكَ – يَشْتَرِكُ – اِشْتِرَاكًا",
+    "meaning_fiqh": "Menunjukkan sebab-sebab mandi besar yang berlaku bersama bagi laki-laki dan perempuan."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
-    "term_arabic": "الْتِقَاءُ",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "رِجَالٌ",
+    "meaning_literal": "Bentuk: Jamak Taksir (mufrad: رَجُلٌ). Artinya: Laki-laki",
+    "sharaf": "رَجُلٌ – رِجَالٌ",
+    "meaning_fiqh": "Laki-laki yang termasuk mukallaf dalam pembahasan hukum mandi besar."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "نِسَاءٌ",
+    "meaning_literal": "Bentuk: Jamak Taksir. Artinya: Perempuan",
+    "sharaf": "اِمْرَأَةٌ – نِسَاءٌ",
+    "meaning_fiqh": "Perempuan yang dalam bab ini memiliki sebab-sebab khusus yang mewajibkan mandi besar."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "اِلْتِقَاءٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Pertemuan / Bertemunya",
-    "sharaf": "الْتَقَى – يَلْتَقِي – الْتِقَاءً",
-    "meaning_fiqh": "Dalam istilah Fathul Qorib, التقاء الختانين merupakan ungkapan untuk masuknya kepala penis (hasyafah) atau kadar yang setara ke dalam farji, yang menyebabkan mandi wajib meskipun tidak terjadi ejakulasi."
+    "sharaf": "اِلْتَقَى – يَلْتَقِي – اِلْتِقَاءً",
+    "meaning_fiqh": "Bertemunya dua tempat khitan dalam pengertian fikih, yaitu masuknya hasyafah atau kadarnya ke dalam farji, yang mewajibkan mandi meskipun tidak keluar mani."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
-    "term_arabic": "الْخِتَانَيْنِ",
-    "meaning_literal": "Bentuk: Isim Tatsniyah (Mutsanna). Artinya: Dua tempat khitan",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "خِتَانَانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (mufrad: خِتَانٌ). Artinya: Dua tempat khitan",
     "sharaf": "خِتَانٌ – خِتَانَانِ – خِتَانَيْنِ",
-    "meaning_fiqh": "Istilah yang digunakan Fathul Qorib untuk keadaan bertemunya dua tempat khitan melalui masuknya hasyafah ke dalam farji; bukan sekadar bersentuhan secara lahir."
+    "meaning_fiqh": "Dua tempat khitan, yaitu pada laki-laki dan perempuan; bertemunya keduanya dalam pengertian fikih menjadi sebab wajib mandi."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
     "term_arabic": "إِنْزَالٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Mengeluarkan / Keluarnya",
     "sharaf": "أَنْزَلَ – يُنْزِلُ – إِنْزَالًا",
-    "meaning_fiqh": "Keluarnya mani merupakan salah satu sebab mandi wajib, termasuk apabila keluarnya terjadi tanpa hubungan badan."
+    "meaning_fiqh": "Keluarnya mani merupakan salah satu sebab wajib mandi besar."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
     "term_arabic": "مَنِيٌّ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Mani / Sperma",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Air mani",
     "sharaf": "",
-    "meaning_fiqh": "Air mani. Dalam pembahasan Fathul Qorib, keluarnya mani menjadi sebab mandi wajib; teks juga membahas keluarnya dalam keadaan tidur atau terjaga dan dengan atau tanpa syahwat."
+    "meaning_fiqh": "Air mani; keluarnya menjadi sebab wajib mandi besar dalam pembahasan Fathul Qorib."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
     "term_arabic": "مَوْتٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Kematian",
     "sharaf": "مَاتَ – يَمُوتُ – مَوْتًا",
-    "meaning_fiqh": "Kematian termasuk salah satu dari tiga sebab yang berlaku umum bagi laki-laki dan perempuan. Jenazah wajib dimandikan menurut ketentuan fikih, dengan pengecualian yang disebutkan Fathul Qorib bagi syahid."
+    "meaning_fiqh": "Kematian seorang muslim termasuk salah satu sebab yang berkaitan dengan kewajiban memandikan jenazah, dengan pengecualian yang dijelaskan dalam fikih."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
-    "term_arabic": "الْحَيْضُ",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "يَخْتَصُّ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Dikhususkan / Khusus berlaku",
+    "sharaf": "اِخْتَصَّ – يَخْتَصُّ – اِخْتِصَاصًا",
+    "meaning_fiqh": "Menunjukkan sebab-sebab wajib mandi yang khusus berkaitan dengan perempuan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "حَيْضٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Haid",
     "sharaf": "حَاضَ – يَحِيضُ – حَيْضًا",
-    "meaning_fiqh": "Darah haid termasuk salah satu dari tiga sebab mandi yang khusus berkaitan dengan perempuan dalam susunan Fathul Qorib."
+    "meaning_fiqh": "Haid termasuk salah satu sebab khusus bagi perempuan yang berkaitan dengan kewajiban mandi besar setelah darah berhenti."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
-    "term_arabic": "النِّفَاسُ",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "نِفَاسٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Nifas",
-    "sharaf": "نَفِسَ – يَنْفَسُ – نَفَاسًا",
-    "meaning_fiqh": "Darah yang keluar setelah melahirkan. Berakhirnya nifas menjadi salah satu sebab mandi wajib dalam pembahasan Fathul Qorib."
+    "sharaf": "نَفِسَ – يَنْفَسُ – نِفَاسًا",
+    "meaning_fiqh": "Nifas termasuk salah satu sebab khusus bagi perempuan yang berkaitan dengan kewajiban mandi besar setelah darah berhenti."
   },
   {
-    "chapter_arabic": "فَصْلٌ فِي مُوجِبِ الْغُسْلِ",
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
     "term_arabic": "وِلَادَةٌ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Kelahiran / Melahirkan",
     "sharaf": "وَلَدَ – يَلِدُ – وِلَادَةً",
-    "meaning_fiqh": "Melahirkan termasuk salah satu dari tiga sebab mandi yang khusus berkaitan dengan perempuan. Dalam Fathul Qorib, kelahiran yang disertai keluarnya cairan mewajibkan mandi secara pasti, sedangkan kelahiran tanpa cairan mewajibkannya menurut pendapat yang lebih kuat (ashah)."
+    "meaning_fiqh": "Wiladah atau kelahiran termasuk salah satu sebab khusus bagi perempuan yang dibahas sebagai sebab wajib mandi besar."
   }
 ]
