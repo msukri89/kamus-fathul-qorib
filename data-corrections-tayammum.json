@@ -145,5 +145,40 @@
     "meaning_literal": "Bentuk: Masdar. Artinya: Berkesinambungan / Berturut-turut",
     "sharaf": "وَالَى – يُوَالِي – مُوَالَاةً",
     "meaning_fiqh": "Melakukan rangkaian tayamum secara berkesinambungan tanpa jeda yang memutus pelaksanaannya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "يُبْطِلُ",
+    "meaning_literal": "Bentuk: Fi'il mudhari'. Artinya: Membatalkan / Menjadikan tidak sah",
+    "sharaf": "أَبْطَلَ – يُبْطِلُ – إِبْطَالًا",
+    "meaning_fiqh": "Menjadikan tayamum tidak lagi berlaku sebagai thaharah yang membolehkan ibadah, karena terjadinya salah satu pembatal yang ditetapkan dalam pembahasan ini."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "أَبْطَلَ",
+    "meaning_literal": "Bentuk: Fi'il madhi. Artinya: Telah membatalkan / Menjadikan tidak sah",
+    "sharaf": "أَبْطَلَ – يُبْطِلُ – إِبْطَالًا",
+    "meaning_fiqh": "Membatalkan wudhu; dalam konteks pembahasan ini, setiap perkara yang membatalkan wudhu juga menjadi pembatal tayamum."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "رُؤْيَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Melihat",
+    "sharaf": "رَأَى – يَرَى – رُؤْيَةً",
+    "meaning_fiqh": "Melihat atau mengetahui adanya air dalam konteks tayamum karena tidak mendapatkan air; menurut Fathul Qorib, melihat air di luar waktu shalat dapat membatalkan tayamum, dengan rincian keadaan yang dijelaskan dalam bab ini."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "غَيْرٌ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Selain / Bukan",
+    "sharaf": "",
+    "meaning_fiqh": "Menunjukkan makna 'selain' atau 'bukan'; dalam frasa فِي غَيْرِ وَقْتِ الصَّلَاةِ, menunjuk pada waktu selain waktu shalat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "رِدَّةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kemurtadan",
+    "sharaf": "رَدَّ – يَرُدُّ – رَدًّا",
+    "meaning_fiqh": "Keluar dari Islam; Fathul Qorib menyebutnya sebagai salah satu dari tiga pembatal tayamum."
   }
 ]
