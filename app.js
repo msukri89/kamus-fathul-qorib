@@ -2,7 +2,7 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse, laranganCorrectionsResponse, thaharahDasarCorrectionsResponse, thaharahAirCorrectionsResponse, thaharahAirQCCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse, laranganCorrectionsResponse, thaharahDasarCorrectionsResponse, thaharahAirCorrectionsResponse, thaharahAirQCCorrectionsResponse, tathirJuludMaitahCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
             fetch('./data-corrections-wudhu.json'),
@@ -19,7 +19,8 @@ async function muatKamus() {
             fetch('./data-corrections-larangan-haid-junub-hadats.json'),
             fetch('./data-corrections-thaharah-dasar.json'),
             fetch('./data-corrections-thaharah-air.json'),
-            fetch('./data-corrections-thaharah-air-qc.json')
+            fetch('./data-corrections-thaharah-air-qc.json'),
+            fetch('./data-corrections-tathir-julud-maitah.json')
         ]);
 
         const data = await dataResponse.json();
@@ -39,6 +40,7 @@ async function muatKamus() {
         const thaharahDasarCorrections = thaharahDasarCorrectionsResponse.ok ? await thaharahDasarCorrectionsResponse.json() : [];
         const thaharahAirCorrections = thaharahAirCorrectionsResponse.ok ? await thaharahAirCorrectionsResponse.json() : [];
         const thaharahAirQCCorrections = thaharahAirQCCorrectionsResponse.ok ? await thaharahAirQCCorrectionsResponse.json() : [];
+        const tathirJuludMaitahCorrections = tathirJuludMaitahCorrectionsResponse.ok ? await tathirJuludMaitahCorrectionsResponse.json() : [];
         const allCorrections = [
             ...corrections,
             ...wudhuCorrections,
@@ -55,7 +57,8 @@ async function muatKamus() {
             ...laranganCorrections,
             ...thaharahDasarCorrections,
             ...thaharahAirCorrections,
-            ...thaharahAirQCCorrections
+            ...thaharahAirQCCorrections,
+            ...tathirJuludMaitahCorrections
         ];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
