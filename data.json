@@ -762,4 +762,893 @@
     "sharaf": "نَامَ – يَنَامُ – نَوْمًا",
     "meaning_fiqh": "Kondisi di mana lambung memproses makanan tanpa adanya sirkulasi udara di mulut, yang secara biologis selalu memicu bau mulut saat seseorang terbangun."
   }
+,{
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "فُرُوضٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: فَرْضٌ). Artinya: Kewajiban-kewajiban / Rukun",
+    "sharaf": "فَرَضَ – يَفْرِضُ – فَرْضًا – فُرُوضًا",
+    "meaning_fiqh": "Unsur-unsur utama atau rukun mutlak dalam ibadah wudhu. Jika salah satu dari fardhu ini terlewat atau tertinggal, maka wudhunya dihukumi tidak sah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "سِتَّةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Enam",
+    "sharaf": "",
+    "meaning_fiqh": "Jumlah batasan rukun wudhu secara terperinci menurut mazhab Syafi'i berdasarkan firman Allah dalam Surah Al-Ma'idah ayat 6."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "وَجْهٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Wajah / Muka",
+    "sharaf": "",
+    "meaning_fiqh": "Batasannya secara panjang adalah dari tempat tumbuhnya rambut kepala normal hingga batas bawah dagu. Secara lebar adalah antara kedua anak telinga."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "يَدَانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: يَدٌ). Artinya: Kedua tangan",
+    "sharaf": "",
+    "meaning_fiqh": "Anggota tubuh yang wajib dibasuh dalam wudhu mulai dari ujung jari tangan hingga menyertakan siku."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "مِرْفَقٌ",
+    "meaning_literal": "Bentuk: Isim Alat / Isim Makan. Artinya: Siku",
+    "sharaf": "رَفَقَ – يَرْفِقُ – رِفْقًا – مِرْفَقًا",
+    "meaning_fiqh": "Sendi tulang yang menghubungkan lengan atas dan lengan bawah. Wajib hukumnya untuk ikut dibasuh agar wudhu menjadi sah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "مَسْحٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mengusap",
+    "sharaf": "مَسَحَ – يَمْسَحُ – مَسْحًا",
+    "meaning_fiqh": "Mengalirkan atau menempelkan tangan yang basah dengan air ke atas permukaan kulit atau rambut kepala (berbeda dengan 'membasuh' yang mengharuskan air menetes/mengalir)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "رَأْسٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kepala",
+    "sharaf": "",
+    "meaning_fiqh": "Bagian atas tubuh manusia. Dalam rukun wudhu mazhab Syafi'i, cukup mengusap sebagian kecil saja dari kulit kepala atau rambut yang berada di batas wilayah kepala."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "رِجْلَانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: رِجْلٌ). Artinya: Kedua kaki",
+    "sharaf": "",
+    "meaning_fiqh": "Anggota tubuh bagian bawah yang wajib dibasuh beserta kedua mata kakinya secara merata."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "كَعْبٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Mata kaki",
+    "sharaf": "",
+    "meaning_fiqh": "Dua tulang menonjol yang berada di pergelangan sendi antara betis dan telapak kaki. Pada setiap kaki terdapat dua benjolan mata kaki yang wajib tercuci."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "تَرْتِيبٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berurutan / Sistematis",
+    "sharaf": "رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا",
+    "meaning_fiqh": "Melaksanakan rukun wudhu secara beruntun sesuai urutan yang disebutkan dalam ayat Al-Quran (Wajah, Tangan, Kepala, Kaki). Rukun ini tidak boleh dibolak-balik."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
+    "term_arabic": "نِيَّةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Sengaja / Niat di dalam hati",
+    "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
+    "meaning_fiqh": "Menyengaja melakukan ibadah wudhu untuk mengangkat hadats asghar secara sadar di dalam hati. Pelaksanaannya diwajibkan bersamaan (muqaranah) tepat saat air pertama kali menyentuh bagian wajah."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "سُنَنٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: سُنَّةٌ). Artinya: Hal-hal yang disunnahkan",
+    "sharaf": "سَنَّ – يَسُنُّ – سَنًّا – سُنَّةً",
+    "meaning_fiqh": "Perkara-perkara pelengkap dalam ibadah wudhu yang jika ditinggalkan tidak membatalkan wudhu, namun pelakunya akan kehilangan keutamaan dan kesempurnaan ibadah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "عَشَرَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Sepuluh",
+    "sharaf": "",
+    "meaning_fiqh": "Hitungan dasar sunnah wudhu yang disebutkan pengarang kitab (Imam Abu Syuja'), meskipun ulama lain merincinya hingga lebih dari jumlah ini."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "تَسْمِيَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Membaca Bismillah",
+    "sharaf": "سَمَّى – يُسَمِّي – تَسْمِيَةً",
+    "meaning_fiqh": "Mengucapkan 'Bismillahirrahmanirrahim' pada awal mula wudhu. Jika terlupa, boleh diucapkan di tengah-tengah wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "كَفَّانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: كَفٌّ). Artinya: Kedua telapak tangan",
+    "sharaf": "",
+    "meaning_fiqh": "Bagian tangan dari pergelangan hingga ujung jari. Disunnahkan membasuhnya tiga kali sebelum memasukkan tangan ke dalam wadah air untuk memastikan kebersihannya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "إِدْخَالٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Memasukkan",
+    "sharaf": "أَدْخَلَ – يُدْخِلُ – إِدْخَالًا",
+    "meaning_fiqh": "Tindakan mencelupkan tangan ke dalam bejana yang berisi air kurang dari dua qullah. Jika tangan tidak dicuci dulu, dikhawatirkan ada najis samar yang membuat air menjadi musta'mal/najis."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "مَضْمَضَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berkumur",
+    "sharaf": "مَضْمَضَ – يُمَضْمِضُ – مَضْمَضَةً",
+    "meaning_fiqh": "Memasukkan air ke dalam rongga mulut, memutarnya (menggoyangkannya) di dalam mulut, lalu membuangnya kembali."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "اِسْتِنْشَاقٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menghirup air ke hidung",
+    "sharaf": "اِسْتَنْشَقَ – يَسْتَنْشِقُ – اِسْتِنْشَاقًا",
+    "meaning_fiqh": "Menyedot air hingga mencapai pangkal hidung (khaysyum) menggunakan napas, kemudian mengeluarkannya kembali (istintsar) untuk membersihkan kotoran."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "جَمِيعٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Taukid). Artinya: Seluruh / Keseluruhan",
+    "sharaf": "",
+    "meaning_fiqh": "Jika yang wajib adalah mengusap 'sebagian' kepala, maka mengusap 'seluruh' bagian rambut/kepala (dari depan ke belakang lalu kembali ke depan) hukumnya adalah sunnah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "أُذُنَانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: أُذُنٌ). Artinya: Kedua telinga",
+    "sharaf": "",
+    "meaning_fiqh": "Organ pendengaran. Mengusap telinga dilakukan secara bersamaan (kanan dan kiri) menggunakan air basahan yang baru, bukan dari sisa air mengusap kepala."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "ظَاهِرٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Bagian luar",
+    "sharaf": "ظَهَرَ – يَظْهَرُ – ظُهُورًا – ظَاهِرٌ",
+    "meaning_fiqh": "Bagian telinga luar (daun telinga) yang diusap menggunakan ibu jari."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "بَاطِنٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Bagian dalam",
+    "sharaf": "بَطَنَ – يَبْطُنُ – بُطُونًا – بَاطِنٌ",
+    "meaning_fiqh": "Bagian lipatan dalam rongga telinga yang diusap menggunakan jari telunjuk."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "تَخْلِيلٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menyela-nyela",
+    "sharaf": "خَلَّلَ – يُخَلِّلُ – تَخْلِيلًا",
+    "meaning_fiqh": "Memasukkan jari-jemari atau air ke celah-celah (seperti celah jari tangan/kaki atau sela-sela jenggot) untuk memastikan air meresap sempurna."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "لِحْيَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Jenggot",
+    "sharaf": "",
+    "meaning_fiqh": "Rambut yang tumbuh di area dagu pria. Jika jenggotnya tebal, wajib membasuh bagian luarnya dan disunnahkan menyela-nyela bagian dalamnya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "كَثَّفَةٌ",
+    "meaning_literal": "Bentuk: Sifat Musyabbahah. Artinya: Tebal",
+    "sharaf": "كَثُفَ – يَكْثُفُ – كَثَافَةً",
+    "meaning_fiqh": "Kondisi jenggot pria di mana kulit di bawahnya tidak terlihat lagi oleh orang yang diajak bicara pada jarak normal."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "أَصَابِعُ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: إِصْبَعٌ). Artinya: Jari-jemari",
+    "sharaf": "",
+    "meaning_fiqh": "Sunnah menyela-nyela jari tangan dilakukan dengan cara menjalinkan kedua belah tangan (Tasybik), sedangkan jari kaki menggunakan kelingking tangan kiri dari arah bawah jari kaki."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "تَقْدِيمٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mendahulukan",
+    "sharaf": "قَدَّمَ – يُقَدِّمُ – تَقْدِيمًا",
+    "meaning_fiqh": "Prinsip utama dalam setiap amalan baik dalam Islam (At-Tayammun). Yakni membasuh anggota tubuh bagian kanan terlebih dahulu sebelum yang kiri."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "يُمْنَى",
+    "meaning_literal": "Bentuk: Isim Jamid / Sifat (Muannats dari أَيْمَنُ). Artinya: Bagian kanan",
+    "sharaf": "",
+    "meaning_fiqh": "Sisi kanan pada organ tubuh ganda seperti tangan dan kaki."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "يُسْرَى",
+    "meaning_literal": "Bentuk: Isim Jamid / Sifat (Muannats dari أَيْسَرُ). Artinya: Bagian kiri",
+    "sharaf": "",
+    "meaning_fiqh": "Sisi kiri pada organ tubuh ganda. Dibasuh setelah sisi kanan tuntas."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "ثَلَاثًا",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Tiga kali - Tiga kali",
+    "sharaf": "",
+    "meaning_fiqh": "Sunnah mengulang setiap basuhan, usapan, dan sela-sela sebanyak tiga kali. Hitungan ini berlaku meskipun basuhan pertama dirasa belum merata (basuhan pemerataan tidak dihitung pertama)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي سُنَنِ الْوُضُوءِ",
+    "term_arabic": "مُوَالَاةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berkesinambungan / Berturut-turut",
+    "sharaf": "وَالَى – يُوَالِي – مُوَالَاةً",
+    "meaning_fiqh": "Tidak memberikan jeda atau pemisah waktu yang lama antara membasuh satu anggota wudhu dengan anggota wudhu berikutnya. Standarnya: tidak sampai mengeringnya air pada organ wudhu sebelumnya dalam cuaca normal."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "يَنْقُضُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Membatalkan / Merusak",
+    "sharaf": "نَقَضَ – يَنْقُضُ – نَقْضًا",
+    "meaning_fiqh": "Perkara-perkara yang menyebabkan batal atau rusaknya status kesucian (wudhu) seseorang, sehingga ia wajib berwudhu kembali jika hendak melaksanakan shalat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "خَرَجَ",
+    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Keluar",
+    "sharaf": "خَرَجَ – يَخْرُجُ – خُرُوجًا",
+    "meaning_fiqh": "Keluarnya wujud sesuatu, baik berupa benda padat (tinja, batu), cair (kencing, wadi, madzi, darah), maupun gas (kentut), baik benda itu najis maupun suci (selain air mani)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "سَبِيلٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Jalan (Bentuk Mutsanna: سَبِيلَانِ / Dua Jalan)",
+    "sharaf": "",
+    "meaning_fiqh": "Dua jalan utama pembuangan kotoran dari tubuh manusia, yaitu Qubul (jalan depan/kemaluan) dan Dubur (jalan belakang/anus)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "هَيْئَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid / Masdar Bina Hai'ah. Artinya: Keadaan / Posisi",
+    "sharaf": "",
+    "meaning_fiqh": "Postur tubuh seseorang pada saat tertidur, yang menjadi penentu apakah tidurnya membatalkan wudhu atau tidak."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "مُتَمَكِّنٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Yang menetapkan/mengokohkan posisinya",
+    "sharaf": "تَمَكَّنَ – يَتَمَكَّنُ – تَمَكُّنًا – مُتَمَكِّنٌ",
+    "meaning_fiqh": "Posisi duduk di mana pantat (tempat keluar angin) menempel rapat secara kokoh pada alas duduk (seperti lantai). Tidur dalam posisi ini TIDAK membatalkan wudhu karena aman dari keluarnya kentut tanpa sadar."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "عَقْلٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Akal / Kesadaran",
+    "sharaf": "",
+    "meaning_fiqh": "Pusat kesadaran manusia. Hilangnya fungsi akal (meski sejenak) menyebabkan batalnya wudhu karena orang tersebut tidak lagi memiliki kendali atas keluarnya hadats."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "سُكْرٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mabuk",
+    "sharaf": "سَكِرَ – يَسْكَرُ – سُكْرًا",
+    "meaning_fiqh": "Hilangnya kesadaran yang disebabkan oleh konsumsi makanan, minuman, atau obat yang memabukkan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "مَرَضٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Sakit",
+    "sharaf": "مَرِضَ – يَمْرَضُ – مَرَضًا",
+    "meaning_fiqh": "Kondisi medis yang merusak kesadaran, termasuk di dalamnya adalah pingsan (Ighma'), ayan (Epilepsi), atau gila (Junun)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "لَمْسٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Bersentuhan kulit",
+    "sharaf": "لَمَسَ – يَلْمِسُ – لَمْسًا",
+    "meaning_fiqh": "Pertemuan (persentuhan) langsung antara kulit tubuh laki-laki dan kulit tubuh perempuan yang bukan mahramnya tanpa ada penghalang apapun."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "رَجُلٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Laki-laki",
+    "sharaf": "",
+    "meaning_fiqh": "Laki-laki yang secara fisik telah mencapai batas usia yang bisa menimbulkan syahwat bagi lawan jenis."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "مَرْأَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Perempuan",
+    "sharaf": "",
+    "meaning_fiqh": "Perempuan dewasa. Jika yang disentuh masih bayi atau anak kecil yang belum menimbulkan syahwat, maka wudhu tidak batal."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "أَجْنَبِيَّةٌ",
+    "meaning_literal": "Bentuk: Isim Mansub / Sifat. Artinya: Asing / Bukan mahram",
+    "sharaf": "",
+    "meaning_fiqh": "Wanita yang halal untuk dinikahi (bukan ibu, bukan saudara kandung, atau mertua). Menyentuh mahram (keluarga yang diharamkan untuk dinikahi) tidak membatalkan wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "حَائِلٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Penghalang",
+    "sharaf": "حَالَ – يَحُولُ – حَوْلًا – حَائِلٌ",
+    "meaning_fiqh": "Benda (seperti kain baju, sarung tangan, atau perban) yang memisahkan sentuhan kulit. Jika bersentuhan namun ada kain penghalang meski sangat tipis, wudhu tidak batal."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "مَسٌّ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menyentuh (secara khusus)",
+    "sharaf": "مَسَّ – يَمَسُّ – مَسًّا",
+    "meaning_fiqh": "Menyentuh bagian kemaluan (baik milik sendiri maupun orang lain, milik orang dewasa maupun anak kecil, hidup maupun mati) dapat membatalkan wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "فَرْجٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kemaluan",
+    "sharaf": "",
+    "meaning_fiqh": "Alat kelamin manusia bagian depan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "كَفٌّ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Telapak tangan",
+    "sharaf": "",
+    "meaning_fiqh": "Menyentuh kemaluan hanya membatalkan wudhu jika menggunakan bagian dalam telapak tangan dan bagian dalam jari-jemari. Jika menyentuh menggunakan punggung tangan, wudhu tidak batal."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "حَلْقَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Lingkaran / Cincin",
+    "sharaf": "",
+    "meaning_fiqh": "Otot melingkar (sfingter) yang menjadi batas bukaan pada anus."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "دُبُرٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Dubur / Jalan belakang",
+    "sharaf": "",
+    "meaning_fiqh": "Lubang tempat keluarnya kotoran besar. Menyentuh batas lingkar dubur ini menggunakan batin telapak tangan membatalkan wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "جَدِيدٌ",
+    "meaning_literal": "Bentuk: Sifat Musyabbahah. Artinya: Baru / Qaul Jadid",
+    "sharaf": "جَدَّ – يَجِدُّ – جِدَّةً – جَدِيدٌ",
+    "meaning_fiqh": "Pendapat terbaru dari Imam Syafi'i (setelah beliau bermukim di Mesir). Qaul Jadid menetapkan bahwa menyentuh lingkar dubur membatalkan wudhu, sedangkan menurut pendapat lama beliau (Qaul Qadim saat di Iraq) hal itu tidak membatalkan."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "يُوجِبُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Mewajibkan / Mengharuskan",
+    "sharaf": "أَوْجَبَ – يُوجِبُ – إِيجَابًا",
+    "meaning_fiqh": "Faktor atau sebab syar'i (seperti keluarnya mani atau haid) yang apabila terjadi pada seseorang, maka ia diwajibkan secara mutlak untuk melaksanakan mandi besar (mandi junub) agar bisa kembali melaksanakan ibadah yang mensyaratkan kesucian."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "تَشْتَرِكُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Bersekutu / Bersama-sama mengalami",
+    "sharaf": "اِشْتَرَكَ – يَشْتَرِكُ – اِشْتِرَاكًا",
+    "meaning_fiqh": "Tiga penyebab mandi besar yang berlaku umum tanpa membedakan gender; baik laki-laki maupun perempuan sama-sama bisa mengalaminya dan wajib mandi karenanya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "رِجَالٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: رَجُلٌ). Artinya: Laki-laki (Banyak)",
+    "sharaf": "",
+    "meaning_fiqh": "Pria yang telah mukallaf."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "نِسَاءٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: امْرَأَةٌ - Berbeda akar kata). Artinya: Perempuan (Banyak)",
+    "sharaf": "",
+    "meaning_fiqh": "Wanita yang telah mukallaf. Mereka memiliki tiga sebab khusus kewajiban mandi yang tidak dialami laki-laki."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "اِلْتِقَاءٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Pertemuan / Persentuhan",
+    "sharaf": "اِلْتَقَى – يَلْتَقِي – اِلْتِقَاءً",
+    "meaning_fiqh": "Bahasa kiasan (kinayah) alus dalam fikih untuk menyebutkan proses Jima' (hubungan suami istri). Batasannya adalah masuknya hasyafah (kepala dzakar) ke dalam farji, meskipun tidak sampai keluar air mani."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "خِتَانَانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: خِتَانٌ). Artinya: Dua tempat khitan",
+    "sharaf": "",
+    "meaning_fiqh": "Merujuk pada alat kelamin laki-laki (tempat dipotongnya quluf) dan alat kelamin perempuan (tempat dipotongnya bazhr/kelentit). Bertemunya dua organ ini mewajibkan mandi besar bagi keduanya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "إِنْزَالٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mengeluarkan / Memancarkan",
+    "sharaf": "أَنْزَلَ – يُنْزِلُ – إِنْزَالًا",
+    "meaning_fiqh": "Keluarnya air mani dari alat kelamin, baik terjadi dalam keadaan sadar (karena syahwat) maupun tidak sadar (seperti mimpi basah/ihtilam)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "مَنِيٌّ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Air mani / Sperma",
+    "sharaf": "",
+    "meaning_fiqh": "Cairan berwarna putih kental (pada laki-laki) atau kuning encer (pada perempuan) yang keluar memancar disertai rasa nikmat. Berbeda dengan madzi atau wadi, mani statusnya SUCI, namun keluarnya mani menyebabkan status orang tersebut menjadi junub (hadats akbar)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "مَوْتٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kematian",
+    "sharaf": "مَاتَ – يَمُوتُ – مَوْتًا",
+    "meaning_fiqh": "Berpisahnya ruh dari jasad. Orang muslim yang meninggal dunia WAJIB dimandikan oleh orang yang masih hidup (Fardhu Kifayah), kecuali ia mati syahid dalam peperangan membela agama."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "يَخْتَصُّ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Dikhususkan",
+    "sharaf": "اِخْتَصَّ – يَخْتَصُّ – اِخْتِصَاصًا",
+    "meaning_fiqh": "Kondisi biologis khusus yang diciptakan Allah hanya pada kodrat fisik wanita, yang menjadi sebab tambahan kewajiban mandi besar bagi mereka."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "حَيْضٌ",
+    "meaning_literal": "Bentuk: Masdar / Isim Jamid. Artinya: Haid / Menstruasi",
+    "sharaf": "حَاضَ – يَحِيضُ – حَيْضًا",
+    "meaning_fiqh": "Darah kotor (tabiat) yang keluar dari rahim perempuan yang sehat pada waktu-waktu tertentu, bukan karena sakit atau melahirkan. Usai masa haid terhenti (suci), wanita tersebut wajib mandi besar sebelum shalat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "نِفَاسٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Nifas / Darah pasca persalinan",
+    "sharaf": "نَفِسَ – يَنْفَسُ – نَفَاسَةً – نِفَاسًا",
+    "meaning_fiqh": "Darah yang keluar dari rahim wanita tepat setelah proses melahirkan (keluarnya bayi) hingga maksimal 60 hari. Sama seperti haid, setelah darah nifas berhenti, wajib hukumnya mandi besar."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ",
+    "term_arabic": "وِلَادَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Proses persalinan / Melahirkan",
+    "sharaf": "وَلَدَ – يَلِدُ – وِلَادَةً",
+    "meaning_fiqh": "Proses keluarnya bayi dari rahim. Jika seorang ibu melahirkan tanpa mengeluarkan darah nifas sama sekali (jarang terjadi), ia tetap diwajibkan mandi besar semata-mata karena proses persalinan (wiladah) tersebut."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "فُرُوضٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: فَرْضٌ). Artinya: Kewajiban-kewajiban / Rukun",
+    "sharaf": "فَرَضَ – يَفْرِضُ – فَرْضًا – فُرُوضًا",
+    "meaning_fiqh": "Pilar-pilar mutlak dalam pelaksanaan mandi junub. Jika salah satu saja tertinggal (misal: ada sehelai rambut yang kering tidak terkena air), maka mandi besarnya tidak sah dan hadats akbarnya belum terangkat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "ثَلَاثَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Tiga",
+    "sharaf": "",
+    "meaning_fiqh": "Jumlah batasan minimal (rukun) yang harus dipenuhi agar mandi besar dianggap sah. (Catatan: Sebagian ulama menggabungkan rukun menghilangkan najis dengan rukun mengalirkan air, sehingga rukun mandi hanya dihitung dua)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "نِيَّةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Niat",
+    "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
+    "meaning_fiqh": "Menyengaja dalam hati untuk mengangkat hadats akbar atau agar diperbolehkan melaksanakan shalat (istibahatus shalah). Niat ini diwajibkan bersamaan tepat saat air pertama kali menyentuh bagian tubuh manapun."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "إِزَالَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menghilangkan",
+    "sharaf": "أَزَالَ – يُزِيلُ – إِزَالَةً",
+    "meaning_fiqh": "Tindakan pembersihan yang harus dilakukan *sebelum* atau *bersamaan* dengan proses mandi jika di tubuh terdapat najis fisik (seperti darah atau air kencing)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "إِيصَالٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menyampaikan / Mengalirkan",
+    "sharaf": "أَوْصَلَ – يُوصِلُ – إِيصَالًا",
+    "meaning_fiqh": "Memastikan air suci mensucikan menyentuh dan membasahi secara merata, tanpa ada benda penghalang (seperti cat kuku, lem, atau getah)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "شَعْرٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Rambut / Bulu",
+    "sharaf": "",
+    "meaning_fiqh": "Seluruh bulu yang tumbuh di badan (baik tipis maupun tebal, baik rambut kepala, jenggot, bulu dada, hingga bulu kemaluan) wajib dibasahi hingga ke bagian akarnya saat mandi besar."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "بَشَرَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kulit / Epidermis",
+    "sharaf": "",
+    "meaning_fiqh": "Seluruh permukaan kulit tubuh bagian luar, termasuk lipatan-lipatan tersembunyi (seperti pusar, belakang telinga, dan selangkangan), wajib dialiri air."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "سُنَنٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: سُنَّةٌ). Artinya: Kesunnah-sunnahan",
+    "sharaf": "سَنَّ – يَسُنُّ – سَنًّا – سُنَّةً",
+    "meaning_fiqh": "Lima perkara pelengkap yang jika dilakukan akan menyempurnakan pahala mandi, namun jika dilewatkan tidak merusak keabsahan mandi besarnya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "وُضُوءٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Wudhu",
+    "sharaf": "تَوَضَّأَ – يَتَوَضَّأُ – تَوَضُّؤًا – وُضُوءًا",
+    "meaning_fiqh": "Disunnahkan melaksanakan wudhu secara sempurna sebelum memulai meratakan air mandi ke seluruh tubuh, meniru kebiasaan Rasulullah SAW."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "إِمْرَارٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menggosokkan / Menjalankan",
+    "sharaf": "أَمَرَّ – يُمِرُّ – إِمْرَارًا",
+    "meaning_fiqh": "Tindakan menggosokkan telapak tangan ke permukaan tubuh saat disiram air untuk memastikan kotoran terangkat (disebut juga Dalk). Ini sunnah dalam mazhab Syafi'i, tapi wajib menurut mazhab Maliki."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "جَسَدٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Fisik / Tubuh",
+    "sharaf": "",
+    "meaning_fiqh": "Bagian luar badan yang dijangkau oleh tangan saat digosok."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "مُوَالَاةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berkesinambungan",
+    "sharaf": "وَالَى – يُوَالِي – مُوَالَاةً",
+    "meaning_fiqh": "Menyegerakan membasuh anggota tubuh berikutnya sebelum anggota tubuh sebelumnya menjadi kering oleh angin dalam keadaan cuaca normal."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ الْغُسْلِ وَسُنَنِهِ",
+    "term_arabic": "تَقْدِيمٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mendahulukan",
+    "sharaf": "قَدَّمَ – يُقَدِّمُ – تَقْدِيمًا",
+    "meaning_fiqh": "Mendahulukan menyiram belahan tubuh sisi kanan secara sempurna, baru kemudian dilanjutkan menyiram belahan tubuh sisi kiri."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "شَرَائِطُ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: شَرْطٌ). Artinya: Syarat-syarat",
+    "sharaf": "شَرَطَ – يَشْرُطُ – شَرْطًا",
+    "meaning_fiqh": "Perkara-perkara yang berada di luar rukun, namun wajib dipenuhi *sebelum* pelaksanaan tayamum. Jika satu syarat saja tidak terpenuhi, maka tayamum tidak sah dilaksanakan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "تَيَمُّمٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menyengaja (القَصْدُ)",
+    "sharaf": "تَيَمَّمَ – يَتَيَمَّمُ – تَيَمُّمًا",
+    "meaning_fiqh": "Menyampaikan debu yang suci ke wajah dan kedua tangan dengan niat khusus sebagai pengganti wudhu atau mandi junub saat kondisi darurat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "عُذْرٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Halangan / Alasan",
+    "sharaf": "عَذَرَ – يَعْذِرُ – عُذْرًا",
+    "meaning_fiqh": "Kondisi darurat syar'i yang membolehkan seseorang berpindah (rukhsah) dari kewajiban asalnya yaitu bersuci dengan air, menjadi bersuci dengan debu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "سَفَرٌ",
+    "meaning_literal": "Bentuk: Masdar / Isim Jamid. Artinya: Bepergian / Perjalanan",
+    "sharaf": "سَافَرَ – يُسَافِرُ – سَفَرًا – مُسَافَرَةً",
+    "meaning_fiqh": "Perjalanan jauh maupun dekat yang umumnya menyebabkan musafir kesulitan mendapatkan akses air bersih yang cukup."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "وَقْتٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Waktu",
+    "sharaf": "",
+    "meaning_fiqh": "Tayamum adalah ibadah darurat. Oleh karena itu, tayamum tidak sah dilakukan sebelum dipastikan waktu shalat (misal: adzan Dzuhur) telah benar-benar masuk."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "طَلَبٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mencari",
+    "sharaf": "طَلَبَ – يَطْلُبُ – طَلَبًا",
+    "meaning_fiqh": "Upaya aktif menelusuri atau menanyakan ketersediaan air di sekitar tempatnya berada, yang wajib dilakukan setelah masuknya waktu shalat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "تَعَذُّرٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Terhalang / Sulit dipraktikkan",
+    "sharaf": "تَعَذَّرَ – يَتَعَذَّرُ – تَعَذُّرًا",
+    "meaning_fiqh": "Kondisi di mana air secara fisik ada, namun secara syariat tidak bisa digunakan. Contoh: sedang sakit parah (takut penyakit bertambah jika kena air), atau air yang ada hanya cukup untuk diminum."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "إِعْوَازٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Tidak ada / Sangat butuh",
+    "sharaf": "أَعْوَزَ – يُعْوِزُ – إِعْوَازًا",
+    "meaning_fiqh": "Kondisi mutlak tidak ditemukannya air sama sekali di radius pencarian, meskipun telah berusaha mencari secara maksimal."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "تُرَابٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Debu / Tanah",
+    "sharaf": "",
+    "meaning_fiqh": "Media utama untuk bersuci dalam ibadah tayamum. Debu yang sah adalah debu murni yang menempel di bumi atau benda lain, serta belum pernah digunakan untuk tayamum sebelumnya (ghairu musta'mal)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "غُبَارٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Partikel debu yang beterbangan",
+    "sharaf": "",
+    "meaning_fiqh": "Kriteria debu yang sah untuk tayamum; yakni harus memiliki partikel halus yang bisa melekat di tangan atau beterbangan saat ditiup, bukan sekadar batu licin atau tanah keras."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "جِصٌّ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kapur / Gamping",
+    "sharaf": "",
+    "meaning_fiqh": "Material bangunan dari alam. Jika debu tayamum tercampur oleh bubuk kapur hingga tidak murni lagi, maka debu tersebut batal/tidak sah digunakan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
+    "term_arabic": "رَمْلٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Pasir",
+    "sharaf": "",
+    "meaning_fiqh": "Pasir kasar yang tidak memiliki partikel halus (ghubar). Menggunakan pasir semata atau debu yang dominan tercampur pasir kasar tidak diizinkan untuk tayamum menurut Qaul Ashah."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "أَرْبَعَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Empat",
+    "sharaf": "",
+    "meaning_fiqh": "Jumlah rukun mutlak dalam tayamum. Lebih sedikit dibandingkan wudhu karena tayamum adalah ibadah darurat yang didesain untuk kemudahan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "نِيَّةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Niat (di dalam hati)",
+    "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
+    "meaning_fiqh": "Berbeda dengan wudhu, niat tayamum harus berbunyi 'untuk diperbolehkan shalat' (استباحة الصلاة). Tidak sah jika berniat 'mengangkat hadats', karena debu secara esensial tidak mengangkat hadats, melainkan hanya rukhsah (izin) agar bisa shalat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "مَسْحٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mengusap",
+    "sharaf": "مَسَحَ – يَمْسَحُ – مَسْحًا",
+    "meaning_fiqh": "Menyampaikan debu tipis ke wajah dan tangan. Berbeda dengan basuhan wudhu, usapan debu tayamum cukup dilakukan satu kali saja (tidak disunnahkan mengulang tiga kali)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "وَجْهٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Wajah",
+    "sharaf": "",
+    "meaning_fiqh": "Batasannya sama dengan wudhu. Namun dalam tayamum, tidak wajib meratakan debu ke bagian bawah rambut atau jenggot yang tebal (cukup permukaan luarnya saja) agar tidak menyulitkan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "يَدَانِ",
+    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: يَدٌ). Artinya: Kedua tangan",
+    "sharaf": "",
+    "meaning_fiqh": "Kedua tangan wajib diusap dengan debu hingga menyertakan kedua siku, menggunakan tepukan debu yang kedua (tepukan pertama khusus untuk wajah)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "تَرْتِيبٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berurutan",
+    "sharaf": "رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا",
+    "meaning_fiqh": "Wajib mendahulukan usapan wajah, baru kemudian mengusap tangan. Jika dibalik, maka tayamumnya tidak sah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "تَسْمِيَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Membaca Bismillah",
+    "sharaf": "سَمَّى – يُسَمِّي – تَسْمِيَةً",
+    "meaning_fiqh": "Disunnahkan membaca basmalah tepat sebelum tangan ditepukkan ke atas debu untuk pertama kalinya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "تَقْدِيمٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Mendahulukan",
+    "sharaf": "قَدَّمَ – يُقَدِّمُ – تَقْدِيمًا",
+    "meaning_fiqh": "Sunnah mengusap tangan bagian kanan terlebih dahulu secara sempurna, sebelum memindahkan sisa debu di telapak tangan untuk mengusap tangan bagian kiri."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
+    "term_arabic": "مُوَالَاةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berkesinambungan",
+    "sharaf": "وَالَى – يُوَالِي – مُوَالَاةً",
+    "meaning_fiqh": "Tidak memberikan jeda atau pemisah waktu yang lama antara tepukan pertama (untuk wajah) dan tepukan kedua (untuk tangan)."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "يُبْطِلُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Membatalkan",
+    "sharaf": "أَبْطَلَ – يُبْطِلُ – إِبْطَالًا",
+    "meaning_fiqh": "Perkara-perkara yang menyebabkan status kesucian darurat (tayamum) seseorang menjadi rusak atau tidak berlaku lagi."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "أَبْطَلَ",
+    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Telah membatalkan",
+    "sharaf": "أَبْطَلَ – يُبْطِلُ – إِبْطَالًا",
+    "meaning_fiqh": "Kaidah fikih: Segala hal yang membatalkan wudhu (seperti buang angin, tidur, sentuhan lawan jenis) otomatis juga akan membatalkan tayamum, karena tayamum adalah pengganti wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "رُؤْيَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Melihat / Mengetahui",
+    "sharaf": "رَأَى – يَرَى – رُؤْيَةً",
+    "meaning_fiqh": "Mengetahui secara yakin atau menduga kuat (dzan) akan adanya air yang bisa dijangkau dan sah digunakan untuk bersuci. (Melihat air/fatamorgana dari jarak yang sangat jauh dan tidak mungkin dijangkau tidak membatalkan tayamum)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "غَيْرٌ",
+    "meaning_literal": "Bentuk: Isim Jamid (Mubham). Artinya: Selain / Di luar",
+    "sharaf": "",
+    "meaning_fiqh": "Jika seseorang melihat air (sebelum shalat dimulai), maka tayamumnya batal. Namun, jika ia melihat air di saat sedang berada di tengah-tengah pelaksanaan shalat, hukumnya diperinci (ada shalat yang batal dan wajib wudhu, ada yang sah diteruskan)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
+    "term_arabic": "رِدَّةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Murtad",
+    "sharaf": "اِرْتَدَّ – يَرْتَدُّ – رِدَّةً",
+    "meaning_fiqh": "Keluarnya seseorang dari agama Islam (baik melalui ucapan, perbuatan, atau keyakinan hati). Status murtad menghapus seluruh amal kebaikan dan seketika membatalkan status kesucian tayamum."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "مَائِعٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Benda cair",
+    "sharaf": "مَاعَ – يَمِيعُ – مَيْعًا – مَائِعٌ",
+    "meaning_fiqh": "Segala wujud zat yang berbentuk cairan (tidak beku/padat). Secara umum, semua benda cair yang keluar dari kemaluan atau dubur (seperti kencing, madzi, wadi, darah) hukumnya adalah najis."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "أَبْوَالٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: بَوْلٌ). Artinya: Air kencing",
+    "sharaf": "بَالَ – يَبُولُ – بَوْلًا",
+    "meaning_fiqh": "Cairan sisa metabolisme yang dikeluarkan dari kandung kemih melalui Qubul. Seluruh kencing, baik dari manusia maupun hewan (bahkan hewan yang halal dimakan), dihukumi najis."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "أَرْوَاثٌ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: رَوْثٌ). Artinya: Kotoran tinja / Tahi",
+    "sharaf": "",
+    "meaning_fiqh": "Kotoran padat sisa pencernaan yang keluar dari Dubur. Seluruh tahi hewan dan manusia wajib dibersihkan karena berstatus najis."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "وَاجِبٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Wajib / Harus",
+    "sharaf": "وَجَبَ – يَجِبُ – وُجُوبًا – وَاجِبٌ",
+    "meaning_fiqh": "Kewajiban syar'i untuk menyucikan tempat (badan/pakaian/lantai) yang terkena najis tersebut menggunakan air muthlaq agar bisa digunakan kembali untuk ibadah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "صَبِيٌّ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Bayi laki-laki",
+    "sharaf": "",
+    "meaning_fiqh": "Bayi berjenis kelamin laki-laki. Hukum kencingnya masuk dalam kategori Najis Mukhaffafah (ringan). Jika bayinya perempuan (Jariyah), maka kencingnya masuk kategori Najis Mutawassithah (menengah) dan harus dibasuh."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "يَأْكُلُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Makan",
+    "sharaf": "أَكَلَ – يَأْكُلُ – أَكْلًا",
+    "meaning_fiqh": "Batas berlakunya keringanan menyucikan kencing bayi laki-laki adalah selama ia hanya mengonsumsi ASI dan belum memakan makanan pendamping untuk tujuan mengenyangkan perut (jika sekadar mencicipi obat/kurma mentah untuk tahnik tidak apa-apa)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "طَعَامٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Makanan",
+    "sharaf": "طَعِمَ – يَطْعَمُ – طَعْمًا",
+    "meaning_fiqh": "Konsumsi padat selain Air Susu Ibu (ASI). Jika bayi laki-laki sudah disuapi makanan selain ASI (seperti pisang atau bubur), maka status najis kencingnya berubah menjadi Mutawassithah (wajib dibasuh mengalir, tidak cukup dipercik)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "رَشٌّ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Memercikkan",
+    "sharaf": "رَشَّ – يَرُشُّ – رَشًّا",
+    "meaning_fiqh": "Cara menyucikan Najis Mukhaffafah. Cukup memercikkan air merata ke area yang terkena kencing bayi laki-laki tersebut, hingga volume air cipratan lebih dominan daripada volume air kencingnya, tanpa harus ada air yang menetes (mengalir)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "يُعْفَى",
+    "meaning_literal": "Bentuk: Fi'il Mudhari' Majhul (Pasif). Artinya: Dimaafkan / Diberi toleransi",
+    "sharaf": "عَفَا – يَعْفُو – عَفْوًا",
+    "meaning_fiqh": "Status rukhsah (Ma'fu). Yakni najis yang secara wujud ada dan hukumnya tetap najis, namun syariat memberikan toleransi sehingga keberadaannya tidak membatalkan keabsahan shalat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "يَسِيرٌ",
+    "meaning_literal": "Bentuk: Sifat Musyabbahah. Artinya: Sedikit",
+    "sharaf": "يَسُرَ – يَيْسُرُ – يُسْرًا – يَسِيرٌ",
+    "meaning_fiqh": "Kadar wujud benda yang secara urf (kebiasaan umum di masyarakat) dianggap sangat kecil atau remeh."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "دَمٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Darah",
+    "sharaf": "",
+    "meaning_fiqh": "Darah (baik dari luka sendiri maupun hewan seperti nyamuk) jika volumenya hanya sedikit/setetes, maka ia termasuk najis yang dimaafkan dalam shalat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "قَيْحٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Nanah",
+    "sharaf": "",
+    "meaning_fiqh": "Cairan kotor yang bercampur sel mati akibat infeksi luka. Status dan toleransinya disamakan dengan darah (najis, namun dimaafkan jika volumenya sangat sedikit)."
+  }
+,{
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "أَصَابَ",
+    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Mengenai / Menimpa",
+    "sharaf": "أَصَابَ – يُصِيبُ – إِصَابَةً",
+    "meaning_fiqh": "Kondisi di mana benda najis (seperti darah sedikit) mengenai pakaian atau badan seseorang, yang dalam kasus tertentu mendapat keringanan (dimaafkan)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "يُؤْكَلُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari' Majhul. Artinya: Dimakan",
+    "sharaf": "أَكَلَ – يَأْكُلُ – أَكْلًا",
+    "meaning_fiqh": "Merujuk pada kategori hewan yang dagingnya halal dikonsumsi (seperti sapi, kambing, ayam). Kotoran hewan yang *tidak* halal dimakan (seperti keledai, kucing, anjing) dihukumi najis secara mutlak dan tidak dimaafkan."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "لَحْمٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Daging",
+    "sharaf": "",
+    "meaning_fiqh": "Bagian tubuh hewan yang menjadi tolok ukur kehalalan suatu hewan untuk disembelih dan dikonsumsi menurut syariat Islam."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "وُلُوغٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Jilatan / Minum dengan lidah",
+    "sharaf": "وَلَغَ – يَلَغُ – وُلُوغًا",
+    "meaning_fiqh": "Cara anjing minum dengan menjulurkan lidahnya ke dalam air di sebuah wadah. Air liur anjing adalah najis berat (Mughallazhah) yang mewajibkan wadahnya disucikan dengan cara khusus."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "مَرَّاتٍ",
+    "meaning_literal": "Bentuk: Jamak Muannats Salim (Mufrad: مَرَّةٌ). Artinya: Berapa kali putaran/hitungan",
+    "sharaf": "مَرَّ – يَمُرُّ – مُرُورًا – مَرَّةً",
+    "meaning_fiqh": "Hitungan wajib (tujuh kali) untuk menyucikan wadah atau benda yang terkena najis anjing dan babi."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "إِحْدَاهُنَّ",
+    "meaning_literal": "Bentuk: Isim Jamid (Adad) + Dhomir. Artinya: Salah satu dari ketujuh basuhan itu",
+    "sharaf": "",
+    "meaning_fiqh": "Syarat khusus dalam menyucikan najis Mughallazhah: salah satu dari tujuh basuhan air harus dicampur dengan debu/tanah yang suci (Tathrib). Lebih utama jika debu diletakkan pada basuhan pertama."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "سَائِرٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Sisa / Seluruh yang lain",
+    "sharaf": "سَارَ – يَسِيرُ – سَيْرًا – سَائِرٌ",
+    "meaning_fiqh": "Merujuk pada seluruh jenis najis menengah (Mutawassithah) selain najis anjing/babi (seperti darah, kencing dewasa, arak, kotoran). Cara menyucikannya cukup dibasuh air sampai hilang wujud, rasa, warna, dan baunya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "تَأْتِي",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Datang / Meliputi",
+    "sharaf": "أَتَى – يَأْتِي – إِتْيَانًا",
+    "meaning_fiqh": "Basuhan air yang dialirkan (di-datangkan) ke atas area najis sehingga air tersebut meliputi, menutupi, dan menghilangkan seluruh sifat najis tersebut."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "تَخَلَّلَتِ",
+    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Menjadi cuka",
+    "sharaf": "تَخَلَّلَ – يَتَخَلَّلُ – تَخَلُّلًا",
+    "meaning_fiqh": "Proses fermentasi alami di mana arak (yang hukumnya haram dan najis) berubah wujud dan sifatnya menjadi cuka murni yang masam."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "خَمْرَةٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Arak / Khamr",
+    "sharaf": "خَمَرَ – يَخْمُرُ – خَمْرًا",
+    "meaning_fiqh": "Minuman memabukkan hasil perasan anggur atau kurma. Dzat Khamr adalah najis dalam madzhab Syafi'i."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "نَفْسٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Dirinya sendiri / Alami",
+    "sharaf": "",
+    "meaning_fiqh": "Menunjukkan bahwa proses perubahan arak menjadi cuka itu terjadi secara alamiah karena waktu dan suhu udara (binafsiha), tanpa adanya campur tangan manusia."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "خُلِّلَتْ",
+    "meaning_literal": "Bentuk: Fi'il Madhi Majhul. Artinya: Dijadikan cuka (dengan sengaja)",
+    "sharaf": "خَلَّلَ – يُخَلِّلُ – تَخْلِيلًا",
+    "meaning_fiqh": "Tindakan manusia yang sengaja memproses arak agar cepat berubah menjadi cuka (misalnya dengan memasukkan bahan kimia atau benda lain ke dalamnya)."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي النَّجَاسَاتِ",
+    "term_arabic": "طَرْحٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Melemparkan / Memasukkan",
+    "sharaf": "طَرَحَ – يَطْرَحُ – طَرْحًا",
+    "meaning_fiqh": "Memasukkan suatu benda luar (mukhollith, seperti bawang, roti, atau ragi) ke dalam wadah arak untuk mempercepat proses fermentasi menjadi cuka. Jika ini dilakukan, maka cuka hasil akhirnya tetap dihukumi NAJIS dan tidak bisa menjadi suci."
+  }
 ]
