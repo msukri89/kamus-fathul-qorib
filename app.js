@@ -126,4 +126,9 @@ function cariKamus() {
     tampilkanHasil(hasil);
 }
 
+const searchInput = document.getElementById('searchInput');
+if (searchInput) {
+    searchInput.addEventListener('input', cariKamus);
+}
+
 muatKamus();
