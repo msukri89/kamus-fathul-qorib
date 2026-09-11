@@ -1,0 +1,30 @@
+[
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "فَتْحٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Membuka; dalam konteks harakat: fathah",
+    "sharaf": "فَتَحَ – يَفْتَحُ – فَتْحًا",
+    "meaning_fiqh": "Secara bahasa berarti membuka. Dalam konteks penjelasan ضبط lafaz, فَتْحٌ merujuk pada harakat fathah pada huruf yang dimaksud, bukan membuka secara fisik."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "كَثِيرَةٌ",
+    "meaning_literal": "Bentuk: Sifat. Artinya: Banyak",
+    "sharaf": "كَثُرَ – يَكْثُرُ – كَثْرَةً",
+    "meaning_fiqh": "Menunjukkan jumlah yang banyak. Makna khususnya mengikuti konteks kalimat dan tidak dengan sendirinya berarti adanya perbedaan pendapat."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "قَوْلٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Ucapan / Pendapat",
+    "sharaf": "قَالَ – يَقُولُ – قَوْلًا",
+    "meaning_fiqh": "Ucapan atau pendapat. Dalam teks fikih, maknanya ditentukan oleh konteks, misalnya pendapat atau rumusan yang dinisbatkan kepada seorang ulama."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "شَرْعٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Syariat / ketentuan syariat",
+    "sharaf": "شَرَعَ – يَشْرَعُ – شَرْعًا",
+    "meaning_fiqh": "Makna yang berkaitan dengan ketentuan syariat. Dalam konteks definisi fikih, lafaz شَرْعًا menunjukkan pengertian menurut syariat, bukan sekadar menurut bahasa."
+  }
+]
