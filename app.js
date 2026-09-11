@@ -2,7 +2,7 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
             fetch('./data-corrections-wudhu.json'),
@@ -13,7 +13,8 @@ async function muatKamus() {
             fetch('./data-corrections-sunnah-ghusl.json'),
             fetch('./data-corrections-aghsaal-sunnah.json'),
             fetch('./data-corrections-khuff.json'),
-            fetch('./data-corrections-tayammum.json')
+            fetch('./data-corrections-tayammum.json'),
+            fetch('./data-corrections-jabirah.json')
         ]);
 
         const data = await dataResponse.json();
@@ -27,6 +28,7 @@ async function muatKamus() {
         const aghsaalSunnahCorrections = aghsaalSunnahCorrectionsResponse.ok ? await aghsaalSunnahCorrectionsResponse.json() : [];
         const khuffCorrections = khuffCorrectionsResponse.ok ? await khuffCorrectionsResponse.json() : [];
         const tayammumCorrections = tayammumCorrectionsResponse.ok ? await tayammumCorrectionsResponse.json() : [];
+        const jabirahCorrections = jabirahCorrectionsResponse.ok ? await jabirahCorrectionsResponse.json() : [];
         const allCorrections = [
             ...corrections,
             ...wudhuCorrections,
@@ -37,7 +39,8 @@ async function muatKamus() {
             ...sunnahGhuslCorrections,
             ...aghsaalSunnahCorrections,
             ...khuffCorrections,
-            ...tayammumCorrections
+            ...tayammumCorrections,
+            ...jabirahCorrections
         ];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
