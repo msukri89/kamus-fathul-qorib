@@ -1,5 +1,5 @@
 // UBAH VERSI DI SINI SETIAP KALI ADA PERUBAHAN FILE (HTML/JS/JSON)
-const CACHE_NAME = 'kamus-fq-v31';
+const CACHE_NAME = 'kamus-fq-v32';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -21,6 +21,7 @@ const ASSETS_TO_CACHE = [
   './data-corrections-larangan-haid-junub-hadats.json',
   './data-corrections-thaharah-dasar.json',
   './data-corrections-thaharah-air.json',
+  './data-corrections-thaharah-air-qc.json',
   './manifest.json'
 ];
 
