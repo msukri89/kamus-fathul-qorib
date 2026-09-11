@@ -2,14 +2,15 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
             fetch('./data-corrections-wudhu.json'),
             fetch('./data-corrections-sunnah-wudhu.json'),
             fetch('./data-corrections-nawaqidh-wudhu.json'),
             fetch('./data-corrections-mujibat-ghusl.json'),
-            fetch('./data-corrections-fardhu-ghusl.json')
+            fetch('./data-corrections-fardhu-ghusl.json'),
+            fetch('./data-corrections-sunnah-ghusl.json')
         ]);
 
         const data = await dataResponse.json();
@@ -19,13 +20,15 @@ async function muatKamus() {
         const nawaqidhWudhuCorrections = nawaqidhWudhuCorrectionsResponse.ok ? await nawaqidhWudhuCorrectionsResponse.json() : [];
         const mujibatGhuslCorrections = mujibatGhuslCorrectionsResponse.ok ? await mujibatGhuslCorrectionsResponse.json() : [];
         const fardhuGhuslCorrections = fardhuGhuslCorrectionsResponse.ok ? await fardhuGhuslCorrectionsResponse.json() : [];
+        const sunnahGhuslCorrections = sunnahGhuslCorrectionsResponse.ok ? await sunnahGhuslCorrectionsResponse.json() : [];
         const allCorrections = [
             ...corrections,
             ...wudhuCorrections,
             ...sunnahWudhuCorrections,
             ...nawaqidhWudhuCorrections,
             ...mujibatGhuslCorrections,
-            ...fardhuGhuslCorrections
+            ...fardhuGhuslCorrections,
+            ...sunnahGhuslCorrections
         ];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
