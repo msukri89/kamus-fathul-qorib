@@ -1,0 +1,247 @@
+[
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "كِتَابٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kitab / kumpulan",
+    "sharaf": "كَتَبَ – يَكْتُبُ – كَتْبًا – كِتَابًا – كِتَابَةً",
+    "meaning_fiqh": "Secara bahasa bermakna menghimpun atau mengumpulkan. Secara istilah, nama bagi suatu kumpulan hukum yang sejenis."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "مَصْدَرٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Sumber / asal",
+    "sharaf": "صَدَرَ – يَصْدُرُ – صُدُورًا – مَصْدَرًا",
+    "meaning_fiqh": "Istilah tata bahasa yang menunjukkan bentuk masdar; pada konteks ini menjelaskan bahwa كِتَابٌ secara bahasa adalah sebuah masdar."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "مَعْنًى",
+    "meaning_literal": "Bentuk: Isim. Artinya: Makna / maksud",
+    "sharaf": "عَنَى – يَعْنِي – مَعْنًى",
+    "meaning_fiqh": "Makna atau maksud yang dikandung oleh suatu lafaz atau ungkapan."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "ضَمٌّ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menggabungkan / menghimpun",
+    "sharaf": "ضَمَّ – يَضُمُّ – ضَمًّا",
+    "meaning_fiqh": "Menggabungkan atau menghimpun satu hal dengan hal lainnya."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "جَمْعٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menghimpun / mengumpulkan",
+    "sharaf": "جَمَعَ – يَجْمَعُ – جَمْعًا",
+    "meaning_fiqh": "Menghimpun beberapa hal yang terpisah menjadi satu kumpulan."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "اِصْطِلَاحٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Istilah / terminologi",
+    "sharaf": "اِصْطَلَحَ – يَصْطَلِحُ – اِصْطِلَاحًا",
+    "meaning_fiqh": "Penggunaan suatu lafaz dengan makna khusus yang dikenal dalam suatu bidang ilmu."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "اِسْمٌ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Nama / sebutan",
+    "sharaf": "",
+    "meaning_fiqh": "Lafaz yang menunjukkan suatu makna pada dirinya sendiri tanpa terikat oleh waktu."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "جِنْسٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Jenis / kelompok umum",
+    "sharaf": "",
+    "meaning_fiqh": "Kelompok atau kategori umum yang mencakup beberapa jenis di bawahnya."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "بَابٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Bab / bagian pembahasan",
+    "sharaf": "",
+    "meaning_fiqh": "Dalam susunan kitab, bagian yang memuat suatu jenis pembahasan yang berada di bawah cakupan kitab."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "نَوْعٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Jenis / macam",
+    "sharaf": "",
+    "meaning_fiqh": "Bagian yang lebih khusus yang termasuk dalam suatu kelompok atau jins."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "دَخَلَ",
+    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Masuk / termasuk",
+    "sharaf": "دَخَلَ – يَدْخُلُ – دُخُولًا",
+    "meaning_fiqh": "Masuk atau tercakup dalam suatu kelompok atau cakupan yang lebih umum."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "تَحْتَ",
+    "meaning_literal": "Bentuk: Zharf Makan. Artinya: Di bawah",
+    "sharaf": "",
+    "meaning_fiqh": "Menunjukkan kedudukan sesuatu yang berada di bawah atau dalam cakupan sesuatu yang lebih umum."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "فَتْحٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Membuka; dalam konteks harakat: fathah",
+    "sharaf": "فَتَحَ – يَفْتَحُ – فَتْحًا",
+    "meaning_fiqh": "Dalam konteks ضبط lafaz الطهارة, yang dimaksud adalah fathah pada huruf ط, bukan membuka secara fisik."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "طَهَارَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Bersuci / kesucian",
+    "sharaf": "طَهُرَ – يَطْهُرُ – طُهْرًا – طَهَارَةً",
+    "meaning_fiqh": "Dalam pembahasan Fathul Qorib, secara bahasa bermakna kebersihan. Secara syariat, salah satu definisinya adalah melakukan sesuatu yang dengannya shalat menjadi boleh, seperti wudhu, mandi, tayamum, dan menghilangkan najis."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "لُغَةً",
+    "meaning_literal": "Bentuk: Keterangan keadaan. Artinya: Secara bahasa",
+    "sharaf": "",
+    "meaning_fiqh": "Menunjukkan makna suatu lafaz berdasarkan penggunaan bahasanya sebelum dibatasi oleh istilah khusus suatu ilmu."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "نَظَافَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kebersihan",
+    "sharaf": "نَظُفَ – يَنْظُفُ – نَظَافَةً",
+    "meaning_fiqh": "Makna bahasa yang digunakan untuk menjelaskan الطهارة dengan طاء berharakat fathah."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "شَرْعٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Syariat / ketentuan syariat",
+    "sharaf": "شَرَعَ – يَشْرَعُ – شَرْعًا",
+    "meaning_fiqh": "Berkaitan dengan ketentuan syariat. Dalam konteks pembahasan الطهارة, lafaz ini menunjuk pada pengertian الطهارة menurut syariat."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "تَفَاسِيرُ",
+    "meaning_literal": "Bentuk: Jamak taksir. Artinya: Beberapa penjelasan / tafsir",
+    "sharaf": "فَسَّرَ – يُفَسِّرُ – تَفْسِيرًا",
+    "meaning_fiqh": "Berbagai rumusan atau penjelasan yang digunakan ulama untuk menerangkan suatu istilah."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "كَثِيرَةٌ",
+    "meaning_literal": "Bentuk: Sifat. Artinya: Banyak",
+    "sharaf": "كَثُرَ – يَكْثُرُ – كَثْرَةً",
+    "meaning_fiqh": "Menunjukkan jumlah yang banyak. Makna khususnya mengikuti konteks kalimat."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "قَوْلٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Ucapan / perkataan / pendapat",
+    "sharaf": "قَالَ – يَقُولُ – قَوْلًا",
+    "meaning_fiqh": "Ucapan atau pendapat. Dalam teks fikih, makna 'pendapat' ditentukan oleh konteks kalimat."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "فِعْلٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Perbuatan / tindakan",
+    "sharaf": "فَعَلَ – يَفْعَلُ – فِعْلًا",
+    "meaning_fiqh": "Perbuatan atau tindakan. Dalam definisi taharah, yang dimaksud adalah perbuatan yang menjadi sarana sehingga shalat dapat dilakukan."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "تُسْتَبَاحُ",
+    "meaning_literal": "Bentuk: Fi'il mudhari' majhul. Artinya: Menjadi diperbolehkan",
+    "sharaf": "اِسْتَبَاحَ – يَسْتَبِيحُ – اِسْتِبَاحَةً",
+    "meaning_fiqh": "Dalam frasa تُسْتَبَاحُ بِهِ الصَّلَاةُ, berarti shalat menjadi boleh dilakukan dengan adanya taharah tersebut."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "وُضُوءٌ",
+    "meaning_literal": "Bentuk: Masdar/isim masdar. Artinya: Wudhu / bersuci dengan wudhu",
+    "sharaf": "تَوَضَّأَ – يَتَوَضَّأُ – تَوَضُّؤًا؛ والوُضُوءُ اسمٌ للتوضؤ",
+    "meaning_fiqh": "Bersuci dengan menggunakan air pada anggota badan tertentu menurut tata cara dan ketentuan wudhu."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "غُسْلٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Membasuh / mandi",
+    "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا / غُسْلًا",
+    "meaning_fiqh": "Membasuh atau mandi dengan meratakan air pada bagian tubuh yang diperintahkan syariat."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "تَيَمُّمٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menyengaja / bertayamum",
+    "sharaf": "تَيَمَّمَ – يَتَيَمَّمُ – تَيَمُّمًا",
+    "meaning_fiqh": "Secara syariat, tayamum adalah menggunakan tanah yang suci pada wajah dan kedua tangan sebagai pengganti wudhu atau mandi dalam keadaan dan dengan syarat tertentu."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "إِزَالَةٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menghilangkan",
+    "sharaf": "أَزَالَ – يُزِيلُ – إِزَالَةً",
+    "meaning_fiqh": "Menghilangkan sesuatu dari tempatnya. Dalam definisi taharah, konteksnya adalah menghilangkan najis."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "بَقِيَّةٌ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Sisa / sesuatu yang tersisa",
+    "sharaf": "بَقِيَ – يَبْقَى – بَقَاءً",
+    "meaning_fiqh": "Sesuatu yang masih tersisa. Dalam konteks الطهارة بالضم, yang dimaksud adalah sisa air."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "مَاءٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Air",
+    "sharaf": "",
+    "meaning_fiqh": "Air. Dalam pembahasan ini, air menjadi sarana utama untuk bersuci dan kemudian dibahas jenis-jenis air yang dapat digunakan untuk taharah."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "آلَةٌ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Alat / sarana",
+    "sharaf": "",
+    "meaning_fiqh": "Sarana atau alat yang digunakan untuk mencapai suatu tujuan. Dalam konteks ini, air disebut sebagai alat untuk taharah."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "اِسْتَطْرَدَ",
+    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Melanjutkan pembahasan / menjabarkan secara terkait",
+    "sharaf": "اِسْتَطْرَدَ – يَسْتَطْرِدُ – اِسْتِطْرَادًا",
+    "meaning_fiqh": "Melanjutkan pembahasan kepada hal yang berkaitan dengan pembahasan utama; di sini pembahasan taharah dilanjutkan kepada jenis-jenis air karena air merupakan alat taharah."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "مُصَنِّفٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Pengarang / penyusun",
+    "sharaf": "صَنَّفَ – يُصَنِّفُ – تَصْنِيفًا – مُصَنِّفٌ",
+    "meaning_fiqh": "Orang yang menyusun atau mengarang sebuah kitab."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "مِيَاهٌ",
+    "meaning_literal": "Bentuk: Jamak taksir (mufrad: مَاءٌ). Artinya: Air-air / berbagai air",
+    "sharaf": "",
+    "meaning_fiqh": "Bentuk jamak dari مَاءٌ. Dalam pembahasan ini menunjuk kepada berbagai jenis air yang dibahas hukumnya untuk bersuci."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "يَجُوزُ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Boleh / diperkenankan",
+    "sharaf": "جَازَ – يَجُوزُ – جَوَازًا",
+    "meaning_fiqh": "Dalam konteks kalimat tentang air, digunakan dengan makna bahwa bersuci dengannya diperbolehkan atau sah menurut pembahasan yang sedang dijelaskan."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "يَصِحُّ",
+    "meaning_literal": "Bentuk: Fi'il Mudhari'. Artinya: Sah / benar",
+    "sharaf": "صَحَّ – يَصِحُّ – صِحَّةً",
+    "meaning_fiqh": "Menunjukkan bahwa suatu perbuatan atau ibadah dinilai sah menurut ketentuan syariat."
+  },
+  {
+    "chapter_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+    "term_arabic": "تَطْهِيرٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Menyucikan / proses penyucian",
+    "sharaf": "طَهَّرَ – يُطَهِّرُ – تَطْهِيرًا",
+    "meaning_fiqh": "Proses menyucikan dari hadats atau najis sesuai ketentuan syariat."
+  }
+]
