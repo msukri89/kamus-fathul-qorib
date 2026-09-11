@@ -1,184 +1,28 @@
 [
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "شَرَائِطُ",
-    "meaning_literal": "Bentuk: Jamak taksir (mufrad: شَرْطٌ). Artinya: Syarat-syarat",
-    "sharaf": "شَرَطَ – يَشْرُطُ – شَرْطًا",
-    "meaning_fiqh": "Perkara-perkara yang harus terpenuhi agar tayamum sah menurut ketentuan fikih."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "تَيَمُّمٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Tayamum / Sengaja menuju sesuatu",
-    "sharaf": "تَيَمَّمَ – يَتَيَمَّمُ – تَيَمُّمًا",
-    "meaning_fiqh": "Bersuci dengan menggunakan debu yang suci untuk mengusap wajah dan kedua tangan sebagai pengganti bersuci dengan air ketika memenuhi syarat tayamum."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "عُذْرٌ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Udzur / Halangan",
-    "sharaf": "عَذَرَ – يَعْذِرُ – عُذْرًا",
-    "meaning_fiqh": "Keadaan yang menjadi alasan syar'i untuk tidak menggunakan air, seperti safar atau sakit, sesuai rincian hukum tayamum."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "سَفَرٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Perjalanan / Safar",
-    "sharaf": "سَافَرَ – يُسَافِرُ – مُسَافَرَةً",
-    "meaning_fiqh": "Perjalanan yang menjadi salah satu keadaan yang dapat memberikan rukhsah tayamum sesuai ketentuan fikih."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "وَقْتٌ",
-    "meaning_literal": "Bentuk: Isim jamid. Artinya: Waktu",
-    "sharaf": "",
-    "meaning_fiqh": "Waktu ibadah yang hendak dilakukan telah masuk; tayamum untuk shalat fardhu tidak dilakukan sebelum masuk waktunya."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "طَلَبٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mencari",
-    "sharaf": "طَلَبَ – يَطْلُبُ – طَلَبًا",
-    "meaning_fiqh": "Usaha mencari air setelah masuk waktu shalat sesuai kemampuan dan ketentuan yang dijelaskan dalam fikih tayamum."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "تَعَذُّرٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Tidak memungkinkan / Terhalang",
-    "sharaf": "تَعَذَّرَ – يَتَعَذَّرُ – تَعَذُّرًا",
-    "meaning_fiqh": "Keadaan ketika penggunaan air tidak memungkinkan menurut ketentuan syariat, misalnya karena membahayakan orang yang sakit."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "إِعْوَازٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Tidak mendapatkan / Tidak tersedianya",
-    "sharaf": "أَعْوَزَ – يُعْوِزُ – إِعْوَازًا",
-    "meaning_fiqh": "Keadaan tidak mendapatkan air setelah dilakukan pencarian yang diwajibkan."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "تُرَابٌ",
-    "meaning_literal": "Bentuk: Isim jamid. Artinya: Debu / Tanah",
-    "sharaf": "",
-    "meaning_fiqh": "Debu atau bagian dari tanah yang memenuhi ketentuan syariat sebagai media tayamum."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "غُبَارٌ",
-    "meaning_literal": "Bentuk: Isim jamid. Artinya: Debu halus",
-    "sharaf": "",
-    "meaning_fiqh": "Partikel debu yang menjadi sifat penting pada tanah yang digunakan untuk tayamum menurut rincian Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "جِصٌّ",
-    "meaning_literal": "Bentuk: Isim jamid. Artinya: Gips / Kapur",
-    "sharaf": "",
-    "meaning_fiqh": "Bahan yang dibahas dalam rincian mengenai campuran pada tanah tayamum; keberadaannya dapat memengaruhi kelayakan media tayamum sesuai ketentuan fikih."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ",
-    "term_arabic": "رَمْلٌ",
-    "meaning_literal": "Bentuk: Isim jamid. Artinya: Pasir",
-    "sharaf": "",
-    "meaning_fiqh": "Pasir yang dibahas dalam rincian jenis tanah dan debu yang dapat digunakan untuk tayamum menurut ketentuan mazhab Syafi'i."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "أَرْبَعَةٌ",
-    "meaning_literal": "Bentuk: Isim Jamid (Adad). Artinya: Empat",
-    "sharaf": "",
-    "meaning_fiqh": "Bilangan yang menunjukkan empat perkara sebagai fardhu tayamum dalam Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "نِيَّةٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Niat",
-    "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
-    "meaning_fiqh": "Niat tayamum yang dikaitkan dengan pemindahan debu untuk wajah dan tangan serta dipertahankan sampai mengusap bagian wajah, dengan tujuan yang sesuai dengan ibadah yang hendak dilakukan."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "مَسْحٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mengusap",
-    "sharaf": "مَسَحَ – يَمْسَحُ – مَسْحًا",
-    "meaning_fiqh": "Mengusap wajah dan kedua tangan dengan debu tayamum sesuai batas yang ditentukan dalam mazhab Syafi'i."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "وَجْهٌ",
-    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Wajah",
-    "sharaf": "",
-    "meaning_fiqh": "Bagian wajah yang wajib terkena usapan debu dalam tayamum."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "يَدَانِ",
-    "meaning_literal": "Bentuk: Isim Mutsanna (Mufrad: يَدٌ). Artinya: Kedua tangan",
-    "sharaf": "",
-    "meaning_fiqh": "Kedua tangan yang wajib diusap bersama kedua siku dalam tayamum menurut ketentuan Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "تَرْتِيبٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Berurutan",
-    "sharaf": "رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا",
-    "meaning_fiqh": "Mendahulukan usapan wajah sebelum usapan kedua tangan; meninggalkan urutan ini menyebabkan tayamum tidak sah."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "تَسْمِيَةٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Membaca basmalah",
-    "sharaf": "سَمَّى – يُسَمِّي – تَسْمِيَةً",
-    "meaning_fiqh": "Membaca basmalah sebelum melakukan tayamum sebagai salah satu sunnah tayamum."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "تَقْدِيمٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mendahulukan",
-    "sharaf": "قَدَّمَ – يُقَدِّمُ – تَقْدِيمًا",
-    "meaning_fiqh": "Mendahulukan tangan kanan ketika mengusap kedua tangan, dan termasuk sunnah tayamum juga mendahulukan bagian atas wajah sebelum bagian bawahnya."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ",
-    "term_arabic": "مُوَالَاةٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Berkesinambungan / Berturut-turut",
-    "sharaf": "وَالَى – يُوَالِي – مُوَالَاةً",
-    "meaning_fiqh": "Melakukan rangkaian tayamum secara berkesinambungan tanpa jeda yang memutus pelaksanaannya."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
-    "term_arabic": "يُبْطِلُ",
-    "meaning_literal": "Bentuk: Fi'il mudhari'. Artinya: Membatalkan / Menjadikan tidak sah",
-    "sharaf": "أَبْطَلَ – يُبْطِلُ – إِبْطَالًا",
-    "meaning_fiqh": "Menjadikan tayamum tidak lagi berlaku sebagai thaharah yang membolehkan ibadah, karena terjadinya salah satu pembatal yang ditetapkan dalam pembahasan ini."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
-    "term_arabic": "أَبْطَلَ",
-    "meaning_literal": "Bentuk: Fi'il madhi. Artinya: Telah membatalkan / Menjadikan tidak sah",
-    "sharaf": "أَبْطَلَ – يُبْطِلُ – إِبْطَالًا",
-    "meaning_fiqh": "Membatalkan wudhu; dalam konteks pembahasan ini, setiap perkara yang membatalkan wudhu juga menjadi pembatal tayamum."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
-    "term_arabic": "رُؤْيَةٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Melihat",
-    "sharaf": "رَأَى – يَرَى – رُؤْيَةً",
-    "meaning_fiqh": "Melihat atau mengetahui adanya air dalam konteks tayamum karena tidak mendapatkan air; menurut Fathul Qorib, melihat air di luar waktu shalat dapat membatalkan tayamum, dengan rincian keadaan yang dijelaskan dalam bab ini."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
-    "term_arabic": "غَيْرٌ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Selain / Bukan",
-    "sharaf": "",
-    "meaning_fiqh": "Menunjukkan makna 'selain' atau 'bukan'; dalam frasa فِي غَيْرِ وَقْتِ الصَّلَاةِ, menunjuk pada waktu selain waktu shalat."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ",
-    "term_arabic": "رِدَّةٌ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Kemurtadan",
-    "sharaf": "رَدَّ – يَرُدُّ – رَدًّا",
-    "meaning_fiqh": "Keluar dari Islam; Fathul Qorib menyebutnya sebagai salah satu dari tiga pembatal tayamum."
-  }
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"شَرَائِطُ","meaning_literal":"Bentuk: Jamak taksir (mufrad: شَرْطٌ). Artinya: Syarat-syarat","sharaf":"شَرَطَ – يَشْرُطُ – شَرْطًا","meaning_fiqh":"Perkara-perkara yang harus terpenuhi agar tayamum sah menurut ketentuan fikih."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"تَيَمُّمٌ","meaning_literal":"Bentuk: Masdar. Artinya: Tayamum / Sengaja menuju sesuatu","sharaf":"تَيَمَّمَ – يَتَيَمَّمُ – تَيَمُّمًا","meaning_fiqh":"Bersuci dengan menggunakan debu yang suci untuk mengusap wajah dan kedua tangan sebagai pengganti bersuci dengan air ketika memenuhi syarat tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"عُذْرٌ","meaning_literal":"Bentuk: Isim. Artinya: Udzur / Halangan","sharaf":"عَذَرَ – يَعْذِرُ – عُذْرًا","meaning_fiqh":"Keadaan yang menjadi alasan syar'i untuk tidak menggunakan air, seperti safar atau sakit, sesuai rincian hukum tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"سَفَرٌ","meaning_literal":"Bentuk: Masdar. Artinya: Perjalanan / Safar","sharaf":"سَافَرَ – يُسَافِرُ – مُسَافَرَةً","meaning_fiqh":"Perjalanan yang menjadi salah satu keadaan yang dapat memberikan rukhsah tayamum sesuai ketentuan fikih."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"وَقْتٌ","meaning_literal":"Bentuk: Isim jamid. Artinya: Waktu","sharaf":"","meaning_fiqh":"Waktu ibadah yang hendak dilakukan telah masuk; tayamum untuk shalat fardhu tidak dilakukan sebelum masuk waktunya."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"طَلَبٌ","meaning_literal":"Bentuk: Masdar. Artinya: Mencari","sharaf":"طَلَبَ – يَطْلُبُ – طَلَبًا","meaning_fiqh":"Usaha mencari air setelah masuk waktu shalat sesuai kemampuan dan ketentuan yang dijelaskan dalam fikih tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"تَعَذُّرٌ","meaning_literal":"Bentuk: Masdar. Artinya: Tidak memungkinkan / Terhalang","sharaf":"تَعَذَّرَ – يَتَعَذَّرُ – تَعَذُّرًا","meaning_fiqh":"Keadaan ketika penggunaan air tidak memungkinkan menurut ketentuan syariat, misalnya karena membahayakan orang yang sakit."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"إِعْوَازٌ","meaning_literal":"Bentuk: Masdar. Artinya: Tidak mendapatkan / Tidak tersedianya","sharaf":"أَعْوَزَ – يُعْوِزُ – إِعْوَازًا","meaning_fiqh":"Keadaan tidak mendapatkan air setelah dilakukan pencarian yang diwajibkan."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"تُرَابٌ","meaning_literal":"Bentuk: Isim jamid. Artinya: Debu / Tanah","sharaf":"","meaning_fiqh":"Debu atau bagian dari tanah yang memenuhi ketentuan syariat sebagai media tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"غُبَارٌ","meaning_literal":"Bentuk: Isim jamid. Artinya: Debu halus","sharaf":"","meaning_fiqh":"Partikel debu yang menjadi sifat penting pada tanah yang digunakan untuk tayamum menurut rincian Fathul Qorib."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"جِصٌّ","meaning_literal":"Bentuk: Isim jamid. Artinya: Gips / Kapur","sharaf":"","meaning_fiqh":"Bahan yang dibahas dalam rincian mengenai campuran pada tanah tayamum; keberadaannya dapat memengaruhi kelayakan media tayamum sesuai ketentuan fikih."},
+  {"chapter_arabic":"فَصْلٌ فِي شَرَائِطِ التَّيَمُّمِ","term_arabic":"رَمْلٌ","meaning_literal":"Bentuk: Isim jamid. Artinya: Pasir","sharaf":"","meaning_fiqh":"Pasir yang dibahas dalam rincian jenis tanah dan debu yang dapat digunakan untuk tayamum menurut ketentuan mazhab Syafi'i."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"أَرْبَعَةٌ","meaning_literal":"Bentuk: Isim Jamid (Adad). Artinya: Empat","sharaf":"","meaning_fiqh":"Bilangan yang menunjukkan empat perkara sebagai fardhu tayamum dalam Fathul Qorib."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"نِيَّةٌ","meaning_literal":"Bentuk: Masdar. Artinya: Niat","sharaf":"نَوَى – يَنْوِي – نِيَّةً","meaning_fiqh":"Niat tayamum yang dikaitkan dengan pemindahan debu untuk wajah dan tangan serta dipertahankan sampai mengusap bagian wajah, dengan tujuan yang sesuai dengan ibadah yang hendak dilakukan."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"مَسْحٌ","meaning_literal":"Bentuk: Masdar. Artinya: Mengusap","sharaf":"مَسَحَ – يَمْسَحُ – مَسْحًا","meaning_fiqh":"Mengusap wajah dan kedua tangan dengan debu tayamum sesuai batas yang ditentukan dalam mazhab Syafi'i."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"وَجْهٌ","meaning_literal":"Bentuk: Isim Jamid. Artinya: Wajah","sharaf":"","meaning_fiqh":"Bagian wajah yang wajib terkena usapan debu dalam tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"يَدَانِ","meaning_literal":"Bentuk: Isim Mutsanna (Mufrad: يَدٌ). Artinya: Kedua tangan","sharaf":"","meaning_fiqh":"Kedua tangan yang wajib diusap bersama kedua siku dalam tayamum menurut ketentuan Fathul Qorib."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"تَرْتِيبٌ","meaning_literal":"Bentuk: Masdar. Artinya: Berurutan","sharaf":"رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا","meaning_fiqh":"Mendahulukan usapan wajah sebelum usapan kedua tangan; meninggalkan urutan ini menyebabkan tayamum tidak sah."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"تَسْمِيَةٌ","meaning_literal":"Bentuk: Masdar. Artinya: Membaca basmalah","sharaf":"سَمَّى – يُسَمِّي – تَسْمِيَةً","meaning_fiqh":"Membaca basmalah sebelum melakukan tayamum sebagai salah satu sunnah tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"تَقْدِيمٌ","meaning_literal":"Bentuk: Masdar. Artinya: Mendahulukan","sharaf":"قَدَّمَ – يُقَدِّمُ – تَقْدِيمًا","meaning_fiqh":"Mendahulukan tangan kanan ketika mengusap kedua tangan, dan termasuk sunnah tayamum juga mendahulukan bagian atas wajah sebelum bagian bawahnya."},
+  {"chapter_arabic":"فَصْلٌ فِي فُرُوضِ التَّيَمُّمِ وَسُنَنِهِ","term_arabic":"مُوَالَاةٌ","meaning_literal":"Bentuk: Masdar. Artinya: Berkesinambungan / Berturut-turut","sharaf":"وَالَى – يُوَالِي – مُوَالَاةً","meaning_fiqh":"Melakukan rangkaian tayamum secara berkesinambungan tanpa jeda yang memutus pelaksanaannya."},
+  {"chapter_arabic":"فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ","term_arabic":"يُبْطِلُ","meaning_literal":"Bentuk: Fi'il mudhari'. Artinya: Membatalkan / Menjadikan tidak sah","sharaf":"أَبْطَلَ – يُبْطِلُ – إِبْطَالًا","meaning_fiqh":"Menjadikan tayamum tidak lagi berlaku sebagai thaharah yang membolehkan ibadah, karena terjadinya salah satu pembatal yang ditetapkan dalam pembahasan ini."},
+  {"chapter_arabic":"فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ","term_arabic":"أَبْطَلَ","meaning_literal":"Bentuk: Fi'il madhi. Artinya: Telah membatalkan / Menjadikan tidak sah","sharaf":"أَبْطَلَ – يُبْطِلُ – إِبْطَالًا","meaning_fiqh":"Membatalkan wudhu; dalam konteks pembahasan ini, setiap perkara yang membatalkan wudhu juga menjadi pembatal tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ","term_arabic":"رُؤْيَةٌ","meaning_literal":"Bentuk: Masdar. Artinya: Melihat / Penglihatan","sharaf":"رَأَى – يَرَى – رُؤْيَةً","meaning_fiqh":"Melihat air yang sebelumnya tidak ditemukan. Dalam pembahasan pembatal tayamum karena kehilangan air, melihat atau menyangka adanya air sebelum masuk shalat membatalkan tayamum; jika air terlihat setelah masuk shalat, hukumnya berbeda menurut jenis shalat dan keadaan orang yang bertayamum. Jika tayamum dilakukan karena sakit atau semisalnya, melihat air tidak membatalkan tayamum."},
+  {"chapter_arabic":"فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ","term_arabic":"غَيْرٌ","meaning_literal":"Bentuk: Isim. Artinya: Selain / Bukan","sharaf":"","meaning_fiqh":"Menunjukkan makna 'selain' atau 'bukan'; dalam frasa فِي غَيْرِ وَقْتِ الصَّلَاةِ, menunjuk pada waktu selain waktu shalat."},
+  {"chapter_arabic":"فَصْلٌ فِي مُبْطِلَاتِ التَّيَمُّمِ","term_arabic":"رِدَّةٌ","meaning_literal":"Bentuk: Masdar. Artinya: Kemurtadan","sharaf":"رَدَّ – يَرُدُّ – رَدًّا","meaning_fiqh":"Keluar dari Islam; Fathul Qorib menyebutnya sebagai salah satu dari tiga pembatal tayamum."}
 ]
