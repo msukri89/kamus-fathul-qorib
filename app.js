@@ -2,16 +2,22 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
-            fetch('./data-corrections-wudhu.json')
+            fetch('./data-corrections-wudhu.json'),
+            fetch('./data-corrections-sunnah-wudhu.json')
         ]);
 
         const data = await dataResponse.json();
         const corrections = correctionsResponse.ok ? await correctionsResponse.json() : [];
         const wudhuCorrections = wudhuCorrectionsResponse.ok ? await wudhuCorrectionsResponse.json() : [];
-        const allCorrections = [...corrections, ...wudhuCorrections];
+        const sunnahWudhuCorrections = sunnahWudhuCorrectionsResponse.ok ? await sunnahWudhuCorrectionsResponse.json() : [];
+        const allCorrections = [
+            ...corrections,
+            ...wudhuCorrections,
+            ...sunnahWudhuCorrections
+        ];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
         // dioverride berdasarkan kombinasi bab + istilah Arab.
