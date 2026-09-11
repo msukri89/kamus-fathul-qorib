@@ -4,15 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kamus Fathul Qorib</title>
-    
     <link rel="manifest" href="./manifest.json">
-    
     <style>
-        body { 
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-            max-width: 600px; 
-            margin: 0 auto; 
-            padding: 20px; 
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
             background-color: #f8fafc;
             color: #334155;
         }
@@ -33,9 +31,9 @@
 
     <h1>Kamus Fikih Fathul Qorib</h1>
     <p style="text-align: center;">Kamus saku offline untuk istilah fikih</p>
-    
+
     <input type="search" id="searchInput" class="search-box" placeholder="Cari istilah Indonesia atau Arab..." autocomplete="off">
-    
+
     <div id="hasil">
         <p style="text-align: center; color: #64748b;">Memuat data kamus...</p>
     </div>
@@ -44,10 +42,16 @@
 
     <script>
         if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw.js')
-                    .then((reg) => console.log('Mode Offline Aktif!'))
-                    .catch((err) => console.log('Gagal mengaktifkan mode offline:', err));
+            window.addEventListener('load', async () => {
+                try {
+                    const registration = await navigator.serviceWorker.register('./sw.js?v=50', {
+                        updateViaCache: 'none'
+                    });
+                    await registration.update();
+                    console.log('Service Worker aktif:', registration.scope);
+                } catch (err) {
+                    console.log('Gagal memperbarui Service Worker:', err);
+                }
             });
         }
     </script>
