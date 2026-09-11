@@ -2,12 +2,13 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
             fetch('./data-corrections-wudhu.json'),
             fetch('./data-corrections-sunnah-wudhu.json'),
-            fetch('./data-corrections-nawaqidh-wudhu.json')
+            fetch('./data-corrections-nawaqidh-wudhu.json'),
+            fetch('./data-corrections-mujibat-ghusl.json')
         ]);
 
         const data = await dataResponse.json();
@@ -15,7 +16,14 @@ async function muatKamus() {
         const wudhuCorrections = wudhuCorrectionsResponse.ok ? await wudhuCorrectionsResponse.json() : [];
         const sunnahWudhuCorrections = sunnahWudhuCorrectionsResponse.ok ? await sunnahWudhuCorrectionsResponse.json() : [];
         const nawaqidhWudhuCorrections = nawaqidhWudhuCorrectionsResponse.ok ? await nawaqidhWudhuCorrectionsResponse.json() : [];
-        const allCorrections = [...corrections, ...wudhuCorrections, ...sunnahWudhuCorrections, ...nawaqidhWudhuCorrections];
+        const mujibatGhuslCorrections = mujibatGhuslCorrectionsResponse.ok ? await mujibatGhuslCorrectionsResponse.json() : [];
+        const allCorrections = [
+            ...corrections,
+            ...wudhuCorrections,
+            ...sunnahWudhuCorrections,
+            ...nawaqidhWudhuCorrections,
+            ...mujibatGhuslCorrections
+        ];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
         // dioverride berdasarkan kombinasi bab + istilah Arab.
