@@ -2,7 +2,7 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const sumberData = ['./data.json', './data-bab2.json', './data-bab3.json', './data-bab4.json', './data-bab5.json', './data-bab6.json'];
+        const sumberData = ['./data.json', './data-bab2.json', './data-bab3.json', './data-bab4.json', './data-bab5.json', './data-bab6.json', './data-bab7.json'];
         const responses = await Promise.all(sumberData.map(path => fetch(path)));
 
         for (let i = 0; i < responses.length; i++) {
