@@ -2,7 +2,7 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
             fetch('./data-corrections-wudhu.json'),
@@ -14,7 +14,8 @@ async function muatKamus() {
             fetch('./data-corrections-aghsaal-sunnah.json'),
             fetch('./data-corrections-khuff.json'),
             fetch('./data-corrections-tayammum.json'),
-            fetch('./data-corrections-jabirah.json')
+            fetch('./data-corrections-jabirah.json'),
+            fetch('./data-corrections-haid-nifas-istihadhah.json')
         ]);
 
         const data = await dataResponse.json();
@@ -29,6 +30,7 @@ async function muatKamus() {
         const khuffCorrections = khuffCorrectionsResponse.ok ? await khuffCorrectionsResponse.json() : [];
         const tayammumCorrections = tayammumCorrectionsResponse.ok ? await tayammumCorrectionsResponse.json() : [];
         const jabirahCorrections = jabirahCorrectionsResponse.ok ? await jabirahCorrectionsResponse.json() : [];
+        const haidNifasIstihadhahCorrections = haidNifasIstihadhahCorrectionsResponse.ok ? await haidNifasIstihadhahCorrectionsResponse.json() : [];
         const allCorrections = [
             ...corrections,
             ...wudhuCorrections,
@@ -40,7 +42,8 @@ async function muatKamus() {
             ...aghsaalSunnahCorrections,
             ...khuffCorrections,
             ...tayammumCorrections,
-            ...jabirahCorrections
+            ...jabirahCorrections,
+            ...haidNifasIstihadhahCorrections
         ];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
