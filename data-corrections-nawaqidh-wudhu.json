@@ -1,0 +1,93 @@
+[
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "نَوَاقِضُ",
+    "meaning_literal": "Bentuk: Jamak Taktsir (Mufrad: نَاقِضٌ). Artinya: Perkara-perkara yang membatalkan",
+    "sharaf": "نَقَضَ – يَنْقُضُ – نَقْضًا",
+    "meaning_fiqh": "Perkara-perkara yang menyebabkan wudhu menjadi batal atau tidak lagi berlaku menurut ketentuan fikih. Dalam Fathul Qorib, bab ini membahas enam perkara pembatal wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "خَرَجَ",
+    "meaning_literal": "Bentuk: Fi'il Madhi. Artinya: Keluar",
+    "sharaf": "خَرَجَ – يَخْرُجُ – خُرُوجًا",
+    "meaning_fiqh": "Dalam pembahasan pembatal wudhu, menunjuk pada sesuatu yang keluar melalui salah satu dari dua jalan, yaitu qubul atau dubur, dengan rincian yang dijelaskan dalam Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "سَبِيلَيْنِ",
+    "meaning_literal": "Bentuk: Isim Tatsniyah (Mutsanna). Artinya: Dua jalan / dua saluran",
+    "sharaf": "سَبِيلٌ – سَبِيلَانِ – سَبِيلَيْنِ",
+    "meaning_fiqh": "Yang dimaksud dalam Fathul Qorib adalah dua jalan keluarnya sesuatu, yaitu qubul dan dubur."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "قُبُلٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kemaluan depan",
+    "sharaf": "",
+    "meaning_fiqh": "Saluran atau tempat keluarnya sesuatu dari bagian depan. Dalam pembahasan ini, keluarnya sesuatu dari qubul termasuk pembatal wudhu dengan rincian yang dijelaskan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "دُبُرٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Dubur / anus",
+    "sharaf": "",
+    "meaning_fiqh": "Jalan atau tempat keluarnya sesuatu dari bagian belakang. Dalam pembahasan ini, keluarnya sesuatu dari dubur termasuk pembatal wudhu dengan rincian yang dijelaskan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "نَوْمٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Tidur",
+    "sharaf": "نَامَ – يَنَامُ – نَوْمًا",
+    "meaning_fiqh": "Tidur dapat membatalkan wudhu apabila tidak berada dalam keadaan هيئة المتمكن, yaitu posisi yang memungkinkan seseorang tetap menjaga tempat duduknya sehingga secara hukum tidak dianggap aman dari keluarnya sesuatu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "زَوَالٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Hilangnya / lenyapnya",
+    "sharaf": "زَالَ – يَزُولُ – زَوَالًا",
+    "meaning_fiqh": "Hilangnya akal, seperti karena mabuk atau sakit, termasuk pembatal wudhu dalam pembahasan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "عَقْلٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Akal / kemampuan memahami",
+    "sharaf": "عَقَلَ – يَعْقِلُ – عَقْلًا",
+    "meaning_fiqh": "Kemampuan kesadaran dan pemahaman. Hilangnya akal karena mabuk, sakit, gila, pingsan, atau keadaan sejenisnya termasuk sebab batalnya wudhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "لَمْسٌ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Sentuhan",
+    "sharaf": "لَمَسَ – يَلْمِسُ – لَمْسًا",
+    "meaning_fiqh": "Sentuhan kulit laki-laki dan perempuan yang termasuk ajnabiyah tanpa penghalang merupakan salah satu pembatal wudhu dalam mazhab Syafi'i sebagaimana dibahas dalam Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "أَجْنَبِيَّةٌ",
+    "meaning_literal": "Bentuk: Isim Nisbah / Muannats. Artinya: Perempuan yang bukan mahram",
+    "sharaf": "أَجْنَبِيٌّ – أَجْنَبِيَّةٌ",
+    "meaning_fiqh": "Perempuan yang secara hukum bukan mahram dan pada asalnya boleh dinikahi. Dalam bab ini, sentuhan kulit tanpa penghalang menjadi pembahasan pembatal wudhu menurut mazhab Syafi'i."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "حَائِلٌ",
+    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Penghalang",
+    "sharaf": "حَالَ – يَحُولُ – حَوْلًا",
+    "meaning_fiqh": "Sesuatu yang menjadi penghalang antara kulit laki-laki dan perempuan. Dalam pembahasan Fathul Qorib, sentuhan yang terjadi tanpa penghalang memiliki hukum pembatal wudhu sebagaimana rinciannya."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "فَرْجٌ",
+    "meaning_literal": "Bentuk: Isim Jamid. Artinya: Kemaluan",
+    "sharaf": "",
+    "meaning_fiqh": "Kemaluan manusia. Menyentuh kemaluan dengan bagian dalam telapak tangan termasuk pembatal wudhu dalam pembahasan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+    "term_arabic": "بَاطِنُ الْكَفِّ",
+    "meaning_literal": "Artinya: Bagian dalam telapak tangan",
+    "sharaf": "",
+    "meaning_fiqh": "Bagian dalam telapak tangan yang menjadi bagian yang diperhitungkan ketika menyentuh kemaluan dalam pembahasan pembatal wudhu."
+  }
+]
