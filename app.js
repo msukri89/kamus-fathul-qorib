@@ -2,7 +2,7 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse, laranganCorrectionsResponse] = await Promise.all([
+        const [dataResponse, correctionsResponse, wudhuCorrectionsResponse, sunnahWudhuCorrectionsResponse, nawaqidhWudhuCorrectionsResponse, mujibatGhuslCorrectionsResponse, fardhuGhuslCorrectionsResponse, sunnahGhuslCorrectionsResponse, aghsaalSunnahCorrectionsResponse, khuffCorrectionsResponse, tayammumCorrectionsResponse, jabirahCorrectionsResponse, haidNifasIstihadhahCorrectionsResponse, laranganCorrectionsResponse, thaharahDasarCorrectionsResponse] = await Promise.all([
             fetch('./data.json'),
             fetch('./data-corrections.json'),
             fetch('./data-corrections-wudhu.json'),
@@ -16,7 +16,8 @@ async function muatKamus() {
             fetch('./data-corrections-tayammum.json'),
             fetch('./data-corrections-jabirah.json'),
             fetch('./data-corrections-haid-nifas-istihadhah.json'),
-            fetch('./data-corrections-larangan-haid-junub-hadats.json')
+            fetch('./data-corrections-larangan-haid-junub-hadats.json'),
+            fetch('./data-corrections-thaharah-dasar.json')
         ]);
 
         const data = await dataResponse.json();
@@ -33,6 +34,7 @@ async function muatKamus() {
         const jabirahCorrections = jabirahCorrectionsResponse.ok ? await jabirahCorrectionsResponse.json() : [];
         const haidNifasIstihadhahCorrections = haidNifasIstihadhahCorrectionsResponse.ok ? await haidNifasIstihadhahCorrectionsResponse.json() : [];
         const laranganCorrections = laranganCorrectionsResponse.ok ? await laranganCorrectionsResponse.json() : [];
+        const thaharahDasarCorrections = thaharahDasarCorrectionsResponse.ok ? await thaharahDasarCorrectionsResponse.json() : [];
         const allCorrections = [
             ...corrections,
             ...wudhuCorrections,
@@ -46,7 +48,8 @@ async function muatKamus() {
             ...tayammumCorrections,
             ...jabirahCorrections,
             ...haidNifasIstihadhahCorrections,
-            ...laranganCorrections
+            ...laranganCorrections,
+            ...thaharahDasarCorrections
         ];
 
         // Data utama tetap dipertahankan, sedangkan entri yang sudah diaudit
