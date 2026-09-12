@@ -1,93 +1,12 @@
 [
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat dua hari raya",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ عِيدٌ: اِسْمٌ",
-    "meaning_fiqh": "Salat Idulfitri dan Iduladha hukumnya sunnah muakkadah. Keduanya terdiri dari dua rakaat dan dilaksanakan dengan tata cara khusus."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "سُنَّةٌ مُؤَكَّدَةٌ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Sunnah yang sangat ditekankan",
-    "sharaf": "سُنَّةٌ: اِسْمٌ؛ مُؤَكَّدٌ: اِسْمُ مَفْعُولٍ مِنْ أَكَّدَ – يُؤَكِّدُ",
-    "meaning_fiqh": "Hukum salat dua hari raya adalah sunnah muakkadah menurut Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "وَقْتُ صَلَاةِ الْعِيدِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Waktu salat Id",
-    "sharaf": "وَقْتٌ: اِسْمٌ؛ صَلَّى – يُصَلِّي – صَلَاةً؛ عِيدٌ: اِسْمٌ",
-    "meaning_fiqh": "Waktu salat Id dimulai sejak terbit matahari sampai zawal (masuk waktu Zuhur)."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "رَكْعَتَانِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Dua rakaat",
-    "sharaf": "رَكْعَةٌ: اِسْمُ مَرَّةٍ مِنْ رَكَعَ – يَرْكَعُ؛ اِثْنَانِ: عَدَدٌ",
-    "meaning_fiqh": "Salat Id terdiri dari dua rakaat. Pada rakaat pertama terdapat tujuh takbir tambahan selain takbiratul ihram, dan pada rakaat kedua lima takbir tambahan selain takbir ketika berdiri."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "سَبْعُ تَكْبِيرَاتٍ فِي الرَّكْعَةِ الْأُولَى",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh takbir pada rakaat pertama",
-    "sharaf": "سَبْعٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ رَكْعَةٌ: اِسْمُ مَرَّةٍ",
-    "meaning_fiqh": "Pada rakaat pertama salat Id dilakukan tujuh takbir tambahan selain takbiratul ihram."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "خَمْسُ تَكْبِيرَاتٍ فِي الرَّكْعَةِ الثَّانِيَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Lima takbir pada rakaat kedua",
-    "sharaf": "خَمْسٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ رَكْعَةٌ: اِسْمُ مَرَّةٍ",
-    "meaning_fiqh": "Pada rakaat kedua dilakukan lima takbir tambahan selain takbir ketika berdiri dari sujud untuk rakaat kedua."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "خُطْبَتَانِ بَعْدَ الصَّلَاةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Dua khutbah setelah salat",
-    "sharaf": "خَطَبَ – يَخْطُبُ – خُطْبَةً؛ صَلَّى – يُصَلِّي – صَلَاةً",
-    "meaning_fiqh": "Setelah dua rakaat salat Id, imam disunnahkan menyampaikan dua khutbah. Khutbah Id dilaksanakan setelah salat, berbeda dari khutbah Jumat yang mendahului salat."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "تِسْعُ تَكْبِيرَاتٍ فِي الْخُطْبَةِ الْأُولَى",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Sembilan takbir pada khutbah pertama",
-    "sharaf": "تِسْعٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ خُطْبَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Pada awal khutbah pertama Id disunnahkan bertakbir sembilan kali secara berturut-turut."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "سَبْعُ تَكْبِيرَاتٍ فِي الْخُطْبَةِ الثَّانِيَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh takbir pada khutbah kedua",
-    "sharaf": "سَبْعٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ خُطْبَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Pada awal khutbah kedua Id disunnahkan bertakbir tujuh kali secara berturut-turut."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "التَّكْبِيرُ الْمُرْسَلُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Takbir mutlak",
-    "sharaf": "كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ مُرْسَلٌ: اِسْمُ مَفْعُولٍ مِنْ أَرْسَلَ – يُرْسِلُ",
-    "meaning_fiqh": "Takbir mursal adalah takbir yang tidak dilakukan setelah salat. Dalam penjelasan Fathul Qorib, takbir Idulfitri dimulai sejak terbenam matahari pada malam Id sampai imam mulai salat Id."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "التَّكْبِيرُ الْمُقَيَّدُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Takbir yang terikat",
-    "sharaf": "كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ مُقَيَّدٌ: اِسْمُ مَفْعُولٍ مِنْ قَيَّدَ – يُقَيِّدُ",
-    "meaning_fiqh": "Takbir muqayyad adalah takbir yang dilakukan setelah salat. Dalam penjelasan Fathul Qorib, pada Iduladha dimulai setelah salat Subuh hari Arafah sampai salat Asar pada hari terakhir Tasyriq."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "التَّكْبِيرُ مِنْ غُرُوبِ شَمْسِ لَيْلَةِ الْعِيدِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Takbir sejak terbenam matahari malam Id",
-    "sharaf": "كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ غَرَبَ – يَغْرُبُ – غُرُوبًا؛ لَيْلَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Takbir Idulfitri disunnahkan sejak terbenam matahari pada malam Id sampai imam masuk dalam salat Id."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْعِيدَيْنِ",
-    "term_arabic": "التَّكْبِيرُ فِي الْأَضْحَى خَلْفَ الصَّلَوَاتِ الْمَفْرُوضَاتِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Takbir Iduladha setelah salat-salat fardu",
-    "sharaf": "كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ صَلَّى – يُصَلِّي – صَلَاةً؛ فَرَضَ – يَفْرِضُ – فَرْضًا",
-    "meaning_fiqh": "Takbir muqayyad pada Iduladha dilakukan setelah salat-salat fardu, mulai Subuh hari Arafah sampai Asar pada hari terakhir Tasyriq."
-  }
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"صَلَاةُ الْعِيدَيْنِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Salat dua hari raya","sharaf":"صَلَّى – يُصَلِّي – صَلَاةً؛ عِيدٌ – أَعْيَادٌ","meaning_fiqh":"Salat Idulfitri dan Iduladha hukumnya sunnah muakkadah dan masing-masing terdiri dari dua rakaat dengan takbir-takbir tambahan."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"وَقْتُ صَلَاةِ الْعِيدِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Waktu salat Id","sharaf":"وَقْتٌ: اِسْمٌ؛ صَلَّى – يُصَلِّي – صَلَاةً؛ عِيدٌ – أَعْيَادٌ","meaning_fiqh":"Waktu salat Id dimulai setelah terbit matahari sampai matahari tergelincir (zawal)."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"رَكْعَتَانِ","meaning_literal":"Bentuk: Mutsanna (mufrad: رَكْعَةٌ). Artinya: Dua rakaat","sharaf":"رَكْعَةٌ: اِسْمُ مَرَّةٍ مِنْ رَكَعَ – يَرْكَعُ؛ رَكْعَتَانِ: تَثْنِيَةُ رَكْعَةٍ","meaning_fiqh":"Salat Id terdiri dari dua rakaat. Pada rakaat pertama terdapat tujuh takbir selain takbiratul ihram, sedangkan pada rakaat kedua terdapat lima takbir selain takbir ketika berdiri dari sujud."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"سَبْعُ تَكْبِيرَاتٍ فِي الرَّكْعَةِ الْأُولَى","meaning_literal":"Bentuk: Frasa bilangan. Artinya: Tujuh takbir pada rakaat pertama","sharaf":"سَبْعٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ رَكْعَةٌ – رَكَعَاتٌ","meaning_fiqh":"Pada rakaat pertama salat Id dilakukan tujuh takbir tambahan selain takbiratul ihram."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"خَمْسُ تَكْبِيرَاتٍ فِي الرَّكْعَةِ الثَّانِيَةِ","meaning_literal":"Bentuk: Frasa bilangan. Artinya: Lima takbir pada rakaat kedua","sharaf":"خَمْسٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ رَكْعَةٌ – رَكَعَاتٌ","meaning_fiqh":"Pada rakaat kedua salat Id dilakukan lima takbir tambahan selain takbir ketika berdiri dari sujud untuk rakaat kedua."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"خُطْبَتَانِ بَعْدَ الصَّلَاةِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Dua khutbah setelah salat","sharaf":"خَطَبَ – يَخْطُبُ – خُطْبَةً؛ خُطْبَةٌ – خُطَبٌ","meaning_fiqh":"Setelah dua rakaat salat Id, imam disunnahkan menyampaikan dua khutbah. Khutbah Id dilaksanakan setelah salat."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"تِسْعُ تَكْبِيرَاتٍ فِي الْخُطْبَةِ الْأُولَى","meaning_literal":"Bentuk: Frasa bilangan. Artinya: Sembilan takbir pada khutbah pertama","sharaf":"تِسْعٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ خُطْبَةٌ – خُطَبٌ","meaning_fiqh":"Pada awal khutbah pertama Id disunnahkan bertakbir sembilan kali secara berturut-turut."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"سَبْعُ تَكْبِيرَاتٍ فِي الْخُطْبَةِ الثَّانِيَةِ","meaning_literal":"Bentuk: Frasa bilangan. Artinya: Tujuh takbir pada khutbah kedua","sharaf":"سَبْعٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ خُطْبَةٌ – خُطَبٌ","meaning_fiqh":"Pada awal khutbah kedua Id disunnahkan bertakbir tujuh kali secara berturut-turut."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"التَّكْبِيرُ الْمُرْسَلُ","meaning_literal":"Bentuk: Masdar dengan sifat. Artinya: Takbir mutlak","sharaf":"كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ مُرْسَلٌ: اِسْمُ مَفْعُولٍ مِنْ أَرْسَلَ – يُرْسِلُ – إِرْسَالًا","meaning_fiqh":"Takbir mursal adalah takbir yang tidak terikat dengan waktu setelah salat. Dalam pembahasan Idulfitri, waktunya dimulai sejak terbenam matahari pada malam Id sampai imam mulai melakukan salat Id."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ","term_arabic":"التَّكْبِيرُ الْمُقَيَّدُ","meaning_literal":"Bentuk: Masdar dengan sifat. Artinya: Takbir muqayyad","sharaf":"كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ مُقَيَّدٌ: اِسْمُ مَفْعُولٍ مِنْ قَيَّدَ – يُقَيِّدُ – تَقْيِيدًا","meaning_fiqh":"Takbir muqayyad adalah takbir yang terikat dengan waktu setelah salat. Dalam pembahasan Iduladha, takbir ini dimulai setelah salat Subuh hari Arafah sampai salat Asar pada hari terakhir Tasyriq."}
 ]
