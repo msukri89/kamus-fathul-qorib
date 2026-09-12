@@ -1,37 +1,51 @@
 [
   {
-    "chapter_arabic": "صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
-    "term_arabic": "الْمَرِيضُ وَالْمُسَافِرُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Orang sakit dan orang yang bepergian",
-    "sharaf": "مَرِيضٌ: صِفَةٌ؛ مُسَافِرٌ: اِسْمُ فَاعِلٍ مِنْ سَافَرَ",
-    "meaning_fiqh": "Fathul Qorib membahas orang sakit dan orang yang melakukan perjalanan yang memenuhi ketentuan safar sehingga memperoleh rukhsah dalam puasa."
+    "chapter_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "term_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Puasa orang sakit dan orang yang bepergian",
+    "sharaf":"صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ مَرِيضٌ: اِسْمُ فَاعِلٍ مِنْ مَرِضَ؛ مُسَافِرٌ: اِسْمُ فَاعِلٍ مِنْ سَافَرَ",
+    "meaning_fiqh":"Bab ini membahas rukhsah puasa bagi orang sakit dan musafir. Fathul Qorib menyatakan bahwa keduanya boleh berbuka dan wajib mengqadha apabila memenuhi ketentuan yang disebutkan."
   },
   {
-    "chapter_arabic": "صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
-    "term_arabic": "السَّفَرُ الطَّوِيلُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Perjalanan yang jauh",
-    "sharaf": "سَفَرٌ: اِسْمٌ؛ طَوِيلٌ: صِفَةٌ",
-    "meaning_fiqh": "Perjalanan yang membolehkan berbuka menurut syarah Fathul Qorib adalah perjalanan yang panjang dan mubah; orang yang melakukan perjalanan seperti ini memperoleh rukhsah berbuka apabila puasa menimbulkan mudarat atau kesulitan yang diperhitungkan."
+    "chapter_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "term_arabic":"الْمَرِيضُ",
+    "meaning_literal":"Bentuk: Isim fa'il. Artinya: Orang yang sakit",
+    "sharaf":"مَرِضَ – يَمْرَضُ – مَرَضًا؛ مَرِيضٌ: اِسْمُ فَاعِلٍ",
+    "meaning_fiqh":"Orang sakit memperoleh rukhsah berbuka apabila puasanya menimbulkan bahaya atau kesulitan yang diperhitungkan menurut ketentuan fikih."
   },
   {
-    "chapter_arabic": "صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
-    "term_arabic": "الْمَرَضُ الْمُبِيحُ لِلْفِطْرِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Sakit yang membolehkan berbuka",
-    "sharaf": "مَرَضٌ: اِسْمٌ؛ أَبَاحَ – يُبِيحُ – إِبَاحَةً؛ فِطْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Dalam syarah Fathul Qorib, sakit yang membolehkan berbuka adalah sakit yang apabila berpuasa menimbulkan bahaya atau kesulitan yang nyata."
+    "chapter_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "term_arabic":"الْمُسَافِرُ سَفَرًا طَوِيلًا مُبَاحًا",
+    "meaning_literal":"Bentuk: Frasa sifat. Artinya: Orang yang melakukan perjalanan jauh yang mubah",
+    "sharaf":"مُسَافِرٌ: اِسْمُ فَاعِلٍ مِنْ سَافَرَ؛ سَفَرٌ: اِسْمٌ؛ طَوِيلٌ: صِفَةٌ؛ مُبَاحٌ: اِسْمُ مَفْعُولٍ مِنْ أَبَاحَ",
+    "meaning_fiqh":"Fathul Qorib mengaitkan rukhsah berbuka dengan safar yang panjang dan mubah. Jika musafir tersebut mengalami mudarat karena puasa, ia boleh berbuka dan wajib mengqadha."
   },
   {
-    "chapter_arabic": "صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
-    "term_arabic": "الْإِفْطَارُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Berbuka",
-    "sharaf": "أَفْطَرَ – يُفْطِرُ – إِفْطَارًا",
-    "meaning_fiqh": "Orang sakit yang memenuhi ketentuan rukhsah dan musafir dengan perjalanan panjang yang mubah boleh berbuka karena uzurnya."
+    "chapter_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "term_arabic":"الْإِفْطَارُ",
+    "meaning_literal":"Bentuk: Masdar. Artinya: Berbuka",
+    "sharaf":"أَفْطَرَ – يُفْطِرُ – إِفْطَارًا",
+    "meaning_fiqh":"Orang sakit dan musafir yang memenuhi ketentuan rukhsah boleh berbuka dari puasa Ramadan."
   },
   {
-    "chapter_arabic": "صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
-    "term_arabic": "الْقَضَاءُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mengqadha",
-    "sharaf": "قَضَى – يَقْضِي – قَضَاءً",
-    "meaning_fiqh": "Puasa Ramadan yang ditinggalkan karena sakit atau safar pada pembahasan ini wajib diganti dengan qadha pada hari lain."
+    "chapter_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "term_arabic":"الْقَضَاءُ",
+    "meaning_literal":"Bentuk: Masdar. Artinya: Mengganti puasa yang ditinggalkan",
+    "sharaf":"قَضَى – يَقْضِي – قَضَاءً",
+    "meaning_fiqh":"Puasa Ramadan yang ditinggalkan karena sakit atau safar diganti dengan puasa pada hari lain."
+  },
+  {
+    "chapter_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "term_arabic":"الْمَرَضُ الْمُطْبِقُ",
+    "meaning_literal":"Bentuk: Frasa sifat. Artinya: Penyakit yang terus-menerus",
+    "sharaf":"مَرَضٌ: اِسْمٌ؛ مُطْبِقٌ: اِسْمُ فَاعِلٍ مِنْ أَطْبَقَ",
+    "meaning_fiqh":"Jika sakit bersifat terus-menerus sehingga kondisi sakitnya mencakup waktu puasa, terdapat rincian khusus mengenai niat puasa pada malam hari."
+  },
+  {
+    "chapter_arabic":"صَوْمُ الْمَرِيضِ وَالْمُسَافِرِ",
+    "term_arabic":"تَرْكُ النِّيَّةِ لَيْلًا لِلْمَرِيضِ الْمُطْبِقِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Tidak melakukan niat pada malam hari bagi orang sakit yang penyakitnya terus-menerus",
+    "sharaf":"تَرْكٌ: مَصْدَرٌ مِنْ تَرَكَ؛ نِيَّةٌ: مَصْدَرٌ مِنْ نَوَى؛ لَيْلٌ: اِسْمٌ؛ مُطْبِقٌ: اِسْمُ فَاعِلٍ مِنْ أَطْبَقَ",
+    "meaning_fiqh":"Dalam syarah Fathul Qorib, orang sakit dengan penyakit terus-menerus boleh tidak melakukan niat puasa pada malam hari. Untuk sakit yang tidak terus-menerus terdapat rincian berdasarkan kondisi saat waktu mulai puasa."
   }
 ]
