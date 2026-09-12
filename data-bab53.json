@@ -11,42 +11,42 @@
     "term_arabic": "ثَمَانِيَةُ أَصْنَافٍ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Delapan golongan",
     "sharaf": "ثَمَانِيَةٌ: عَدَدٌ؛ صِنْفٌ – أَصْنَافٌ: اِسْمٌ وَجَمْعُهُ",
-    "meaning_fiqh": "Penerima zakat ada delapan golongan: fakir, miskin, amil, muallaf, mukatab, gharim, fi sabilillah, dan ibnu sabil."
+    "meaning_fiqh": "Penerima zakat ada delapan golongan: fakir, miskin, amil, muallaf, budak yang sedang menebus kemerdekaannya (mukatab), gharim, fi sabilillah, dan ibnu sabil."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْفُقَرَاءُ",
     "meaning_literal": "Bentuk: Jamak. Artinya: Orang-orang fakir",
     "sharaf": "فَقِيرٌ: صِفَةٌ؛ فُقَرَاءُ: جَمْعُ فَقِيرٍ",
-    "meaning_fiqh": "Fakir adalah orang yang tidak memiliki harta atau pekerjaan yang mencukupi kebutuhannya, sebagaimana rincian definisi dalam Fathul Qorib."
+    "meaning_fiqh": "Fakir adalah orang yang tidak memiliki harta atau pekerjaan yang layak untuk memenuhi kebutuhannya. Dalam rincian Fathul Qorib, ia tidak memiliki sesuatu yang mencukupi kebutuhannya."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْمَسَاكِينُ",
     "meaning_literal": "Bentuk: Jamak. Artinya: Orang-orang miskin",
     "sharaf": "مِسْكِينٌ: صِفَةٌ؛ مَسَاكِينُ: جَمْعُ مِسْكِينٍ",
-    "meaning_fiqh": "Miskin adalah orang yang memiliki harta atau pekerjaan yang menghasilkan sebagian kebutuhannya, tetapi belum mencukupi seluruh kebutuhan yang layak."
+    "meaning_fiqh": "Miskin adalah orang yang memiliki harta atau pekerjaan yang dapat memenuhi sebagian kebutuhannya, tetapi belum mencukupi seluruh kebutuhannya."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْعَامِلُونَ عَلَيْهَا",
     "meaning_literal": "Bentuk: Frasa. Artinya: Orang-orang yang bertugas mengelola zakat",
     "sharaf": "عَامِلٌ: اِسْمُ فَاعِلٍ مِنْ عَمِلَ؛ عَلَى: حَرْفُ جَرٍّ؛ هَا: ضَمِيرٌ",
-    "meaning_fiqh": "Amil adalah orang yang ditugaskan oleh imam untuk mengurus zakat, seperti mengumpulkan, mencatat, menjaga, dan menyalurkannya sesuai tugasnya."
+    "meaning_fiqh": "Amil adalah orang yang ditugaskan oleh imam untuk mengurus zakat, seperti mengumpulkan, mencatat, menjaga, dan menyalurkannya kepada yang berhak."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْمُؤَلَّفَةُ قُلُوبُهُمْ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Orang-orang yang dilunakkan hatinya",
     "sharaf": "مُؤَلَّفٌ: اِسْمُ مَفْعُولٍ مِنْ أَلَّفَ؛ قَلْبٌ – قُلُوبٌ: اِسْمٌ وَجَمْعُهُ",
-    "meaning_fiqh": "Muallaf adalah golongan yang diberi zakat untuk tujuan yang diakui dalam pembahasan fikih, seperti menguatkan hati terhadap Islam; Fathul Qorib merinci mereka menjadi empat bagian."
+    "meaning_fiqh": "Muallaf adalah golongan yang diberi zakat untuk tujuan yang diakui dalam pembahasan fikih. Fathul Qorib merinci mereka menjadi empat bagian."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "فِي الرِّقَابِ",
     "meaning_literal": "Bentuk: Frasa jar-majrur. Artinya: Untuk memerdekakan budak",
     "sharaf": "رَقَبَةٌ – رِقَابٌ: اِسْمٌ وَجَمْعُهُ؛ فِي: حَرْفُ جَرٍّ",
-    "meaning_fiqh": "Bagian في الرقاب dalam Fathul Qorib diberikan kepada mukatab, yaitu budak yang melakukan akad kitabah yang sah untuk membantu pembebasan dirinya."
+    "meaning_fiqh": "Bagian في الرقاب dalam Fathul Qorib diberikan kepada mukatab, yaitu budak yang melakukan akad kitabah yang sah untuk memperoleh kemerdekaan."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
@@ -67,14 +67,14 @@
     "term_arabic": "ابْنُ السَّبِيلِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Orang yang sedang dalam perjalanan",
     "sharaf": "ابْنٌ: اِسْمٌ؛ سَبِيلٌ: اِسْمٌ",
-    "meaning_fiqh": "Ibnu sabil adalah musafir yang membutuhkan bantuan untuk melanjutkan perjalanan yang mubah, sesuai rincian yang dijelaskan dalam Fathul Qorib."
+    "meaning_fiqh": "Ibnu sabil adalah musafir yang terputus bekalnya di selain daerah asalnya dan membutuhkan zakat untuk melanjutkan perjalanan yang mubah."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "ثَلَاثَةٌ مِنْ كُلِّ صِنْفٍ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tiga orang dari setiap golongan",
     "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ صِنْفٌ – أَصْنَافٌ: اِسْمٌ وَجَمْعُهُ",
-    "meaning_fiqh": "Dalam pembahasan Fathul Qorib, pada setiap golongan yang memiliki penerima, zakat pada asalnya tidak diberikan kurang dari tiga orang; amil memiliki pengecualian sehingga satu orang dapat mencukupi apabila tugasnya terpenuhi."
+    "meaning_fiqh": "Dalam pembahasan Fathul Qorib menurut rincian mazhab Syafi'i, apabila suatu golongan memiliki penerima yang memungkinkan, zakat pada asalnya diberikan kepada minimal tiga orang; amil memiliki pengecualian sehingga satu orang dapat mencukupi bila tugasnya terpenuhi."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
@@ -116,6 +116,6 @@
     "term_arabic": "مَنْ تَلْزَمُ الْمُزَكِّيَ نَفَقَتُهُ",
     "meaning_literal": "Bentuk: Jumlah/Frasa. Artinya: Orang yang nafkahnya wajib ditanggung oleh orang yang berzakat",
     "sharaf": "لَزِمَ – يَلْزَمُ – لُزُومًا؛ نَفَقَةٌ: اِسْمٌ؛ مُزَكٍّ: اِسْمُ فَاعِلٍ مِنْ زَكَّى",
-    "meaning_fiqh": "Orang yang wajib dinafkahi oleh pemberi zakat tidak diberi zakat atas dasar fakir atau miskin. Namun ia dapat menerima zakat apabila berhak karena sebab lain yang diakui, seperti menjadi gharim atau pejuang."
+    "meaning_fiqh": "Orang yang wajib dinafkahi oleh pemberi zakat tidak diberi zakat atas dasar fakir atau miskin. Namun ia dapat menerima zakat apabila berhak karena sebab lain yang diakui, seperti menjadi gharim atau termasuk fi sabilillah."
   }
 ]
