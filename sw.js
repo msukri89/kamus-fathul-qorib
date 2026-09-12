@@ -16,6 +16,7 @@ const ASSETS_TO_CACHE = [
   './data-bab9.json',
   './data-bab10.json',
   './data-bab11.json',
+  './data-bab12.json',
   './manifest.json'
 ];
 
@@ -30,7 +31,8 @@ const DATA_FILES = new Set([
   'data-bab8.json',
   'data-bab9.json',
   'data-bab10.json',
-  'data-bab11.json'
+  'data-bab11.json',
+  'data-bab12.json'
 ]);
 
 self.addEventListener('install', (event) => {
