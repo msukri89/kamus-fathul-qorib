@@ -53,14 +53,14 @@
     "term_arabic": "السِّقْطُ الَّذِي لَمْ يَسْتَهِلَّ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Janin yang tidak mengeluarkan suara",
     "sharaf": "سَقَطَ – يَسْقُطُ – سُقُوطًا؛ اِسْتَهَلَّ – يَسْتَهِلُّ – اِسْتِهْلَالًا",
-    "meaning_fiqh": "Janin yang lahir sebelum sempurna dan tidak mengeluarkan suara tidak dimandikan dan tidak disalatkan. Jika telah mengeluarkan suara atau menangis, hukumnya seperti orang dewasa."
+    "meaning_fiqh": "Janin yang lahir sebelum sempurna dan tidak mengeluarkan suara tidak dimandikan dan tidak disalatkan. Jika telah mengeluarkan suara atau menangis, menurut syarah Fathul Qorib hukumnya seperti orang dewasa."
   },
   {
     "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
     "term_arabic": "غَسْلُ الْمَيِّتِ وِتْرًا",
     "meaning_literal": "Bentuk: Frasa. Artinya: Memandikan mayit dengan bilangan ganjil",
     "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا؛ وِتْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Mayit dimandikan dengan bilangan ganjil, seperti tiga atau lima kali, atau lebih. Pada awal mandi digunakan sidr, sedangkan pada akhir mandi diberi sedikit kapur barus."
+    "meaning_fiqh": "Mayit dimandikan dengan bilangan ganjil, seperti tiga atau lima kali, atau lebih. Pada awal mandi digunakan sidr, sedangkan pada akhir mandi mayit yang bukan muhrim diberi sedikit kapur barus yang tidak mengubah air."
   },
   {
     "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
@@ -74,6 +74,6 @@
     "term_arabic": "كَافُورٌ فِي آخِرِ غَسْلِ الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Kapur barus pada akhir memandikan mayit",
     "sharaf": "كَافُورٌ: اِسْمٌ؛ غَسَلَ – يَغْسِلُ – غَسْلًا؛ آخِرٌ: اِسْمٌ",
-    "meaning_fiqh": "Pada akhir memandikan mayit diberi sedikit kapur barus."
+    "meaning_fiqh": "Pada akhir memandikan mayit yang bukan muhrim disunnahkan memberikan sedikit kapur barus dengan kadar yang tidak mengubah air."
   }
 ]
