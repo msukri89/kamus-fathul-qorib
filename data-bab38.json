@@ -25,12 +25,12 @@
     "term_arabic": "تَكْفِينُ الْمَيِّتِ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Mengafani mayit",
     "sharaf": "كَفَّنَ – يُكَفِّنُ – تَكْفِينًا",
-    "meaning_fiqh": "Mengafani mayit termasuk fardu kifayah. Kafan sempurna bagi mayit adalah tiga kain putih yang seluruhnya berupa lembaran dan menutup seluruh tubuh."
+    "meaning_fiqh": "Mengafani mayit termasuk fardu kifayah. Kafan yang disebutkan dalam matan adalah tiga kain putih, yang tidak berupa baju dan sorban."
   },
   {
     "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
     "term_arabic": "الصَّلَاةُ عَلَى الْمَيِّتِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat atas mayit",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Salat atas mayit",
     "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ مَيِّتٌ: اِسْمٌ",
     "meaning_fiqh": "Menyalatkan mayit muslim termasuk fardu kifayah. Mayit syahid dalam pertempuran melawan orang musyrik tidak disalatkan."
   },
@@ -46,7 +46,7 @@
     "term_arabic": "الشَّهِيدُ فِي مَعْرَكَةِ الْمُشْرِكِينَ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Syahid dalam pertempuran melawan orang-orang musyrik",
     "sharaf": "شَهِدَ – يَشْهَدُ – شَهَادَةً؛ مَعْرَكَةٌ: اِسْمٌ؛ مُشْرِكٌ: اِسْمٌ",
-    "meaning_fiqh": "Syahid yang meninggal karena pertempuran melawan orang-orang kafir tidak dimandikan dan tidak disalatkan menurut pembahasan Fathul Qorib."
+    "meaning_fiqh": "Syahid yang meninggal dalam pertempuran melawan orang-orang musyrik tidak dimandikan dan tidak disalatkan menurut pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
@@ -60,20 +60,20 @@
     "term_arabic": "غَسْلُ الْمَيِّتِ وِتْرًا",
     "meaning_literal": "Bentuk: Frasa. Artinya: Memandikan mayit dengan bilangan ganjil",
     "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا؛ وِتْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Mayit dimandikan dengan bilangan ganjil, seperti tiga atau lima kali, atau lebih jika diperlukan. Pada awal mandi disunnahkan menggunakan sidr atau khitmi, sedangkan pada akhir mandi non-muhrim diberi sedikit kapur barus yang tidak mengubah air."
+    "meaning_fiqh": "Mayit dimandikan dengan bilangan ganjil, seperti tiga atau lima kali, atau lebih. Pada awal mandi digunakan sidr, sedangkan pada akhir mandi diberi sedikit kapur barus."
   },
   {
     "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
     "term_arabic": "ثَلَاثَةُ أَثْوَابٍ بِيضٍ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tiga kain putih",
     "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ ثَوْبٌ: اِسْمٌ؛ أَبْيَضُ: صِفَةٌ",
-    "meaning_fiqh": "Kafan sempurna bagi mayit, laki-laki maupun perempuan, adalah tiga kain putih yang berupa lembaran, menutup seluruh tubuh, dan bukan berupa baju atau sorban."
+    "meaning_fiqh": "Kafan yang disebutkan dalam matan adalah tiga kain putih, yang tidak berupa baju dan sorban."
   },
   {
     "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
     "term_arabic": "كَافُورٌ فِي آخِرِ غَسْلِ الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Kapur barus pada akhir memandikan mayit",
     "sharaf": "كَافُورٌ: اِسْمٌ؛ غَسَلَ – يَغْسِلُ – غَسْلًا؛ آخِرٌ: اِسْمٌ",
-    "meaning_fiqh": "Pada akhir memandikan mayit yang bukan muhrim disunnahkan memberikan sedikit kapur barus dengan kadar yang tidak mengubah air."
+    "meaning_fiqh": "Pada akhir memandikan mayit diberi sedikit kapur barus."
   }
 ]
