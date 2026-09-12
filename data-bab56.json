@@ -4,41 +4,41 @@
     "term_arabic": "مَا يُسْتَحَبُّ لِلصَّائِمِ",
     "meaning_literal": "Bentuk: Jumlah/Frasa. Artinya: Hal-hal yang disunnahkan bagi orang yang berpuasa",
     "sharaf": "يُسْتَحَبُّ: فِعْلٌ مُضَارِعٌ مَبْنِيٌّ لِلْمَجْهُولِ مِنِ اسْتَحَبَّ؛ صَائِمٌ: اِسْمُ فَاعِلٍ مِنْ صَامَ",
-    "meaning_fiqh": "Bab ini membahas beberapa amalan dan adab yang disunnahkan bagi orang yang berpuasa menurut Fathul Qorib."
+    "meaning_fiqh": "Bab ini membahas tiga perkara yang disunnahkan bagi orang yang berpuasa menurut Fathul Qorib: menyegerakan berbuka, mengakhirkan sahur, dan meninggalkan perkataan buruk."
   },
   {
     "chapter_arabic": "مَا يُسْتَحَبُّ لِلصَّائِمِ",
     "term_arabic": "تَعْجِيلُ الْفِطْرِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Menyegerakan berbuka",
     "sharaf": "تَعْجِيلٌ: مَصْدَرٌ مِنْ عَجَّلَ؛ فِطْرٌ: مَصْدَرٌ مِنْ أَفْطَرَ",
-    "meaning_fiqh": "Menyegerakan berbuka disunnahkan setelah yakin matahari telah terbenam. Jika masih ragu terhadap terbenamnya matahari, tidak disunnahkan menyegerakannya."
+    "meaning_fiqh": "Menyegerakan berbuka disunnahkan setelah yakin matahari telah terbenam. Jika masih ragu terhadap terbenamnya matahari, tidak disunnahkan menyegerakan berbuka."
   },
   {
     "chapter_arabic": "مَا يُسْتَحَبُّ لِلصَّائِمِ",
     "term_arabic": "الْفِطْرُ عَلَى تَمْرٍ فَإِنْ لَمْ يَجِدْ فَعَلَى الْمَاءِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Berbuka dengan kurma; jika tidak mendapatkannya, dengan air",
-    "sharaf": "فِطْرٌ: مَصْدَرٌ مِنْ أَفْطَرَ؛ تَمْرٌ: اِسْمٌ؛ وَجَدَ – يَجِدُ – وُجُودًا",
-    "meaning_fiqh": "Fathul Qorib menyebutkan kesunnahan berbuka dengan kurma. Jika tidak ada kurma, berbuka dengan air merupakan pilihan yang disunnahkan."
+    "sharaf": "فِطْرٌ: مَصْدَرٌ مِنْ أَفْطَرَ؛ تَمْرٌ: اِسْمٌ؛ وَجَدَ – يَجِدُ – وُجُودًا؛ مَاءٌ: اِسْمٌ",
+    "meaning_fiqh": "Fathul Qorib menyebutkan kesunnahan berbuka dengan kurma. Jika tidak ada kurma, maka dengan air."
   },
   {
     "chapter_arabic": "مَا يُسْتَحَبُّ لِلصَّائِمِ",
     "term_arabic": "تَأْخِيرُ السُّحُورِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Mengakhirkan sahur",
-    "sharaf": "تَأْخِيرٌ: مَصْدَرٌ مِنْ أَخَّرَ؛ سُحُورٌ: مَصْدَرٌ مِنْ تَسَحَّرَ وَيُطْلَقُ عَلَى طَعَامِ السَّحَرِ",
-    "meaning_fiqh": "Mengakhirkan sahur disunnahkan selama belum terjadi keraguan mengenai terbitnya fajar. Sahur tetap tercapai dengan sedikit makan atau minum."
+    "sharaf": "تَأْخِيرٌ: مَصْدَرٌ مِنْ أَخَّرَ؛ سُحُورٌ: مَصْدَرٌ مِنْ تَسَحَّرَ، وَيُطْلَقُ عَلَى طَعَامِ السَّحَرِ",
+    "meaning_fiqh": "Mengakhirkan sahur disunnahkan selama belum muncul keraguan tentang terbitnya fajar. Sahur tetap tercapai meskipun hanya dengan sedikit makan atau minum."
   },
   {
     "chapter_arabic": "مَا يُسْتَحَبُّ لِلصَّائِمِ",
     "term_arabic": "تَرْكُ الْهِجْرِ مِنَ الْكَلَامِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Meninggalkan perkataan buruk atau kasar",
     "sharaf": "تَرْكٌ: مَصْدَرٌ مِنْ تَرَكَ؛ هِجْرٌ: اِسْمٌ؛ كَلَامٌ: مَصْدَرٌ مِنْ كَلَّمَ",
-    "meaning_fiqh": "Orang yang berpuasa disunnahkan meninggalkan perkataan buruk, seperti dusta, ghibah, dan makian."
+    "meaning_fiqh": "Orang yang berpuasa disunnahkan meninggalkan perkataan buruk atau keji, termasuk dusta, ghibah, dan makian."
   },
   {
     "chapter_arabic": "مَا يُسْتَحَبُّ لِلصَّائِمِ",
     "term_arabic": "إِنِّي صَائِمٌ",
     "meaning_literal": "Bentuk: Jumlah ismiyyah. Artinya: Sesungguhnya aku sedang berpuasa",
     "sharaf": "إِنَّ: حَرْفٌ مُشَبَّهٌ بِالْفِعْلِ؛ يَاءُ الْمُتَكَلِّمِ: ضَمِيرٌ؛ صَائِمٌ: اِسْمُ فَاعِلٍ مِنْ صَامَ",
-    "meaning_fiqh": "Jika orang yang berpuasa dicaci atau diajak bertengkar, Fathul Qorib menganjurkan agar ia mengatakan إِنِّي صَائِمٌ dua atau tiga kali, sebagai bentuk menjaga diri dari pertengkaran."
+    "meaning_fiqh": "Jika orang yang berpuasa dicaci atau diajak bertengkar, Fathul Qorib menganjurkan agar ia mengatakan إِنِّي صَائِمٌ dua atau tiga kali, dengan lisan atau dalam hati, untuk menjaga diri dari pertengkaran."
   }
 ]
