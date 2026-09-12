@@ -1,0 +1,93 @@
+[
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Zakat dua orang yang mencampurkan ternaknya",
+    "sharaf": "زَكَاةٌ: اِسْمٌ؛ خَلِيطٌ: صِفَةٌ",
+    "meaning_fiqh": "Dua orang yang mencampurkan ternaknya dalam bentuk khulthah yang memenuhi syarat, zakatnya diperlakukan seperti zakat satu orang."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الْخَلِيطَانِ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Dua pihak yang mencampurkan ternaknya",
+    "sharaf": "خَلِيطٌ: صِفَةٌ؛ الْخَلِيطَانِ: مُثَنَّى",
+    "meaning_fiqh": "Dua pemilik ternak yang hartanya bercampur sehingga memenuhi ketentuan khulthah yang diperhitungkan dalam zakat."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "زَكَاةُ الشَّخْصِ الْوَاحِدِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Zakat seperti zakat satu orang",
+    "sharaf": "زَكَاةٌ: اِسْمٌ؛ شَخْصٌ: اِسْمٌ؛ وَاحِدٌ: صِفَةٌ",
+    "meaning_fiqh": "Jika khulthah memenuhi syarat, keseluruhan ternak dihitung dalam penentuan kewajiban zakat sebagaimana harta milik satu orang."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "ثَمَانُونَ شَاةً",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Delapan puluh ekor kambing",
+    "sharaf": "ثَمَانُونَ: عَدَدٌ؛ شَاةٌ: اِسْمٌ",
+    "meaning_fiqh": "Contoh khulthah yang meringankan: dua orang masing-masing memiliki 40 ekor kambing dan keduanya bercampur memenuhi syarat, sehingga kewajiban keseluruhan adalah satu ekor kambing."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "أَرْبَعُونَ شَاةً",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Empat puluh ekor kambing",
+    "sharaf": "أَرْبَعُونَ: عَدَدٌ؛ شَاةٌ: اِسْمٌ",
+    "meaning_fiqh": "Contoh khulthah yang memberatkan: dua orang masing-masing memiliki 20 ekor kambing dan keduanya bercampur memenuhi syarat, sehingga keseluruhan dihukumi mencapai nisab 40 ekor dan wajib satu ekor kambing."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الْمَرَاحُ وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tempat bermalam ternak menjadi satu",
+    "sharaf": "مَرَاحٌ: اِسْمٌ",
+    "meaning_fiqh": "Salah satu dari tujuh syarat khulthah adalah tempat ternak bermalam menjadi satu."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الْمَسْرَحُ وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tempat ternak digembalakan menjadi satu",
+    "sharaf": "مَسْرَحٌ: اِسْمُ مَكَانٍ",
+    "meaning_fiqh": "Tempat ternak digembalakan menjadi satu merupakan salah satu syarat agar khulthah diperhitungkan."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الْمَرْعَى وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tempat penggembalaan menjadi satu",
+    "sharaf": "مَرْعًى: اِسْمُ مَكَانٍ",
+    "meaning_fiqh": "Tempat atau padang penggembalaan ternak menjadi satu merupakan salah satu syarat khulthah."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الرَّاعِي وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Penggembala menjadi satu",
+    "sharaf": "رَعَى – يَرْعَى – رَعْيًا؛ رَاعٍ: اِسْمُ فَاعِلٍ",
+    "meaning_fiqh": "Ternak yang bercampur memiliki satu penggembala merupakan salah satu syarat khulthah."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الْفَحْلُ وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Pejantan menjadi satu",
+    "sharaf": "فَحْلٌ: اِسْمٌ",
+    "meaning_fiqh": "Pejantan yang digunakan bersama menjadi salah satu syarat khulthah ketika ternaknya satu jenis."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الْمَشْرَبُ وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tempat minum menjadi satu",
+    "sharaf": "مَشْرَبٌ: اِسْمُ مَكَانٍ",
+    "meaning_fiqh": "Tempat minum ternak menjadi satu merupakan salah satu syarat khulthah."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "الْمَحْلَبُ وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tempat atau wadah pemerahan menjadi satu",
+    "sharaf": "مَحْلَبٌ: اِسْمُ مَكَانٍ",
+    "meaning_fiqh": "Tempat atau wadah pemerahan yang digunakan bersama merupakan salah satu syarat khulthah."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
+    "term_arabic": "سَبْعَةُ شَرَائِطَ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh syarat",
+    "sharaf": "سَبْعَةٌ: عَدَدٌ؛ شَرْطٌ: اِسْمٌ",
+    "meaning_fiqh": "Khulthah yang menyebabkan ternak diperlakukan dalam zakat seperti milik satu orang memiliki tujuh syarat: satu tempat bermalam, satu tempat menggembala, satu tempat penggembalaan, satu penggembala, satu pejantan, satu tempat minum, dan satu tempat atau wadah pemerahan."
+  }
+]
