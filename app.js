@@ -2,7 +2,7 @@ let kamusData = [];
 
 async function muatKamus() {
     try {
-        const sumberData = ['./data.json', './data-bab2.json', './data-bab3.json', './data-bab4.json', './data-bab5.json', './data-bab6.json', './data-bab7.json', './data-bab8.json', './data-bab9.json', './data-bab10.json', './data-bab11.json', './data-bab12.json', './data-bab13.json', './data-bab14.json', './data-bab15.json', './data-bab16.json', './data-bab17.json', './data-bab18.json', './data-bab19.json', './data-bab20.json', './data-bab21.json', './data-bab22.json', './data-bab23.json', './data-bab24.json'];
+        const sumberData = ['./data.json', './data-bab2.json', './data-bab3.json', './data-bab4.json', './data-bab5.json', './data-bab6.json', './data-bab7.json', './data-bab8.json', './data-bab9.json', './data-bab10.json', './data-bab11.json', './data-bab12.json', './data-bab13.json', './data-bab14.json', './data-bab15.json', './data-bab16.json', './data-bab17.json', './data-bab18.json', './data-bab19.json', './data-bab20.json', './data-bab21.json', './data-bab22.json', './data-bab23.json', './data-bab24.json', './data-bab25.json'];
         const responses = await Promise.all(sumberData.map(path => fetch(path)));
 
         for (let i = 0; i < responses.length; i++) {
