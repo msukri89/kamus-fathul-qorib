@@ -16,8 +16,20 @@ function tokenArabic(token) {
   return token?.form?.arabic || token?.arabic || "";
 }
 
-function tokenMeaning(token, lexeme) {
+function getTokenLexemeIds(token) {
+  if (token?.lexeme_id) return [token.lexeme_id];
+  if (Array.isArray(token?.form?.components)) {
+    return token.form.components.map((component) => component.lexeme_id).filter(Boolean);
+  }
+  return [];
+}
+
+function getTokenMeaning(token, lexeme) {
   return token?.contextual_meaning || token?.literal || lexeme?.literal || "";
+}
+
+function getLexemeLabel(lexeme) {
+  return lexeme?.lemma || lexeme?.arabic || "";
 }
 
 function render() {
@@ -45,21 +57,13 @@ function render() {
     return `
       <button class="${classes}" data-index="${index}" type="button" aria-label="Lihat rincian lafaz ${escapeAttribute(arabic)}">
         <span class="token-arabic">${escapeHtml(arabic)}</span>
-        <span class="token-ref">${escapeHtml(firstLexeme?.lemma || label)}</span>
+        <span class="token-ref">${escapeHtml(firstLexeme ? getLexemeLabel(firstLexeme) : label)}</span>
       </button>`;
   }).join("");
 
   $("#tokens").querySelectorAll(".token").forEach((button) => {
     button.addEventListener("click", () => showToken(Number(button.dataset.index), button));
   });
-}
-
-function getTokenLexemeIds(token) {
-  if (token?.lexeme_id) return [token.lexeme_id];
-  if (Array.isArray(token?.form?.components)) {
-    return token.form.components.map((component) => component.lexeme_id).filter(Boolean);
-  }
-  return [];
 }
 
 function escapeHtml(value = "") {
@@ -85,14 +89,15 @@ function showToken(index, sourceButton = null) {
   const lexemeIds = getTokenLexemeIds(token);
   const lexemes = lexemeIds.map((id) => map.get(id)).filter(Boolean);
   const primaryLexeme = lexemes[0] || null;
+  const isPhrase = token.token_type === "phrase";
 
   state.activeToken = token;
   state.lastFocusedToken = sourceButton || document.activeElement;
 
   $("#detail-arabic").textContent = arabic;
-  $("#detail-literal").textContent = tokenMeaning(token, primaryLexeme) || "—";
+  $("#detail-literal").textContent = getTokenMeaning(token, primaryLexeme) || "—";
+  $("#detail-meaning-label").textContent = isPhrase ? "Makna frasa" : "Makna literal";
 
-  const isPhrase = token.token_type === "phrase";
   $("#single-lexeme-fields").hidden = isPhrase;
   $("#detail-components-box").hidden = !isPhrase;
 
@@ -104,17 +109,29 @@ function showToken(index, sourceButton = null) {
     $("#detail-pattern").textContent = primaryLexeme?.pattern || "—";
     $("#detail-derivation").textContent = primaryLexeme?.derivation || "—";
   } else {
-    const components = token.form?.components || [];
+    const components = Array.isArray(token.form?.components) ? token.form.components : [];
     $("#detail-components").innerHTML = components.map((component) => {
       const lexeme = component.lexeme_id ? map.get(component.lexeme_id) : null;
       const componentArabic = component.arabic || "";
       const componentLiteral = lexeme?.literal || component.literal || "";
       const componentLemma = lexeme?.lemma || "";
-      return `<div class="component-row"><div class="component-arabic">${escapeHtml(componentArabic)}</div><div><strong>${escapeHtml(componentLemma || "Lafaz fungsi")}</strong><div class="component-literal">${escapeHtml(componentLiteral || "—")}</div></div></div>`;
+      const componentType = component.type || lexeme?.type || "";
+      const componentLabel = componentLemma || "Lafaz fungsi";
+      return `
+        <div class="component-row">
+          <div class="component-arabic">${escapeHtml(componentArabic)}</div>
+          <div>
+            <strong>${escapeHtml(componentLabel)}</strong>
+            <div class="component-literal">${escapeHtml(componentLiteral || "—")}</div>
+            ${componentType ? `<div class="component-type">${escapeHtml(componentType)}</div>` : ""}
+          </div>
+        </div>`;
     }).join("");
   }
 
-  const context = token.contextual_meaning || primaryLexeme?.context_note || "";
+  const context = token.contextual_meaning && token.contextual_meaning !== getTokenMeaning(token, primaryLexeme)
+    ? token.contextual_meaning
+    : (token.reference?.context_note || "");
   $("#detail-context").textContent = context;
   $("#detail-context-box").hidden = !context;
 
