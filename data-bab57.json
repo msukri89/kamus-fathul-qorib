@@ -1,30 +1,44 @@
 [
   {
-    "chapter_arabic": "الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
-    "term_arabic": "الْعِيدَانِ",
-    "meaning_literal": "Bentuk: Kata. Artinya: Dua hari raya",
-    "sharaf": "عِيدٌ: اِسْمٌ؛ الْعِيدَانِ: مُثَنَّى عِيدٍ",
-    "meaning_fiqh": "Dua hari raya yang dimaksud adalah hari Idul Fitri dan Idul Adha. Berpuasa pada kedua hari tersebut hukumnya haram menurut Fathul Qorib."
+    "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
+    "term_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
+    "meaning_literal":"Bentuk: Jumlah ismiyyah. Artinya: Hari-hari yang diharamkan dan dimakruhkan untuk berpuasa",
+    "sharaf":"أَيَّامٌ: جَمْعُ يَوْمٍ؛ يَحْرُمُ: فِعْلٌ مُضَارِعٌ مِنْ حَرُمَ؛ يُكْرَهُ: فِعْلٌ مُضَارِعٌ مَبْنِيٌّ لِلْمَجْهُولِ مِنْ كَرِهَ",
+    "meaning_fiqh":"Fathul Qorib membagi pembahasan ini menjadi hari-hari yang haram berpuasa dan hari yang dimakruhkan dengan kadar tahrim, yaitu hari syak tanpa sebab yang membolehkan puasa."
   },
   {
-    "chapter_arabic": "الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
-    "term_arabic": "أَيَّامُ التَّشْرِيقِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Hari-hari Tasyrik",
-    "sharaf": "أَيَّامٌ: جَمْعُ يَوْمٍ؛ تَشْرِيقٌ: مَصْدَرٌ مِنْ شَرَّقَ",
-    "meaning_fiqh": "Hari Tasyrik adalah tiga hari setelah hari Nahr (Idul Adha). Berpuasa pada ketiga hari tersebut hukumnya haram menurut Fathul Qorib."
+    "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
+    "term_arabic":"الْعِيدَانِ",
+    "meaning_literal":"Bentuk: Kata. Artinya: Dua hari raya",
+    "sharaf":"عِيدٌ: اِسْمٌ؛ الْعِيدَانِ: مُثَنَّى عِيدٍ",
+    "meaning_fiqh":"Dua hari raya adalah Idul Fitri dan Idul Adha. Berpuasa pada keduanya hukumnya haram. Fathul Qorib memasukkannya bersama tiga hari Tasyrik sebagai lima hari yang haram untuk berpuasa."
   },
   {
-    "chapter_arabic": "الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
-    "term_arabic": "صَوْمُ يَوْمِ الشَّكِّ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Puasa pada hari syak (hari keraguan)",
-    "sharaf": "صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ شَكٌّ: مَصْدَرٌ مِنْ شَكَّ",
-    "meaning_fiqh": "Puasa pada hari syak dihukumi makruh tahrim apabila tidak ada sebab yang menuntut untuk berpuasa. Fathul Qorib memberikan contoh sebab berupa kebiasaan puasa sunnah yang bertepatan dengan hari syak; puasa qadha dan nazar juga disebut sebagai puasa yang boleh dilakukan pada hari syak."
+    "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
+    "term_arabic":"أَيَّامُ التَّشْرِيقِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Hari-hari Tasyrik",
+    "sharaf":"أَيَّامٌ: جَمْعُ يَوْمٍ؛ تَشْرِيقٌ: مَصْدَرٌ مِنْ شَرَّقَ",
+    "meaning_fiqh":"Hari Tasyrik adalah tiga hari setelah hari Nahr, yaitu 11, 12, dan 13 Dzulhijjah. Berpuasa pada hari-hari tersebut hukumnya haram menurut pembahasan Fathul Qorib."
   },
   {
-    "chapter_arabic": "الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
-    "term_arabic": "يَوْمُ الشَّكِّ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Hari syak / hari keraguan",
-    "sharaf": "يَوْمٌ: اِسْمٌ؛ شَكٌّ: مَصْدَرٌ مِنْ شَكَّ",
-    "meaning_fiqh": "Dalam penjelasan Fathul Qorib, hari syak adalah tanggal 30 Sya'ban ketika hilal tidak terlihat pada malamnya dalam keadaan cuaca cerah, atau masyarakat membicarakan adanya rukyat tetapi tidak diketahui orang adil yang melihatnya, atau kesaksian rukyat berasal dari anak-anak, budak, atau orang fasik."
+    "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
+    "term_arabic":"صَوْمُ يَوْمِ الشَّكِّ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Puasa pada hari syak",
+    "sharaf":"صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ يَوْمٌ: اِسْمٌ؛ شَكٌّ: مَصْدَرٌ مِنْ شَكَّ",
+    "meaning_fiqh":"Fathul Qorib menyatakan puasa pada hari syak makruh tahrim apabila tidak ada sebab yang menuntut untuk berpuasa. Di antara sebab yang disebutkan adalah bertepatan dengan kebiasaan puasa sunnah; puasa qadha dan nazar juga dibahas sebagai puasa yang boleh dilakukan."
+  },
+  {
+    "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
+    "term_arabic":"يَوْمُ الشَّكِّ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Hari syak atau hari keraguan",
+    "sharaf":"يَوْمٌ: اِسْمٌ؛ شَكٌّ: مَصْدَرٌ مِنْ شَكَّ",
+    "meaning_fiqh":"Hari syak adalah tanggal 30 Sya'ban apabila hilal tidak terlihat pada malamnya dalam keadaan cerah, atau masyarakat membicarakan adanya rukyat tetapi tidak diketahui orang adil yang melihatnya, atau yang bersaksi melihat hilal adalah anak-anak, budak, atau orang fasik."
+  },
+  {
+    "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
+    "term_arabic":"مُوَافَقَةُ يَوْمِ الشَّكِّ لِعَادَةِ الصَّوْمِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Bertepatan dengan hari syak karena kebiasaan berpuasa",
+    "sharaf":"مُوَافَقَةٌ: مَصْدَرٌ مِنْ وَافَقَ؛ عَادَةٌ: اِسْمٌ؛ صَوْمٌ: مَصْدَرٌ مِنْ صَامَ",
+    "meaning_fiqh":"Di antara sebab yang membolehkan puasa pada hari syak adalah apabila hari tersebut bertepatan dengan kebiasaan puasa sunnah seseorang, sebagaimana pengecualian yang disebutkan dalam Fathul Qorib."
   }
 ]
