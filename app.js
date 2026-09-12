@@ -93,7 +93,7 @@ function tampilkanHasil(data) {
 
             const sharaf = document.createElement('p');
             sharaf.innerHTML = `<strong>Sharaf:</strong> ${item.sharaf || '-'}`;
-            div.appendChild(sharaf;
+            div.appendChild(sharaf);
 
             const fiqh = document.createElement('p');
             fiqh.innerHTML = `<strong>Makna fiqih:</strong> ${item.meaning_fiqh || '-'}`;
