@@ -2,57 +2,78 @@
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
     "term_arabic": "دَفْنُ الْمَيِّتِ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Menguburkan mayit",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Menguburkan mayit",
     "sharaf": "دَفَنَ – يَدْفِنُ – دَفْنًا؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh": "Mayit dikuburkan di dalam lahad dengan menghadap kiblat. Pemakaman dalam lahad lebih utama daripada syaq apabila tanahnya keras."
+    "meaning_fiqh": "Pemakaman mayit merupakan fardu kifayah. Dalam pembahasan ini dijelaskan bentuk kubur, cara meletakkan mayit, dan beberapa adab serta ketentuan pemakaman."
+  },
+  {
+    "chapter_arabic": "دَفْنُ الْمَيِّتِ",
+    "term_arabic": "أَقَلُّ الْقَبْرِ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Ukuran minimal kubur",
+    "sharaf": "أَقَلُّ: أَفْعَلُ التَّفْضِيلِ؛ قَبْرٌ – قُبُورٌ",
+    "meaning_fiqh": "Ukuran minimal kubur adalah galian yang dapat menahan bau mayit dan melindunginya dari gangguan binatang buas serta mencegah pembongkaran yang mudah."
   },
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
     "term_arabic": "اللَّحْدُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Lahad, liang di sisi bawah kubur",
-    "sharaf": "لَحَدَ – يَلْحَدُ – لَحْدًا",
-    "meaning_fiqh": "Lahad adalah lubang yang dibuat pada bagian bawah sisi kubur dari arah kiblat, dengan ukuran yang cukup untuk menempatkan dan menutup mayit."
+    "meaning_literal": "Bentuk: Isim. Artinya: Lahad, liang pada sisi bawah kubur",
+    "sharaf": "لَحَدَ – يَلْحَدُ – لَحْدًا؛ لَحْدٌ: مَصْدَرٌ",
+    "meaning_fiqh": "Lahad adalah liang yang dibuat pada bagian bawah sisi kubur dari arah kiblat untuk meletakkan mayit. Jika tanahnya keras, lahad lebih utama daripada syaq."
   },
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
-    "term_arabic": "الْإِضْجَاعُ عَلَى الْجَانِبِ الْأَيْمَنِ مُسْتَقْبِلَ الْقِبْلَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Membaringkan di sisi kanan menghadap kiblat",
-    "sharaf": "أَضْجَعَ – يُضْجِعُ – إِضْجَاعًا؛ جَانِبٌ: اِسْمٌ؛ اِسْتَقْبَلَ – يَسْتَقْبِلُ – اِسْتِقْبَالًا",
-    "meaning_fiqh": "Mayit dibaringkan di dalam kubur dengan sisi kanan menghadap kiblat. Jika mayit dikuburkan membelakangi kiblat atau terlentang, ia dibongkar dan diarahkan menghadap kiblat selama tubuhnya belum berubah."
+    "term_arabic": "الشَّقُّ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Syaq, liang yang dibuat di tengah dasar kubur",
+    "sharaf": "شَقَّ – يَشُقُّ – شَقًّا؛ شَقٌّ: مَصْدَرٌ",
+    "meaning_fiqh": "Syaq adalah liang yang dibuat di tengah kubur seperti parit, kemudian mayit diletakkan di dalamnya dan bagian atasnya ditutup. Jika tanah keras, lahad lebih utama daripada syaq."
   },
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
     "term_arabic": "تَعْمِيقُ الْقَبْرِ قَامَةً وَبَسْطَةً",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Memperdalam kubur setinggi orang berdiri dan sebatas bentangan tangan",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Memperdalam kubur sedalam ukuran qamah dan basthah",
     "sharaf": "عَمَّقَ – يُعَمِّقُ – تَعْمِيقًا؛ قَامَةٌ: اِسْمٌ؛ بَسْطَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Kubur diperdalam kira-kira setinggi orang berdiri dan sebatas bentangan tangan, sebagaimana disebutkan dalam matan dan syarah Fathul Qorib."
+    "meaning_fiqh": "Disunnahkan memperluas dan memperdalam kubur kira-kira seukuran qamah dan basthah sebagaimana rincian yang disebutkan dalam syarah Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "دَفْنُ الْمَيِّتِ",
+    "term_arabic": "الْإِضْجَاعُ عَلَى الْجَانِبِ الْأَيْمَنِ مُسْتَقْبِلَ الْقِبْلَةِ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Membaringkan di sisi kanan menghadap kiblat",
+    "sharaf": "أَضْجَعَ – يُضْجِعُ – إِضْجَاعًا؛ جَانِبٌ – جَوَانِبُ؛ اِسْتَقْبَلَ – يَسْتَقْبِلُ – اِسْتِقْبَالًا",
+    "meaning_fiqh": "Mayit diletakkan di dalam lahad pada sisi kanan dengan menghadap kiblat. Menghadap kiblat merupakan ketentuan penting dalam penempatan mayit."
   },
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
     "term_arabic": "السَّلُّ مِنْ قِبَلِ الرَّأْسِ بِرِفْقٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Menurunkan mayit dari arah kepala dengan lembut",
-    "sharaf": "سَلَّ – يَسُلُّ – سَلًّا؛ رَأْسٌ: اِسْمٌ؛ رِفْقٌ: اِسْمٌ",
-    "meaning_fiqh": "Mayit dimasukkan ke dalam kubur dari arah kepala dengan perlahan, tidak dengan kasar. Orang yang meletakkannya dianjurkan membaca: بِسْمِ اللهِ وَعَلَى مِلَّةِ رَسُولِ اللهِ."
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Menurunkan mayit dari arah kepala dengan lembut",
+    "sharaf": "سَلَّ – يَسُلُّ – سَلًّا؛ رَأْسٌ – رُؤُوسٌ؛ رِفْقٌ: اِسْمٌ",
+    "meaning_fiqh": "Mayit diletakkan ke dalam kubur dari arah kepala dengan perlahan dan lembut. Orang yang memasukkannya dianjurkan membaca: بِسْمِ اللهِ وَعَلَى مِلَّةِ رَسُولِ اللهِ."
   },
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
     "term_arabic": "تَسْطِيحُ الْقَبْرِ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Membuat permukaan kubur rata",
-    "sharaf": "سَطَّحَ – يُسَطِّحُ – تَسْطِيحًا",
-    "meaning_fiqh": "Permukaan kubur disunnahkan dibuat rata dan tidak dibuat meninggi seperti punuk."
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Membuat permukaan kubur rata",
+    "sharaf": "سَطَّحَ – يُسَطِّحُ – تَسْطِيحًا؛ قَبْرٌ – قُبُورٌ",
+    "meaning_fiqh": "Dalam mazhab Syafi'i, pendapat yang mu'tamad menyatakan bahwa meratakan permukaan kubur lebih utama daripada membuatnya berbentuk punuk."
+  },
+  {
+    "chapter_arabic": "دَفْنُ الْمَيِّتِ",
+    "term_arabic": "رَفْعُ الْقَبْرِ شِبْرًا",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Meninggikan kubur sejengkal",
+    "sharaf": "رَفَعَ – يَرْفَعُ – رَفْعًا؛ شِبْرٌ – أَشْبَارٌ",
+    "meaning_fiqh": "Kubur dinaikkan dari permukaan tanah kira-kira satu jengkal agar diketahui sebagai kubur dan dihormati."
   },
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
     "term_arabic": "عَدَمُ بِنَاءِ الْقَبْرِ وَتَجْصِيصِهِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tidak membangun dan tidak melapisi kubur dengan kapur",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tidak membangun dan tidak melapisi kubur dengan jipsum",
     "sharaf": "بَنَى – يَبْنِي – بِنَاءً؛ جَصَّصَ – يُجَصِّصُ – تَجْصِيصًا",
-    "meaning_fiqh": "Tidak dibangun bangunan di atas kubur dan tidak dilapisi atau diplester dengan jipsum/kapur. Dalam syarah Fathul Qorib, pelapisan kubur dengan jipsum dinyatakan makruh."
+    "meaning_fiqh": "Membangun di atas kubur dan melapisinya dengan jipsum (kapur) hukumnya makruh dalam pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic": "دَفْنُ الْمَيِّتِ",
     "term_arabic": "عَدَمُ دَفْنِ اثْنَيْنِ فِي قَبْرٍ إِلَّا لِحَاجَةٍ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tidak menguburkan dua orang dalam satu kubur kecuali karena kebutuhan",
-    "sharaf": "دَفَنَ – يَدْفِنُ – دَفْنًا؛ اِثْنَانِ: عَدَدٌ؛ حَاجَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Dua mayit tidak dikuburkan dalam satu kubur kecuali ada kebutuhan, seperti sempitnya lahan atau banyaknya orang yang meninggal."
+    "sharaf": "دَفَنَ – يَدْفِنُ – دَفْنًا؛ اِثْنَانِ: عَدَدٌ؛ حَاجَةٌ – حَوَائِجُ",
+    "meaning_fiqh": "Pada keadaan normal, setiap mayit dikuburkan dalam kubur tersendiri. Dua mayit boleh dikuburkan dalam satu kubur apabila ada kebutuhan, seperti sempitnya lahan atau banyaknya orang yang meninggal; di antara keduanya dibuat pemisah dari tanah."
   }
 ]
