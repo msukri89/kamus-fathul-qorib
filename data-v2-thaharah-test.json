@@ -1,0 +1,90 @@
+{
+  "format_version": "2.1-test",
+  "format_name": "Teks + Terjemah + Lexeme Sharaf + Fungsi Nahwu + Referensi",
+  "status": "prototype-test",
+  "purpose": "Uji penghematan pengulangan lafaz pada beberapa potongan nyata Kitab Thaharah sebelum model V2 diterapkan lebih luas.",
+  "rules": [
+    "Sharaf, akar, wazan, tashrif, dan makna leksikal disimpan pada lexeme satu kali.",
+    "Setiap kemunculan lafaz tetap menyimpan fungsi nahwu sesuai konteks.",
+    "Jika lafaz telah dibahas sebelumnya, kemunculan berikutnya menunjuk ke lexeme dan lokasi pembahasan.",
+    "Makna fiqih hanya ditambahkan bila konteks memang memberikan makna khusus.",
+    "Lafaz yang belum cukup pasti tidak dipaksakan analisisnya."
+  ],
+  "source": {
+    "work": "Fathul Qorib al-Mujib",
+    "section": "كتاب الطهارة",
+    "verification_note": "Potongan matan diverifikasi terhadap beberapa edisi digital yang memuat pembahasan jenis dan pembagian air."
+  },
+  "lexemes": [
+    {"lexeme_id":"LEX_MA_001","arabic":"مَاء","lemma":"مَاء","type":"اسم","morphology":"اسم جامد","literal":"air","context_note":"Lafaz umum untuk air; rincian hukum ditentukan oleh sifat dan konteksnya."},
+    {"lexeme_id":"LEX_TATHHIR_001","arabic":"تَطْهِير","lemma":"تَطْهِير","type":"اسم","morphology":"مصدر من طهّر","root":"ط هـ ر","pattern":"تَفْعِيل","derivation":"طَهَّرَ – يُطَهِّرُ – تَطْهِيرًا","literal":"penyucian; bersuci","context_note":"Menunjukkan proses menggunakan sesuatu untuk memperoleh kesucian menurut konteks fiqih."},
+    {"lexeme_id":"LEX_SAMAA_001","arabic":"السَّمَاء","lemma":"سَمَاء","type":"اسم","morphology":"اسم جامد","root":"س م و","literal":"langit","context_note":"Dalam ماء السماء: air yang berasal dari langit, yaitu hujan."},
+    {"lexeme_id":"LEX_BAHR_001","arabic":"الْبَحْر","lemma":"بَحْر","type":"اسم","morphology":"اسم جامد","root":"ب ح ر","literal":"laut","context_note":"Dalam ماء البحر: air laut."},
+    {"lexeme_id":"LEX_NAHR_001","arabic":"النَّهْر","lemma":"نَهْر","type":"اسم","morphology":"اسم جامد","root":"ن هـ ر","literal":"sungai","context_note":"Dalam ماء النهر: air sungai."},
+    {"lexeme_id":"LEX_BIR_001","arabic":"الْبِئْر","lemma":"بِئْر","type":"اسم","morphology":"اسم جامد","literal":"sumur","context_note":"Dalam ماء البئر: air sumur."},
+    {"lexeme_id":"LEX_AYN_001","arabic":"الْعَيْن","lemma":"عَيْن","type":"اسم","morphology":"اسم جامد","root":"ع ي ن","literal":"mata air","context_note":"Dalam ماء العين: mata air/sumber air."},
+    {"lexeme_id":"LEX_THAJL_001","arabic":"الثَّلْج","lemma":"ثَلْج","type":"اسم","morphology":"اسم جامد","root":"ث ل ج","literal":"salju","context_note":"Dalam ماء الثلج: air yang berasal dari salju."},
+    {"lexeme_id":"LEX_BARAD_001","arabic":"الْبَرَد","lemma":"بَرَد","type":"اسم","morphology":"اسم جامد","root":"ب ر د","literal":"hujan es; butiran es","context_note":"Dalam ماء البرد: air yang berasal dari البَرَد."},
+    {"lexeme_id":"LEX_AQSAM_001","arabic":"أَقْسَام","lemma":"قِسْم","type":"اسم","morphology":"جمع تكسير","root":"ق س م","pattern":"أَفْعَال","literal":"bagian-bagian","context_note":"Pembagian air menjadi beberapa kategori hukum."},
+    {"lexeme_id":"LEX_TAHIR_001","arabic":"طَاهِر","lemma":"طَاهِر","type":"اسم فاعل","morphology":"اسم فاعل من طَهُرَ","root":"ط هـ ر","pattern":"فَاعِل","derivation":"طَهُرَ – يَطْهُرُ – طَهَارَةً","literal":"suci","context_note":"Dalam pembagian air: suci pada dirinya."},
+    {"lexeme_id":"LEX_MUTAHHIR_001","arabic":"مُطَهِّر","lemma":"مُطَهِّر","type":"اسم فاعل","morphology":"اسم فاعل من طهّر","root":"ط هـ ر","pattern":"مُفَعِّل","derivation":"طَهَّرَ – يُطَهِّرُ – تَطْهِيرًا","literal":"yang menyucikan","context_note":"Dalam istilah pembagian air: dapat digunakan untuk bersuci dari hadas atau najis sesuai rincian fiqih."},
+    {"lexeme_id":"LEX_MUSYAMMAS_001","arabic":"الْمُشَمَّس","lemma":"مُشَمَّس","type":"اسم مفعول","morphology":"اسم مفعول من شمّس","root":"ش م س","pattern":"مُفَعَّل","derivation":"شَمَّسَ – يُشَمِّسُ – تَشْمِيسًا","literal":"yang dipanaskan oleh matahari","context_note":"Air yang terkena panas matahari; hukum kemakruhan memiliki rincian fiqih."},
+    {"lexeme_id":"LEX_MUSTAMAL_001","arabic":"الْمُسْتَعْمَل","lemma":"مُسْتَعْمَل","type":"اسم مفعول","morphology":"اسم مفعول من استعمل","root":"ع م ل","pattern":"مُسْتَفْعَل","derivation":"اسْتَعْمَلَ – يَسْتَعْمِلُ – اسْتِعْمَالًا","literal":"yang telah digunakan","context_note":"Air yang telah digunakan dalam رفع حدث atau إزالة نجس menurut rincian yang disebutkan dalam syarah."},
+    {"lexeme_id":"LEX_NAJASAH_001","arabic":"نَجَاسَة","lemma":"نَجَاسَة","type":"اسم","morphology":"اسم","root":"ن ج س","literal":"najis","context_note":"Sesuatu yang secara hukum menghilangkan status kesucian air dalam kondisi yang ditentukan."},
+    {"lexeme_id":"LEX_QULLATAIN_001","arabic":"الْقُلَّتَان","lemma":"قُلَّة","type":"اسم","morphology":"مثنى","literal":"dua qullah","context_note":"Ukuran air yang menjadi batas pembahasan najis pada matan; matan menyebut 500 rithl Baghdad secara kira-kira menurut pendapat yang lebih sahih."},
+    {"lexeme_id":"LEX_RITL_001","arabic":"رِطْل","lemma":"رِطْل","type":"اسم","morphology":"اسم جامد","literal":"rithl; satuan ukuran","context_note":"Satuan ukuran yang digunakan dalam penjelasan ukuran dua qullah."}
+  ],
+  "sections": [
+    {
+      "section_id":"SEC_THARAH_INTRO_001",
+      "title_arabic":"كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+      "text_arabic":"وَالْكِتَابُ لُغَةً مَصْدَرٌ بِمَعْنَى الضَّمِّ وَالْجَمْعِ، وَاصْطِلَاحًا اسْمٌ لِجِنْسٍ مِنَ الْأَحْكَامِ. أَمَّا الْبَابُ فَاسْمٌ لِنَوْعٍ مِمَّا دَخَلَ تَحْتَ ذَلِكَ الْجِنْسِ.",
+      "translation_literal":"Kitab secara bahasa adalah mashdar dengan makna menghimpun dan mengumpulkan; sedangkan secara istilah adalah nama bagi suatu jenis dari hukum-hukum. Adapun bab adalah nama bagi suatu macam dari sesuatu yang masuk di bawah jenis tersebut.",
+      "chapter_reference":"Bab Thaharah — pembukaan",
+      "tokens_note":"Bagian ini mempertahankan data prototype sebelumnya sebagai pembanding."
+    },
+    {
+      "section_id":"SEC_WATER_TYPES_001",
+      "title_arabic":"أَنْوَاعُ الْمِيَاهِ",
+      "text_arabic":"الْمِيَاهُ الَّتِي يَجُوزُ بِهَا التَّطْهِيرُ سَبْعُ مِيَاهٍ: مَاءُ السَّمَاءِ، وَمَاءُ الْبَحْرِ، وَمَاءُ النَّهْرِ، وَمَاءُ الْبِئْرِ، وَمَاءُ الْعَيْنِ، وَمَاءُ الثَّلْجِ، وَمَاءُ الْبَرَدِ.",
+      "translation_literal":"Air-air yang boleh digunakan untuk bersuci ada tujuh: air langit, air laut, air sungai, air sumur, air mata air, air salju, dan air hujan es.",
+      "chapter_reference":"Bab Thaharah → Jenis-jenis air",
+      "tokens":[
+        {"arabic":"الْمِيَاهُ","lexeme_id":"LEX_MA_001","grammar_role":"مبتدأ","context":"lafaz المياه adalah bentuk jamak; makna konteksnya adalah berbagai jenis air yang dibahas."},
+        {"arabic":"الَّتِي","lexeme_id":null,"type":"اسم موصول","grammar_role":"نعت/صلة بحسب التركيب","literal":"yang"},
+        {"arabic":"يَجُوزُ","lexeme_id":null,"type":"فعل","grammar_role":"فعل مضارع","literal":"boleh; sah"},
+        {"arabic":"بِهَا","lexeme_id":null,"type":"جار ومجرور","grammar_role":"متعلق بـ يَجُوزُ","literal":"dengannya"},
+        {"arabic":"التَّطْهِيرُ","lexeme_id":"LEX_TATHHIR_001","grammar_role":"فاعل","context":"menunjukkan perbuatan bersuci yang boleh dilakukan dengan air-air tersebut."},
+        {"arabic":"سَبْعُ","lexeme_id":null,"type":"اسم عدد","grammar_role":"خبر","literal":"tujuh"},
+        {"arabic":"مِيَاهٍ","lexeme_id":"LEX_MA_001","grammar_role":"تمييز العدد","reference_note":"Makna leksikal dan data sharaf lafaz ماء lihat LEX_MA_001; di sini bentuknya jamak dan berfungsi sebagai tamyiz العدد."},
+        {"arabic":"مَاءُ السَّمَاءِ","lexeme_id":"LEX_MA_001","grammar_role":"بدل/تفصيل من مِيَاهٍ","reference_note":"Lafaz ماء sudah dibahas; lihat LEX_MA_001. السَّمَاءِ dijelaskan sebagai pembatas jenis air: air yang berasal dari langit."},
+        {"arabic":"مَاءُ الْبَحْرِ","lexeme_id":"LEX_MA_001","grammar_role":"معطوف","reference_note":"Lafaz ماء sudah dibahas; lihat LEX_MA_001. الْبَحْرِ: lihat LEX_BAHR_001."},
+        {"arabic":"مَاءُ النَّهْرِ","lexeme_id":"LEX_MA_001","grammar_role":"معطوف","reference_note":"Lafaz ماء sudah dibahas; lihat LEX_MA_001. النَّهْرِ: lihat LEX_NAHR_001."},
+        {"arabic":"مَاءُ الْبِئْرِ","lexeme_id":"LEX_MA_001","grammar_role":"معطوف","reference_note":"Lafaz ماء sudah dibahas; lihat LEX_MA_001. الْبِئْرِ: lihat LEX_BIR_001."},
+        {"arabic":"مَاءُ الْعَيْنِ","lexeme_id":"LEX_MA_001","grammar_role":"معطوف","reference_note":"Lafaz ماء sudah dibahas; lihat LEX_MA_001. الْعَيْنِ: lihat LEX_AYN_001."},
+        {"arabic":"مَاءُ الثَّلْجِ","lexeme_id":"LEX_MA_001","grammar_role":"معطوف","reference_note":"Lafaz ماء sudah dibahas; lihat LEX_MA_001. الثَّلْجِ: lihat LEX_THAJL_001."},
+        {"arabic":"مَاءُ الْبَرَدِ","lexeme_id":"LEX_MA_001","grammar_role":"معطوف","reference_note":"Lafaz ماء sudah dibahas; lihat LEX_MA_001. الْبَرَدِ: lihat LEX_BARAD_001."}
+      ]
+    },
+    {
+      "section_id":"SEC_WATER_CLASSES_001",
+      "title_arabic":"أَقْسَامُ الْمِيَاهِ",
+      "text_arabic":"ثُمَّ الْمِيَاهُ عَلَى أَرْبَعَةِ أَقْسَامٍ: طَاهِرٌ مُطَهِّرٌ غَيْرُ مَكْرُوهٍ وَهُوَ الْمَاءُ الْمُطْلَقُ، وَطَاهِرٌ مُطَهِّرٌ مَكْرُوهٌ وَهُوَ الْمَاءُ الْمُشَمَّسُ، وَطَاهِرٌ غَيْرُ مُطَهِّرٍ وَهُوَ الْمَاءُ الْمُسْتَعْمَلُ وَالْمُتَغَيِّرُ بِمَا خَالَطَهُ مِنَ الطَّاهِرَاتِ، وَمَاءٌ نَجِسٌ وَهُوَ الَّذِي حَلَّتْ فِيهِ نَجَاسَةٌ وَهُوَ دُونَ الْقُلَّتَيْنِ أَوْ كَانَ قُلَّتَيْنِ فَتَغَيَّرَ، وَالْقُلَّتَانِ خَمْسُمِائَةِ رِطْلٍ بَغْدَادِيٍّ تَقْرِيبًا فِي الْأَصَحِّ.",
+      "translation_literal":"Kemudian air terbagi menjadi empat bagian: suci dan menyucikan tanpa makruh, yaitu air mutlak; suci dan menyucikan tetapi makruh, yaitu air yang dipanaskan matahari; suci tetapi tidak menyucikan, yaitu air yang telah digunakan dan air yang berubah karena bercampur dengan benda-benda suci; serta air najis, yaitu air yang terkena najis ketika kurang dari dua qullah, atau mencapai dua qullah lalu berubah. Dua qullah kira-kira lima ratus rithl Baghdad menurut pendapat yang lebih sahih.",
+      "chapter_reference":"Bab Thaharah → Pembagian air",
+      "tokens":[
+        {"arabic":"الْمِيَاهُ","lexeme_id":"LEX_MA_001","grammar_role":"مبتدأ","reference_note":"Lafaz ماء telah dibahas pada bagian Jenis-jenis Air; lihat LEX_MA_001. Di sini kembali menjadi pokok pembagian."},
+        {"arabic":"أَقْسَامٍ","lexeme_id":"LEX_AQSAM_001","grammar_role":"اسم مجرور","context":"menunjukkan bagian-bagian pembagian air."},
+        {"arabic":"طَاهِرٌ","lexeme_id":"LEX_TAHIR_001","grammar_role":"خبر/صفة بحسب تقدير التركيب","context":"kategori pertama: suci pada dirinya."},
+        {"arabic":"مُطَهِّرٌ","lexeme_id":"LEX_MUTAHHIR_001","grammar_role":"صفة/خبر تابع للسياق","context":"kategori pertama juga dapat menyucikan selain dirinya."},
+        {"arabic":"الْمَاءُ الْمُطْلَقُ","lexeme_id":"LEX_MA_001","grammar_role":"خبر/بيان للقسم الأول","reference_note":"Lafaz ماء telah dibahas. الْمُطْلَقُ perlu menjadi lexeme tersendiri pada tahap berikutnya karena membawa istilah fiqih khusus."},
+        {"arabic":"الْمَاءُ الْمُشَمَّسُ","lexeme_id":"LEX_MA_001","grammar_role":"بيان للقسم الثاني","reference_note":"Lafaz ماء lihat LEX_MA_001; الْمُشَمَّس lihat LEX_MUSYAMMAS_001."},
+        {"arabic":"الْمَاءُ الْمُسْتَعْمَلُ","lexeme_id":"LEX_MA_001","grammar_role":"بيان للقسم الثالث","reference_note":"Lafaz ماء lihat LEX_MA_001; الْمُسْتَعْمَل lihat LEX_MUSTAMAL_001."},
+        {"arabic":"نَجَاسَةٌ","lexeme_id":"LEX_NAJASAH_001","grammar_role":"فاعل حَلَّتْ","context":"najis yang masuk/mengenai air."},
+        {"arabic":"الْقُلَّتَيْنِ","lexeme_id":"LEX_QULLATAIN_001","grammar_role":"مجرور/مضاف إليه بحسب التركيب","context":"batas ukuran yang digunakan dalam hukum air terkena najis."},
+        {"arabic":"الْقُلَّتَانِ","lexeme_id":"LEX_QULLATAIN_001","grammar_role":"مبتدأ","reference_note":"Lexeme قُلَّة sudah dicatat; bentuk di sini adalah mutsanna marfu'."},
+        {"arabic":"رِطْلٍ","lexeme_id":"LEX_RITL_001","grammar_role":"تمييز/مضاف إليه بحسب التركيب","context":"satuan ukuran yang menjelaskan lima ratus dalam ungkapan matan."}
+      ]
+    }
+  ]
+}
