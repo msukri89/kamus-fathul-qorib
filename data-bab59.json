@@ -1,37 +1,10 @@
 [
-  {
-    "chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ",
-    "term_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Mengqadha puasa untuk orang yang telah meninggal",
-    "sharaf":"قَضَاءٌ: مَصْدَرٌ مِنْ قَضَى؛ صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh":"Bab ini membahas hukum utang puasa Ramadan yang masih menjadi tanggungan seseorang ketika ia meninggal, dengan rincian antara meninggal sebelum mampu mengqadha dan meninggal setelah mampu mengqadha."
-  },
-  {
-    "chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ",
-    "term_arabic":"صِيَامٌ مِنْ رَمَضَانَ عَلَى الْمَيِّتِ",
-    "meaning_literal":"Bentuk: Frasa. Artinya: Puasa Ramadan yang masih menjadi tanggungan orang yang telah meninggal",
-    "sharaf":"صِيَامٌ: مَصْدَرٌ مِنْ صَامَ؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh":"Jika utang puasa Ramadan ditinggalkan karena uzur, kemudian orang tersebut meninggal sebelum memiliki kesempatan untuk mengqadhanya, menurut rincian yang dijelaskan Fathul Qorib tidak ada kewajiban fidyah atas hari-hari tersebut."
-  },
-  {
-    "chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ",
-    "term_arabic":"التَّفْرِيطُ فِي الْقَضَاءِ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Lalai atau menunda tanpa uzur dalam mengqadha",
-    "sharaf":"تَفْرِيطٌ: مَصْدَرٌ مِنْ فَرَّطَ؛ قَضَاءٌ: مَصْدَرٌ مِنْ قَضَى",
-    "meaning_fiqh":"Jika seseorang memiliki utang puasa tanpa uzur, telah memiliki kesempatan untuk mengqadhanya, tetapi menundanya sampai meninggal, maka menurut rincian Fathul Qorib wajib dikeluarkan makanan atas namanya."
-  },
-  {
-    "chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ",
-    "term_arabic":"الْمُدُّ عَنْ كُلِّ يَوْمٍ",
-    "meaning_literal":"Bentuk: Frasa. Artinya: Satu mud untuk setiap hari",
-    "sharaf":"مُدٌّ: اِسْمُ مِقْدَارٍ؛ يَوْمٌ: اِسْمٌ",
-    "meaning_fiqh":"Dalam keadaan yang menurut rincian syarah mewajibkan pemberian makanan, dikeluarkan satu mud makanan untuk setiap hari puasa yang tertinggal."
-  },
-  {
-    "chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ",
-    "term_arabic":"الْمُدُّ رَطْلٌ وَثُلُثٌ بِالْعِرَاقِ",
-    "meaning_literal":"Bentuk: Frasa. Artinya: Satu mud adalah satu rithl dan sepertiga menurut ukuran Irak",
-    "sharaf":"مُدٌّ: اِسْمُ مِقْدَارٍ؛ رِطْلٌ: اِسْمُ مِقْدَارٍ؛ ثُلُثٌ: اِسْمٌ لِلْجُزْءِ مِنْ ثَلَاثَةٍ",
-    "meaning_fiqh":"Syarah Fathul Qorib menjelaskan ukuran satu mud dalam konteks ini sebagai satu rithl dan sepertiga menurut ukuran Baghdad/Irak."
+  {"chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","term_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Mengqadha puasa untuk orang yang telah meninggal","sharaf":"قَضَاءٌ: مَصْدَرٌ مِنْ قَضَى؛ صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ مَيِّتٌ: اِسْمٌ","meaning_fiqh":"Bab ini membahas puasa Ramadan yang masih menjadi tanggungan seseorang ketika ia meninggal, dengan perincian apakah ia meninggal sebelum memiliki kesempatan mengqadha atau setelah memiliki kesempatan tetapi menundanya tanpa uzur."},
+  {"chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","term_arabic":"الْمَوْتُ قَبْلَ التَّمَكُّنِ مِنَ الْقَضَاءِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Meninggal sebelum memiliki kesempatan mengqadha","sharaf":"مَوْتٌ: مَصْدَرٌ مِنْ مَاتَ؛ تَمَكُّنٌ: مَصْدَرٌ مِنْ تَمَكَّنَ؛ قَضَاءٌ: مَصْدَرٌ مِنْ قَضَى","meaning_fiqh":"Jika seseorang meninggal sementara utang puasa Ramadan yang ditinggalkannya karena uzur belum sempat diqadha karena terus berlanjut uzurnya sampai wafat, tidak ada dosa dan tidak ada kewajiban fidyah untuk hari-hari tersebut menurut Fathul Qorib."},
+  {"chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","term_arabic":"التَّفْرِيطُ فِي الْقَضَاءِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Lalai atau menunda tanpa uzur dalam mengqadha","sharaf":"تَفْرِيطٌ: مَصْدَرٌ مِنْ فَرَّطَ؛ قَضَاءٌ: مَصْدَرٌ مِنْ قَضَى","meaning_fiqh":"Jika utang puasa ditinggalkan bukan karena uzur, kemudian orang tersebut memiliki kesempatan untuk mengqadhanya tetapi menundanya sampai meninggal, maka menurut pendapat yang disebutkan dalam Fathul Qorib wajib dikeluarkan makanan atas namanya."},
+  {"chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","term_arabic":"إِطْعَامُ الْمَيِّتِ عَنْ كُلِّ يَوْمٍ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Memberi makan atas nama orang yang meninggal untuk setiap hari","sharaf":"إِطْعَامٌ: مَصْدَرٌ مِنْ أَطْعَمَ؛ مَيِّتٌ: اِسْمٌ؛ يَوْمٌ: اِسْمٌ","meaning_fiqh":"Dalam keadaan orang tersebut meninggal setelah memiliki kesempatan mengqadha tetapi belum melakukannya, wali mengeluarkan makanan dari harta peninggalannya untuk setiap hari yang tertinggal."},
+  {"chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","term_arabic":"الْمُدُّ عَنْ كُلِّ يَوْمٍ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Satu mud untuk setiap hari","sharaf":"مُدٌّ: اِسْمُ مِقْدَارٍ؛ يَوْمٌ: اِسْمٌ","meaning_fiqh":"Kadar makanan yang dikeluarkan adalah satu mud untuk setiap hari puasa yang tertinggal, sesuai rincian Fathul Qorib."},
+  {"chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","term_arabic":"الْمُدُّ رَطْلٌ وَثُلُثٌ بِالْعِرَاقِ","meaning_literal":"Bentuk: Frasa. Artinya: Satu mud adalah satu rithl dan sepertiga menurut ukuran Irak","sharaf":"مُدٌّ: اِسْمُ مِقْدَارٍ؛ رِطْلٌ: اِسْمُ مِقْدَارٍ؛ ثُلُثٌ: اِسْمٌ لِلْجُزْءِ مِنْ ثَلَاثَةٍ","meaning_fiqh":"Fathul Qorib menjelaskan satu mud dalam pembahasan ini sebagai satu rithl dan sepertiga menurut ukuran Baghdad/Irak."},
+  {"chapter_arabic":"قَضَاءُ الصَّوْمِ عَنِ الْمَيِّتِ","term_arabic":"الْقَوْلُ الْجَدِيدُ فِي الْإِطْعَامِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Pendapat baru tentang pemberian makanan","sharaf":"قَوْلٌ: اِسْمٌ؛ جَدِيدٌ: صِفَةٌ؛ إِطْعَامٌ: مَصْدَرٌ مِنْ أَطْعَمَ","meaning_fiqh":"Fathul Qorib menyebut pemberian makanan sebagai pendapat baru Imam asy-Syafi'i. Pendapat lama membolehkan wali juga berpuasa untuk orang yang meninggal, bahkan disunnahkan menurut penjelasan syarah."
   }
 ]
