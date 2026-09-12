@@ -1,0 +1,79 @@
+[
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Shalat-shalat sunnah yang ditekankan",
+    "sharaf": "النَّوَافِلُ: جمع نَافِلَةٍ؛ الْمُؤَكَّدَةُ: اسم مفعول من أَكَّدَ - يُؤَكِّدُ",
+    "meaning_fiqh": "Tiga shalat sunnah yang ditekankan dan tidak termasuk sunnah yang mengikuti shalat fardu: shalat malam, shalat dhuha, dan shalat tarawih."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "صَلَاةُ اللَّيْلِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Shalat malam",
+    "sharaf": "صَلَاةٌ: مصدر صَلَّى - يُصَلِّي؛ اللَّيْلُ: اسم للوقت المعروف من غروب الشمس إلى طلوع الفجر",
+    "meaning_fiqh": "Salah satu dari tiga shalat sunnah yang ditekankan. Fathul Qorib menyebut shalat sunnah mutlak pada malam hari lebih utama daripada pada siang hari."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "وَسَطُ اللَّيْلِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Pertengahan malam",
+    "sharaf": "وَسَطٌ: اسم؛ اللَّيْلُ: اسم للوقت المعروف من غروب الشمس إلى طلوع الفجر",
+    "meaning_fiqh": "Dalam pembagian malam menjadi tiga bagian, shalat sunnah mutlak pada pertengahan malam disebut lebih utama daripada awal malam."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "آخِرُ اللَّيْلِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Akhir malam",
+    "sharaf": "آخِرٌ: اسم فاعل من أَخَرَ - يَأْخُرُ؛ اللَّيْلُ: اسم للوقت المعروف من غروب الشمس إلى طلوع الفجر",
+    "meaning_fiqh": "Dalam pembagian malam menjadi tiga bagian, Fathul Qorib menyebut bagian akhir malam lebih utama daripada pertengahan malam bagi shalat sunnah mutlak."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "صَلَاةُ الضُّحَى",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Shalat dhuha",
+    "sharaf": "صَلَاةٌ: مصدر صَلَّى - يُصَلِّي؛ الضُّحَى: اسم للوقت بعد ارتفاع الشمس إلى قرب الزوال",
+    "meaning_fiqh": "Salah satu dari tiga shalat sunnah yang ditekankan. Minimalnya dua rakaat, maksimalnya dua belas rakaat, dan waktunya sejak matahari naik sampai tergelincir."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "اِثْنَتَا عَشْرَةَ رَكْعَةً",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Dua belas rakaat",
+    "sharaf": "اِثْنَتَا: تثنية اثنتين؛ عَشْرَةَ: عدد؛ رَكْعَةٌ: اسم مرة من رَكَعَ - يَرْكَعُ",
+    "meaning_fiqh": "Jumlah maksimal shalat dhuha yang disebut dalam Fathul Qorib adalah dua belas rakaat."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "اِرْتِفَاعُ الشَّمْسِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Naiknya matahari",
+    "sharaf": "اِرْتِفَاعٌ: مصدر اِرْتَفَعَ - يَرْتَفِعُ؛ الشَّمْسُ: اسم",
+    "meaning_fiqh": "Awal waktu shalat dhuha menurut teks yang dikutip: sejak matahari telah naik sampai waktu zawal."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "صَلَاةُ التَّرَاوِيحِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Shalat tarawih",
+    "sharaf": "صَلَاةٌ: مصدر صَلَّى - يُصَلِّي؛ التَّرَاوِيحُ: جمع تَرْوِيحَةٍ",
+    "meaning_fiqh": "Salah satu dari tiga shalat sunnah yang ditekankan. Fathul Qorib menyebutnya dua puluh rakaat dengan sepuluh kali salam pada setiap malam Ramadan."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "عِشْرُونَ رَكْعَةً",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Dua puluh rakaat",
+    "sharaf": "عِشْرُونَ: عدد؛ رَكْعَةٌ: اسم مرة من رَكَعَ - يَرْكَعُ",
+    "meaning_fiqh": "Jumlah rakaat shalat tarawih yang disebut Fathul Qorib adalah dua puluh rakaat."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "عَشْرُ تَسْلِيمَاتٍ",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Sepuluh kali salam",
+    "sharaf": "عَشْرُ: عدد؛ تَسْلِيمَةٌ: مصدر مَرَّة من سَلَّمَ - يُسَلِّمُ",
+    "meaning_fiqh": "Fathul Qorib menjelaskan dua puluh rakaat tarawih dilaksanakan dengan sepuluh kali salam."
+  },
+  {
+    "chapter_arabic": "النَّوَافِلُ الْمُؤَكَّدَةُ",
+    "term_arabic": "قِيَامُ رَمَضَانَ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Menghidupkan malam Ramadan dengan ibadah",
+    "sharaf": "قِيَامٌ: مصدر قَامَ - يَقُومُ؛ رَمَضَانُ: اسم للشهر المعروف",
+    "meaning_fiqh": "Istilah yang dapat digunakan dalam niat shalat tarawih. Fathul Qorib menyebut niat setiap dua rakaat dengan niat sunnah tarawih atau qiyam Ramadan."
+  }
+]
