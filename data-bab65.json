@@ -1,0 +1,51 @@
+[
+  {
+    "chapter_arabic": "شَرَائِطُ وُجُوبِ الْحَجِّ",
+    "term_arabic": "الْإِسْلَامُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Islam; kepatuhan dan ketundukan kepada Allah",
+    "sharaf": "إِسْلَامٌ: مَصْدَرٌ مِنْ أَسْلَمَ – يُسْلِمُ – إِسْلَامًا",
+    "meaning_fiqh": "Islam merupakan salah satu syarat wajib haji. Orang yang tidak beragama Islam tidak terkena kewajiban haji dalam hukum fikih yang dibahas pada bagian ini."
+  },
+  {
+    "chapter_arabic": "شَرَائِطُ وُجُوبِ الْحَجِّ",
+    "term_arabic": "الْبُلُوغُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Balig; mencapai usia kedewasaan menurut ketentuan syariat",
+    "sharaf": "بُلُوغٌ: مَصْدَرٌ مِنْ بَلَغَ – يَبْلُغُ – بُلُوغًا",
+    "meaning_fiqh": "Balig merupakan syarat wajib haji. Anak yang belum balig belum wajib menunaikan haji, meskipun pembahasan fikih memiliki rincian tersendiri mengenai keabsahan haji anak."
+  },
+  {
+    "chapter_arabic": "شَرَائِطُ وُجُوبِ الْحَجِّ",
+    "term_arabic": "الْعَقْلُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Akal; kemampuan berpikir secara normal",
+    "sharaf": "عَقْلٌ: مَصْدَرٌ مِنْ عَقَلَ – يَعْقِلُ – عَقْلًا",
+    "meaning_fiqh": "Berakal merupakan syarat wajib haji. Orang yang kehilangan akal tidak dibebani kewajiban haji selama keadaan tersebut berlangsung."
+  },
+  {
+    "chapter_arabic": "شَرَائِطُ وُجُوبِ الْحَجِّ",
+    "term_arabic": "الْحُرِّيَّةُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Kemerdekaan; tidak berstatus sebagai budak",
+    "sharaf": "حُرِّيَّةٌ: مَصْدَرٌ صِنَاعِيٌّ مِنْ حُرٍّ",
+    "meaning_fiqh": "Kemerdekaan merupakan syarat wajib haji sebagaimana susunan matan. Hamba sahaya tidak terkena kewajiban haji dalam status perbudakannya."
+  },
+  {
+    "chapter_arabic": "شَرَائِطُ وُجُوبِ الْحَجِّ",
+    "term_arabic": "وُجُودُ الزَّادِ وَالرَّاحِلَةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tersedianya bekal dan kendaraan",
+    "sharaf": "وُجُودٌ: مَصْدَرٌ مِنْ وَجَدَ؛ زَادٌ: اسْمٌ لِمَا يُتَزَوَّدُ بِهِ؛ رَاحِلَةٌ: اسْمٌ لِمَا يُرْكَبُ مِنَ الدَّوَابِّ",
+    "meaning_fiqh": "Fathul Qorib menjelaskan bahwa yang dimaksud adalah tersedianya bekal beserta wadah yang diperlukan dan air pada tempat-tempat yang lazim untuk mendapatkannya dengan harga yang wajar, serta kendaraan yang sesuai untuk orang tersebut melalui pembelian atau penyewaan. Semua itu diperhitungkan setelah kebutuhan yang wajib ditanggung, utang, tempat tinggal yang layak, dan kebutuhan pelayan yang memang diperlukan. Untuk orang yang jaraknya dekat dari Makkah dan mampu berjalan, kendaraan tidak menjadi syarat dengan rincian yang disebutkan dalam syarah."
+  },
+  {
+    "chapter_arabic": "شَرَائِطُ وُجُوبِ الْحَجِّ",
+    "term_arabic": "تَخْلِيَةُ الطَّرِيقِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Terbukanya jalan; aman dan tidak terdapat penghalang yang menghalangi perjalanan",
+    "sharaf": "تَخْلِيَةٌ: مَصْدَرٌ مِنْ خَلَّى – يُخَلِّي – تَخْلِيَةً؛ طَرِيقٌ: اسْمٌ",
+    "meaning_fiqh": "Yang dimaksud dengan تخلية الطريق dalam syarah adalah keamanan jalan menurut kondisi tempat yang bersangkutan. Jika seseorang tidak memperoleh keamanan yang patut atas dirinya, hartanya, atau kehormatannya, kewajiban haji tidak berlaku menurut penjelasan Fathul Qorib pada bagian ini."
+  },
+  {
+    "chapter_arabic": "شَرَائِطُ وُجُوبِ الْحَجِّ",
+    "term_arabic": "إِمْكَانُ الْمَسِيرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Memungkinkan untuk melakukan perjalanan",
+    "sharaf": "إِمْكَانٌ: مَصْدَرٌ مِنْ أَمْكَنَ – يُمْكِنُ – إِمْكَانًا؛ مَسِيرٌ: مَصْدَرٌ مِنْ سَارَ – يَسِيرُ – سَيْرًا",
+    "meaning_fiqh": "Yang dimaksud adalah masih tersedianya waktu setelah terpenuhi bekal dan kendaraan untuk melakukan perjalanan menuju haji dengan perjalanan yang lazim. Fathul Qorib juga menyebut bahwa apabila perjalanan hanya dapat ditempuh dengan cara yang menimbulkan kesulitan atau bahaya yang tidak semestinya, kewajiban haji tidak ditetapkan berdasarkan rincian yang diberikan dalam syarah."
+  }
+]
