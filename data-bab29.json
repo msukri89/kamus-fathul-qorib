@@ -57,10 +57,17 @@
   },
   {
     "chapter_arabic": "مُبْطِلَاتُ الصَّلَاةِ",
-    "term_arabic": "الْأَكْلُ وَالشُّرْبُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Makan dan minum",
-    "sharaf": "أَكَلَ – يَأْكُلُ – أَكْلًا؛ شَرِبَ – يَشْرَبُ – شُرْبًا",
-    "meaning_fiqh": "Makan dan minum membatalkan salat, baik banyak maupun sedikit, kecuali bagi orang yang tidak mengetahui keharamannya dalam salat sebagaimana pengecualian yang disebutkan dalam matan."
+    "term_arabic": "الْأَكْلُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Makan",
+    "sharaf": "أَكَلَ – يَأْكُلُ – أَكْلًا",
+    "meaning_fiqh": "Makan membatalkan salat, baik sedikit maupun banyak, kecuali bagi orang yang tidak mengetahui keharamannya dalam salat sebagaimana pengecualian yang disebutkan dalam matan."
+  },
+  {
+    "chapter_arabic": "مُبْطِلَاتُ الصَّلَاةِ",
+    "term_arabic": "الشُّرْبُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Minum",
+    "sharaf": "شَرِبَ – يَشْرَبُ – شُرْبًا",
+    "meaning_fiqh": "Minum membatalkan salat, baik sedikit maupun banyak, kecuali bagi orang yang tidak mengetahui keharamannya dalam salat sebagaimana pengecualian yang disebutkan dalam matan."
   },
   {
     "chapter_arabic": "مُبْطِلَاتُ الصَّلَاةِ",
