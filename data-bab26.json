@@ -1,30 +1,6 @@
 [
-  {
-    "chapter_arabic": "سُنَنُ الصَّلَاةِ",
-    "term_arabic": "سُنَنُ الصَّلَاةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Sunah-sunah salat",
-    "sharaf": "سُنَّةٌ – سُنَنٌ",
-    "meaning_fiqh": "Amalan-amalan sunah dalam salat yang disebutkan setelah masuk ke dalam salat; dalam sumber ini yang disebutkan ada dua, yaitu tasyahud pertama dan qunut."
-  },
-  {
-    "chapter_arabic": "سُنَنُ الصَّلَاةِ",
-    "term_arabic": "التَّشَهُّدُ الْأَوَّلُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tasyahud pertama",
-    "sharaf": "تَشَهَّدَ – يَتَشَهَّدُ – تَشَهُّدًا",
-    "meaning_fiqh": "Tasyahud pertama merupakan salah satu sunah salat setelah masuk ke dalam salat."
-  },
-  {
-    "chapter_arabic": "سُنَنُ الصَّلَاةِ",
-    "term_arabic": "الْقُنُوتُ فِي الصُّبْحِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Qunut dalam salat Subuh",
-    "sharaf": "قَنَتَ – يَقْنُتُ – قُنُوتًا",
-    "meaning_fiqh": "Qunut dilakukan pada i'tidal rakaat kedua salat Subuh dan termasuk sunah salat setelah masuk ke dalamnya."
-  },
-  {
-    "chapter_arabic": "سُنَنُ الصَّلَاةِ",
-    "term_arabic": "قُنُوتُ الْوِتْرِ فِي النِّصْفِ الثَّانِي مِنْ رَمَضَانَ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Qunut witir pada paruh kedua Ramadan",
-    "sharaf": "قَنَتَ – يَقْنُتُ – قُنُوتًا؛ أَوْتَرَ – يُوتِرُ – إِيتَارًا",
-    "meaning_fiqh": "Qunut pada akhir salat Witir disunahkan pada paruh kedua bulan Ramadan. Lafaz qunut tertentu tidak wajib; doa yang mengandung permohonan dapat digunakan dengan niat qunut."
-  }
+  {"chapter_arabic":"سُنَنُ الصَّلَاةِ","term_arabic":"سُنَنُ الصَّلَاةِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Sunah-sunah salat","sharaf":"سُنَّةٌ – سُنَنٌ؛ الصَّلَاةُ: صَلَّى – يُصَلِّي – صَلَاةً","meaning_fiqh":"Amalan-amalan sunah dalam salat yang disebutkan setelah masuk ke dalam salat; dalam sumber ini yang disebutkan ada dua, yaitu tasyahud pertama dan qunut."},
+  {"chapter_arabic":"سُنَنُ الصَّلَاةِ","term_arabic":"التَّشَهُّدُ الْأَوَّلُ","meaning_literal":"Bentuk: Frasa sifat. Artinya: Tasyahud pertama","sharaf":"تَشَهَّدَ – يَتَشَهَّدُ – تَشَهُّدًا؛ أَوَّلٌ: صفة","meaning_fiqh":"Tasyahud pertama merupakan salah satu sunah salat setelah masuk ke dalam salat."},
+  {"chapter_arabic":"سُنَنُ الصَّلَاةِ","term_arabic":"الْقُنُوتُ فِي الصُّبْحِ","meaning_literal":"Bentuk: Frasa jar-majrur. Artinya: Qunut dalam salat Subuh","sharaf":"قَنَتَ – يَقْنُتُ – قُنُوتًا؛ صُبْحٌ: اسم للوقت المعروف","meaning_fiqh":"Qunut dilakukan pada i'tidal rakaat kedua salat Subuh dan termasuk sunah salat setelah masuk ke dalamnya."},
+  {"chapter_arabic":"سُنَنُ الصَّلَاةِ","term_arabic":"قُنُوتُ الْوِتْرِ فِي النِّصْفِ الثَّانِي مِنْ رَمَضَانَ","meaning_literal":"Bentuk: Frasa idhafah dengan jar-majrur. Artinya: Qunut witir pada paruh kedua Ramadan","sharaf":"قَنَتَ – يَقْنُتُ – قُنُوتًا؛ أَوْتَرَ – يُوتِرُ – إِيتَارًا؛ نِصْفٌ – أَنْصَافٌ","meaning_fiqh":"Qunut pada akhir salat Witir disunahkan pada paruh kedua bulan Ramadan. Lafaz qunut tertentu tidak wajib; doa yang mengandung permohonan dapat digunakan dengan niat qunut."}
 ]
