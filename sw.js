@@ -1,5 +1,5 @@
 // UBAH VERSI DI SINI SETIAP KALI ADA PERUBAHAN FILE (HTML/JS/JSON)
-const CACHE_NAME = 'kamus-fq-v64';
+const CACHE_NAME = 'kamus-fq-v65';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -19,6 +19,7 @@ const ASSETS_TO_CACHE = [
   './data-bab12.json',
   './data-bab13.json',
   './data-bab14.json',
+  './data-bab15.json',
   './manifest.json'
 ];
 
@@ -36,7 +37,8 @@ const DATA_FILES = new Set([
   'data-bab11.json',
   'data-bab12.json',
   'data-bab13.json',
-  'data-bab14.json'
+  'data-bab14.json',
+  'data-bab15.json'
 ]);
 
 self.addEventListener('install', (event) => {
