@@ -2,29 +2,43 @@
   {
     "chapter_arabic": "نِصَابُ الْوَرِقِ",
     "term_arabic": "نِصَابُ الْوَرِقِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Nisab perak",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Nisab perak",
     "sharaf": "نِصَابٌ: اِسْمٌ؛ وَرِقٌ: اِسْمٌ",
-    "meaning_fiqh": "Nisab perak (الورق) adalah 200 dirham."
+    "meaning_fiqh": "Nisab perak (الورق) adalah 200 dirham menurut ukuran yang dijelaskan dalam Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْوَرِقِ",
+    "term_arabic": "الْوَرِقُ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Perak",
+    "sharaf": "وَرِقٌ: اِسْمٌ؛ جَمْعُهُ أَوْرَاقٌ",
+    "meaning_fiqh": "الورق adalah perak, khususnya perak yang digunakan sebagai alat tukar dalam pembahasan zakat."
   },
   {
     "chapter_arabic": "نِصَابُ الْوَرِقِ",
     "term_arabic": "مِائَتَا دِرْهَمٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Dua ratus dirham",
-    "sharaf": "مِائَتَانِ: عَدَدٌ؛ دِرْهَمٌ: اِسْمٌ",
-    "meaning_fiqh": "Nisab perak adalah 200 dirham. Kurang dari jumlah tersebut tidak mencapai nisab."
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Dua ratus dirham",
+    "sharaf": "مِائَتَانِ: عَدَدٌ؛ دِرْهَمٌ – دَرَاهِمُ: اِسْمٌ",
+    "meaning_fiqh": "Nisab perak adalah 200 dirham."
   },
   {
     "chapter_arabic": "نِصَابُ الْوَرِقِ",
     "term_arabic": "رُبْعُ الْعُشْرِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Seperempat dari sepersepuluh",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Seperempat dari sepersepuluh",
     "sharaf": "رُبْعٌ: اِسْمٌ؛ عُشْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Kadar zakat perak adalah seperempat dari sepersepuluh (2,5%)."
+    "meaning_fiqh": "Kadar zakat perak adalah رُبْعُ الْعُشْرِ, yaitu 2,5%."
   },
   {
     "chapter_arabic": "نِصَابُ الْوَرِقِ",
     "term_arabic": "خَمْسَةُ دَرَاهِمَ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Lima dirham",
-    "sharaf": "خَمْسَةٌ: عَدَدٌ؛ دِرْهَمٌ: اِسْمٌ",
-    "meaning_fiqh": "Pada nisab perak 200 dirham, kadar zakat yang wajib adalah 5 dirham; kelebihannya dihitung sesuai kadarnya."
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Lima dirham",
+    "sharaf": "خَمْسَةٌ: عَدَدٌ؛ دِرْهَمٌ – دَرَاهِمُ: اِسْمٌ",
+    "meaning_fiqh": "Pada nisab perak 200 dirham, kadar zakat yang wajib adalah 5 dirham. Kelebihan di atas nisab dihitung sesuai kadarnya."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْوَرِقِ",
+    "term_arabic": "فِيمَا زَادَ عَلَى النِّصَابِ بِحِسَابِهِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Pada kelebihan dari nisab, zakatnya dihitung sesuai kadarnya",
+    "sharaf": "زَادَ – يَزِيدُ – زِيَادَةً؛ حِسَابٌ: مَصْدَرٌ مِنْ حَاسَبَ",
+    "meaning_fiqh": "Setiap kelebihan perak di atas 200 dirham tetap diperhitungkan zakatnya sesuai kadar 2,5%, meskipun kelebihannya sedikit."
   }
 ]
