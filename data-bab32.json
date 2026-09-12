@@ -1,114 +1,18 @@
 [
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat Jumat",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ جُمُعَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Salat Jumat adalah salat fardu dua rakaat yang dilaksanakan secara berjamaah pada waktu Zuhur dengan syarat-syarat khusus."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "شُرُوطُ وُجُوبِ الْجُمُعَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Syarat wajib salat Jumat",
-    "sharaf": "شَرَطٌ: اِسْمٌ؛ وَجَبَ – يَجِبُ – وُجُوبًا؛ جُمُعَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Menurut Fathul Qorib, syarat wajib Jumat ada tujuh: Islam, balig, berakal, merdeka, laki-laki, sehat, dan menetap (istithan). Karena itu Jumat tidak wajib atas orang kafir, anak kecil, orang gila, budak, perempuan, orang sakit, dan musafir."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الْإِسْلَامُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Islam",
-    "sharaf": "أَسْلَمَ – يُسْلِمُ – إِسْلَامًا",
-    "meaning_fiqh": "Islam merupakan salah satu syarat wajib salat Jumat."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الْبُلُوغُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Balig",
-    "sharaf": "بَلَغَ – يَبْلُغُ – بُلُوغًا",
-    "meaning_fiqh": "Balig merupakan salah satu syarat wajib salat Jumat."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الْعَقْلُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Berakal",
-    "sharaf": "عَقَلَ – يَعْقِلُ – عَقْلًا",
-    "meaning_fiqh": "Berakal merupakan salah satu syarat wajib salat Jumat."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الْحُرِّيَّةُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Kemerdekaan",
-    "sharaf": "حُرٌّ: اِسْمٌ؛ حُرِّيَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Kemerdekaan merupakan salah satu syarat wajib salat Jumat; budak tidak termasuk orang yang wajib menghadirinya."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الذُّكُورِيَّةُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Laki-laki",
-    "sharaf": "ذَكَرٌ: اِسْمٌ؛ ذُكُورِيَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Laki-laki merupakan salah satu syarat wajib salat Jumat; perempuan tidak wajib menghadirinya."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الصِّحَّةُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Kesehatan",
-    "sharaf": "صَحَّ – يَصِحُّ – صِحَّةً",
-    "meaning_fiqh": "Kesehatan merupakan salah satu syarat wajib salat Jumat; sakit yang menimbulkan kesulitan menjadi alasan tidak wajibnya Jumat."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الْاِسْتِيطَانُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Menetap sebagai penduduk tetap",
-    "sharaf": "اِسْتَوْطَنَ – يَسْتَوْطِنُ – اِسْتِيطَانًا",
-    "meaning_fiqh": "Istithan merupakan salah satu syarat wajib Jumat. Yang dimaksud adalah menetap di tempat yang menjadi tempat tinggal tetap, bukan sekadar musafir."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "شُرُوطُ صِحَّةِ الْجُمُعَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Syarat sah salat Jumat",
-    "sharaf": "شَرَطٌ: اِسْمٌ؛ صَحَّ – يَصِحُّ – صِحَّةً؛ جُمُعَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Menurut Fathul Qorib, syarat sah pelaksanaan Jumat ada tiga: dilaksanakan di tempat tinggal tetap yang menjadi tempat berkumpulnya orang-orang yang memenuhi syarat Jumat, dihadiri empat puluh laki-laki dari ahli Jumat, dan waktunya masih tersisa."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "أَرْبَعُونَ مِنْ أَهْلِ الْجُمُعَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Empat puluh orang dari ahli Jumat",
-    "sharaf": "أَرْبَعُونَ: عَدَدٌ؛ أَهْلٌ: اِسْمٌ؛ جُمُعَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Jumat menurut penjelasan Fathul Qorib membutuhkan empat puluh laki-laki dari ahli Jumat, yaitu orang-orang mukalaf, laki-laki, merdeka, dan menetap."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "بَقَاءُ الْوَقْتِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Masih adanya waktu",
-    "sharaf": "بَقِيَ – يَبْقَى – بَقَاءً؛ وَقْتٌ: اِسْمٌ",
-    "meaning_fiqh": "Seluruh pelaksanaan Jumat harus berada dalam waktu Zuhur. Jika waktu tidak mencukupi untuk bagian-bagian yang wajib, salat dilaksanakan sebagai Zuhur."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "فَرَائِضُ الْجُمُعَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Fardu-fardu Jumat",
-    "sharaf": "فَرِيضَةٌ: اِسْمٌ؛ جُمُعَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Fardu Jumat ada tiga: dua khutbah, dan salat dua rakaat secara berjamaah setelah kedua khutbah."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "خُطْبَتَانِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Dua khutbah",
-    "sharaf": "خَطَبَ – يَخْطُبُ – خُطْبَةً",
-    "meaning_fiqh": "Dua khutbah merupakan fardu Jumat. Khatib berdiri dalam kedua khutbah dan duduk di antara keduanya jika mampu."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "أَرْبَعُونَ رَجُلًا",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Empat puluh laki-laki",
-    "sharaf": "أَرْبَعُونَ: عَدَدٌ؛ رَجُلٌ: اِسْمٌ",
-    "meaning_fiqh": "Rukun-rukun khutbah harus terdengar oleh empat puluh orang yang menjadi jumlah minimal ahli Jumat menurut penjelasan Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "رَكْعَتَانِ فِي جَمَاعَةٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Dua rakaat secara berjamaah",
-    "sharaf": "رَكْعَةٌ: اِسْمُ مَرَّةٍ مِنْ رَكَعَ – يَرْكَعُ؛ جَمَاعَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Fardu Jumat yang ketiga adalah melaksanakan salat dua rakaat secara berjamaah setelah dua khutbah."
-  }
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"صَلَاةُ الْجُمُعَةِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Salat Jumat","sharaf":"صَلَّى – يُصَلِّي – صَلَاةً؛ جُمُعَةٌ: اِسْمٌ","meaning_fiqh":"Salat Jumat adalah salat fardu dua rakaat yang dilaksanakan secara berjamaah pada waktu Zuhur dengan syarat-syarat khusus."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"شُرُوطُ وُجُوبِ الْجُمُعَةِ","meaning_literal":"Bentuk: Frasa idhafah bertingkat. Artinya: Syarat wajib salat Jumat","sharaf":"شَرَطٌ: اِسْمٌ؛ وَجَبَ – يَجِبُ – وُجُوبًا؛ جُمُعَةٌ: اِسْمٌ","meaning_fiqh":"Menurut Fathul Qorib, syarat wajib Jumat ada tujuh: Islam, balig, berakal, merdeka, laki-laki, sehat, dan menetap (istithan). Karena itu Jumat tidak wajib atas orang kafir, anak kecil, orang gila, budak, perempuan, orang sakit, dan musafir."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"الْإِسْلَامُ","meaning_literal":"Bentuk: Masdar. Artinya: Islam","sharaf":"أَسْلَمَ – يُسْلِمُ – إِسْلَامًا","meaning_fiqh":"Islam merupakan salah satu syarat wajib salat Jumat."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"الْبُلُوغُ","meaning_literal":"Bentuk: Masdar. Artinya: Balig","sharaf":"بَلَغَ – يَبْلُغُ – بُلُوغًا","meaning_fiqh":"Balig merupakan salah satu syarat wajib salat Jumat."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"الْعَقْلُ","meaning_literal":"Bentuk: Masdar. Artinya: Berakal","sharaf":"عَقَلَ – يَعْقِلُ – عَقْلًا","meaning_fiqh":"Berakal merupakan salah satu syarat wajib salat Jumat."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"الْحُرِّيَّةُ","meaning_literal":"Bentuk: Isim. Artinya: Kemerdekaan","sharaf":"حُرٌّ: اِسْمٌ؛ حُرِّيَّةٌ: اِسْمٌ","meaning_fiqh":"Kemerdekaan merupakan salah satu syarat wajib salat Jumat; budak tidak termasuk orang yang wajib menghadirinya."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"الذُّكُورِيَّةُ","meaning_literal":"Bentuk: Isim. Artinya: Laki-laki","sharaf":"ذَكَرٌ: اِسْمٌ؛ ذُكُورِيَّةٌ: اِسْمٌ","meaning_fiqh":"Laki-laki merupakan salah satu syarat wajib salat Jumat; perempuan tidak wajib menghadirinya."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"الصِّحَّةُ","meaning_literal":"Bentuk: Masdar. Artinya: Kesehatan","sharaf":"صَحَّ – يَصِحُّ – صِحَّةً","meaning_fiqh":"Kesehatan merupakan salah satu syarat wajib salat Jumat; sakit yang menimbulkan kesulitan menjadi alasan tidak wajibnya Jumat."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"الْاِسْتِيطَانُ","meaning_literal":"Bentuk: Masdar. Artinya: Menetap sebagai penduduk tetap","sharaf":"اِسْتَوْطَنَ – يَسْتَوْطِنُ – اِسْتِيطَانًا","meaning_fiqh":"Istithan merupakan salah satu syarat wajib Jumat. Yang dimaksud adalah menetap di tempat yang menjadi tempat tinggal tetap, bukan sekadar musafir."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"شُرُوطُ صِحَّةِ الْجُمُعَةِ","meaning_literal":"Bentuk: Frasa idhafah bertingkat. Artinya: Syarat sah salat Jumat","sharaf":"شَرَطٌ: اِسْمٌ؛ صَحَّ – يَصِحُّ – صِحَّةً؛ جُمُعَةٌ: اِسْمٌ","meaning_fiqh":"Menurut Fathul Qorib, syarat sah pelaksanaan Jumat ada tiga: dilaksanakan di tempat tinggal tetap yang menjadi tempat berkumpulnya orang-orang yang memenuhi syarat Jumat, dihadiri empat puluh laki-laki dari ahli Jumat, dan waktunya masih tersisa."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"أَرْبَعُونَ مِنْ أَهْلِ الْجُمُعَةِ","meaning_literal":"Bentuk: Frasa bilangan dengan jar-majrur. Artinya: Empat puluh orang dari ahli Jumat","sharaf":"أَرْبَعُونَ: عَدَدٌ؛ أَهْلٌ: اِسْمٌ؛ جُمُعَةٌ: اِسْمٌ","meaning_fiqh":"Jumat menurut penjelasan Fathul Qorib membutuhkan empat puluh laki-laki dari ahli Jumat, yaitu orang-orang mukalaf, laki-laki, merdeka, dan menetap."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"بَقَاءُ الْوَقْتِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Masih adanya waktu","sharaf":"بَقِيَ – يَبْقَى – بَقَاءً؛ وَقْتٌ: اِسْمٌ","meaning_fiqh":"Seluruh pelaksanaan Jumat harus berada dalam waktu Zuhur. Jika waktu tidak mencukupi untuk bagian-bagian yang wajib, salat dilaksanakan sebagai Zuhur."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"فَرَائِضُ الْجُمُعَةِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Fardu-fardu Jumat","sharaf":"فَرِيضَةٌ: اِسْمٌ؛ جُمُعَةٌ: اِسْمٌ","meaning_fiqh":"Fardu Jumat ada tiga: dua khutbah, dan salat dua rakaat secara berjamaah setelah kedua khutbah."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"خُطْبَتَانِ","meaning_literal":"Bentuk: Mutsanna (mufrad: خُطْبَةٌ). Artinya: Dua khutbah","sharaf":"خَطَبَ – يَخْطُبُ – خُطْبَةً؛ خُطْبَتَانِ: تَثْنِيَةُ خُطْبَةٍ","meaning_fiqh":"Dua khutbah merupakan fardu Jumat. Khatib berdiri dalam kedua khutbah dan duduk di antara keduanya jika mampu."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"أَرْبَعُونَ رَجُلًا","meaning_literal":"Bentuk: Frasa bilangan. Artinya: Empat puluh laki-laki","sharaf":"أَرْبَعُونَ: عَدَدٌ؛ رَجُلٌ: اِسْمٌ","meaning_fiqh":"Rukun-rukun khutbah harus terdengar oleh empat puluh orang yang menjadi jumlah minimal ahli Jumat menurut penjelasan Fathul Qorib."},
+  {"chapter_arabic":"صَلَاةُ الْجُمُعَةِ","term_arabic":"رَكْعَتَانِ فِي جَمَاعَةٍ","meaning_literal":"Bentuk: Mutsanna (mufrad: رَكْعَةٌ) dengan jar-majrur. Artinya: Dua rakaat secara berjamaah","sharaf":"رَكْعَةٌ: اِسْمُ مَرَّةٍ مِنْ رَكَعَ – يَرْكَعُ؛ رَكْعَتَانِ: تَثْنِيَةُ رَكْعَةٍ؛ جَمَاعَةٌ: اِسْمٌ","meaning_fiqh":"Fardu Jumat yang ketiga adalah melaksanakan salat dua rakaat secara berjamaah setelah dua khutbah."}
 ]
