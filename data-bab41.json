@@ -1,51 +1,58 @@
 [
   {
-    "chapter_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
     "term_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Menangisi mayit dan bertakziah kepada keluarganya",
     "sharaf": "بَكَى – يَبْكِي – بُكَاءً؛ عَزَّى – يُعَزِّي – تَعْزِيَةً؛ مَيِّتٌ: اِسْمٌ؛ أَهْلٌ: اِسْمٌ",
-    "meaning_fiqh": "Bab ini membahas hukum menangisi mayit dan hukum takziah kepada keluarga mayit."
+    "meaning_fiqh": "Bab ini membahas hukum menangisi mayit dan hukum takziah kepada keluarga mayit, termasuk batasan ratapan dan waktu kesunnahan takziah."
   },
   {
-    "chapter_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
     "term_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Menangisi mayit",
     "sharaf": "بَكَى – يَبْكِي – بُكَاءً؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh": "Menangisi mayit sebelum maupun sesudah kematiannya diperbolehkan, dan meninggalkannya lebih utama. Tangisan tidak boleh disertai nauh, yaitu meninggikan suara dengan ratapan."
+    "meaning_fiqh": "Menangisi mayit sebelum maupun sesudah kematiannya diperbolehkan, dan meninggalkannya lebih utama. Tangisan tersebut tidak disertai nauh atau menyobek pakaian."
   },
   {
-    "chapter_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
     "term_arabic": "النَّوْحُ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Ratapan dengan meninggikan suara",
     "sharaf": "نَاحَ – يَنُوحُ – نَوْحًا؛ نَوْحٌ: مَصْدَرٌ",
-    "meaning_fiqh": "Nauh dalam penjelasan Fathul Qorib adalah meninggikan suara dengan ratapan atas mayit. Tangisan biasa diperbolehkan, tetapi nauh tidak diperbolehkan."
+    "meaning_fiqh": "Nauh dalam penjelasan Fathul Qorib adalah meninggikan suara dengan ratapan atau meratap atas mayit. Tangisan biasa diperbolehkan, tetapi nauh tidak diperbolehkan."
   },
   {
-    "chapter_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
     "term_arabic": "شَقُّ الثَّوْبِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Menyobek pakaian",
     "sharaf": "شَقَّ – يَشُقُّ – شَقًّا؛ ثَوْبٌ – أَثْوَابٌ",
-    "meaning_fiqh": "Menangisi mayit tidak boleh disertai menyobek pakaian sebagai bentuk ratapan. Dalam sebagian redaksi Fathul Qorib disebut جَيْب sebagai pengganti ثَوْب."
+    "meaning_fiqh": "Menangisi mayit tidak boleh disertai menyobek pakaian sebagai bentuk ratapan. Dalam sebagian naskah Fathul Qorib terdapat redaksi جَيْب sebagai pengganti ثَوْب; جَيْب adalah bagian leher pakaian."
   },
   {
-    "chapter_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
     "term_arabic": "التَّعْزِيَةُ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Takziah",
     "sharaf": "عَزَّى – يُعَزِّي – تَعْزِيَةً",
-    "meaning_fiqh": "Takziah adalah menghibur orang yang tertimpa musibah dengan mendorongnya untuk bersabar, menyebutkan pahala kesabaran, dan mendoakannya. Takziah merupakan sunnah sebelum maupun sesudah pemakaman."
+    "meaning_fiqh": "Takziah secara bahasa berarti menghibur orang yang tertimpa musibah. Secara syara', takziah adalah mendorong orang yang terkena musibah untuk bersabar dengan menyebutkan pahala serta mendoakan mayit dan orang yang tertimpa musibah. Takziah merupakan sunnah sebelum dan sesudah pemakaman."
   },
   {
-    "chapter_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
     "term_arabic": "أَهْلُ الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Keluarga mayit",
     "sharaf": "أَهْلٌ: اِسْمٌ؛ مَيِّتٌ: اِسْمٌ",
     "meaning_fiqh": "Takziah ditujukan kepada keluarga mayit, baik yang kecil maupun yang besar, laki-laki maupun perempuan, dengan pengecualian perempuan muda yang tidak ditakziai kecuali oleh mahramnya."
   },
   {
-    "chapter_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ وَالتَّعْزِيَةُ عَلَى أَهْلِهِ",
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
     "term_arabic": "ثَلَاثَةُ أَيَّامٍ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tiga hari",
     "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ يَوْمٌ – أَيَّامٌ",
-    "meaning_fiqh": "Dalam Fathul Qorib, takziah disunnahkan sebelum dan sesudah pemakaman sampai tiga hari setelah pemakaman apabila orang yang bertakziah dan orang yang ditakziai sama-sama hadir. Jika salah satunya tidak hadir, waktunya berlanjut sampai orang tersebut hadir."
+    "meaning_fiqh": "Dalam teks Fathul Qorib, takziah disunnahkan sebelum dan sesudah pemakaman sampai tiga hari setelah pemakaman apabila orang yang bertakziah dan orang yang ditakziai sama-sama hadir. Jika salah satunya tidak hadir, waktunya berlanjut sampai orang tersebut hadir."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي الْبُكَاءِ عَلَى الْمَيِّتِ وَالتَّعْزِيَةِ عَلَى أَهْلِهِ",
+    "term_arabic": "دَفْنُ اثْنَيْنِ فِي قَبْرٍ وَاحِدٍ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Menguburkan dua orang dalam satu kubur",
+    "sharaf": "دَفَنَ – يَدْفِنُ – دَفْنًا؛ اثْنَانِ – اثْنَيْنِ؛ قَبْرٌ – قُبُورٌ؛ وَاحِدٌ – وَاحِدَةٌ",
+    "meaning_fiqh": "Dua orang tidak dikuburkan dalam satu kubur kecuali karena adanya kebutuhan, seperti sempitnya lahan atau banyaknya orang yang meninggal."
   }
 ]
