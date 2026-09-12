@@ -1,44 +1,51 @@
 [
   {
-    "chapter_arabic": "صَوْمُ الْكَبِيرِ",
-    "term_arabic": "الشَّيْخُ الْهَرِمُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Orang tua renta yang sudah lanjut usia",
-    "sharaf": "شَيْخٌ: اِسْمٌ؛ هَرِمٌ: صِفَةٌ",
-    "meaning_fiqh": "Fathul Qorib menyebutkan bahwa orang tua renta yang tidak mampu berpuasa diperbolehkan tidak berpuasa dan memberi makan satu mud untuk setiap hari yang ditinggalkan."
+    "chapter_arabic":"صَوْمُ الْكَبِيرِ",
+    "term_arabic":"صَوْمُ الْكَبِيرِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Puasa orang yang telah lanjut usia",
+    "sharaf":"صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ كَبِيرٌ: صِفَةٌ",
+    "meaning_fiqh":"Bab ini membahas ketentuan puasa bagi orang tua renta yang tidak mampu berpuasa dan orang sakit yang tidak diharapkan kesembuhannya. Keduanya boleh tidak berpuasa dan sebagai gantinya memberi makan satu mud untuk setiap hari."
   },
   {
-    "chapter_arabic": "صَوْمُ الْكَبِيرِ",
-    "term_arabic": "الْعَجُوزُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Wanita lanjut usia",
-    "sharaf": "عَجُوزٌ: اِسْمٌ",
-    "meaning_fiqh": "Wanita lanjut usia yang tidak mampu berpuasa termasuk dalam ketentuan orang yang berbuka dan memberi makan satu mud untuk setiap hari."
+    "chapter_arabic":"صَوْمُ الْكَبِيرِ",
+    "term_arabic":"الشَّيْخُ الْهَرِمُ",
+    "meaning_literal":"Bentuk: Frasa sifat. Artinya: Orang tua renta yang sangat lanjut usia",
+    "sharaf":"شَيْخٌ: اِسْمٌ؛ هَرِمٌ: صِفَةٌ",
+    "meaning_fiqh":"Orang tua renta yang tidak mampu berpuasa diperbolehkan tidak berpuasa dan wajib memberi makan satu mud untuk setiap hari yang ditinggalkan."
   },
   {
-    "chapter_arabic": "صَوْمُ الْكَبِيرِ",
-    "term_arabic": "الْمَرِيضُ الَّذِي لَا يُرْجَى بُرْؤُهُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Orang sakit yang tidak diharapkan kesembuhannya",
-    "sharaf": "مَرِيضٌ: اِسْمُ فَاعِلٍ؛ يُرْجَى: مُضَارِعٌ مَبْنِيٌّ لِلْمَجْهُولِ؛ بُرْءٌ: مَصْدَرٌ",
-    "meaning_fiqh": "Jika orang sakit yang tidak diharapkan kesembuhannya tidak mampu berpuasa, ia berbuka dan memberi makan satu mud untuk setiap hari."
+    "chapter_arabic":"صَوْمُ الْكَبِيرِ",
+    "term_arabic":"الْعَجُوزُ",
+    "meaning_literal":"Bentuk: Isim. Artinya: Orang lanjut usia, khususnya wanita tua",
+    "sharaf":"عَجُوزٌ: صِفَةٌ لِمَنْ بَلَغَ الْهَرَمَ",
+    "meaning_fiqh":"Wanita lanjut usia yang tidak mampu berpuasa termasuk dalam ketentuan orang yang boleh tidak berpuasa dan menggantinya dengan pemberian satu mud untuk setiap hari."
   },
   {
-    "chapter_arabic": "صَوْمُ الْكَبِيرِ",
-    "term_arabic": "الْمُدُّ عَنْ كُلِّ يَوْمٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Satu mud untuk setiap hari",
-    "sharaf": "مُدٌّ: اِسْمُ مِقْدَارٍ؛ يَوْمٌ: اِسْمٌ",
-    "meaning_fiqh": "Sebagai pengganti puasa bagi orang yang termasuk dalam ketentuan ini, dikeluarkan satu mud makanan untuk setiap hari yang ditinggalkan."
+    "chapter_arabic":"صَوْمُ الْكَبِيرِ",
+    "term_arabic":"الْمَرِيضُ الَّذِي لَا يُرْجَى بُرْؤُهُ",
+    "meaning_literal":"Bentuk: Frasa sifat. Artinya: Orang sakit yang tidak diharapkan kesembuhannya",
+    "sharaf":"مَرِيضٌ: اِسْمُ فَاعِلٍ مِنْ مَرِضَ؛ يُرْجَى: فِعْلٌ مُضَارِعٌ مَبْنِيٌّ لِلْمَجْهُولِ مِنْ رَجَا؛ بُرْءٌ: مَصْدَرٌ مِنْ بَرِئَ",
+    "meaning_fiqh":"Orang sakit yang tidak diharapkan kesembuhannya dan tidak mampu berpuasa boleh tidak berpuasa serta memberi makan satu mud untuk setiap hari yang ditinggalkan."
   },
   {
-    "chapter_arabic": "صَوْمُ الْكَبِيرِ",
-    "term_arabic": "تَعْجِيلُ الْمُدِّ قَبْلَ رَمَضَانَ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Mendahulukan pembayaran satu mud sebelum Ramadan",
-    "sharaf": "تَعْجِيلٌ: مَصْدَرٌ؛ مُدٌّ: اِسْمُ مِقْدَارٍ",
-    "meaning_fiqh": "Fathul Qorib menyatakan bahwa tidak boleh mendahulukan pembayaran satu mud sebelum masuk Ramadan."
+    "chapter_arabic":"صَوْمُ الْكَبِيرِ",
+    "term_arabic":"الْمُدُّ عَنْ كُلِّ يَوْمٍ",
+    "meaning_literal":"Bentuk: Frasa. Artinya: Satu mud untuk setiap hari",
+    "sharaf":"مُدٌّ: اِسْمُ مِقْدَارٍ؛ يَوْمٌ: اِسْمٌ",
+    "meaning_fiqh":"Sebagai pengganti puasa bagi orang yang termasuk dalam ketentuan ini, dikeluarkan satu mud makanan untuk setiap hari yang ditinggalkan."
   },
   {
-    "chapter_arabic": "صَوْمُ الْكَبِيرِ",
-    "term_arabic": "دَفْعُ الْمُدِّ بَعْدَ فَجْرِ كُلِّ يَوْمٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Memberikan satu mud setelah terbit fajar setiap hari",
-    "sharaf": "دَفْعٌ: مَصْدَرٌ؛ فَجْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Pembayaran satu mud diperbolehkan setelah terbit fajar pada setiap hari Ramadan yang ditinggalkan puasanya."
+    "chapter_arabic":"صَوْمُ الْكَبِيرِ",
+    "term_arabic":"عَدَمُ جَوَازِ تَقْدِيمِ الْمُدِّ قَبْلَ رَمَضَانَ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Tidak bolehnya mendahulukan pembayaran mud sebelum Ramadan",
+    "sharaf":"عَدَمٌ: اِسْمٌ؛ جَوَازٌ: مَصْدَرٌ مِنْ جَازَ؛ تَقْدِيمٌ: مَصْدَرٌ مِنْ قَدَّمَ؛ مُدٌّ: اِسْمُ مِقْدَارٍ",
+    "meaning_fiqh":"Pembayaran satu mud sebagai pengganti puasa tidak boleh didahulukan sebelum masuk bulan Ramadan."
+  },
+  {
+    "chapter_arabic":"صَوْمُ الْكَبِيرِ",
+    "term_arabic":"دَفْعُ الْمُدِّ بَعْدَ فَجْرِ كُلِّ يَوْمٍ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Memberikan satu mud setelah terbit fajar setiap hari",
+    "sharaf":"دَفْعٌ: مَصْدَرٌ مِنْ دَفَعَ؛ مُدٌّ: اِسْمُ مِقْدَارٍ؛ فَجْرٌ: اِسْمٌ",
+    "meaning_fiqh":"Pemberian satu mud dilakukan setelah terbit fajar pada masing-masing hari Ramadan yang tidak dijalani puasanya, bukan sebelum masuk Ramadan."
   }
 ]
