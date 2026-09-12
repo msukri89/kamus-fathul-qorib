@@ -4,7 +4,7 @@
     "term_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Zakat dua pihak yang mencampurkan ternaknya",
     "sharaf": "زَكَاةٌ: اِسْمٌ؛ خَلِيطٌ: اِسْمٌ؛ الْخَلِيطَيْنِ: مُثَنَّى خَلِيطٍ",
-    "meaning_fiqh": "Khulthah pada ternak yang memenuhi syarat menyebabkan dua pemilik ternak memperlakukan harta ternaknya dalam zakat seperti satu harta menurut ketentuan yang dijelaskan dalam Fathul Qorib."
+    "meaning_fiqh": "Khulthah pada ternak yang memenuhi syarat menyebabkan dua pemilik ternak memperlakukan harta ternaknya seperti satu harta dalam perhitungan zakat menurut ketentuan Fathul Qorib."
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
@@ -17,7 +17,7 @@
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
     "term_arabic": "يُزَكِّيَانِ زَكَاةَ الْوَاحِدِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Keduanya mengeluarkan zakat seperti zakat satu orang",
-    "sharaf": "زَكَّى – يُزَكِّي – تَزْكِيَةً؛ يُزَكِّيَانِ: فِعْلٌ مُضَارِعٌ مُثَنَّى؛ الْوَاحِدُ: صِفَةٌ",
+    "sharaf": "زَكَّى – يُزَكِّي – تَزْكِيَةً؛ يُزَكِّيَانِ: فِعْلٌ مُضَارِعٌ مُثَنَّى؛ الْوَاحِدُ: اِسْمٌ",
     "meaning_fiqh": "Apabila khulthah memenuhi syarat-syaratnya, dua pemilik ternak menunaikan zakat dengan memperlakukan ternak yang bercampur seperti satu harta dalam perhitungan zakat."
   },
   {
@@ -46,7 +46,7 @@
     "term_arabic": "الْمَسْرَحُ وَاحِدٌ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tempat ternak menuju atau berkumpul sebelum digembalakan menjadi satu",
     "sharaf": "مَسْرَحٌ: اِسْمُ مَكَانٍ مِنْ سَرَحَ؛ وَاحِدٌ: صِفَةٌ",
-    "meaning_fiqh": "Tempat ternak dilepas atau berkumpul menuju penggembalaan menjadi satu merupakan salah satu syarat khulthah."
+    "meaning_fiqh": "Tempat ternak dilepas atau menuju tempat penggembalaan menjadi satu merupakan salah satu syarat khulthah."
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
@@ -60,7 +60,7 @@
     "term_arabic": "الْفَحْلُ وَاحِدٌ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Pejantan menjadi satu",
     "sharaf": "فَحْلٌ: اِسْمٌ؛ وَاحِدٌ: صِفَةٌ",
-    "meaning_fiqh": "Jika jenis ternaknya sama, pejantan yang digunakan untuk mengawini ternak tidak terpisah menurut kepemilikan masing-masing; ini termasuk syarat khulthah dalam pembahasan Fathul Qorib."
+    "meaning_fiqh": "Pejantan yang digunakan untuk mengawini ternak menjadi satu merupakan salah satu syarat khulthah."
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
@@ -74,7 +74,7 @@
     "term_arabic": "الْحَالِبُ وَاحِدٌ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Orang yang memerah menjadi satu",
     "sharaf": "حَلَبَ – يَحْلِبُ – حَلْبًا؛ حَالِبٌ: اِسْمُ فَاعِلٍ؛ وَاحِدٌ: صِفَةٌ",
-    "meaning_fiqh": "Teks matan menyebut kesatuan orang yang memerah sebagai salah satu dari tujuh syarat khulthah. Dalam syarah Fathul Qorib, pendapat yang lebih kuat menyatakan bahwa kesatuan الحالب tidak menjadi syarat; namun istilah matan tetap dicatat agar isi kamus mengikuti teks sumber."
+    "meaning_fiqh": "Teks matan menyebut kesatuan orang yang memerah sebagai salah satu dari tujuh syarat khulthah. Dalam syarah Fathul Qorib, pendapat yang lebih kuat menyatakan bahwa kesatuan الحالب tidak menjadi syarat; istilah matan tetap dicatat agar isi kamus mengikuti teks sumber."
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
@@ -87,7 +87,7 @@
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
     "term_arabic": "سَبْعَةُ شَرَائِطَ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh syarat",
-    "sharaf": "سَبْعَةٌ: عَدَدٌ؛ شَرْطٌ – شُرُوطٌ: اِسْمٌ؛ شَرَائِطُ: جَمْعُ شَرِيطَةٍ",
-    "meaning_fiqh": "Matan menyebut tujuh syarat khulthah: satu tempat bermalam, satu tempat keluar atau berkumpul, satu tempat penggembalaan, satu pejantan, satu tempat minum, satu pemerah, dan satu tempat pemerahan."
+    "sharaf": "سَبْعَةٌ: عَدَدٌ؛ شَرِيطَةٌ: اِسْمٌ؛ شَرَائِطُ: جَمْعُ شَرِيطَةٍ",
+    "meaning_fiqh": "Matan menyebut tujuh syarat khulthah: satu tempat bermalam, satu tempat keluar atau menuju penggembalaan, satu tempat penggembalaan, satu pejantan, satu tempat minum, satu pemerah, dan satu tempat pemerahan."
   }
 ]
