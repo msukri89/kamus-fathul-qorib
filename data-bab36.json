@@ -1,149 +1,65 @@
 [
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Hukum-hukum jenazah",
-    "sharaf": "حُكْمٌ: اِسْمٌ؛ جِنَازَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Pembahasan jenazah mencakup kewajiban terhadap mayit berupa memandikan, mengafani, menyalatkan, dan menguburkan, beserta hukum-hukum terkaitnya."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "صَلَاةُ الْخَوْفِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Salat dalam keadaan takut",
+    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا",
+    "meaning_fiqh": "Salat khauf adalah tata cara pelaksanaan salat ketika menghadapi keadaan takut atau ancaman. Fathul Qorib membahas tiga bentuk dari beberapa bentuk yang disebutkan dalam hadis."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "غَسْلُ الْمَيِّتِ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Memandikan mayit",
-    "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا",
-    "meaning_fiqh": "Memandikan mayit muslim yang bukan syahid merupakan fardu kifayah."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "أَنْوَاعُ صَلَاةِ الْخَوْفِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Macam-macam salat khauf",
+    "sharaf": "نَوْعٌ: اِسْمٌ؛ صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا",
+    "meaning_fiqh": "Fathul Qorib menyebutkan bahwa salat khauf memiliki banyak bentuk, dan dalam pembahasan ringkas ini dijelaskan tiga bentuk."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "تَكْفِينُ الْمَيِّتِ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mengafani mayit",
-    "sharaf": "كَفَّنَ – يُكَفِّنُ – تَكْفِينًا",
-    "meaning_fiqh": "Mengafani mayit termasuk fardu kifayah. Dalam Fathul Qorib, kafan yang sempurna bagi mayit adalah tiga kain putih yang menutup seluruh tubuh."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "الْعَدُوُّ فِي غَيْرِ جِهَةِ الْقِبْلَةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Musuh berada bukan di arah kiblat",
+    "sharaf": "عَدُوٌّ: اِسْمٌ؛ جِهَةٌ: اِسْمٌ؛ قِبْلَةٌ: اِسْمٌ",
+    "meaning_fiqh": "Jika musuh berada bukan di arah kiblat dan jumlah kaum muslimin memungkinkan dibagi menjadi dua kelompok, imam membagi mereka menjadi kelompok yang menjaga musuh dan kelompok yang salat bersamanya."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "الصَّلَاةُ عَلَى الْجَنَازَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat jenazah",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ جِنَازَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Salat jenazah atas mayit muslim merupakan fardu kifayah."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "الْفِرْقَةُ الْحَارِسَةُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Kelompok yang berjaga",
+    "sharaf": "فِرْقَةٌ: اِسْمٌ؛ حَرَسَ – يَحْرُسُ – حَرْسًا",
+    "meaning_fiqh": "Sebagian pasukan berjaga menghadapi musuh, sementara kelompok lainnya salat bersama imam. Setelah menyelesaikan bagiannya, kelompok yang telah salat bergantian menjaga dan kelompok yang berjaga menyusul salat bersama imam."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "دَفْنُ الْمَيِّتِ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Menguburkan mayit",
-    "sharaf": "دَفَنَ – يَدْفِنُ – دَفْنًا",
-    "meaning_fiqh": "Menguburkan mayit termasuk fardu kifayah. Mayit dikuburkan dalam lahad dengan menghadap kiblat."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "الْعَدُوُّ فِي جِهَةِ الْقِبْلَةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Musuh berada di arah kiblat",
+    "sharaf": "عَدُوٌّ: اِسْمٌ؛ جِهَةٌ: اِسْمٌ؛ قِبْلَةٌ: اِسْمٌ",
+    "meaning_fiqh": "Jika musuh berada di arah kiblat dan keadaan memungkinkan mereka tetap terlihat oleh kaum muslimin, imam mengatur pasukan menjadi dua barisan; satu barisan sujud bersama imam dan barisan lainnya berjaga, kemudian mereka bergantian."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "الشَّهِيدُ فِي مَعْرَكَةِ الْمُشْرِكِينَ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Syahid dalam pertempuran melawan orang-orang musyrik",
-    "sharaf": "شَهِدَ – يَشْهَدُ – شَهَادَةً؛ عَرَكَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Syahid yang meninggal karena sebab pertempuran melawan orang kafir tidak dimandikan dan tidak disalatkan menurut pembahasan Fathul Qorib."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "شِدَّةُ الْخَوْفِ وَالْتِحَامُ الْحَرْبِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Ketakutan yang sangat dan berkecamuknya peperangan",
+    "sharaf": "شِدَّةٌ: اِسْمٌ؛ خَافَ – يَخَافُ – خَوْفًا؛ اِلْتَحَمَ – يَلْتَحِمُ – اِلْتِحَامًا؛ حَرْبٌ: اِسْمٌ",
+    "meaning_fiqh": "Jika ketakutan sangat berat dan peperangan telah berkecamuk sehingga tidak memungkinkan pelaksanaan tata cara biasa, setiap orang melaksanakan salat semampunya, berjalan kaki atau berkendaraan, menghadap kiblat atau tidak."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "السِّقْطُ الَّذِي لَمْ يَسْتَهِلَّ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Janin yang tidak mengeluarkan suara",
-    "sharaf": "سَقَطَ – يَسْقُطُ – سُقُوطًا؛ اِسْتَهَلَّ – يَسْتَهِلُّ – اِسْتِهْلَالًا",
-    "meaning_fiqh": "Janin yang lahir sebelum sempurna dan tidak mengeluarkan suara tidak dimandikan dan tidak disalatkan. Jika telah mengeluarkan suara atau menangis, hukumnya seperti orang dewasa."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "صَلَاةُ الرَّاجِلِ وَالرَّاكِبِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Salat orang yang berjalan kaki dan berkendaraan",
+    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ رَجُلٌ: اِسْمٌ؛ رَكِبَ – يَرْكَبُ – رُكُوبًا",
+    "meaning_fiqh": "Dalam keadaan takut yang sangat, orang yang berjalan maupun berkendaraan melaksanakan salat sesuai kemampuan. Mereka diberi keringanan terhadap gerakan yang banyak karena keadaan perang."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "غَسْلُ الْمَيِّتِ وِتْرًا",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Memandikan mayit dengan bilangan ganjil",
-    "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا؛ وِتْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Mayit dimandikan dengan bilangan ganjil, seperti tiga atau lima kali, atau lebih jika diperlukan. Pada awal mandi disunnahkan menggunakan sidr atau khitmi, dan pada akhir mandi non-muhrim diberi sedikit kapur barus yang tidak mengubah air."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "الْأَعْمَالُ الْكَثِيرَةُ فِي صَلَاةِ الْخَوْفِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Gerakan-gerakan yang banyak dalam salat khauf",
+    "sharaf": "عَمِلَ – يَعْمَلُ – عَمَلًا؛ كَثُرَ – يَكْثُرُ – كَثْرَةً؛ صَلَّى – يُصَلِّي – صَلَاةً",
+    "meaning_fiqh": "Dalam keadaan perang yang sangat genting, gerakan yang banyak dalam salat dimaafkan karena kebutuhan menjaga keselamatan dan menghadapi musuh."
   },
   {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "ثَلَاثَةُ أَثْوَابٍ بِيضٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tiga kain putih",
-    "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ ثَوْبٌ: اِسْمٌ؛ أَبْيَضُ: صِفَةٌ",
-    "meaning_fiqh": "Kafan yang sempurna bagi mayit, baik laki-laki maupun perempuan, adalah tiga kain putih yang menutup seluruh tubuh dan berupa lembaran kain, bukan baju dan sorban."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "أَرْبَعُ تَكْبِيرَاتٍ فِي صَلَاةِ الْجَنَازَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Empat takbir dalam salat jenazah",
-    "sharaf": "أَرْبَعٌ: عَدَدٌ؛ كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا؛ جِنَازَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Salat jenazah dilakukan dengan empat takbir, termasuk takbiratul ihram."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "قِرَاءَةُ الْفَاتِحَةِ بَعْدَ التَّكْبِيرَةِ الْأُولَى",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Membaca Al-Fatihah setelah takbir pertama",
-    "sharaf": "قَرَأَ – يَقْرَأُ – قِرَاءَةً؛ فَتَحَ – يَفْتَحُ – فَتْحًا",
-    "meaning_fiqh": "Setelah takbir pertama dalam salat jenazah dibaca Al-Fatihah. Fathul Qorib juga menyebutkan bahwa membacanya setelah takbir selain yang pertama tetap diperbolehkan."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "الصَّلَاةُ عَلَى النَّبِيِّ بَعْدَ التَّكْبِيرَةِ الثَّانِيَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Bersalawat kepada Nabi setelah takbir kedua",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ نَبِيٌّ: اِسْمٌ",
-    "meaning_fiqh": "Setelah takbir kedua dibaca salawat kepada Nabi Muhammad ﷺ. Batas minimalnya adalah membaca doa salawat kepada beliau."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "الدُّعَاءُ لِلْمَيِّتِ بَعْدَ التَّكْبِيرَةِ الثَّالِثَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Mendoakan mayit setelah takbir ketiga",
-    "sharaf": "دَعَا – يَدْعُو – دُعَاءً؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh": "Setelah takbir ketiga dilakukan doa untuk mayit. Batas minimalnya adalah memohonkan ampun bagi mayit."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "السَّلَامُ بَعْدَ التَّكْبِيرَةِ الرَّابِعَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salam setelah takbir keempat",
-    "sharaf": "سَلَّمَ – يُسَلِّمُ – تَسْلِيمًا؛ رَابِعٌ: عَدَدٌ",
-    "meaning_fiqh": "Setelah takbir keempat dalam salat jenazah dilakukan salam."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "اللَّحْدُ مُسْتَقْبِلَ الْقِبْلَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Lahad menghadap kiblat",
-    "sharaf": "لَحَدَ – يَلْحَدُ – لَحْدًا؛ اِسْتَقْبَلَ – يَسْتَقْبِلُ – اِسْتِقْبَالًا",
-    "meaning_fiqh": "Mayit dikuburkan dalam lahad yang menghadap kiblat. Lahad lebih utama daripada syaqq apabila tanahnya kuat."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "الِاضْطِجَاعُ عَلَى الْجَنْبِ الْأَيْمَنِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Berbaring di sisi kanan",
-    "sharaf": "اِضْطَجَعَ – يَضْطَجِعُ – اِضْطِجَاعًا؛ جَنْبٌ: اِسْمٌ",
-    "meaning_fiqh": "Mayit dibaringkan di dalam kubur menghadap kiblat pada sisi kanannya. Jika dikuburkan membelakangi kiblat atau telentang, menurut Fathul Qorib kuburnya dibuka kembali dan diarahkan ke kiblat selama mayit belum berubah."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "تَسْطِيحُ الْقَبْرِ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Membuat permukaan kubur rata",
-    "sharaf": "سَطَّحَ – يُسَطِّحُ – تَسْطِيحًا؛ قَبْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Kubur disunnahkan dibuat rata, bukan dibuat menjulang seperti punuk. Fathul Qorib juga menyebutkan larangan membangun dan mengapur kubur."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "الْبُكَاءُ عَلَى الْمَيِّتِ بِلَا نَوْحٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Menangisi mayit tanpa ratapan",
-    "sharaf": "بَكَى – يَبْكِي – بُكَاءً؛ نَاحَ – يَنُوحُ – نَوْحًا",
-    "meaning_fiqh": "Menangisi mayit diperbolehkan sebelum maupun sesudah kematian selama tidak disertai nawh, yaitu meratap dengan suara keras, dan tidak disertai merobek pakaian."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "التَّعْزِيَةُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Takziah",
-    "sharaf": "عَزَّى – يُعَزِّي – تَعْزِيَةً",
-    "meaning_fiqh": "Takziah kepada keluarga mayit hukumnya sunnah. Tujuannya menghibur, menganjurkan kesabaran, menjanjikan pahala, dan mendoakan mayit serta orang yang terkena musibah."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "ثَلَاثَةُ أَيَّامٍ لِلتَّعْزِيَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tiga hari untuk takziah",
-    "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ يَوْمٌ: اِسْمٌ؛ عَزَّى – يُعَزِّي – تَعْزِيَةً",
-    "meaning_fiqh": "Takziah dilakukan sebelum dan sesudah pemakaman sampai tiga hari setelah pemakaman apabila pemberi dan penerima takziah berada di tempat yang sama; jika salah satunya tidak hadir, waktunya berlanjut sampai yang bersangkutan hadir."
-  },
-  {
-    "chapter_arabic": "أَحْكَامُ الْجَنَائِزِ",
-    "term_arabic": "عَدَمُ دَفْنِ اثْنَيْنِ فِي قَبْرٍ وَاحِدٍ إِلَّا لِحَاجَةٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tidak menguburkan dua orang dalam satu kubur kecuali karena kebutuhan",
-    "sharaf": "دَفَنَ – يَدْفِنُ – دَفْنًا؛ قَبْرٌ: اِسْمٌ؛ حَاجَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Dua mayit tidak dikuburkan dalam satu kubur kecuali ada kebutuhan, seperti sempitnya lahan atau banyaknya orang yang meninggal."
+    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
+    "term_arabic": "صَلَاةُ الْخَوْفِ ثَلَاثَةُ أَضْرُبٍ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Salat khauf memiliki tiga bentuk",
+    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا؛ ثَلَاثَةٌ: عَدَدٌ؛ ضَرْبٌ: اِسْمٌ",
+    "meaning_fiqh": "Dalam ringkasan Fathul Qorib, tiga bentuk yang dibahas adalah ketika musuh berada di luar arah kiblat, ketika musuh berada di arah kiblat, dan ketika ketakutan sangat berat serta perang berkecamuk."
   }
 ]
