@@ -2,21 +2,21 @@
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat istisqa (meminta hujan)",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Salat istisqa (meminta hujan)",
     "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ اِسْتَسْقَى – يَسْتَسْقِي – اِسْتِسْقَاءً",
     "meaning_fiqh": "Salat istisqa adalah salat sunnah untuk memohon hujan kepada Allah ketika diperlukan karena hujan terputus, sumber air mengering, atau keadaan serupa."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ مَسْنُونَةٌ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat istisqa disunnahkan",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ اِسْتَسْقَى – يَسْتَسْقِي – اِسْتِسْقَاءً؛ سَنَّ – يَسُنُّ – سَنًّا",
+    "meaning_literal": "Bentuk: Jumlah ismiyyah. Artinya: Salat istisqa disunnahkan",
+    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ اِسْتَسْقَى – يَسْتَسْقِي – اِسْتِسْقَاءً؛ مَسْنُونٌ: اِسْمُ مَفْعُولٍ مِنْ سَنَّ – يَسُنُّ – سَنًّا",
     "meaning_fiqh": "Salat istisqa disunnahkan bagi orang mukim maupun musafir ketika ada kebutuhan karena tidak turun hujan atau sumber air mengering."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "إِعَادَةُ صَلَاةِ الْاِسْتِسْقَاءِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Mengulangi salat istisqa",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Mengulangi salat istisqa",
     "sharaf": "أَعَادَ – يُعِيدُ – إِعَادَةً؛ اِسْتَسْقَى – يَسْتَسْقِي – اِسْتِسْقَاءً",
     "meaning_fiqh": "Salat istisqa dapat diulangi untuk kedua kalinya atau lebih jika hujan belum turun, sampai Allah menurunkan hujan."
   },
@@ -38,48 +38,48 @@
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "الْخُرُوجُ مِنَ الْمَظَالِمِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Keluar dari kezaliman",
-    "sharaf": "خَرَجَ – يَخْرُجُ – خُرُوجًا؛ ظَلَمَ – يَظْلِمُ – ظُلْمًا",
+    "sharaf": "خَرَجَ – يَخْرُجُ – خُرُوجًا؛ ظَلَمَ – يَظْلِمُ – ظُلْمًا؛ مَظْلِمَةٌ – مَظَالِمُ",
     "meaning_fiqh": "Masyarakat dianjurkan meninggalkan kezaliman terhadap sesama dan menyelesaikan hak-hak manusia sebelum pelaksanaan istisqa."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "مُصَالَحَةُ الْأَعْدَاءِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Berdamai dengan pihak yang bermusuhan",
-    "sharaf": "صَالَحَ – يُصَالِحُ – مُصَالَحَةً؛ عَدُوٌّ: اِسْمٌ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Berdamai dengan pihak yang bermusuhan",
+    "sharaf": "صَالَحَ – يُصَالِحُ – مُصَالَحَةً؛ عَدُوٌّ – أَعْدَاءٌ",
     "meaning_fiqh": "Termasuk persiapan yang dianjurkan sebelum istisqa adalah berdamai dengan pihak yang bermusuhan."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "صِيَامُ ثَلَاثَةِ أَيَّامٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Puasa tiga hari",
-    "sharaf": "صَامَ – يَصُومُ – صَوْمًا؛ ثَلَاثَةٌ: عَدَدٌ؛ يَوْمٌ: اِسْمٌ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Puasa tiga hari",
+    "sharaf": "صَامَ – يَصُومُ – صَوْمًا؛ ثَلَاثَةٌ: عَدَدٌ؛ يَوْمٌ – أَيَّامٌ",
     "meaning_fiqh": "Sebelum keluar untuk istisqa, masyarakat dianjurkan berpuasa selama tiga hari. Pada hari keempat mereka keluar untuk melaksanakan istisqa."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "ثِيَابُ الْبِذْلَةِ وَالْاِسْتِكَانَةِ وَالتَّضَرُّعِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Pakaian sederhana disertai kerendahan dan ketundukan",
-    "sharaf": "بِذْلَةٌ: اِسْمٌ؛ اِسْتَكَانَ – يَسْتَكِينُ – اِسْتِكَانَةً؛ تَضَرَّعَ – يَتَضَرَّعُ – تَضَرُّعًا",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Pakaian sederhana disertai kerendahan dan ketundukan",
+    "sharaf": "ثَوْبٌ – ثِيَابٌ؛ بِذْلَةٌ: اِسْمٌ؛ اِسْتَكَانَ – يَسْتَكِينُ – اِسْتِكَانَةً؛ تَضَرَّعَ – يَتَضَرَّعُ – تَضَرُّعًا",
     "meaning_fiqh": "Pada hari keempat masyarakat keluar dalam keadaan berpuasa, tidak memakai wewangian dan tidak berhias, tetapi mengenakan pakaian sederhana dengan sikap rendah diri dan penuh ketundukan."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "رَكْعَتَانِ كَصَلَاةِ الْعِيدَيْنِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Dua rakaat seperti salat Id",
-    "sharaf": "رَكْعَةٌ: اِسْمُ مَرَّةٍ مِنْ رَكَعَ – يَرْكَعُ؛ صَلَّى – يُصَلِّي – صَلَاةً؛ عِيدٌ: اِسْمٌ",
+    "sharaf": "رَكْعَةٌ: اِسْمُ مَرَّةٍ مِنْ رَكَعَ – يَرْكَعُ؛ رَكْعَتَانِ: تَثْنِيَةُ رَكْعَةٍ؛ صَلَّى – يُصَلِّي – صَلَاةً؛ عِيدٌ – أَعْيَادٌ",
     "meaning_fiqh": "Salat istisqa dilaksanakan dua rakaat dengan tata cara seperti salat Id."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "خُطْبَتَانِ بَعْدَ الصَّلَاةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Dua khutbah setelah salat",
-    "sharaf": "خَطَبَ – يَخْطُبُ – خُطْبَةً؛ صَلَّى – يُصَلِّي – صَلَاةً",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Dua khutbah setelah salat",
+    "sharaf": "خُطْبَةٌ – خُطَبٌ؛ خُطْبَتَانِ: تَثْنِيَةُ خُطْبَةٍ؛ صَلَّى – يُصَلِّي – صَلَاةً",
     "meaning_fiqh": "Setelah salat istisqa dilaksanakan dua khutbah. Dalam khutbah, doa, istighfar, dan anjuran untuk kembali kepada Allah diperbanyak."
   },
   {
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "تَحْوِيلُ الرِّدَاءِ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Membalik posisi selendang/pakaian luar",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Membalik posisi selendang/pakaian luar",
     "sharaf": "حَوَّلَ – يُحَوِّلُ – تَحْوِيلًا؛ رِدَاءٌ: اِسْمٌ",
     "meaning_fiqh": "Dalam pelaksanaan istisqa, imam membalik posisi rida sebagai bagian dari tata cara yang disebutkan dalam Fathul Qorib."
   },
@@ -94,7 +94,7 @@
     "chapter_arabic": "صَلَاةُ الْاِسْتِسْقَاءِ",
     "term_arabic": "الْاِغْتِسَالُ فِي الْوَادِي إِذَا سَالَ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Mandi di lembah ketika airnya mengalir",
-    "sharaf": "اِغْتَسَلَ – يَغْتَسِلُ – اِغْتِسَالًا؛ سَالَ – يَسِيلُ – سَيَلَانًا؛ وَادٍ: اِسْمٌ",
+    "sharaf": "اِغْتَسَلَ – يَغْتَسِلُ – اِغْتِسَالًا؛ سَالَ – يَسِيلُ – سَيَلَانًا؛ وَادٍ – أَوْدِيَةٌ",
     "meaning_fiqh": "Jika air mengalir di lembah setelah hujan, disebutkan anjuran untuk mandi di lembah tersebut."
   },
   {
