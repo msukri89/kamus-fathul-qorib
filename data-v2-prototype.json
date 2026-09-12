@@ -1,241 +1,51 @@
 {
   "format_version": 2,
   "format_name": "Teks + Terjemah + Analisis Lafaz",
-  "description": "Prototype format baru Kamus Fathul Qorib. Data lama tidak diubah.",
+  "status": "prototype",
+  "description": "Rancangan format baru Kamus Fathul Qorib. Data lama tidak diubah sampai format ini dinyatakan final.",
+  "design_principles": [
+    "Teks Arab lengkap menjadi unit utama.",
+    "Terjemah literal tetap dekat dengan susunan Arab tetapi mudah dipahami.",
+    "Setiap lafaz dapat dipelajari tanpa kehilangan konteks kalimat.",
+    "Analisis nahwu/sharaf hanya dicantumkan jika cukup yakin; jangan mengisi kategori secara spekulatif.",
+    "Makna konteks dibedakan dari arti leksikal agar pengguna tidak mengira keduanya selalu sama."
+  ],
   "source": {
     "work": "Fathul Qorib al-Mujib",
     "section": "كتاب أحكام الطهارة",
-    "verification_note": "Teks contoh diverifikasi terhadap teks Fathul Qorib yang tersedia pada sumber digital; format ini adalah rancangan data, bukan pengganti naskah sumber."
+    "verification_note": "Teks contoh berasal dari pembahasan definisi الكتاب والباب dalam Fathul Qorib."
   },
   "sections": [
     {
       "title_arabic": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
       "text_arabic": "وَالْكِتَابُ لُغَةً مَصْدَرٌ بِمَعْنَى الضَّمِّ وَالْجَمْعِ، وَاصْطِلَاحًا اسْمٌ لِجِنْسٍ مِنَ الْأَحْكَامِ. أَمَّا الْبَابُ فَاسْمٌ لِنَوْعٍ مِمَّا دَخَلَ تَحْتَ ذَلِكَ الْجِنْسِ.",
       "translation_literal": "Kitab secara bahasa adalah mashdar dengan makna menghimpun dan mengumpulkan; sedangkan secara istilah adalah nama bagi suatu jenis dari hukum-hukum. Adapun bab adalah nama bagi suatu macam dari sesuatu yang masuk di bawah jenis tersebut.",
-      "translation_note": "Terjemah dijaga sedekat mungkin dengan susunan Arab, tetapi tetap dibuat mudah dipahami.",
+      "translation_note": "Terjemah ini adalah terjemah literal-terarah: struktur makna Arab dipertahankan, tetapi susunan Indonesia dibuat tetap alami.",
       "tokens": [
-        {
-          "arabic": "وَ",
-          "type": "حرف عطف",
-          "morphology": "حرف",
-          "root": null,
-          "pattern": null,
-          "literal": "dan",
-          "context": "penghubung antara pembahasan sebelumnya dan lafaz الكتاب"
-        },
-        {
-          "arabic": "الْكِتَابُ",
-          "type": "اسم",
-          "morphology": "مَصْدَرٌ",
-          "root": "ك ت ب",
-          "pattern": "فِعَال",
-          "derivation": "كَتَبَ – يَكْتُبُ – كِتَابًا",
-          "literal": "kitab; secara asal berkaitan dengan menghimpun",
-          "context": "secara bahasa disebut sebagai mashdar yang bermakna الضم والجمع"
-        },
-        {
-          "arabic": "لُغَةً",
-          "type": "اسم",
-          "morphology": "اسم جامد، منصوب على الظرفية أو الحالية بحسب توجيه الإعراب",
-          "root": "ل غ و",
-          "pattern": null,
-          "literal": "secara bahasa",
-          "context": "menunjukkan makna lafaz الكتاب menurut penggunaan bahasa Arab"
-        },
-        {
-          "arabic": "مَصْدَرٌ",
-          "type": "اسم",
-          "morphology": "اسم",
-          "root": "ص د ر",
-          "pattern": "مَفْعَل",
-          "literal": "mashdar; kata dasar yang menunjukkan makna perbuatan tanpa terikat waktu",
-          "context": "menjelaskan bentuk kata الكتاب dari sisi bahasa"
-        },
-        {
-          "arabic": "بِمَعْنَى",
-          "type": "جار ومجرور + اسم",
-          "morphology": "الباء حرف جر، معنى اسم",
-          "root": "ع ن ي",
-          "pattern": null,
-          "literal": "dengan makna",
-          "context": "menjelaskan makna yang dimaksud dari mashdar الكتاب"
-        },
-        {
-          "arabic": "الضَّمِّ",
-          "type": "اسم",
-          "morphology": "مَصْدَرٌ",
-          "root": "ض م م",
-          "pattern": "فَعّ",
-          "derivation": "ضَمَّ – يَضُمُّ – ضَمًّا",
-          "literal": "menghimpun; menggabungkan",
-          "context": "makna bahasa pertama dari الكتاب"
-        },
-        {
-          "arabic": "وَ",
-          "type": "حرف عطف",
-          "morphology": "حرف",
-          "root": null,
-          "pattern": null,
-          "literal": "dan",
-          "context": "menghubungkan الضم dengan الجمع"
-        },
-        {
-          "arabic": "الْجَمْعِ",
-          "type": "اسم",
-          "morphology": "مَصْدَرٌ",
-          "root": "ج م ع",
-          "pattern": "فَعْل",
-          "derivation": "جَمَعَ – يَجْمَعُ – جَمْعًا",
-          "literal": "mengumpulkan",
-          "context": "makna bahasa kedua dari الكتاب"
-        },
-        {
-          "arabic": "وَ",
-          "type": "حرف عطف",
-          "morphology": "حرف",
-          "root": null,
-          "pattern": null,
-          "literal": "dan",
-          "context": "menghubungkan pembahasan bahasa dengan istilah"
-        },
-        {
-          "arabic": "اصْطِلَاحًا",
-          "type": "اسم",
-          "morphology": "مصدر",
-          "root": "ص ل ح",
-          "pattern": "افْتِعَال",
-          "derivation": "اصْطَلَحَ – يَصْطَلِحُ – اصْطِلَاحًا",
-          "literal": "secara istilah",
-          "context": "beralih dari makna bahasa menuju makna yang digunakan dalam istilah ilmu"
-        },
-        {
-          "arabic": "اسْمٌ",
-          "type": "اسم",
-          "morphology": "اسم جامد",
-          "root": null,
-          "pattern": null,
-          "literal": "nama; sebutan",
-          "context": "menjelaskan hakikat الكتاب secara istilah"
-        },
-        {
-          "arabic": "لِجِنْسٍ",
-          "type": "جار ومجرور",
-          "morphology": "اللام حرف جر، جنس اسم",
-          "root": "ج ن س",
-          "pattern": null,
-          "literal": "bagi suatu jenis",
-          "context": "menunjukkan bahwa الكتاب mencakup suatu jenis hukum"
-        },
-        {
-          "arabic": "مِنَ",
-          "type": "حرف جر",
-          "morphology": "حرف جر",
-          "root": null,
-          "pattern": null,
-          "literal": "dari",
-          "context": "menghubungkan جنس dengan الأحكام"
-        },
-        {
-          "arabic": "الْأَحْكَامِ",
-          "type": "اسم",
-          "morphology": "جمع تكسير، مفرده حُكْمٌ",
-          "root": "ح ك م",
-          "pattern": "أَفْعَال",
-          "derivation": "حَكَمَ – يَحْكُمُ – حُكْمًا",
-          "literal": "hukum-hukum",
-          "context": "hukum-hukum yang menjadi cakupan kitab"
-        },
-        {
-          "arabic": "أَمَّا",
-          "type": "حرف",
-          "morphology": "حرف شرط وتفصيل",
-          "root": null,
-          "pattern": null,
-          "literal": "adapun",
-          "context": "beralih kepada penjelasan istilah الباب"
-        },
-        {
-          "arabic": "الْبَابُ",
-          "type": "اسم",
-          "morphology": "اسم جامد",
-          "root": null,
-          "pattern": null,
-          "literal": "bab",
-          "context": "bagian pembahasan yang berada di bawah kitab"
-        },
-        {
-          "arabic": "فَ",
-          "type": "حرف",
-          "morphology": "فاء التفريع",
-          "root": null,
-          "pattern": null,
-          "literal": "maka",
-          "context": "menghubungkan الباب dengan definisinya"
-        },
-        {
-          "arabic": "اسْمٌ",
-          "type": "اسم",
-          "morphology": "اسم جامد",
-          "root": null,
-          "pattern": null,
-          "literal": "nama; sebutan",
-          "context": "menjelaskan hakikat الباب"
-        },
-        {
-          "arabic": "لِنَوْعٍ",
-          "type": "جار ومجرور",
-          "morphology": "اللام حرف جر، نوع اسم",
-          "root": "ن و ع",
-          "pattern": null,
-          "literal": "bagi suatu macam/jenis",
-          "context": "menjelaskan bahwa الباب adalah bagian yang lebih khusus dari جنس"
-        },
-        {
-          "arabic": "مِمَّا",
-          "type": "من + ما",
-          "morphology": "مِنْ حرف جر + مَا اسم موصول/مصدرية بحسب التوجيه",
-          "root": null,
-          "pattern": null,
-          "literal": "dari sesuatu yang",
-          "context": "menghubungkan نوع dengan isi yang berada di bawah الجنس"
-        },
-        {
-          "arabic": "دَخَلَ",
-          "type": "فعل",
-          "morphology": "فعل ماضٍ",
-          "root": "د خ ل",
-          "pattern": "فَعَلَ",
-          "derivation": "دَخَلَ – يَدْخُلُ – دُخُولًا",
-          "literal": "masuk",
-          "context": "menunjukkan sesuatu yang termasuk di bawah jenis tersebut"
-        },
-        {
-          "arabic": "تَحْتَ",
-          "type": "ظرف",
-          "morphology": "ظرف مكان منصوب وهو مضاف",
-          "root": null,
-          "pattern": null,
-          "literal": "di bawah",
-          "context": "menunjukkan hubungan cakupan antara النوع dan الجنس"
-        },
-        {
-          "arabic": "ذَلِكَ",
-          "type": "اسم إشارة",
-          "morphology": "اسم إشارة للمفرد المذكر البعيد",
-          "root": null,
-          "pattern": null,
-          "literal": "itu",
-          "context": "merujuk kepada الجنس المذكور sebelumnya"
-        },
-        {
-          "arabic": "الْجِنْسِ",
-          "type": "اسم",
-          "morphology": "اسم جامد",
-          "root": "ج ن س",
-          "pattern": null,
-          "literal": "jenis",
-          "context": "jenis hukum yang sebelumnya dijelaskan sebagai cakupan الكتاب"
-        }
+        {"arabic":"وَ","type":"حرف عطف","grammar_role":"penghubung","literal":"dan","context":"menghubungkan pembahasan dengan lafaz الكتاب"},
+        {"arabic":"الْكِتَابُ","type":"اسم","grammar_role":"مبتدأ","morphology":"مصدر","root":"ك ت ب","pattern":"فِعَال","derivation":"كَتَبَ – يَكْتُبُ – كِتَابًا","literal":"kitab; secara bahasa bermakna menghimpun","context":"yang didefinisikan terlebih dahulu secara bahasa, kemudian secara istilah"},
+        {"arabic":"لُغَةً","type":"اسم","grammar_role":"قيد للمعنى اللغوي","morphology":"مصدر منصوب","root":"ل غ و","literal":"secara bahasa","context":"menandai bahwa makna berikut adalah makna bahasa"},
+        {"arabic":"مَصْدَرٌ","type":"اسم","grammar_role":"خبر","morphology":"اسم مشتق من صدر","root":"ص د ر","literal":"mashdar","context":"menjelaskan bahwa الكتاب dipandang sebagai mashdar pada penjelasan bahasa"},
+        {"arabic":"بِمَعْنَى","type":"جار ومجرور","grammar_role":"متعلق بمحذوف صفة لمصدر","morphology":"الباء حرف جر + معنى اسم","root":"ع ن ي","literal":"dengan makna","context":"menjelaskan makna yang dimaksud dari المصدر"},
+        {"arabic":"الضَّمِّ","type":"اسم","grammar_role":"مضاف إليه","morphology":"مصدر","root":"ض م م","derivation":"ضَمَّ – يَضُمُّ – ضَمًّا","literal":"menghimpun; menggabungkan","context":"makna bahasa pertama dari الكتاب"},
+        {"arabic":"وَ","type":"حرف عطف","grammar_role":"penghubung","literal":"dan","context":"menghubungkan الضم dengan الجمع"},
+        {"arabic":"الْجَمْعِ","type":"اسم","grammar_role":"معطوف","morphology":"مصدر","root":"ج م ع","derivation":"جَمَعَ – يَجْمَعُ – جَمْعًا","literal":"mengumpulkan","context":"makna bahasa kedua dari الكتاب"},
+        {"arabic":"وَ","type":"حرف عطف","grammar_role":"penghubung","literal":"dan","context":"menghubungkan penjelasan bahasa dengan penjelasan istilah"},
+        {"arabic":"اصْطِلَاحًا","type":"اسم","grammar_role":"قيد للمعنى الاصطلاحي","morphology":"مصدر منصوب","root":"ص ل ح","pattern":"افْتِعَال","derivation":"اصْطَلَحَ – يَصْطَلِحُ – اصْطِلَاحًا","literal":"secara istilah","context":"menandai peralihan dari makna bahasa ke makna istilah"},
+        {"arabic":"اسْمٌ","type":"اسم","grammar_role":"خبر","morphology":"اسم جامد","literal":"nama; sebutan","context":"menjelaskan hakikat الكتاب menurut istilah"},
+        {"arabic":"لِجِنْسٍ","type":"جار ومجرور","grammar_role":"متعلق بمحذوف صفة","morphology":"اللام حرف جر + جنس اسم","root":"ج ن س","literal":"bagi suatu jenis","context":"menjelaskan bahwa الكتاب mencakup suatu جنس"},
+        {"arabic":"مِنَ","type":"حرف جر","grammar_role":"حرف جر","literal":"dari","context":"menghubungkan جنس dengan الأحكام"},
+        {"arabic":"الْأَحْكَامِ","type":"اسم","grammar_role":"مجرور بـ من","morphology":"جمع تكسير، مفرده حُكْمٌ","root":"ح ك م","pattern":"أَفْعَال","derivation":"حَكَمَ – يَحْكُمُ – حُكْمًا","literal":"hukum-hukum","context":"hukum-hukum yang menjadi cakupan جنس tersebut"},
+        {"arabic":"أَمَّا","type":"حرف","grammar_role":"حرف شرط وتفصيل","literal":"adapun","context":"beralih kepada penjelasan الباب"},
+        {"arabic":"الْبَابُ","type":"اسم","grammar_role":"مبتدأ","morphology":"اسم جامد","literal":"bab","context":"bagian pembahasan yang didefinisikan setelah الكتاب"},
+        {"arabic":"فَ","type":"حرف","grammar_role":"فاء التفريع","literal":"maka","context":"menghubungkan الباب dengan definisinya"},
+        {"arabic":"اسْمٌ","type":"اسم","grammar_role":"خبر","morphology":"اسم جامد","literal":"nama; sebutan","context":"menjelaskan hakikat الباب"},
+        {"arabic":"لِنَوْعٍ","type":"جار ومجرور","grammar_role":"متعلق بمحذوف صفة","morphology":"اللام حرف جر + نوع اسم","root":"ن و ع","literal":"bagi suatu macam/jenis","context":"menunjukkan bahwa الباب lebih khusus daripada الجنس"},
+        {"arabic":"مِمَّا","type":"جار ومجرور","grammar_role":"متعلق بمحذوف صفة لنوع","morphology":"مِنْ + مَا","literal":"dari sesuatu yang","context":"menjelaskan sesuatu yang termasuk dalam نوع tersebut"},
+        {"arabic":"دَخَلَ","type":"فعل","grammar_role":"فعل ماضٍ","morphology":"فعل ماضٍ","root":"د خ ل","pattern":"فَعَلَ","derivation":"دَخَلَ – يَدْخُلُ – دُخُولًا","literal":"masuk; termasuk","context":"menunjukkan sesuatu yang termasuk dalam cakupan الجنس"},
+        {"arabic":"تَحْتَ","type":"اسم","grammar_role":"ظرف مكان","morphology":"ظرف مكان منصوب وهو مضاف","literal":"di bawah","context":"menunjukkan hubungan cakupan antara النوع dan الجنس"},
+        {"arabic":"ذَلِكَ","type":"اسم إشارة","grammar_role":"اسم إشارة","morphology":"للمفرد المذكر البعيد","literal":"itu","context":"merujuk kepada الجنس yang telah disebut"},
+        {"arabic":"الْجِنْسِ","type":"اسم","grammar_role":"مضاف إليه","morphology":"اسم جامد","root":"ج ن س","literal":"jenis","context":"jenis umum yang di bawahnya terdapat berbagai macam pembahasan"}
       ]
     }
   ]
