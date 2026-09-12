@@ -37,15 +37,15 @@
   {
     "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
     "term_arabic": "الْحُرِّيَّةُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Kemerdekaan",
-    "sharaf": "حَرَّ – يَحِرُّ – حُرِّيَّةً",
+    "meaning_literal": "Bentuk: Isim. Artinya: Kemerdekaan",
+    "sharaf": "حُرٌّ: اِسْمٌ؛ حُرِّيَّةٌ: اِسْمٌ",
     "meaning_fiqh": "Kemerdekaan merupakan salah satu syarat wajib salat Jumat; budak tidak termasuk orang yang wajib menghadirinya."
   },
   {
     "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
     "term_arabic": "الذُّكُورِيَّةُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Laki-laki",
-    "sharaf": "ذَكَرَ – يَذْكُرُ – ذِكْرًا؛ ذُكُورِيَّةٌ: اِسْمٌ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Laki-laki",
+    "sharaf": "ذَكَرٌ: اِسْمٌ؛ ذُكُورِيَّةٌ: اِسْمٌ",
     "meaning_fiqh": "Laki-laki merupakan salah satu syarat wajib salat Jumat; perempuan tidak wajib menghadirinya."
   },
   {
@@ -57,7 +57,7 @@
   },
   {
     "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
-    "term_arabic": "الِاسْتِيطَانُ",
+    "term_arabic": "الْاِسْتِيطَانُ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Menetap sebagai penduduk tetap",
     "sharaf": "اِسْتَوْطَنَ – يَسْتَوْطِنُ – اِسْتِيطَانًا",
     "meaning_fiqh": "Istithan merupakan salah satu syarat wajib Jumat. Yang dimaksud adalah menetap di tempat yang menjadi tempat tinggal tetap, bukan sekadar musafir."
@@ -86,7 +86,7 @@
   {
     "chapter_arabic": "صَلَاةُ الْجُمُعَةِ",
     "term_arabic": "فَرَائِضُ الْجُمُعَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Rukun-rukun/fardu Jumat",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Fardu-fardu Jumat",
     "sharaf": "فَرِيضَةٌ: اِسْمٌ؛ جُمُعَةٌ: اِسْمٌ",
     "meaning_fiqh": "Fardu Jumat ada tiga: dua khutbah, dan salat dua rakaat secara berjamaah setelah kedua khutbah."
   },
