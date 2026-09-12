@@ -1,44 +1,44 @@
 [
   {
-    "chapter_arabic": "صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
-    "term_arabic": "الْحَامِلُ وَالْمُرْضِعُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Wanita hamil dan wanita menyusui",
-    "sharaf": "حَامِلٌ: اِسْمُ فَاعِلٍ مِنْ حَمَلَ؛ مُرْضِعٌ: اِسْمُ فَاعِلٍ مِنْ أَرْضَعَ",
-    "meaning_fiqh": "Fathul Qorib membahas wanita hamil dan wanita menyusui yang khawatir terhadap dirinya atau anaknya apabila berpuasa."
+    "chapter_arabic":"صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
+    "term_arabic":"صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Puasa wanita hamil dan wanita menyusui",
+    "sharaf":"صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ حَامِلٌ: اِسْمُ فَاعِلٍ مِنْ حَمَلَ؛ مُرْضِعٌ: اِسْمُ فَاعِلٍ مِنْ أَرْضَعَ",
+    "meaning_fiqh":"Fathul Qorib membahas wanita hamil dan wanita menyusui yang khawatir mengalami bahaya karena puasa atau khawatir terhadap anaknya. Rincian kewajiban setelah berbuka berbeda sesuai sebab kekhawatiran tersebut."
   },
   {
-    "chapter_arabic": "صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
-    "term_arabic": "الْخَوْفُ عَلَى النَّفْسِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Kekhawatiran terhadap diri sendiri",
-    "sharaf": "خَوْفٌ: مَصْدَرٌ مِنْ خَافَ؛ نَفْسٌ: اِسْمٌ",
-    "meaning_fiqh": "Jika wanita hamil atau menyusui khawatir terhadap dirinya karena puasa, ia berbuka dan wajib mengqadha puasa yang ditinggalkan."
+    "chapter_arabic":"صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
+    "term_arabic":"الْخَوْفُ عَلَى النَّفْسِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Kekhawatiran terhadap diri sendiri",
+    "sharaf":"خَوْفٌ: مَصْدَرٌ مِنْ خَافَ؛ نَفْسٌ: اِسْمٌ",
+    "meaning_fiqh":"Jika wanita hamil atau menyusui khawatir terhadap dirinya sendiri karena puasa, ia berbuka dan wajib mengqadha puasa yang ditinggalkan, tanpa fidyah."
   },
   {
-    "chapter_arabic": "صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
-    "term_arabic": "الْخَوْفُ عَلَى الْأَوْلَادِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Kekhawatiran terhadap anak",
-    "sharaf": "خَوْفٌ: مَصْدَرٌ مِنْ خَافَ؛ وَلَدٌ: اِسْمٌ",
-    "meaning_fiqh": "Jika wanita hamil atau menyusui khawatir terhadap anaknya karena puasa, ia berbuka dan wajib mengqadha serta membayar kafarat."
+    "chapter_arabic":"صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
+    "term_arabic":"الْخَوْفُ عَلَى الْأَوْلَادِ",
+    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Kekhawatiran terhadap anak",
+    "sharaf":"خَوْفٌ: مَصْدَرٌ مِنْ خَافَ؛ وَلَدٌ: اِسْمٌ؛ أَوْلَادٌ: جَمْعُ وَلَدٍ",
+    "meaning_fiqh":"Jika kekhawatiran hanya tertuju kepada anak, seperti khawatir keguguran pada wanita hamil atau berkurangnya ASI pada wanita menyusui sehingga membahayakan anak, maka menurut Fathul Qorib keduanya berbuka, mengqadha, dan membayar kaffarah berupa satu mud untuk setiap hari."
   },
   {
-    "chapter_arabic": "صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
-    "term_arabic": "الْقَضَاءُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Mengqadha",
-    "sharaf": "قَضَى – يَقْضِي – قَضَاءً",
-    "meaning_fiqh": "Baik ketika kekhawatiran ditujukan kepada diri sendiri maupun kepada anak, Fathul Qorib menetapkan kewajiban qadha atas puasa yang ditinggalkan."
+    "chapter_arabic":"صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
+    "term_arabic":"الْقَضَاءُ",
+    "meaning_literal":"Bentuk: Masdar. Artinya: Mengqadha",
+    "sharaf":"قَضَى – يَقْضِي – قَضَاءً",
+    "meaning_fiqh":"Baik ketika kekhawatiran ditujukan kepada diri sendiri maupun hanya kepada anak, Fathul Qorib menetapkan kewajiban qadha atas puasa yang ditinggalkan."
   },
   {
-    "chapter_arabic": "صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
-    "term_arabic": "الْكَفَّارَةُ عَنْ كُلِّ يَوْمٍ مُدٌّ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Kafarat satu mud untuk setiap hari",
-    "sharaf": "كَفَّارَةٌ: اِسْمٌ؛ مُدٌّ: اِسْمُ مِقْدَارٍ؛ يَوْمٌ: اِسْمٌ",
-    "meaning_fiqh": "Kafarat dalam keadaan khawatir terhadap anak adalah satu mud untuk setiap hari puasa yang ditinggalkan. Syarah Fathul Qorib menyebut bahwa satu mud tersebut adalah satu rithl dan sepertiga menurut ukuran Irak."
+    "chapter_arabic":"صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
+    "term_arabic":"الْكَفَّارَةُ عَنْ كُلِّ يَوْمٍ مُدٌّ",
+    "meaning_literal":"Bentuk: Frasa. Artinya: Kaffarah satu mud untuk setiap hari",
+    "sharaf":"كَفَّارَةٌ: اِسْمٌ مِنْ كَفَّرَ؛ مُدٌّ: اِسْمُ مِقْدَارٍ؛ يَوْمٌ: اِسْمٌ",
+    "meaning_fiqh":"Kaffarah berupa satu mud untuk setiap hari berlaku apabila berbuka karena kekhawatiran terhadap anak saja. Jika kekhawatiran terhadap diri sendiri, kewajibannya adalah qadha tanpa kaffarah."
   },
   {
-    "chapter_arabic": "صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
-    "term_arabic": "رِطْلٌ وَثُلُثٌ بِالْعِرَاقِيِّ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Satu rithl dan sepertiga menurut ukuran Irak",
-    "sharaf": "رِطْلٌ: اِسْمُ مِقْدَارٍ؛ ثُلُثٌ: اِسْمُ مِقْدَارٍ؛ عِرَاقٌ: اِسْمُ بَلَدٍ",
-    "meaning_fiqh": "Ukuran satu mud yang disebutkan dalam pembahasan ini adalah satu rithl dan sepertiga menurut ukuran Irak."
+    "chapter_arabic":"صَوْمُ الْحَامِلِ وَالْمُرْضِعِ",
+    "term_arabic":"رِطْلٌ وَثُلُثٌ بِالْعِرَاقِيِّ",
+    "meaning_literal":"Bentuk: Frasa. Artinya: Satu rithl dan sepertiga menurut ukuran Irak",
+    "sharaf":"رِطْلٌ: اِسْمُ مِقْدَارٍ؛ ثُلُثٌ: اِسْمُ مِقْدَارٍ؛ عِرَاقٌ: اِسْمُ بَلَدٍ",
+    "meaning_fiqh":"Satu mud yang menjadi ukuran kaffarah tersebut dijelaskan dalam syarah Fathul Qorib sebagai satu rithl dan sepertiga menurut ukuran Irak/Baghdad."
   }
 ]
