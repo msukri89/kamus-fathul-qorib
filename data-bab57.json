@@ -4,41 +4,41 @@
     "term_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
     "meaning_literal":"Bentuk: Jumlah ismiyyah. Artinya: Hari-hari yang diharamkan dan dimakruhkan untuk berpuasa",
     "sharaf":"أَيَّامٌ: جَمْعُ يَوْمٍ؛ يَحْرُمُ: فِعْلٌ مُضَارِعٌ مِنْ حَرُمَ؛ يُكْرَهُ: فِعْلٌ مُضَارِعٌ مَبْنِيٌّ لِلْمَجْهُولِ مِنْ كَرِهَ",
-    "meaning_fiqh":"Fathul Qorib membagi pembahasan ini menjadi hari-hari yang haram berpuasa dan hari yang dimakruhkan dengan kadar tahrim, yaitu hari syak tanpa sebab yang membolehkan puasa."
+    "meaning_fiqh":"Fathul Qorib membahas lima hari yang haram untuk berpuasa, yaitu dua hari raya dan tiga hari Tasyrik, kemudian menjelaskan hukum puasa pada hari syak yang makruh tahrim kecuali terdapat sebab yang membolehkannya."
   },
   {
     "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
     "term_arabic":"الْعِيدَانِ",
     "meaning_literal":"Bentuk: Kata. Artinya: Dua hari raya",
     "sharaf":"عِيدٌ: اِسْمٌ؛ الْعِيدَانِ: مُثَنَّى عِيدٍ",
-    "meaning_fiqh":"Dua hari raya adalah Idul Fitri dan Idul Adha. Berpuasa pada keduanya hukumnya haram. Fathul Qorib memasukkannya bersama tiga hari Tasyrik sebagai lima hari yang haram untuk berpuasa."
+    "meaning_fiqh":"Dua hari raya adalah Idul Fitri dan Idul Adha. Berpuasa pada keduanya hukumnya haram."
   },
   {
     "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
     "term_arabic":"أَيَّامُ التَّشْرِيقِ",
     "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Hari-hari Tasyrik",
     "sharaf":"أَيَّامٌ: جَمْعُ يَوْمٍ؛ تَشْرِيقٌ: مَصْدَرٌ مِنْ شَرَّقَ",
-    "meaning_fiqh":"Hari Tasyrik adalah tiga hari setelah hari Nahr, yaitu 11, 12, dan 13 Dzulhijjah. Berpuasa pada hari-hari tersebut hukumnya haram menurut pembahasan Fathul Qorib."
+    "meaning_fiqh":"Hari Tasyrik adalah tiga hari setelah hari Nahr, yaitu 11, 12, dan 13 Dzulhijjah. Berpuasa pada ketiga hari tersebut hukumnya haram menurut pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
     "term_arabic":"صَوْمُ يَوْمِ الشَّكِّ",
     "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Puasa pada hari syak",
     "sharaf":"صَوْمٌ: مَصْدَرٌ مِنْ صَامَ؛ يَوْمٌ: اِسْمٌ؛ شَكٌّ: مَصْدَرٌ مِنْ شَكَّ",
-    "meaning_fiqh":"Fathul Qorib menyatakan puasa pada hari syak makruh tahrim apabila tidak ada sebab yang menuntut untuk berpuasa. Di antara sebab yang disebutkan adalah bertepatan dengan kebiasaan puasa sunnah; puasa qadha dan nazar juga dibahas sebagai puasa yang boleh dilakukan."
+    "meaning_fiqh":"Puasa pada hari syak dihukumi makruh tahrim apabila dilakukan tanpa sebab yang membolehkan. Di antara sebab yang membolehkan adalah bertepatan dengan kebiasaan puasa sunnah, atau dilakukan sebagai puasa yang memiliki sebab seperti qadha atau nazar sesuai rincian fikih."
   },
   {
     "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
     "term_arabic":"يَوْمُ الشَّكِّ",
     "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Hari syak atau hari keraguan",
     "sharaf":"يَوْمٌ: اِسْمٌ؛ شَكٌّ: مَصْدَرٌ مِنْ شَكَّ",
-    "meaning_fiqh":"Hari syak adalah tanggal 30 Sya'ban apabila hilal tidak terlihat pada malamnya dalam keadaan cerah, atau masyarakat membicarakan adanya rukyat tetapi tidak diketahui orang adil yang melihatnya, atau yang bersaksi melihat hilal adalah anak-anak, budak, atau orang fasik."
+    "meaning_fiqh":"Dalam pembahasan Fathul Qorib, hari syak berkaitan dengan tanggal 30 Sya'ban ketika hilal tidak terlihat pada malamnya dalam keadaan langit cerah, atau terdapat pembicaraan tentang rukyat tetapi tidak diketahui orang adil yang melihatnya. Termasuk pula keadaan ketika pemberi kabar rukyat bukan orang yang memenuhi syarat kesaksian menurut rincian yang disebutkan dalam syarah."
   },
   {
     "chapter_arabic":"الْأَيَّامُ الَّتِي يَحْرُمُ فِيهَا الصَّوْمُ وَيُكْرَهُ",
     "term_arabic":"مُوَافَقَةُ يَوْمِ الشَّكِّ لِعَادَةِ الصَّوْمِ",
     "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Bertepatan dengan hari syak karena kebiasaan berpuasa",
     "sharaf":"مُوَافَقَةٌ: مَصْدَرٌ مِنْ وَافَقَ؛ عَادَةٌ: اِسْمٌ؛ صَوْمٌ: مَصْدَرٌ مِنْ صَامَ",
-    "meaning_fiqh":"Di antara sebab yang membolehkan puasa pada hari syak adalah apabila hari tersebut bertepatan dengan kebiasaan puasa sunnah seseorang, sebagaimana pengecualian yang disebutkan dalam Fathul Qorib."
+    "meaning_fiqh":"Puasa pada hari syak tidak termasuk makruh tahrim apabila bertepatan dengan kebiasaan puasa sunnah seseorang, sebagaimana pengecualian yang disebutkan dalam Fathul Qorib."
   }
 ]
