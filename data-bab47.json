@@ -1,0 +1,65 @@
+[
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Nisab emas dan perak",
+    "sharaf": "نِصَابٌ: اِسْمٌ؛ ذَهَبٌ: اِسْمٌ؛ فِضَّةٌ: اِسْمٌ",
+    "meaning_fiqh": "Nisab emas adalah 20 mitsqal dan nisab perak adalah 200 dirham. Keduanya wajib dizakati sebesar seperempat dari sepersepuluh (2,5%) setelah terpenuhi syarat zakatnya."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "عِشْرُونَ مِثْقَالًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Dua puluh mitsqal",
+    "sharaf": "عِشْرُونَ: عَدَدٌ؛ مِثْقَالٌ: اِسْمٌ",
+    "meaning_fiqh": "Nisab emas adalah 20 mitsqal, berdasarkan ukuran timbangan Makkah dalam teks Fathul Qorib. Zakatnya adalah seperempat dari sepersepuluh, yaitu setengah mitsqal."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "رُبْعُ الْعُشْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Seperempat dari sepersepuluh",
+    "sharaf": "رُبْعٌ: اِسْمٌ؛ عُشْرٌ: اِسْمٌ",
+    "meaning_fiqh": "Kadar zakat emas dan perak adalah رُبْعُ الْعُشْرِ, yaitu 2,5%. Pada nisab emas 20 mitsqal, kadarnya adalah setengah mitsqal; pada nisab perak 200 dirham, kadarnya 5 dirham."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "نِصْفُ مِثْقَالٍ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Setengah mitsqal",
+    "sharaf": "نِصْفٌ: اِسْمٌ؛ مِثْقَالٌ: اِسْمٌ",
+    "meaning_fiqh": "Setengah mitsqal adalah kadar zakat yang wajib pada nisab emas 20 mitsqal."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "مِائَتَا دِرْهَمٍ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Dua ratus dirham",
+    "sharaf": "مِائَتَانِ: عَدَدٌ؛ دِرْهَمٌ: اِسْمٌ",
+    "meaning_fiqh": "Nisab perak adalah 200 dirham. Zakatnya adalah seperempat dari sepersepuluh, yaitu 5 dirham."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "خَمْسَةُ دَرَاهِمَ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Lima dirham",
+    "sharaf": "خَمْسَةٌ: عَدَدٌ؛ دِرْهَمٌ: اِسْمٌ",
+    "meaning_fiqh": "Lima dirham adalah kadar zakat yang wajib pada nisab perak 200 dirham."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "الْمَغْشُوشُ مِنَ الذَّهَبِ وَالْفِضَّةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Emas dan perak yang bercampur bahan lain",
+    "sharaf": "مَغْشُوشٌ: اِسْمُ مَفْعُولٍ مِنْ غَشَّ؛ ذَهَبٌ: اِسْمٌ؛ فِضَّةٌ: اِسْمٌ",
+    "meaning_fiqh": "Emas atau perak yang bercampur bahan lain tidak wajib dizakati sampai kadar emas atau perak murninya mencapai nisab."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "الْحُلِيُّ الْمُبَاحُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Perhiasan yang dibolehkan",
+    "sharaf": "حُلِيٌّ: اِسْمٌ؛ مُبَاحٌ: اِسْمُ مَفْعُولٍ مِنْ أَبَاحَ",
+    "meaning_fiqh": "Menurut teks Fathul Qorib, perhiasan yang mubah tidak wajib dizakati."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
+    "term_arabic": "الْحُلِيُّ الْمُحَرَّمُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Perhiasan yang diharamkan",
+    "sharaf": "حُلِيٌّ: اِسْمٌ؛ مُحَرَّمٌ: اِسْمُ مَفْعُولٍ مِنْ حَرَّمَ",
+    "meaning_fiqh": "Perhiasan yang haram digunakan, seperti gelang atau gelang kaki emas bagi laki-laki atau khuntsa, wajib dizakati menurut teks Fathul Qorib."
+  }
+]
