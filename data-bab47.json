@@ -4,14 +4,14 @@
     "term_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Nisab emas dan perak",
     "sharaf": "نِصَابٌ: اِسْمٌ؛ ذَهَبٌ: اِسْمٌ؛ فِضَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Nisab emas adalah 20 mitsqal dan nisab perak adalah 200 dirham, dengan ukuran yang disebutkan dalam Fathul Qorib. Kadar zakat keduanya adalah رُبْعُ الْعُشْرِ."
+    "meaning_fiqh": "Nisab emas adalah 20 mitsqal dan nisab perak adalah 200 dirham. Kadar zakat keduanya adalah رُبْعُ الْعُشْرِ (2,5%)."
   },
   {
     "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
     "term_arabic": "عِشْرُونَ مِثْقَالًا بِوَزْنِ مَكَّةَ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Dua puluh mitsqal menurut timbangan Makkah",
     "sharaf": "عِشْرُونَ: عَدَدٌ؛ مِثْقَالٌ: اِسْمٌ؛ وَزْنٌ: مَصْدَرٌ مِنْ وَزَنَ",
-    "meaning_fiqh": "Nisab emas adalah 20 mitsqal secara khusus menurut ukuran timbangan Makkah. Fathul Qorib juga menjelaskan bahwa satu mitsqal adalah satu dirham dan tiga-tujuh dirham."
+    "meaning_fiqh": "Nisab emas adalah 20 mitsqal dengan ukuran timbangan Makkah. Dalam syarah Fathul Qorib, satu mitsqal dijelaskan sebagai satu dirham dan tiga-tujuh dirham."
   },
   {
     "chapter_arabic": "نِصَابُ الذَّهَبِ وَالْفِضَّةِ",
@@ -67,6 +67,6 @@
     "term_arabic": "الْحُلِيُّ الْمُحَرَّمُ",
     "meaning_literal": "Bentuk: Frasa sifat. Artinya: Perhiasan yang diharamkan",
     "sharaf": "حُلِيٌّ: اِسْمٌ؛ مُحَرَّمٌ: اِسْمُ مَفْعُولٍ مِنْ حَرَّمَ",
-    "meaning_fiqh": "Perhiasan yang haram digunakan, seperti gelang dan gelang kaki emas untuk laki-laki atau khuntsa, wajib dizakati menurut Fathul Qorib."
+    "meaning_fiqh": "Perhiasan yang haram digunakan, seperti gelang atau gelang kaki emas untuk laki-laki atau khuntsa, wajib dizakati menurut Fathul Qorib."
   }
 ]
