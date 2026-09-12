@@ -1,51 +1,9 @@
 [
-  {
-    "chapter_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "term_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Bolehnya meninggalkan menghadap kiblat",
-    "sharaf": "جَوَازٌ: مصدر جَازَ - يَجُوزُ؛ تَرْكٌ: مصدر تَرَكَ - يَتْرُكُ؛ اسْتِقْبَالٌ: مصدر اسْتَقْبَلَ - يَسْتَقْبِلُ؛ الْقِبْلَةُ: اسم",
-    "meaning_fiqh": "Kelonggaran untuk tidak menghadap kiblat dalam salat pada dua keadaan yang disebut Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "term_arabic": "شِدَّةُ الْخَوْفِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Keadaan sangat takut",
-    "sharaf": "شِدَّةٌ: مصدر شَدَّ - يَشُدُّ؛ خَوْفٌ: مصدر خَافَ - يَخَافُ",
-    "meaning_fiqh": "Keadaan takut berat dalam peperangan yang dibenarkan, yang membolehkan salat dilakukan tanpa menghadap kiblat."
-  },
-  {
-    "chapter_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "term_arabic": "قِتَالٌ مُبَاحٌ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Peperangan yang dibenarkan",
-    "sharaf": "قِتَالٌ: مصدر قَاتَلَ - يُقَاتِلُ؛ مُبَاحٌ: اسم مفعول من أَبَاحَ - يُبِيحُ",
-    "meaning_fiqh": "Peperangan yang secara syariat dibenarkan; dalam keadaan sangat takut karenanya, kewajiban menghadap kiblat dapat ditinggalkan."
-  },
-  {
-    "chapter_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "term_arabic": "النَّافِلَةُ فِي السَّفَرِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat sunnah dalam perjalanan",
-    "sharaf": "النَّافِلَةُ: اسم لما زاد على الفرض؛ السَّفَرُ: مصدر سَافَرَ - يُسَافِرُ",
-    "meaning_fiqh": "Salat sunnah ketika melakukan perjalanan yang dibenarkan merupakan keadaan kedua yang membolehkan meninggalkan arah kiblat."
-  },
-  {
-    "chapter_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "term_arabic": "الرَّاحِلَةُ",
-    "meaning_literal": "Bentuk: Isim Fa'il. Artinya: Kendaraan tunggangan",
-    "sharaf": "رَحَلَ - يَرْحَلُ - رُحُولًا - رَاحِلٌ",
-    "meaning_fiqh": "Hewan atau kendaraan yang ditunggangi ketika melakukan perjalanan. Dalam salat sunnah di atas kendaraan, orang yang bepergian boleh menghadap ke arah tujuan perjalanannya."
-  },
-  {
-    "chapter_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "term_arabic": "صَوْبُ الْمَقْصِدِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Ke arah tujuan perjalanan",
-    "sharaf": "صَوْبٌ: اسم بمعنى الجهة؛ مَقْصِدٌ: اسم مكان من قَصَدَ - يَقْصِدُ",
-    "meaning_fiqh": "Arah tujuan perjalanan. Musafir yang mengerjakan salat sunnah di atas kendaraan boleh menghadap ke arah tujuan tersebut."
-  },
-  {
-    "chapter_arabic": "جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ",
-    "term_arabic": "يُومِئُ بِرُكُوعِهِ وَسُجُودِهِ",
-    "meaning_literal": "Bentuk: Frasa fi'liyah. Artinya: Memberi isyarat dengan rukuk dan sujudnya",
-    "sharaf": "يُومِئُ: مِنْ أَوْمَأَ - يُومِئُ؛ رُكُوعٌ: مصدر رَكَعَ - يَرْكَعُ؛ سُجُودٌ: مصدر سَجَدَ - يَسْجُدُ",
-    "meaning_fiqh": "Cara salat bagi orang yang salat sunnah di atas kendaraan sebagaimana penjelasan Fathul Qorib: rukuk dan sujud dilakukan dengan isyarat, dan sujud lebih rendah daripada rukuk."
-  }
+  {"chapter_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","term_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","meaning_literal":"Bentuk: Frasa idhafah bertingkat. Artinya: Bolehnya meninggalkan menghadap kiblat","sharaf":"جَوَازٌ: مصدر جَازَ – يَجُوزُ – جَوَازًا؛ تَرْكٌ: مصدر تَرَكَ – يَتْرُكُ – تَرْكًا؛ اسْتِقْبَالٌ: مصدر اسْتَقْبَلَ – يَسْتَقْبِلُ – اسْتِقْبَالًا؛ الْقِبْلَةُ: اسم","meaning_fiqh":"Kelonggaran untuk tidak menghadap kiblat dalam salat pada dua keadaan yang disebut Fathul Qorib."},
+  {"chapter_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","term_arabic":"شِدَّةُ الْخَوْفِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Keadaan sangat takut","sharaf":"شِدَّةٌ: مصدر شَدَّ – يَشُدُّ – شَدًّا؛ خَوْفٌ: مصدر خَافَ – يَخَافُ – خَوْفًا","meaning_fiqh":"Keadaan takut berat dalam peperangan yang dibenarkan, yang membolehkan salat dilakukan tanpa menghadap kiblat."},
+  {"chapter_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","term_arabic":"قِتَالٌ مُبَاحٌ","meaning_literal":"Bentuk: Frasa sifat. Artinya: Peperangan yang dibenarkan","sharaf":"قِتَالٌ: مصدر قَاتَلَ – يُقَاتِلُ – قِتَالًا؛ مُبَاحٌ: اسم مفعول من أَبَاحَ – يُبِيحُ – إِبَاحَةً","meaning_fiqh":"Peperangan yang secara syariat dibenarkan; dalam keadaan sangat takut karenanya, kewajiban menghadap kiblat dapat ditinggalkan."},
+  {"chapter_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","term_arabic":"النَّافِلَةُ فِي السَّفَرِ","meaning_literal":"Bentuk: Frasa jar-majrur. Artinya: Salat sunnah dalam perjalanan","sharaf":"النَّافِلَةُ: اسم لما زاد على الفرض؛ السَّفَرُ: مصدر سَافَرَ – يُسَافِرُ – سَفَرًا","meaning_fiqh":"Salat sunnah ketika melakukan perjalanan yang dibenarkan merupakan keadaan kedua yang membolehkan meninggalkan arah kiblat."},
+  {"chapter_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","term_arabic":"الرَّاحِلَةُ","meaning_literal":"Bentuk: Isim fa'il. Artinya: Kendaraan tunggangan","sharaf":"رَحَلَ – يَرْحَلُ – رُحُولًا – رَاحِلٌ","meaning_fiqh":"Hewan atau kendaraan yang ditunggangi ketika melakukan perjalanan. Dalam salat sunnah di atas kendaraan, orang yang bepergian boleh menghadap ke arah tujuan perjalanannya."},
+  {"chapter_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","term_arabic":"صَوْبُ الْمَقْصِدِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Ke arah tujuan perjalanan","sharaf":"صَوْبٌ: اسم بمعنى الجهة؛ مَقْصِدٌ: اسم مكان من قَصَدَ – يَقْصِدُ – قَصْدًا","meaning_fiqh":"Arah tujuan perjalanan. Musafir yang mengerjakan salat sunnah di atas kendaraan boleh menghadap ke arah tujuan tersebut."},
+  {"chapter_arabic":"جَوَازُ تَرْكِ اسْتِقْبَالِ الْقِبْلَةِ","term_arabic":"يُومِئُ بِرُكُوعِهِ وَسُجُودِهِ","meaning_literal":"Bentuk: Frasa fi'liyah. Artinya: Memberi isyarat dengan rukuk dan sujudnya","sharaf":"يُومِئُ: مِنْ أَوْمَأَ – يُومِئُ – إِيمَاءً؛ رُكُوعٌ: مصدر رَكَعَ – يَرْكَعُ – رُكُوعًا؛ سُجُودٌ: مصدر سَجَدَ – يَسْجُدُ – سُجُودًا","meaning_fiqh":"Cara salat bagi orang yang salat sunnah di atas kendaraan sebagaimana penjelasan Fathul Qorib: rukuk dan sujud dilakukan dengan isyarat, dan sujud lebih rendah daripada rukuk."}
 ]
