@@ -1,149 +1,163 @@
 [
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
     "term_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Harta yang wajib dizakati",
     "sharaf": "وَجَبَ – يَجِبُ – وُجُوبًا؛ زَكَّى – يُزَكِّي – تَزْكِيَةً",
-    "meaning_fiqh": "Bab ini menjelaskan lima jenis harta yang menjadi objek zakat: hewan ternak, emas dan perak, hasil pertanian, buah-buahan, dan barang dagangan."
+    "meaning_fiqh": "Fathul Qorib membagi harta yang menjadi objek zakat dalam lima kelompok: hewan ternak, emas dan perak, hasil pertanian, buah-buahan, dan barang dagangan."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "خَمْسَةُ أَشْيَاءَ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Lima perkara",
+    "sharaf": "خَمْسَةٌ: عَدَدٌ؛ شَيْءٌ – أَشْيَاءُ",
+    "meaning_fiqh": "Lima kelompok harta yang disebut dalam matan adalah المواشي، والأثمان، والزروع، والثمار، وعروض التجارة."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
     "term_arabic": "الْمَوَاشِي",
     "meaning_literal": "Bentuk: Isim. Artinya: Hewan ternak",
     "sharaf": "مَاشِيَةٌ: اِسْمٌ؛ مَوَاشِي: جَمْعُ مَاشِيَةٍ",
-    "meaning_fiqh": "Dalam pembahasan ini, al-mawasyi yang dimaksud adalah hewan ternak yang wajib dizakati, yaitu unta, sapi, dan kambing."
+    "meaning_fiqh": "Dalam bab ini, al-mawasyi yang wajib dizakati adalah tiga jenis hewan ternak: unta, sapi, dan kambing."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "الْإِبِلُ وَالْبَقَرُ وَالْغَنَمُ",
+    "meaning_literal": "Bentuk: Frasa athaf. Artinya: Unta, sapi, dan kambing",
+    "sharaf": "إِبِلٌ: اِسْمُ جَمْعٍ؛ بَقَرٌ: اِسْمُ جَمْعٍ؛ غَنَمٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Zakat hewan ternak pada pembahasan ini berlaku pada unta, sapi, dan kambing. Kuda dan hewan lain yang tidak termasuk tiga jenis tersebut tidak masuk dalam zakat ternak yang sedang dibahas."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "شُرُوطُ وُجُوبِ زَكَاةِ الْمَوَاشِي",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syarat wajib zakat hewan ternak",
+    "sharaf": "شَرْطٌ – شُرُوطٌ؛ وَجَبَ – يَجِبُ – وُجُوبًا؛ زَكَّى – يُزَكِّي – تَزْكِيَةً",
+    "meaning_fiqh": "Syarat wajib zakat hewan ternak ada enam: Islam, merdeka, kepemilikan sempurna, mencapai nisab, telah berlalu haul, dan sa'im atau digembalakan pada rumput yang mubah."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "الْإِسْلَامُ وَالْحُرِّيَّةُ",
+    "meaning_literal": "Bentuk: Frasa athaf. Artinya: Islam dan kemerdekaan",
+    "sharaf": "أَسْلَمَ – يُسْلِمُ – إِسْلَامًا؛ حُرٌّ: اِسْمٌ؛ حُرِّيَّةٌ: اِسْمٌ",
+    "meaning_fiqh": "Islam dan kemerdekaan termasuk syarat wajib zakat hewan ternak sebagaimana disebutkan dalam Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "الْمِلْكُ التَّامُّ",
+    "meaning_literal": "Bentuk: Frasa sifat. Artinya: Kepemilikan sempurna",
+    "sharaf": "مَلَكَ – يَمْلِكُ – مِلْكًا؛ تَمَّ – يَتِمُّ – تَمَامًا",
+    "meaning_fiqh": "Kepemilikan sempurna merupakan syarat wajib zakat. Fathul Qorib membahas pula perincian harta yang kepemilikannya belum sempurna."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "النِّصَابُ وَالْحَوْلُ",
+    "meaning_literal": "Bentuk: Frasa athaf. Artinya: Nisab dan haul",
+    "sharaf": "نِصَابٌ: اِسْمٌ؛ حَوْلٌ: اِسْمٌ",
+    "meaning_fiqh": "Zakat ternak mensyaratkan harta mencapai nisab dan kepemilikannya berlangsung selama haul. Jika nisab atau haul tidak terpenuhi, zakat tidak wajib menurut ketentuan yang dibahas di sini."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "السَّوْمُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Penggembalaan",
+    "sharaf": "سَامَ – يَسُومُ – سَوْمًا",
+    "meaning_fiqh": "As-saum adalah ternak digembalakan pada rumput yang mubah. Jika ternak diberi pakan selama sebagian besar haul, zakat tidak wajib; rincian tentang pakan selama sebagian haul dijelaskan dalam syarah Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
     "term_arabic": "الْأَثْمَانُ",
     "meaning_literal": "Bentuk: Isim. Artinya: Emas dan perak sebagai alat nilai",
     "sharaf": "ثَمَنٌ: اِسْمٌ؛ أَثْمَانٌ: جَمْعُ ثَمَنٍ",
     "meaning_fiqh": "Yang dimaksud al-atsman dalam Fathul Qorib adalah emas dan perak, baik yang dicetak maupun tidak."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "الزُّرُوعُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Hasil pertanian",
-    "sharaf": "زَرْعٌ: اِسْمٌ؛ زُرُوعٌ: جَمْعُ زَرْعٍ",
-    "meaning_fiqh": "Yang dimaksud az-zuru' dalam pembahasan Fathul Qorib adalah hasil pertanian berupa bahan makanan pokok yang dapat disimpan."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "الثِّمَارُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Buah-buahan",
-    "sharaf": "ثَمَرٌ: اِسْمٌ؛ ثِمَارٌ: جَمْعُ ثَمَرٍ",
-    "meaning_fiqh": "Dalam Fathul Qorib, buah yang menjadi objek zakat pada bab ini adalah buah kurma dan buah anggur, yang dimaksudkan hasil keringnya yaitu kurma dan kismis."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "عُرُوضُ التِّجَارَةِ",
-    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Barang-barang dagangan",
-    "sharaf": "عَرَضٌ: اِسْمٌ؛ عُرُوضٌ: جَمْعُ عَرَضٍ؛ تِجَارَةٌ: مَصْدَرٌ",
-    "meaning_fiqh": "Barang dagangan wajib dizakati dengan syarat-syarat yang berlaku pada emas dan perak."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "الْإِبِلُ وَالْبَقَرُ وَالْغَنَمُ",
-    "meaning_literal": "Bentuk: Frasa athaf. Artinya: Unta, sapi, dan kambing",
-    "sharaf": "إِبِلٌ: اِسْمُ جَمْعٍ؛ بَقَرٌ: اِسْمُ جَمْعٍ؛ غَنَمٌ: اِسْمُ جَمْعٍ",
-    "meaning_fiqh": "Dari hewan ternak, zakat wajib pada tiga jenis ini. Fathul Qorib menyebut tidak wajib zakat ternak pada kuda, budak, dan hewan hasil persilangan yang disebutkan dalam syarah."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "شُرُوطُ وُجُوبِ زَكَاةِ الْمَوَاشِي",
-    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syarat wajib zakat hewan ternak",
-    "sharaf": "شَرْطٌ: اِسْمٌ؛ شُرُوطٌ: جَمْعُ شَرْطٍ؛ وَجَبَ – يَجِبُ – وُجُوبًا",
-    "meaning_fiqh": "Fathul Qorib menyebut enam syarat wajib zakat hewan ternak: Islam, merdeka, kepemilikan sempurna, mencapai nisab, telah berlalu haul, dan digembalakan di padang rumput yang mubah."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "الْإِسْلَامُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Islam",
-    "sharaf": "أَسْلَمَ – يُسْلِمُ – إِسْلَامًا",
-    "meaning_fiqh": "Islam merupakan salah satu syarat wajib zakat hewan ternak dan harta zakat yang dibahas dalam matan ini."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "الْحُرِّيَّةُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Kemerdekaan",
-    "sharaf": "حُرٌّ: اِسْمٌ؛ حُرِّيَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Kemerdekaan merupakan salah satu syarat wajib zakat dalam pembahasan ini; budak tidak dikenai kewajiban zakat atas kepemilikan yang dimaksud dalam matan."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "الْمِلْكُ التَّامُّ",
-    "meaning_literal": "Bentuk: Frasa sifat. Artinya: Kepemilikan sempurna",
-    "sharaf": "مَلَكَ – يَمْلِكُ – مِلْكًا؛ تَمَّ – يَتِمُّ – تَمَامًا",
-    "meaning_fiqh": "Kepemilikan sempurna merupakan syarat wajib zakat. Fathul Qorib juga membahas perbedaan pendapat tentang harta yang kepemilikannya belum sempurna."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "النِّصَابُ وَالْحَوْلُ",
-    "meaning_literal": "Bentuk: Frasa athaf. Artinya: Nisab dan haul",
-    "sharaf": "نِصَابٌ: اِسْمٌ؛ حَوْلٌ: اِسْمٌ",
-    "meaning_fiqh": "Untuk zakat hewan ternak dan emas-perak, harta harus mencapai nisab dan kepemilikannya berlangsung selama haul yang disyaratkan."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "السَّوْمُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Penggembalaan",
-    "sharaf": "سَامَ – يَسُومُ – سَوْمًا",
-    "meaning_fiqh": "As-saum adalah ternak digembalakan pada rumput yang mubah. Jika ternak diberi pakan selama sebagian besar haul, zakat tidak wajib; jika diberi pakan setengah haul atau kurang dalam kadar yang masih dapat ditanggung tanpa mudarat yang nyata, zakat tetap wajib menurut rincian Fathul Qorib."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
     "term_arabic": "الذَّهَبُ وَالْفِضَّةُ",
     "meaning_literal": "Bentuk: Frasa athaf. Artinya: Emas dan perak",
     "sharaf": "ذَهَبٌ: اِسْمٌ؛ فِضَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Emas dan perak merupakan dua jenis al-atsman yang wajib dizakati apabila terpenuhi syarat-syaratnya, baik dalam bentuk cetakan maupun bukan."
+    "meaning_fiqh": "Emas dan perak merupakan dua jenis al-atsman yang wajib dizakati apabila memenuhi syarat-syaratnya."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "شُرُوطُ زَكَاةِ الْأَثْمَانِ",
-    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syarat-syarat zakat emas dan perak",
-    "sharaf": "شَرْطٌ – شُرُوطٌ؛ ثَمَنٌ – أَثْمَانٌ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "شُرُوطُ وُجُوبِ زَكَاةِ الْأَثْمَانِ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syarat wajib zakat emas dan perak",
+    "sharaf": "شَرْطٌ – شُرُوطٌ؛ وَجَبَ – يَجِبُ – وُجُوبًا؛ ثَمَنٌ – أَثْمَانٌ",
     "meaning_fiqh": "Syarat wajib zakat emas dan perak ada lima: Islam, merdeka, kepemilikan sempurna, nisab, dan haul."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "قُوتٌ مُدَّخَرٌ",
-    "meaning_literal": "Bentuk: Frasa sifat. Artinya: Makanan pokok yang dapat disimpan",
-    "sharaf": "قَاتَ – يَقُوتُ – قَوْتًا؛ مُدَّخَرٌ: اِسْمُ مَفْعُولٍ مِنَ ادَّخَرَ",
-    "meaning_fiqh": "Qut muddakhar merupakan salah satu syarat hasil pertanian yang wajib dizakati, yaitu makanan pokok yang dapat disimpan."
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "الزُّرُوعُ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Hasil pertanian",
+    "sharaf": "زَرْعٌ: اِسْمٌ؛ زُرُوعٌ: جَمْعُ زَرْعٍ",
+    "meaning_fiqh": "Yang dimaksud az-zuru' adalah hasil pertanian berupa tanaman yang memenuhi syarat zakat sebagaimana dirinci dalam Fathul Qorib."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "خَمْسَةُ أَوْسُقٍ",
-    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Lima wasaq",
-    "sharaf": "خَمْسَةٌ: عَدَدٌ؛ وَسْقٌ: اِسْمٌ؛ أَوْسُقٌ: جَمْعُ وَسْقٍ",
-    "meaning_fiqh": "Nisab hasil pertanian dalam Fathul Qorib adalah lima wasaq, dengan rincian sebagaimana dibahas dalam bab zakat pertanian."
-  },
-  {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
     "term_arabic": "أَنْ يَكُونَ مِمَّا يَزْرَعُهُ الْآدَمِيُّونَ",
     "meaning_literal": "Bentuk: Jumlah fi'liyyah. Artinya: Berupa sesuatu yang ditanam oleh manusia",
     "sharaf": "زَرَعَ – يَزْرَعُ – زَرْعًا؛ زَارِعٌ: اِسْمُ فَاعِلٍ",
-    "meaning_fiqh": "Hasil pertanian yang wajib dizakati adalah yang ditanam atau diusahakan manusia. Hasil yang tumbuh sendiri tanpa usaha penanaman manusia tidak termasuk dalam syarat ini."
+    "meaning_fiqh": "Salah satu syarat zakat hasil pertanian adalah tanaman tersebut ditanam atau diusahakan oleh manusia. Tanaman yang tumbuh sendiri tanpa penanaman manusia tidak termasuk dalam syarat ini."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "قُوتٌ مُدَّخَرٌ",
+    "meaning_literal": "Bentuk: Frasa sifat. Artinya: Makanan pokok yang dapat disimpan",
+    "sharaf": "قَاتَ – يَقُوتُ – قَوْتًا؛ مُدَّخَرٌ: اِسْمُ مَفْعُولٍ مِنَ ادَّخَرَ",
+    "meaning_fiqh": "Hasil pertanian yang wajib dizakati harus berupa makanan pokok yang dapat disimpan. Dalam syarah, termasuk makanan pokok seperti gandum, jelai, beras, dan jenis lain yang memenuhi kriteria."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "خَمْسَةُ أَوْسُقٍ لَا قِشْرَ عَلَيْهَا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Lima wasaq tanpa kulit",
+    "sharaf": "خَمْسَةٌ: عَدَدٌ؛ وَسْقٌ – أَوْسُقٌ؛ قِشْرٌ: اِسْمٌ",
+    "meaning_fiqh": "Nisab hasil pertanian adalah lima wasaq dalam keadaan tidak berkulit. Perincian ukuran wasaq dan cara menilainya dibahas dalam bab zakat pertanian."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "الثِّمَارُ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Buah-buahan",
+    "sharaf": "ثَمَرٌ: اِسْمٌ؛ ثِمَارٌ: جَمْعُ ثَمَرٍ",
+    "meaning_fiqh": "Buah yang termasuk objek zakat dalam matan ini ada dua: buah kurma dan buah anggur."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
     "term_arabic": "ثَمَرَةُ النَّخْلِ وَثَمَرَةُ الْكَرْمِ",
-    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Buah pohon kurma dan buah anggur",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Buah kurma dan buah anggur",
     "sharaf": "ثَمَرَةٌ: اِسْمٌ؛ نَخْلٌ: اِسْمٌ جَمْعِيٌّ؛ كَرْمٌ: اِسْمٌ",
-    "meaning_fiqh": "Dalam Fathul Qorib, dua buah yang menjadi objek zakat pada pembahasan ini adalah buah kurma dan buah anggur; yang dimaksud adalah tamr dan zabib."
+    "meaning_fiqh": "Yang dimaksud dengan buah kurma dan buah anggur dalam syarah adalah hasil keringnya, yaitu tamr dan zabib."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
-    "term_arabic": "شُرُوطُ زَكَاةِ الثِّمَارِ",
-    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syarat-syarat zakat buah-buahan",
-    "sharaf": "شَرْطٌ – شُرُوطٌ؛ ثَمَرٌ – ثِمَارٌ",
-    "meaning_fiqh": "Syarat wajib zakat buah-buahan yang disebutkan Fathul Qorib ada empat: Islam, merdeka, kepemilikan sempurna, dan nisab."
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "شُرُوطُ وُجُوبِ زَكَاةِ الثِّمَارِ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syarat wajib zakat buah-buahan",
+    "sharaf": "شَرْطٌ – شُرُوطٌ؛ وَجَبَ – يَجِبُ – وُجُوبًا؛ ثَمَرٌ – ثِمَارٌ",
+    "meaning_fiqh": "Syarat wajib zakat buah-buahan yang disebutkan dalam Fathul Qorib ada empat: Islam, merdeka, kepemilikan sempurna, dan nisab."
   },
   {
-    "chapter_arabic": "مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "أَرْبَعَةُ شُرُوطٍ لِزَكَاةِ الثِّمَارِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Empat syarat zakat buah-buahan",
+    "sharaf": "أَرْبَعَةٌ: عَدَدٌ؛ شَرْطٌ – شُرُوطٌ",
+    "meaning_fiqh": "Empat syarat tersebut adalah Islam, kemerdekaan, kepemilikan sempurna, dan mencapai nisab."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "عُرُوضُ التِّجَارَةِ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Barang-barang dagangan",
+    "sharaf": "عَرَضٌ: اِسْمٌ؛ عُرُوضٌ: جَمْعُ عَرَضٍ؛ تِجَارَةٌ: مَصْدَرٌ",
+    "meaning_fiqh": "Barang dagangan wajib dizakati dengan syarat-syarat yang telah disebutkan untuk emas dan perak."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "term_arabic": "شُرُوطُ زَكَاةِ عُرُوضِ التِّجَارَةِ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syarat-syarat zakat barang dagangan",
+    "sharaf": "شَرْطٌ – شُرُوطٌ؛ عَرَضٌ – عُرُوضٌ؛ تِجَارَةٌ: مَصْدَرٌ",
+    "meaning_fiqh": "Karena zakat barang dagangan mengikuti syarat zakat emas dan perak, syarat pokoknya adalah Islam, merdeka, kepemilikan sempurna, nisab, dan haul."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا تَجِبُ فِيهِ الزَّكَاةُ",
     "term_arabic": "التِّجَارَةُ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Perdagangan",
     "sharaf": "تَجَرَ – يَتْجُرُ – تِجَارَةً",
-    "meaning_fiqh": "Dalam Fathul Qorib, perdagangan adalah memutar harta dengan tujuan memperoleh keuntungan."
+    "meaning_fiqh": "Dalam penjelasan Fathul Qorib, perdagangan adalah melakukan perputaran atau pengelolaan harta dengan tujuan memperoleh keuntungan."
   }
 ]
