@@ -2,9 +2,9 @@
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
     "term_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Zakat dua orang yang mencampurkan ternaknya",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Zakat dua pihak yang mencampurkan ternaknya",
     "sharaf": "زَكَاةٌ: اِسْمٌ؛ خَلِيطٌ: صِفَةٌ",
-    "meaning_fiqh": "Dua orang yang mencampurkan ternaknya dalam bentuk khulthah yang memenuhi syarat, zakatnya diperlakukan seperti zakat satu orang."
+    "meaning_fiqh": "Dua pihak yang mencampurkan ternaknya dalam bentuk khulthah yang memenuhi syarat, zakatnya diperlakukan seperti zakat satu orang."
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
@@ -57,10 +57,10 @@
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
-    "term_arabic": "الرَّاعِي وَاحِدٌ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Penggembala menjadi satu",
-    "sharaf": "رَعَى – يَرْعَى – رَعْيًا؛ رَاعٍ: اِسْمُ فَاعِلٍ",
-    "meaning_fiqh": "Ternak yang bercampur memiliki satu penggembala merupakan salah satu syarat khulthah."
+    "term_arabic": "الْحَالِبُ وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Orang yang memerah menjadi satu",
+    "sharaf": "حَلَبَ – يَحْلِبُ – حَلْبًا؛ حَالِبٌ: اِسْمُ فَاعِلٍ",
+    "meaning_fiqh": "Teks matan menyebut orang yang memerah ternak menjadi satu sebagai salah satu dari tujuh syarat khulthah. Dalam syarah Fathul Qorib terdapat penjelasan bahwa pendapat yang lebih kuat tidak mensyaratkan kesatuan pemerah, tetapi istilah matan tetap dicatat di sini."
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
@@ -78,16 +78,16 @@
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
-    "term_arabic": "الْمَحْلَبُ وَاحِدٌ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tempat atau wadah pemerahan menjadi satu",
-    "sharaf": "مَحْلَبٌ: اِسْمُ مَكَانٍ",
-    "meaning_fiqh": "Tempat atau wadah pemerahan yang digunakan bersama merupakan salah satu syarat khulthah."
+    "term_arabic": "مَوْضِعُ الْحَلْبِ وَاحِدٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tempat pemerahan menjadi satu",
+    "sharaf": "مَوْضِعٌ: اِسْمُ مَكَانٍ؛ حَلْبٌ: مَصْدَرٌ",
+    "meaning_fiqh": "Tempat pemerahan menjadi satu merupakan salah satu dari tujuh syarat khulthah yang disebutkan dalam matan."
   },
   {
     "chapter_arabic": "زَكَاةُ الْخَلِيطَيْنِ",
     "term_arabic": "سَبْعَةُ شَرَائِطَ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh syarat",
     "sharaf": "سَبْعَةٌ: عَدَدٌ؛ شَرْطٌ: اِسْمٌ",
-    "meaning_fiqh": "Khulthah yang menyebabkan ternak diperlakukan dalam zakat seperti milik satu orang memiliki tujuh syarat: satu tempat bermalam, satu tempat menggembala, satu tempat penggembalaan, satu penggembala, satu pejantan, satu tempat minum, dan satu tempat atau wadah pemerahan."
+    "meaning_fiqh": "Khulthah yang menyebabkan ternak diperlakukan dalam zakat seperti milik satu orang memiliki tujuh syarat menurut matan: satu tempat bermalam, satu tempat melepas ternak, satu tempat penggembalaan, satu pejantan, satu tempat minum, satu pemerah, dan satu tempat pemerahan."
   }
 ]
