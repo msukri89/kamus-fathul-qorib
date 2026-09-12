@@ -1,65 +1,10 @@
 [
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "صَلَاةُ الْخَوْفِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat dalam keadaan takut",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا",
-    "meaning_fiqh": "Salat khauf adalah tata cara pelaksanaan salat ketika menghadapi keadaan takut atau ancaman. Fathul Qorib membahas tiga bentuk dari beberapa bentuk yang disebutkan dalam hadis."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "أَنْوَاعُ صَلَاةِ الْخَوْفِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Macam-macam salat khauf",
-    "sharaf": "نَوْعٌ: اِسْمٌ؛ صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا",
-    "meaning_fiqh": "Fathul Qorib menyebutkan bahwa salat khauf memiliki banyak bentuk, dan dalam pembahasan ringkas ini dijelaskan tiga bentuk."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "الْعَدُوُّ فِي غَيْرِ جِهَةِ الْقِبْلَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Musuh berada bukan di arah kiblat",
-    "sharaf": "عَدُوٌّ: اِسْمٌ؛ جِهَةٌ: اِسْمٌ؛ قِبْلَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Jika musuh berada bukan di arah kiblat dan jumlah kaum muslimin memungkinkan dibagi menjadi dua kelompok, imam membagi mereka menjadi kelompok yang menjaga musuh dan kelompok yang salat bersamanya."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "الْفِرْقَةُ الْحَارِسَةُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Kelompok yang berjaga",
-    "sharaf": "فِرْقَةٌ: اِسْمٌ؛ حَرَسَ – يَحْرُسُ – حَرْسًا",
-    "meaning_fiqh": "Sebagian pasukan berjaga menghadapi musuh, sementara kelompok lainnya salat bersama imam. Setelah menyelesaikan bagiannya, kelompok yang telah salat bergantian menjaga dan kelompok yang berjaga menyusul salat bersama imam."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "الْعَدُوُّ فِي جِهَةِ الْقِبْلَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Musuh berada di arah kiblat",
-    "sharaf": "عَدُوٌّ: اِسْمٌ؛ جِهَةٌ: اِسْمٌ؛ قِبْلَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Jika musuh berada di arah kiblat dan keadaan memungkinkan mereka tetap terlihat oleh kaum muslimin, imam mengatur pasukan menjadi dua barisan; satu barisan sujud bersama imam dan barisan lainnya berjaga, kemudian mereka bergantian."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "شِدَّةُ الْخَوْفِ وَالْتِحَامُ الْحَرْبِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Ketakutan yang sangat dan berkecamuknya peperangan",
-    "sharaf": "شِدَّةٌ: اِسْمٌ؛ خَافَ – يَخَافُ – خَوْفًا؛ اِلْتَحَمَ – يَلْتَحِمُ – اِلْتِحَامًا؛ حَرْبٌ: اِسْمٌ",
-    "meaning_fiqh": "Jika ketakutan sangat berat dan peperangan telah berkecamuk sehingga tidak memungkinkan pelaksanaan tata cara biasa, setiap orang melaksanakan salat semampunya, berjalan kaki atau berkendaraan, menghadap kiblat atau tidak."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "صَلَاةُ الرَّاجِلِ وَالرَّاكِبِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat orang yang berjalan kaki dan berkendaraan",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ رَجُلٌ: اِسْمٌ؛ رَكِبَ – يَرْكَبُ – رُكُوبًا",
-    "meaning_fiqh": "Dalam keadaan takut yang sangat, orang yang berjalan maupun berkendaraan melaksanakan salat sesuai kemampuan. Mereka diberi keringanan terhadap gerakan yang banyak karena keadaan perang."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "الْأَعْمَالُ الْكَثِيرَةُ فِي صَلَاةِ الْخَوْفِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Gerakan-gerakan yang banyak dalam salat khauf",
-    "sharaf": "عَمِلَ – يَعْمَلُ – عَمَلًا؛ كَثُرَ – يَكْثُرُ – كَثْرَةً؛ صَلَّى – يُصَلِّي – صَلَاةً",
-    "meaning_fiqh": "Dalam keadaan perang yang sangat genting, gerakan yang banyak dalam salat dimaafkan karena kebutuhan menjaga keselamatan dan menghadapi musuh."
-  },
-  {
-    "chapter_arabic": "صَلَاةُ الْخَوْفِ",
-    "term_arabic": "صَلَاةُ الْخَوْفِ ثَلَاثَةُ أَضْرُبٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat khauf memiliki tiga bentuk",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا؛ ثَلَاثَةٌ: عَدَدٌ؛ ضَرْبٌ: اِسْمٌ",
-    "meaning_fiqh": "Dalam ringkasan Fathul Qorib, tiga bentuk yang dibahas adalah ketika musuh berada di luar arah kiblat, ketika musuh berada di arah kiblat, dan ketika ketakutan sangat berat serta perang berkecamuk."
-  }
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"صَلَاةُ الْخَوْفِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Salat dalam keadaan takut","sharaf":"صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا","meaning_fiqh":"Salat khauf adalah salat dalam keadaan takut menghadapi musuh. Fathul Qorib menjelaskan tiga bentuk pelaksanaannya."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"ثَلَاثَةُ أَضْرُبٍ لِصَلَاةِ الْخَوْفِ","meaning_literal":"Bentuk: Frasa. Artinya: Tiga bentuk salat khauf","sharaf":"ثَلَاثَةٌ: عَدَدٌ؛ ضَرْبٌ: اِسْمٌ؛ صَلَّى – يُصَلِّي – صَلَاةً؛ خَافَ – يَخَافُ – خَوْفًا","meaning_fiqh":"Tiga bentuk yang dibahas adalah ketika musuh berada bukan di arah kiblat, ketika musuh berada di arah kiblat, dan ketika ketakutan sangat berat serta perang berkecamuk."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"الْعَدُوُّ فِي غَيْرِ جِهَةِ الْقِبْلَةِ","meaning_literal":"Bentuk: Frasa. Artinya: Musuh berada bukan di arah kiblat","sharaf":"عَدُوٌّ: اِسْمٌ؛ جِهَةٌ: اِسْمٌ؛ قِبْلَةٌ: اِسْمٌ","meaning_fiqh":"Jika musuh berada bukan di arah kiblat, imam membagi pasukan menjadi dua kelompok: satu kelompok salat bersamanya dan kelompok lain berjaga menghadapi musuh. Setelah satu kelompok menyelesaikan bagian salatnya, mereka bergantian dengan kelompok yang berjaga."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"الْفِرْقَةُ الْحَارِسَةُ","meaning_literal":"Bentuk: Frasa. Artinya: Kelompok yang berjaga","sharaf":"فِرْقَةٌ: اِسْمٌ؛ حَرَسَ – يَحْرُسُ – حَرْسًا","meaning_fiqh":"Kelompok yang tidak sedang salat bertugas menjaga pasukan dan mengawasi musuh. Mereka kemudian bergantian melaksanakan salat bersama imam."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"الْعَدُوُّ فِي جِهَةِ الْقِبْلَةِ","meaning_literal":"Bentuk: Frasa. Artinya: Musuh berada di arah kiblat","sharaf":"عَدُوٌّ: اِسْمٌ؛ جِهَةٌ: اِسْمٌ؛ قِبْلَةٌ: اِسْمٌ","meaning_fiqh":"Jika musuh berada di arah kiblat dan keadaan memungkinkan, imam membagi pasukan menjadi dua kelompok/barisan. Satu kelompok salat bersama imam sementara kelompok lainnya berjaga, kemudian mereka bergantian."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"شِدَّةُ الْخَوْفِ وَالْتِحَامُ الْحَرْبِ","meaning_literal":"Bentuk: Frasa. Artinya: Ketakutan yang sangat dan berkecamuknya peperangan","sharaf":"شِدَّةٌ: اِسْمٌ؛ خَافَ – يَخَافُ – خَوْفًا؛ اِلْتَحَمَ – يَلْتَحِمُ – اِلْتِحَامًا؛ حَرْبٌ: اِسْمٌ","meaning_fiqh":"Jika ketakutan sangat berat dan peperangan berkecamuk sehingga tidak memungkinkan tata cara biasa, setiap orang salat semampunya, berjalan kaki atau berkendaraan, menghadap kiblat atau tidak."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"صَلَاةُ الرَّاجِلِ وَالرَّاكِبِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Salat orang yang berjalan kaki dan orang yang berkendaraan","sharaf":"صَلَّى – يُصَلِّي – صَلَاةً؛ رَجِلٌ: اِسْمُ فَاعِلٍ مِنْ رَجِلَ؛ رَكِبَ – يَرْكَبُ – رُكُوبًا","meaning_fiqh":"Dalam keadaan takut yang sangat, orang yang berjalan kaki maupun berkendaraan melaksanakan salat sesuai kemampuan dan arah yang memungkinkan."},
+  {"chapter_arabic":"فَصْلٌ فِي صَلَاةِ الْخَوْفِ","term_arabic":"الْعَمَلُ الْكَثِيرُ فِي صَلَاةِ الْخَوْفِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Gerakan yang banyak dalam salat khauf","sharaf":"عَمِلَ – يَعْمَلُ – عَمَلًا؛ كَثُرَ – يَكْثُرُ – كَثْرَةً؛ صَلَّى – يُصَلِّي – صَلَاةً","meaning_fiqh":"Dalam keadaan perang yang sangat genting, gerakan yang banyak dibolehkan karena kebutuhan menjaga keselamatan dan menghadapi musuh."}
 ]
