@@ -4,21 +4,21 @@
     "term_arabic": "وُصُولُ عَيْنٍ إِلَى الْجَوْفِ عَمْدًا",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Sampainya suatu benda ke dalam rongga tubuh dengan sengaja",
     "sharaf": "وُصُولٌ: مَصْدَرٌ مِنْ وَصَلَ؛ عَيْنٌ – أَعْيَانٌ: اِسْمٌ وَجَمْعُهُ؛ عَمْدًا: مَصْدَرٌ فِي مَوْضِعِ الْحَالِ؛ جَوْفٌ: اِسْمٌ",
-    "meaning_fiqh": "Dalam Fathul Qorib, masuknya benda yang dapat disebut عين secara sengaja ke dalam الجوف melalui jalan yang terbuka termasuk pembatal puasa. Rinciannya tidak sekadar semua benda yang masuk ke tubuh, tetapi terkait jalan masuk dan keadaan yang dijelaskan dalam fikih."
+    "meaning_fiqh": "Dalam Fathul Qorib, sampainya suatu benda yang memiliki wujud ('ain) dengan sengaja ke dalam jauf membatalkan puasa. Pembahasannya berkaitan dengan masuk melalui jalan yang terbuka, atau melalui jalan yang tidak terbuka seperti luka yang tembus ke bagian dalam kepala."
   },
   {
     "chapter_arabic": "مُفَطِّرَاتُ الصَّائِمِ",
     "term_arabic": "وُصُولُ عَيْنٍ إِلَى بَاطِنِ الرَّأْسِ عَمْدًا",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Sampainya suatu benda dengan sengaja ke bagian dalam kepala",
     "sharaf": "وُصُولٌ: مَصْدَرٌ مِنْ وَصَلَ؛ عَيْنٌ: اِسْمٌ؛ بَاطِنٌ: اِسْمٌ؛ رَأْسٌ: اِسْمٌ",
-    "meaning_fiqh": "Fathul Qorib memasukkan sampainya suatu benda dengan sengaja ke bagian dalam kepala sebagai pembatal puasa."
+    "meaning_fiqh": "Fathul Qorib memasukkan sampainya suatu benda dengan sengaja ke bagian dalam kepala melalui jalan yang tidak terbuka, seperti luka yang tembus ke bagian dalam kepala, sebagai pembatal puasa."
   },
   {
     "chapter_arabic": "مُفَطِّرَاتُ الصَّائِمِ",
     "term_arabic": "الْحُقْنَةُ فِي أَحَدِ السَّبِيلَيْنِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Memasukkan obat melalui salah satu dari dua jalan",
-    "sharaf": "حُقْنَةٌ: اِسْمٌ مِنْ حَقَنَ؛ سَبِيلٌ – سُبُلٌ: اِسْمٌ وَجَمْعُهُ؛ أَحَدٌ: اِسْمٌ؛ اِثْنَانِ: تَثْنِيَةٌ",
-    "meaning_fiqh": "Yang dimaksud adalah memasukkan sesuatu melalui salah satu dari dua jalan, yaitu qubul atau dubur, sebagaimana rincian pembahasan Fathul Qorib."
+    "sharaf": "حُقْنَةٌ: اِسْمٌ مِنْ حَقَنَ؛ سَبِيلٌ – سُبُلٌ: اِسْمٌ وَجَمْعُهُ؛ أَحَدٌ: اِسْمٌ",
+    "meaning_fiqh": "Yang dimaksud adalah obat yang dimasukkan melalui salah satu dari dua jalan, yaitu qubul atau dubur, sebagaimana rincian pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic": "مُفَطِّرَاتُ الصَّائِمِ",
@@ -39,21 +39,21 @@
     "term_arabic": "الْإِنْزَالُ عَنْ مُبَاشَرَةٍ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Keluarnya mani karena persentuhan langsung",
     "sharaf": "أَنْزَلَ – يُنْزِلُ – إِنْزَالًا؛ مُبَاشَرَةٌ: مَصْدَرٌ مِنْ بَاشَرَ",
-    "meaning_fiqh": "Keluarnya mani karena mubasyarah atau persentuhan langsung membatalkan puasa. Keluarnya mani karena ihtilam tidak membatalkan puasa menurut Fathul Qorib."
+    "meaning_fiqh": "Keluarnya mani karena mubasyarah atau persentuhan kulit secara langsung membatalkan puasa. Keluarnya mani karena ihtilam tidak membatalkan puasa menurut Fathul Qorib."
   },
   {
     "chapter_arabic": "مُفَطِّرَاتُ الصَّائِمِ",
     "term_arabic": "الْحَيْضُ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Haid",
     "sharaf": "حَيْضٌ: مَصْدَرٌ مِنْ حَاضَ – يَحِيضُ",
-    "meaning_fiqh": "Jika haid terjadi ketika sedang berpuasa, puasa menjadi batal menurut pembahasan Fathul Qorib."
+    "meaning_fiqh": "Jika haid terjadi ketika sedang berpuasa, puasa menjadi batal menurut pembahasan Fathul Qorib dan wajib diqadha."
   },
   {
     "chapter_arabic": "مُفَطِّرَاتُ الصَّائِمِ",
     "term_arabic": "النِّفَاسُ",
     "meaning_literal": "Bentuk: Masdar. Artinya: Nifas",
-    "sharaf": "نِفَاسٌ: مَصْدَرٌ مِنْ نَفِسَ – يَنْفَسُ، وَيُطْلَقُ عَلَى دَمِ النِّفَاسِ",
-    "meaning_fiqh": "Jika nifas terjadi ketika sedang berpuasa, puasa menjadi batal menurut pembahasan Fathul Qorib."
+    "sharaf": "نِفَاسٌ: مَصْدَرٌ مِنْ نَفِسَتِ الْمَرْأَةُ – تَنْفَسُ نِفَاسًا؛ وَيُطْلَقُ عَلَى الدَّمِ الْخَارِجِ بَعْدَ الْوِلَادَةِ",
+    "meaning_fiqh": "Jika nifas terjadi ketika sedang berpuasa, puasa menjadi batal menurut pembahasan Fathul Qorib dan wajib diqadha."
   },
   {
     "chapter_arabic": "مُفَطِّرَاتُ الصَّائِمِ",
