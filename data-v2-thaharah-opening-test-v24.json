@@ -1,0 +1,78 @@
+{
+  "format_version": "2.4-test",
+  "format_name": "Teks + Terjemah + Form + Token + Lexeme + Context",
+  "status": "prototype-test",
+  "source": {
+    "work": "Fathul Qorib al-Mujib",
+    "section": "كتاب أحكام الطهارة — pembukaan bab",
+    "verification": "Teks diverifikasi silang dengan edisi digital Fathul Qorib; perbedaan harakat الطَّهارة dan الطُّهارة dipertahankan karena membedakan makna."
+  },
+  "model_notes": [
+    "FORM = bentuk lafaz yang benar-benar muncul dalam teks.",
+    "TOKEN/OCCURRENCE = kemunculan form dalam konteks section.",
+    "LEXEME = identitas leksikal yang dapat dipakai ulang.",
+    "Phrase token dipakai bila satu unit tampilan lebih tepat dipahami sebagai gabungan beberapa form; komponen tetap menunjuk ke lexeme masing-masing.",
+    "Makna leksikal disimpan pada lexeme; makna yang lahir dari konteks atau gabungan disimpan pada token.",
+    "grammar_role boleh disimpan internal untuk data penelitian, tetapi tidak ditampilkan pada popup pengguna.",
+    "Analisis yang belum cukup pasti tidak dipaksakan; lexeme_id dapat bernilai null."
+  ],
+  "lexemes": [
+    {"lexeme_id":"LEX_KITAB_001","lemma":"كِتَاب","type":"اسم","morphology":"اسم جامد","root":"ك ت ب","literal":"kitab; buku","confidence":"verified","context_note":"Dalam judul كتاب أحكام الطهارة, menunjuk kepada kitab/bagian pembahasan hukum-hukum thaharah."},
+    {"lexeme_id":"LEX_LUGHAH_001","lemma":"لُغَة","type":"اسم","morphology":"اسم جامد","literal":"secara bahasa; bahasa","confidence":"verified"},
+    {"lexeme_id":"LEX_MASDAR_001","lemma":"مَصْدَر","type":"اسم","morphology":"اسم مشتق","root":"ص د ر","literal":"masdar; kata benda verbal","confidence":"verified"},
+    {"lexeme_id":"LEX_DAMM_001","lemma":"ضَمّ","type":"اسم","morphology":"مصدر","root":"ض م م","pattern":"فَعْل","derivation":"ضَمَّ – يَضُمُّ – ضَمًّا","literal":"menghimpun; menggabungkan","confidence":"verified"},
+    {"lexeme_id":"LEX_JAM_001","lemma":"جَمْع","type":"اسم","morphology":"مصدر","root":"ج م ع","literal":"mengumpulkan; menghimpun","confidence":"verified"},
+    {"lexeme_id":"LEX_ISTILAH_001","lemma":"اصْطِلَاح","type":"اسم","morphology":"مصدر من اصطلح","root":"ص ل ح","pattern":"افْتِعَال","derivation":"اصْطَلَحَ – يَصْطَلِحُ – اصْطِلَاحًا","literal":"istilah; menurut penggunaan istilah","confidence":"verified"},
+    {"lexeme_id":"LEX_ISM_001","lemma":"اسْم","type":"اسم","morphology":"اسم جامد","literal":"nama; sebutan","confidence":"verified"},
+    {"lexeme_id":"LEX_JINS_001","lemma":"جِنْس","type":"اسم","morphology":"اسم جامد","root":"ج ن س","literal":"jenis; genus","confidence":"verified"},
+    {"lexeme_id":"LEX_HUKM_001","lemma":"حُكْم","type":"اسم","morphology":"اسم جامد","root":"ح ك م","literal":"hukum; ketetapan hukum","confidence":"verified"},
+    {"lexeme_id":"LEX_BAB_001","lemma":"بَاب","type":"اسم","morphology":"اسم جامد","literal":"bab; bagian","confidence":"verified"},
+    {"lexeme_id":"LEX_NAW_001","lemma":"نَوْع","type":"اسم","morphology":"اسم جامد","literal":"jenis; macam","confidence":"verified"},
+    {"lexeme_id":"LEX_DAKHAL_001","lemma":"دَخَل","type":"فعل","morphology":"فعل ماضٍ","root":"د خ ل","literal":"masuk","confidence":"verified"},
+    {"lexeme_id":"LEX_TAHT_001","lemma":"تَحْت","type":"اسم ظرف","morphology":"ظرف مكان","literal":"di bawah","confidence":"verified"},
+    {"lexeme_id":"LEX_TAHARAH_FATH_001","lemma":"طَهَارَة","type":"اسم","morphology":"اسم مصدر/اسم معنى","root":"ط ه ر","literal":"kebersihan; kesucian; bersuci","confidence":"verified","context_note":"Ini adalah الطَّهارة dengan fathah pada طاء, yang dijelaskan sebagai النظافة secara bahasa dan memiliki pembahasan syar'i dalam teks."},
+    {"lexeme_id":"LEX_NAZAFAH_001","lemma":"نَظَافَة","type":"اسم","morphology":"مصدر","root":"ن ظ ف","literal":"kebersihan","confidence":"verified"},
+    {"lexeme_id":"LEX_SHAR_001","lemma":"شَرْع","type":"اسم","morphology":"اسم معنى","root":"ش ر ع","literal":"syariat; hukum syara'","confidence":"verified"},
+    {"lexeme_id":"LEX_FIIL_001","lemma":"فِعْل","type":"اسم","morphology":"مصدر","root":"ف ع ل","literal":"perbuatan; tindakan","confidence":"verified"},
+    {"lexeme_id":"LEX_ISTABAH_001","lemma":"اسْتَبَاح","type":"فعل","morphology":"فعل ماضٍ من استفعل","root":"ب و ح","pattern":"اسْتَفْعَلَ","derivation":"اسْتَبَاحَ – يَسْتَبِيحُ – اسْتِبَاحَةً","literal":"menjadikan boleh; memperoleh kebolehan","confidence":"verified","context_note":"Dalam فعل ما تستباح به الصلاة, konteksnya adalah sesuatu yang dengan melakukannya seseorang menjadi boleh melakukan shalat."},
+    {"lexeme_id":"LEX_SALAH_001","lemma":"صَلَاة","type":"اسم","morphology":"اسم","root":"ص ل و","literal":"shalat","confidence":"verified"},
+    {"lexeme_id":"LEX_WUDU_001","lemma":"وُضُوء","type":"اسم","morphology":"مصدر","root":"و ض أ","literal":"wudu","confidence":"verified"},
+    {"lexeme_id":"LEX_GHUSL_001","lemma":"غُسْل","type":"اسم","morphology":"مصدر","root":"غ س ل","literal":"mandi; membasuh","confidence":"verified"},
+    {"lexeme_id":"LEX_TAYAMMUM_001","lemma":"تَيَمُّم","type":"اسم","morphology":"مصدر من تيمم","root":"ي م م","pattern":"تَفَعُّل","derivation":"تَيَمَّمَ – يَتَيَمَّمُ – تَيَمُّمًا","literal":"tayamum","confidence":"verified"},
+    {"lexeme_id":"LEX_IZALAH_001","lemma":"إِزَالَة","type":"اسم","morphology":"مصدر من أزال","root":"ز و ل","pattern":"إِفَالَة","derivation":"أَزَالَ – يُزِيلُ – إِزَالَةً","literal":"menghilangkan","confidence":"verified"},
+    {"lexeme_id":"LEX_NAJASAH_001","lemma":"نَجَاسَة","type":"اسم","morphology":"اسم معنى","root":"ن ج س","literal":"najis; kenajisan","confidence":"verified"},
+    {"lexeme_id":"LEX_TAHARAH_DAMM_001","lemma":"طُهَارَة","type":"اسم","morphology":"اسم معنى","root":"ط ه ر","literal":"sisa air","confidence":"verified","context_note":"Ini adalah الطُّهارة dengan dhammah pada طاء; teks secara eksplisit mendefinisikannya sebagai nama bagi بقية الماء. Dipisahkan dari الطَّهارة untuk menjaga perbedaan makna yang ditandai oleh vokalisasi."},
+    {"lexeme_id":"LEX_ISM_REMAINDER_001","lemma":"بَقِيَّة","type":"اسم","morphology":"اسم","root":"ب ق ي","literal":"sisa; bagian yang tersisa","confidence":"verified"},
+    {"lexeme_id":"LEX_MA_001","lemma":"مَاء","type":"اسم","morphology":"اسم جامد","literal":"air","confidence":"verified"}
+  ],
+  "sections": [
+    {
+      "section_id":"SEC_OPENING_TAHARAH_001",
+      "title_arabic":"كِتَابُ أَحْكَامِ الطَّهَارَةِ",
+      "chapter_reference":"كتاب أحكام الطهارة — pembukaan",
+      "text_arabic":"وَالْكِتَابُ لُغَةً مَصْدَرٌ بِمَعْنَى الضَّمِّ وَالْجَمْعِ، وَاصْطِلَاحًا اسْمٌ لِجِنْسٍ مِنَ الْأَحْكَامِ. أَمَّا الْبَابُ فَاسْمٌ لِنَوْعٍ مِمَّا دَخَلَ تَحْتَ ذَلِكَ الْجِنْسِ. وَالطَّهَارَةُ بِفَتْحِ الطَّاءِ لُغَةً النَّظَافَةُ، وَأَمَّا شَرْعًا فَفِيهَا تَفَاسِيرُ كَثِيرَةٌ، مِنْهَا قَوْلُهُمْ: فِعْلُ مَا تُسْتَبَاحُ بِهِ الصَّلَاةُ، أَيْ مِنْ وُضُوءٍ وَغُسْلٍ وَتَيَمُّمٍ وَإِزَالَةِ نَجَاسَةٍ. أَمَّا الطُّهَارَةُ بِالضَّمِّ، فَاسْمٌ لِبَقِيَّةِ الْمَاءِ.",
+      "translation_literal":"Kitab secara bahasa adalah masdar dengan makna menghimpun dan mengumpulkan; secara istilah adalah nama bagi suatu jenis dari hukum-hukum. Adapun bab adalah nama bagi suatu macam yang masuk di bawah jenis tersebut. Thaharah dengan fathah pada huruf tha secara bahasa berarti kebersihan. Adapun secara syara', terdapat banyak penjelasan; di antaranya: melakukan sesuatu yang dengannya shalat menjadi boleh, yaitu berupa wudu, mandi, tayamum, dan menghilangkan najis. Adapun thaharah dengan dhammah, maka merupakan nama bagi sisa air.",
+      "translation_note":"Terjemah sengaja mempertahankan kontras الطَّهَارَة dan الطُّهَارَة. Pada bagian شرعًا, struktur فعل ما تستباح به الصلاة dipertahankan dekat dengan susunan Arab; makna fiqih tidak dimasukkan ke literal lexeme.",
+      "tokens":[
+        {"token_id":"TOK_OPEN_001","token_type":"phrase","form":{"arabic":"وَالْكِتَابُ","components":[{"arabic":"وَ","lexeme_id":null,"type":"حرف عطف"},{"arabic":"الْكِتَابُ","lexeme_id":"LEX_KITAB_001"}]},"contextual_meaning":"dan kitab; pembukaan pembahasan kitab","reference":{"phrase_type":"conjunction + noun"}},
+        {"token_id":"TOK_OPEN_002","token_type":"form","form":{"arabic":"لُغَةً","lexeme_id":"LEX_LUGHAH_001"},"contextual_meaning":"secara bahasa"},
+        {"token_id":"TOK_OPEN_003","token_type":"form","form":{"arabic":"مَصْدَرٌ","lexeme_id":"LEX_MASDAR_001"},"contextual_meaning":"sebuah masdar"},
+        {"token_id":"TOK_OPEN_004","token_type":"phrase","form":{"arabic":"بِمَعْنَى الضَّمِّ","components":[{"arabic":"بِـ","lexeme_id":null,"type":"حرف جر"},{"arabic":"مَعْنَى","lexeme_id":null,"type":"اسم"},{"arabic":"الضَّمِّ","lexeme_id":"LEX_DAMM_001"}]},"contextual_meaning":"dengan makna menghimpun"},
+        {"token_id":"TOK_OPEN_005","token_type":"form","form":{"arabic":"الْجَمْعِ","lexeme_id":"LEX_JAM_001"},"contextual_meaning":"mengumpulkan; menghimpun"},
+        {"token_id":"TOK_OPEN_006","token_type":"form","form":{"arabic":"وَاصْطِلَاحًا","lexeme_id":"LEX_ISTILAH_001"},"contextual_meaning":"dan secara istilah"},
+        {"token_id":"TOK_OPEN_007","token_type":"phrase","form":{"arabic":"اسْمٌ لِجِنْسٍ مِنَ الْأَحْكَامِ","components":[{"arabic":"اسْمٌ","lexeme_id":"LEX_ISM_001"},{"arabic":"لِجِنْسٍ","lexeme_id":"LEX_JINS_001"},{"arabic":"مِنَ","lexeme_id":null,"type":"حرف جر"},{"arabic":"الْأَحْكَامِ","lexeme_id":"LEX_HUKM_001"}]},"contextual_meaning":"nama bagi suatu jenis dari hukum-hukum","reference":{"phrase_type":"definition phrase"}},
+        {"token_id":"TOK_OPEN_008","token_type":"phrase","form":{"arabic":"أَمَّا الْبَابُ","components":[{"arabic":"أَمَّا","lexeme_id":null,"type":"حرف تفصيل"},{"arabic":"الْبَابُ","lexeme_id":"LEX_BAB_001"}]},"contextual_meaning":"adapun bab"},
+        {"token_id":"TOK_OPEN_009","token_type":"phrase","form":{"arabic":"فَاسْمٌ لِنَوْعٍ","components":[{"arabic":"فَـ","lexeme_id":null,"type":"حرف"},{"arabic":"اسْمٌ","lexeme_id":"LEX_ISM_001"},{"arabic":"لِنَوْعٍ","lexeme_id":"LEX_NAW_001"}]},"contextual_meaning":"maka merupakan nama bagi suatu macam"},
+        {"token_id":"TOK_OPEN_010","token_type":"phrase","form":{"arabic":"مِمَّا دَخَلَ تَحْتَ ذَلِكَ الْجِنْسِ","components":[{"arabic":"مِنْ + مَا","lexeme_id":null,"type":"gabungan"},{"arabic":"دَخَلَ","lexeme_id":"LEX_DAKHAL_001"},{"arabic":"تَحْتَ","lexeme_id":"LEX_TAHT_001"},{"arabic":"ذَلِكَ","lexeme_id":null,"type":"اسم إشارة"},{"arabic":"الْجِنْسِ","lexeme_id":"LEX_JINS_001"}]},"contextual_meaning":"dari sesuatu yang masuk di bawah jenis tersebut","reference":{"phrase_type":"combined particle + clause"}},
+        {"token_id":"TOK_OPEN_011","token_type":"phrase","form":{"arabic":"الطَّهَارَةُ بِفَتْحِ الطَّاءِ","components":[{"arabic":"الطَّهَارَةُ","lexeme_id":"LEX_TAHARAH_FATH_001"},{"arabic":"بِفَتْحِ","lexeme_id":null,"type":"frasa penjelas"},{"arabic":"الطَّاءِ","lexeme_id":null,"type":"اسم حرف"}]},"contextual_meaning":"thaharah dengan fathah pada huruf tha"},
+        {"token_id":"TOK_OPEN_012","token_type":"form","form":{"arabic":"النَّظَافَةُ","lexeme_id":"LEX_NAZAFAH_001"},"contextual_meaning":"kebersihan"},
+        {"token_id":"TOK_OPEN_013","token_type":"phrase","form":{"arabic":"أَمَّا شَرْعًا","components":[{"arabic":"أَمَّا","lexeme_id":null,"type":"حرف تفصيل"},{"arabic":"شَرْعًا","lexeme_id":"LEX_SHAR_001"}]},"contextual_meaning":"adapun secara syara'"},
+        {"token_id":"TOK_OPEN_014","token_type":"phrase","form":{"arabic":"فَفِيهَا تَفَاسِيرُ كَثِيرَةٌ","components":[{"arabic":"فَـ","lexeme_id":null,"type":"حرف"},{"arabic":"فِيهَا","lexeme_id":null,"type":"جار ومجرور"},{"arabic":"تَفَاسِيرُ","lexeme_id":null,"type":"جمع"},{"arabic":"كَثِيرَةٌ","lexeme_id":null,"type":"صفة"}]},"contextual_meaning":"maka terdapat banyak penjelasan/definisi"},
+        {"token_id":"TOK_OPEN_015","token_type":"phrase","form":{"arabic":"فِعْلُ مَا تُسْتَبَاحُ بِهِ الصَّلَاةُ","components":[{"arabic":"فِعْلُ","lexeme_id":"LEX_FIIL_001"},{"arabic":"مَا","lexeme_id":null,"type":"اسم موصول"},{"arabic":"تُسْتَبَاحُ","lexeme_id":"LEX_ISTABAH_001","form_note":"bentuk pasif"},{"arabic":"بِهِ","lexeme_id":null,"type":"جار ومجرور"},{"arabic":"الصَّلَاةُ","lexeme_id":"LEX_SALAH_001"}]},"contextual_meaning":"melakukan sesuatu yang dengannya shalat menjadi boleh","reference":{"phrase_type":"definition phrase"}},
+        {"token_id":"TOK_OPEN_016","token_type":"phrase","form":{"arabic":"مِنْ وُضُوءٍ وَغُسْلٍ وَتَيَمُّمٍ وَإِزَالَةِ نَجَاسَةٍ","components":[{"arabic":"مِنْ","lexeme_id":null,"type":"حرف جر"},{"arabic":"وُضُوءٍ","lexeme_id":"LEX_WUDU_001"},{"arabic":"غُسْلٍ","lexeme_id":"LEX_GHUSL_001"},{"arabic":"تَيَمُّمٍ","lexeme_id":"LEX_TAYAMMUM_001"},{"arabic":"إِزَالَةِ","lexeme_id":"LEX_IZALAH_001"},{"arabic":"نَجَاسَةٍ","lexeme_id":"LEX_NAJASAH_001"}]},"contextual_meaning":"yaitu berupa wudu, mandi, tayamum, dan menghilangkan najis"},
+        {"token_id":"TOK_OPEN_017","token_type":"phrase","form":{"arabic":"الطُّهَارَةُ بِالضَّمِّ","components":[{"arabic":"الطُّهَارَةُ","lexeme_id":"LEX_TAHARAH_DAMM_001"},{"arabic":"بِالضَّمِّ","lexeme_id":null,"type":"frasa penjelas"}]},"contextual_meaning":"thaharah dengan dhammah pada huruf tha","reference":{"homography_test":"dipisahkan dari LEX_TAHARAH_FATH_001 karena makna yang dinyatakan teks berbeda"}},
+        {"token_id":"TOK_OPEN_018","token_type":"phrase","form":{"arabic":"اسْمٌ لِبَقِيَّةِ الْمَاءِ","components":[{"arabic":"اسْمٌ","lexeme_id":"LEX_ISM_001"},{"arabic":"لِبَقِيَّةِ","lexeme_id":"LEX_ISM_REMAINDER_001"},{"arabic":"الْمَاءِ","lexeme_id":"LEX_MA_001"}]},"contextual_meaning":"nama bagi sisa air"}
+      ]
+    }
+  ]
+}
