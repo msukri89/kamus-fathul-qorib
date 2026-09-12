@@ -2,7 +2,7 @@
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Zakat hasil tambang dan harta terpendam",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Zakat hasil tambang dan rikaz",
     "sharaf": "زَكَاةٌ: اِسْمٌ؛ مَعَادِنُ: جَمْعُ مَعْدِنٍ؛ رِكَازٌ: اِسْمٌ",
     "meaning_fiqh": "Bab ini membahas zakat hasil tambang emas dan perak serta hukum rikaz sebagaimana urutan pembahasan Fathul Qorib."
   },
@@ -11,7 +11,7 @@
     "term_arabic": "مَعَادِنُ الذَّهَبِ وَالْفِضَّةِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tambang emas dan perak",
     "sharaf": "مَعْدِنٌ: اِسْمٌ؛ ذَهَبٌ: اِسْمٌ؛ فِضَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Hasil yang diekstraksi dari tambang emas dan perak dikenai zakat seperempat dari sepersepuluh apabila memenuhi nisab dan orang yang mengambilnya termasuk pihak yang wajib zakat."
+    "meaning_fiqh": "Hasil yang diekstraksi dari tambang emas dan perak dikenai zakat seperempat dari sepersepuluh apabila mencapai nisab dan orang yang mengambilnya termasuk pihak yang wajib zakat."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
@@ -25,14 +25,14 @@
     "term_arabic": "رُبْعُ الْعُشْرِ فِي الْمَعْدِنِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Seperempat dari sepersepuluh pada hasil tambang",
     "sharaf": "رُبْعٌ: اِسْمٌ؛ عُشْرٌ: اِسْمٌ؛ مَعْدِنٌ: اِسْمٌ",
-    "meaning_fiqh": "Zakat hasil tambang emas dan perak adalah seperempat dari sepersepuluh (2,5%) apabila mencapai nisab."
+    "meaning_fiqh": "Zakat hasil tambang emas dan perak adalah seperempat dari sepersepuluh (2,5%) apabila hasil yang diekstraksi mencapai nisab."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "فِي الْحَالِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Seketika / segera",
     "sharaf": "حَالٌ: اِسْمٌ",
-    "meaning_fiqh": "Zakat hasil tambang emas dan perak dikeluarkan seketika setelah hasilnya memenuhi ketentuan, sehingga tidak menunggu haul."
+    "meaning_fiqh": "Zakat hasil tambang emas dan perak dikeluarkan segera setelah kewajibannya terpenuhi, sehingga tidak menunggu haul."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
@@ -44,7 +44,7 @@
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "الرِّكَازُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Harta terpendam / harta karun",
+    "meaning_literal": "Bentuk: Isim. Artinya: Rikaz / harta terpendam",
     "sharaf": "رِكَازٌ: اِسْمٌ",
     "meaning_fiqh": "Rikaz yang dimaksud dalam syarah Fathul Qorib adalah harta terpendam dari masa jahiliah yang ditemukan."
   },
