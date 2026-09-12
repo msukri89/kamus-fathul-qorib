@@ -4,7 +4,7 @@
     "term_arabic": "رَكَعَاتُ الْفَرَائِضِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Rakaat-rakaat salat fardu",
     "sharaf": "رَكَعَ – يَرْكَعُ – رُكُوعًا",
-    "meaning_fiqh": "Jumlah rakaat salat fardu dalam sehari semalam adalah tujuh belas rakaat."
+    "meaning_fiqh": "Jumlah rakaat salat fardu dalam sehari semalam pada salat orang mukim adalah tujuh belas rakaat, selain hari Jumat."
   },
   {
     "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
@@ -38,15 +38,36 @@
     "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
     "term_arabic": "صَلَاةُ الْعِشَاءِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Salat Isya",
-    "sharaf": "عَشِيَ – يَعْشَى – عَشَاءً",
+    "sharaf": "عَشِيَ – يَعْشَى – عِشَاءً",
     "meaning_fiqh": "Salat Isya terdiri dari empat rakaat."
   },
   {
     "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
     "term_arabic": "سَبْعَةَ عَشَرَ رَكْعَةً",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh belas rakaat",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Tujuh belas rakaat",
     "sharaf": "",
-    "meaning_fiqh": "Jumlah keseluruhan rakaat salat fardu dalam sehari semalam adalah tujuh belas rakaat: Subuh dua, Zuhur empat, Asar empat, Magrib tiga, dan Isya empat."
+    "meaning_fiqh": "Jumlah keseluruhan rakaat salat fardu dalam sehari semalam pada salat orang mukim selain hari Jumat adalah tujuh belas rakaat: Subuh dua, Zuhur empat, Asar empat, Magrib tiga, dan Isya empat."
+  },
+  {
+    "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
+    "term_arabic": "خَمْسَ عَشْرَةَ رَكْعَةً",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Lima belas rakaat",
+    "sharaf": "",
+    "meaning_fiqh": "Jumlah rakaat salat fardu pada hari Jumat adalah lima belas rakaat menurut penjelasan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
+    "term_arabic": "صَلَاةُ الْقَصْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Salat qasar",
+    "sharaf": "قَصَرَ – يَقْصُرُ – قَصْرًا",
+    "meaning_fiqh": "Dalam perjalanan bagi orang yang melakukan qasar, jumlah rakaat salat fardu sehari semalam menjadi sebelas rakaat."
+  },
+  {
+    "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
+    "term_arabic": "أَحَدَ عَشَرَ رَكْعَةً",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Sebelas rakaat",
+    "sharaf": "",
+    "meaning_fiqh": "Jumlah rakaat salat fardu sehari semalam bagi musafir yang melakukan qasar adalah sebelas rakaat."
   },
   {
     "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
@@ -85,9 +106,30 @@
   },
   {
     "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
-    "term_arabic": "صَلَاةُ الْقَصْرِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Salat qasar",
-    "sharaf": "قَصَرَ – يَقْصُرُ – قَصْرًا",
-    "meaning_fiqh": "Dalam perjalanan bagi orang yang melakukan qasar, jumlah rakaat salat fardu sehari semalam menjadi sebelas rakaat."
+    "term_arabic": "مِائَةٌ وَسِتَّةٌ وَعِشْرُونَ رُكْنًا",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Seratus dua puluh enam rukun",
+    "sharaf": "",
+    "meaning_fiqh": "Jumlah keseluruhan rukun dalam lima salat fardu sehari semalam menurut hitungan yang disebutkan dalam Fathul Qorib adalah seratus dua puluh enam rukun."
+  },
+  {
+    "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
+    "term_arabic": "ثَلَاثُونَ رُكْنًا فِي الصُّبْحِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tiga puluh rukun dalam Subuh",
+    "sharaf": "",
+    "meaning_fiqh": "Menurut hitungan Fathul Qorib, dalam salat Subuh terdapat tiga puluh rukun."
+  },
+  {
+    "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
+    "term_arabic": "اثْنَانِ وَأَرْبَعُونَ رُكْنًا فِي الْمَغْرِبِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Empat puluh dua rukun dalam Magrib",
+    "sharaf": "",
+    "meaning_fiqh": "Menurut hitungan Fathul Qorib, dalam salat Magrib terdapat empat puluh dua rukun."
+  },
+  {
+    "chapter_arabic": "رَكَعَاتُ الْفَرَائِضِ",
+    "term_arabic": "أَرْبَعَةٌ وَخَمْسُونَ رُكْنًا فِي الرُّبَاعِيَّةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Lima puluh empat rukun dalam salat empat rakaat",
+    "sharaf": "",
+    "meaning_fiqh": "Menurut hitungan Fathul Qorib, dalam salat yang terdiri dari empat rakaat terdapat lima puluh empat rukun."
   }
 ]
