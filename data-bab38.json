@@ -1,85 +1,92 @@
 [
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Hal-hal yang wajib dilakukan terhadap mayit",
     "sharaf": "لَزِمَ – يَلْزَمُ – لُزُومًا؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh": "Bab ini membahas kewajiban yang berkaitan dengan mayit, yaitu memandikan, mengafani, menyalatkan, dan menguburkan, beserta beberapa pengecualian dan ketentuannya."
+    "meaning_fiqh": "Pembahasan ini berkaitan dengan mayit, terutama memandikan, mengafani, menyalatkan, dan menguburkannya. Empat perkara tersebut merupakan fardu kifayah terhadap mayit muslim yang bukan muhrim dan bukan syahid."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "فَرْضُ الْكِفَايَةِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Kewajiban kolektif (fardu kifayah)",
     "sharaf": "فَرَضَ – يَفْرِضُ – فَرْضًا؛ كِفَايَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Empat kewajiban terhadap mayit pada pembahasan ini merupakan fardu kifayah: apabila telah dilaksanakan oleh sebagian orang yang memenuhi kewajiban tersebut, gugurlah tuntutan dari yang lain."
+    "meaning_fiqh": "Empat kewajiban terhadap mayit merupakan fardu kifayah: apabila telah dilaksanakan oleh sebagian orang yang memenuhi kewajiban tersebut, gugurlah tuntutan dari yang lain. Jika hanya satu orang yang mengetahui keberadaan mayit, kewajiban itu dapat menjadi tanggung jawabnya secara langsung."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "أَرْبَعَةُ أَشْيَاءَ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Empat perkara",
     "sharaf": "أَرْبَعَةٌ: عَدَدٌ؛ شَيْءٌ – أَشْيَاءُ",
     "meaning_fiqh": "Empat perkara yang wajib secara fardu kifayah terhadap mayit adalah memandikan, mengafani, menyalatkan, dan menguburkan."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "غَسْلُ الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Memandikan mayit",
     "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh": "Memandikan mayit termasuk salah satu dari empat kewajiban fardu kifayah. Mayit syahid dalam pertempuran melawan orang musyrik tidak dimandikan."
+    "meaning_fiqh": "Memandikan mayit termasuk salah satu dari empat kewajiban fardu kifayah. Mayit syahid dalam pertempuran melawan orang-orang musyrik tidak dimandikan."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "تَكْفِينُ الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Mengafani mayit",
     "sharaf": "كَفَّنَ – يُكَفِّنُ – تَكْفِينًا؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh": "Mengafani mayit termasuk fardu kifayah. Kafan yang disebutkan dalam matan adalah tiga kain putih, yang tidak berupa baju dan sorban."
+    "meaning_fiqh": "Mengafani mayit termasuk fardu kifayah. Kafan yang disebutkan dalam matan adalah tiga kain putih yang berbentuk lembaran pembungkus, sama panjang dan lebarnya, menutupi seluruh badan, serta bukan baju dan sorban."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "الصَّلَاةُ عَلَى الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Salat atas mayit",
     "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً؛ مَيِّتٌ: اِسْمٌ",
-    "meaning_fiqh": "Menyalatkan mayit muslim termasuk fardu kifayah. Mayit syahid dalam pertempuran melawan orang musyrik tidak disalatkan."
+    "meaning_fiqh": "Menyalatkan mayit muslim termasuk fardu kifayah. Mayit syahid dalam pertempuran melawan orang-orang musyrik tidak disalatkan."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "دَفْنُ الْمَيِّتِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Menguburkan mayit",
     "sharaf": "دَفَنَ – يَدْفِنُ – دَفْنًا؛ مَيِّتٌ: اِسْمٌ",
     "meaning_fiqh": "Menguburkan mayit termasuk fardu kifayah."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
+    "term_arabic": "الْمَيِّتُ الْمُحْرِمُ",
+    "meaning_literal": "Bentuk: Frasa sifat. Artinya: Mayit yang sedang ihram",
+    "sharaf": "أَحْرَمَ – يُحْرِمُ – إِحْرَامًا؛ مُحْرِمٌ: اِسْمُ فَاعِلٍ",
+    "meaning_fiqh": "Mayit yang meninggal dalam keadaan ihram tetap dimandikan dan dikafani, tetapi kepala laki-laki yang muhrim tidak ditutup; wajah perempuan yang muhrimah juga tidak ditutup."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "الشَّهِيدُ فِي مَعْرَكَةِ الْمُشْرِكِينَ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Syahid dalam pertempuran melawan orang-orang musyrik",
     "sharaf": "شَهِدَ – يَشْهَدُ – شَهَادَةً؛ مَعْرَكَةٌ – مَعَارِكُ؛ مُشْرِكٌ – مُشْرِكُونَ",
-    "meaning_fiqh": "Syahid yang meninggal dalam pertempuran melawan orang-orang musyrik tidak dimandikan dan tidak disalatkan menurut pembahasan Fathul Qorib."
+    "meaning_fiqh": "Syahid yang meninggal karena pertempuran melawan orang-orang musyrik tidak dimandikan dan tidak disalatkan. Dalam penjelasan Fathul Qorib, status ini terkait kematian yang disebabkan oleh pertempuran tersebut."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "السِّقْطُ الَّذِي لَمْ يَسْتَهِلَّ",
     "meaning_literal": "Bentuk: Frasa sifat. Artinya: Janin yang tidak mengeluarkan suara",
     "sharaf": "سَقَطَ – يَسْقُطُ – سُقُوطًا؛ سِقْطٌ: اِسْمٌ؛ اِسْتَهَلَّ – يَسْتَهِلُّ – اِسْتِهْلَالًا",
-    "meaning_fiqh": "Janin yang lahir sebelum sempurna dan tidak mengeluarkan suara tidak dimandikan dan tidak disalatkan. Jika telah mengeluarkan suara atau menangis, menurut syarah Fathul Qorib hukumnya seperti orang dewasa."
+    "meaning_fiqh": "Janin yang lahir sebelum sempurna dan tidak mengeluarkan suara tidak dimandikan dan tidak disalatkan. Jika telah mengeluarkan suara atau menangis, hukumnya seperti orang dewasa dalam masalah ini."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "غَسْلُ الْمَيِّتِ وِتْرًا",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Memandikan mayit dengan bilangan ganjil",
     "sharaf": "غَسَلَ – يَغْسِلُ – غَسْلًا؛ وِتْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Mayit dimandikan dengan bilangan ganjil, seperti tiga atau lima kali, atau lebih. Pada awal mandi digunakan sidr, sedangkan pada akhir mandi mayit yang bukan muhrim diberi sedikit kapur barus yang tidak mengubah air."
+    "meaning_fiqh": "Mayit dimandikan dengan bilangan ganjil, seperti tiga atau lima kali, atau lebih. Pada awal mandi disunnahkan menggunakan sidr atau bahan sejenis; pada akhir mandi mayit yang bukan muhrim diberi sedikit kapur barus yang tidak mengubah air."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "ثَلَاثَةُ أَثْوَابٍ بِيضٍ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tiga kain putih",
     "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ ثَوْبٌ – أَثْوَابٌ؛ أَبْيَضُ – بِيضٌ",
-    "meaning_fiqh": "Kafan yang disebutkan dalam matan adalah tiga kain putih, berupa kain pembungkus yang sama panjang dan lebarnya serta menutupi seluruh badan, bukan berupa baju dan sorban."
+    "meaning_fiqh": "Kafan yang disebutkan dalam matan adalah tiga kain putih berupa lembaran pembungkus yang sama panjang dan lebarnya serta menutupi seluruh badan, bukan berupa baju dan sorban."
   },
   {
-    "chapter_arabic": "مَا يَلْزَمُ فِي الْمَيِّتِ",
+    "chapter_arabic": "فَصْلٌ فِيمَا يَتَعَلَّقُ بِالْمَيِّتِ",
     "term_arabic": "كَافُورٌ فِي آخِرِ غَسْلِ الْمَيِّتِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Kapur barus pada akhir memandikan mayit",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Kapur barus pada akhir memandikan mayit",
     "sharaf": "كَافُورٌ: اِسْمٌ؛ غَسَلَ – يَغْسِلُ – غَسْلًا؛ آخِرٌ: اِسْمٌ",
     "meaning_fiqh": "Pada akhir memandikan mayit yang bukan muhrim disunnahkan memberikan sedikit kapur barus dengan kadar yang tidak mengubah air."
   }
