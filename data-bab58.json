@@ -1,58 +1,10 @@
 [
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Persetubuhan pada siang Ramadan",
-    "sharaf":"جِمَاعٌ: مَصْدَرٌ مِنْ جَامَعَ؛ نَهَارٌ: اِسْمٌ؛ رَمَضَانُ: اِسْمُ شَهْرٍ",
-    "meaning_fiqh":"Fathul Qorib membahas persetubuhan pada siang Ramadan yang dilakukan dengan sengaja pada kemaluan, oleh orang yang wajib berpuasa dan telah berniat pada malam hari. Dalam keadaan tersebut, puasa hari itu rusak dan wajib qadha serta kaffarah."
-  },
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"الْوَطْءُ عَمْدًا فِي الْفَرْجِ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Bersenggama dengan sengaja pada kemaluan",
-    "sharaf":"وَطْءٌ: مَصْدَرٌ مِنْ وَطِئَ؛ عَمْدًا: مَصْدَرٌ فِي مَوْضِعِ الْحَالِ؛ فَرْجٌ: اِسْمٌ",
-    "meaning_fiqh":"Yang dimaksud adalah persetubuhan secara sengaja pada kemaluan di siang Ramadan, dalam keadaan pelakunya termasuk orang yang wajib berpuasa dan telah berniat pada malam hari."
-  },
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"الْقَضَاءُ وَالْكَفَّارَةُ",
-    "meaning_literal":"Bentuk: Frasa athaf. Artinya: Qadha dan kaffarah",
-    "sharaf":"قَضَاءٌ: مَصْدَرٌ مِنْ قَضَى؛ كَفَّارَةٌ: اِسْمٌ مِنْ كَفَّرَ",
-    "meaning_fiqh":"Pelaku persetubuhan tersebut wajib mengqadha hari yang rusak dan menunaikan kaffarah. Kaffarahnya dilakukan secara berurutan sesuai kemampuan, bukan memilih secara bebas salah satu dari tiga bentuk."
-  },
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"عِتْقُ رَقَبَةٍ مُؤْمِنَةٍ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Memerdekakan seorang budak yang beriman",
-    "sharaf":"عِتْقٌ: مَصْدَرٌ مِنْ أَعْتَقَ؛ رَقَبَةٌ: اِسْمٌ؛ مُؤْمِنَةٌ: اِسْمُ فَاعِلٍ مِنْ آمَنَ",
-    "meaning_fiqh":"Bentuk pertama kaffarah adalah memerdekakan seorang budak perempuan atau laki-laki yang beriman. Jika tidak mendapatkannya, berpindah kepada puasa dua bulan berturut-turut."
-  },
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"صِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Berpuasa dua bulan berturut-turut",
-    "sharaf":"صِيَامٌ: مَصْدَرٌ مِنْ صَامَ؛ شَهْرَانِ: مُثَنَّى شَهْرٍ؛ مُتَتَابِعَانِ: مُثَنَّى مُتَتَابِعٍ مِنْ تَتَابَعَ",
-    "meaning_fiqh":"Jika tidak mendapatkan budak yang memenuhi ketentuan, bentuk kaffarah berikutnya adalah berpuasa dua bulan berturut-turut."
-  },
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"إِطْعَامُ سِتِّينَ مِسْكِينًا",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Memberi makan enam puluh orang miskin",
-    "sharaf":"إِطْعَامٌ: مَصْدَرٌ مِنْ أَطْعَمَ؛ سِتُّونَ: عَدَدٌ؛ مِسْكِينٌ: اِسْمٌ",
-    "meaning_fiqh":"Jika tidak mampu berpuasa dua bulan berturut-turut, bentuk kaffarah berikutnya adalah memberi makan enam puluh orang miskin."
-  },
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"مُدٌّ لِكُلِّ مِسْكِينٍ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Satu mud untuk setiap orang miskin",
-    "sharaf":"مُدٌّ: اِسْمُ مِقْدَارٍ؛ مِسْكِينٌ: اِسْمٌ",
-    "meaning_fiqh":"Setiap orang miskin mendapat satu mud makanan yang termasuk jenis makanan yang sah untuk zakat fitrah. Jadi total enam puluh mud untuk enam puluh orang miskin."
-  },
-  {
-    "chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ",
-    "term_arabic":"اسْتِقْرَارُ الْكَفَّارَةِ فِي الذِّمَّةِ",
-    "meaning_literal":"Bentuk: Frasa idhafah. Artinya: Tetapnya kewajiban kaffarah dalam tanggungan",
-    "sharaf":"اسْتِقْرَارٌ: مَصْدَرٌ مِنْ اسْتَقَرَّ؛ كَفَّارَةٌ: اِسْمٌ؛ ذِمَّةٌ: اِسْمٌ",
-    "meaning_fiqh":"Jika seseorang tidak mampu melaksanakan seluruh bentuk kaffarah, kewajiban kaffarah tetap berada dalam tanggungannya. Ketika kemudian ia mampu melakukan salah satu bentuk yang semestinya, ia menunaikannya sebagaimana rincian Fathul Qorib."
-  }
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Persetubuhan pada siang Ramadan","sharaf":"جِمَاعٌ: مَصْدَرٌ مِنْ جَامَعَ؛ نَهَارٌ: اِسْمٌ؛ رَمَضَانُ: اِسْمُ شَهْرٍ","meaning_fiqh":"Fathul Qorib membahas orang yang bersetubuh pada siang Ramadan secara sengaja pada kemaluan, dalam keadaan ia termasuk orang yang wajib berpuasa dan telah berniat sejak malam. Perbuatan tersebut merusak puasa dan mewajibkan qadha serta kaffarah."},
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"الْوَطْءُ عَمْدًا فِي الْفَرْجِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Bersenggama dengan sengaja pada kemaluan","sharaf":"وَطْءٌ: مَصْدَرٌ مِنْ وَطِئَ؛ عَمْدًا: مَصْدَرٌ فِي مَوْضِعِ الْحَالِ؛ فَرْجٌ: اِسْمٌ","meaning_fiqh":"Yang dimaksud adalah persetubuhan secara sengaja pada kemaluan di siang Ramadan, dalam keadaan pelakunya termasuk orang yang wajib berpuasa dan telah berniat pada malam hari. Qadha dan kaffarah berlaku pada kasus yang memenuhi rincian tersebut."},
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"الْقَضَاءُ وَالْكَفَّارَةُ","meaning_literal":"Bentuk: Frasa athaf. Artinya: Qadha dan kaffarah","sharaf":"قَضَاءٌ: مَصْدَرٌ مِنْ قَضَى؛ كَفَّارَةٌ: اِسْمٌ مِنْ كَفَّرَ","meaning_fiqh":"Pelaku persetubuhan tersebut wajib mengqadha hari yang rusak dan menunaikan kaffarah. Kaffarahnya bersifat berurutan: memerdekakan budak mukmin, jika tidak mendapatkannya berpuasa dua bulan berturut-turut, dan jika tidak mampu berpuasa maka memberi makan enam puluh orang miskin."},
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"عِتْقُ رَقَبَةٍ مُؤْمِنَةٍ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Memerdekakan seorang budak yang beriman","sharaf":"عِتْقٌ: مَصْدَرٌ مِنْ أَعْتَقَ؛ رَقَبَةٌ: اِسْمٌ؛ مُؤْمِنَةٌ: اِسْمُ فَاعِلٍ مِنْ آمَنَ","meaning_fiqh":"Bentuk pertama kaffarah adalah memerdekakan seorang budak yang beriman. Sebagian naskah menambahkan keterangan bahwa budak tersebut harus selamat dari cacat yang mengganggu pekerjaan dan usaha."},
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"صِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Berpuasa dua bulan berturut-turut","sharaf":"صِيَامٌ: مَصْدَرٌ مِنْ صَامَ؛ شَهْرَانِ: مُثَنَّى شَهْرٍ؛ مُتَتَابِعَانِ: مُثَنَّى مُتَتَابِعٍ مِنْ تَتَابَعَ","meaning_fiqh":"Jika tidak mendapatkan budak yang memenuhi ketentuan, bentuk kaffarah berikutnya adalah berpuasa dua bulan berturut-turut. Tasyabuh atau terputusnya kesinambungan puasa dibahas menurut rincian hukum puasa kaffarah."},
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"إِطْعَامُ سِتِّينَ مِسْكِينًا","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Memberi makan enam puluh orang miskin","sharaf":"إِطْعَامٌ: مَصْدَرٌ مِنْ أَطْعَمَ؛ سِتُّونَ: عَدَدٌ؛ مِسْكِينٌ: اِسْمٌ","meaning_fiqh":"Jika tidak mampu berpuasa dua bulan berturut-turut, bentuk kaffarah berikutnya adalah memberi makan enam puluh orang miskin atau fakir sesuai redaksi Fathul Qorib."},
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"مُدٌّ لِكُلِّ مِسْكِينٍ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Satu mud untuk setiap orang miskin","sharaf":"مُدٌّ: اِسْمُ مِقْدَارٍ؛ مِسْكِينٌ: اِسْمٌ","meaning_fiqh":"Setiap orang miskin mendapat satu mud makanan yang termasuk jenis makanan yang sah untuk zakat fitrah. Jadi jumlah keseluruhannya adalah enam puluh mud untuk enam puluh orang miskin."},
+  {"chapter_arabic":"الْجِمَاعُ فِي نَهَارِ رَمَضَانَ","term_arabic":"اسْتِقْرَارُ الْكَفَّارَةِ فِي الذِّمَّةِ","meaning_literal":"Bentuk: Frasa idhafah. Artinya: Tetapnya kewajiban kaffarah dalam tanggungan","sharaf":"اسْتِقْرَارٌ: مَصْدَرٌ مِنْ اسْتَقَرَّ؛ كَفَّارَةٌ: اِسْمٌ؛ ذِمَّةٌ: اِسْمٌ","meaning_fiqh":"Jika seseorang tidak mampu melaksanakan seluruh bentuk kaffarah, menurut pendapat yang lebih kuat dalam Fathul Qorib, kaffarah tetap menjadi tanggungan. Jika kemudian ia mampu melakukan salah satu dari bentuk kaffarah, ia wajib menunaikannya sesuai urutan yang berlaku."}
 ]
