@@ -3,98 +3,98 @@
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "نِصَابُ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Nisab zakat sapi",
-    "sharaf": "نِصَابٌ: اِسْمٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "نِصَابٌ: اِسْمٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Nisab awal sapi adalah tiga puluh ekor. Pada 30 ekor wajib dikeluarkan satu تَبِيعٌ atau تَبِيعَةٌ; pada 40 ekor satu مُسِنَّةٌ. Setelah itu perhitungan mengikuti setiap 30 ekor satu tabi' dan setiap 40 ekor satu musinnah."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "ثَلَاثُونَ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tiga puluh ekor sapi",
-    "sharaf": "ثَلَاثُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "ثَلَاثُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Tiga puluh ekor merupakan awal nisab sapi. Kurang dari 30 ekor tidak wajib zakat sapi."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "تَبِيعٌ",
     "meaning_literal": "Bentuk: Isim. Artinya: Sapi berusia satu tahun",
-    "sharaf": "تَبِعَ – يَتْبَعُ – تَبَعًا؛ تَبِيعٌ: صِفَةٌ مُشَبَّهَةٌ",
-    "meaning_fiqh": "Tabi' adalah sapi yang telah genap satu tahun dan memasuki tahun kedua. Pada 30 ekor sapi, zakatnya satu tabi' atau tabi'ah."
+    "sharaf": "تَبِيعٌ: اِسْمٌ لِمَا أَتَمَّ سَنَةً وَدَخَلَ فِي الثَّانِيَةِ",
+    "meaning_fiqh": "Tabi' adalah sapi yang telah genap satu tahun dan memasuki tahun kedua. Pada 30 ekor sapi, zakatnya satu tabi' atau tabi'ah. Disebut tabi' karena mengikuti induknya ketika merumput."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "تَبِيعَةٌ",
     "meaning_literal": "Bentuk: Isim. Artinya: Sapi betina berusia satu tahun",
-    "sharaf": "تَبِيعٌ: صِفَةٌ؛ تَبِيعَةٌ: اِسْمٌ",
+    "sharaf": "تَبِيعَةٌ: اِسْمٌ مُؤَنَّثٌ مِنْ تَبِيعٍ",
     "meaning_fiqh": "Tabi'ah adalah sapi betina yang telah genap satu tahun dan memasuki tahun kedua. Ia dapat menjadi zakat pada nisab 30 ekor sapi."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "أَرْبَعُونَ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Empat puluh ekor sapi",
-    "sharaf": "أَرْبَعُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
-    "meaning_fiqh": "Pada 40 ekor sapi wajib dikeluarkan satu مُسِنَّةٌ."
+    "sharaf": "أَرْبَعُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
+    "meaning_fiqh": "Pada 40 ekor sapi wajib dikeluarkan satu مُسِنَّةٌ. Menurut pendapat yang sahih dalam Fathul Qorib, jika dikeluarkan satu tabi' sebagai gantinya juga sah."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "مُسِنَّةٌ",
     "meaning_literal": "Bentuk: Isim. Artinya: Sapi betina berusia dua tahun",
-    "sharaf": "أَسَنَّ – يُسِنُّ – إِسْنَانًا؛ مُسِنٌّ: اِسْمُ فَاعِلٍ؛ مُسِنَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Musinnah adalah sapi yang telah genap dua tahun dan memasuki tahun ketiga. Pada 40 ekor sapi, zakatnya satu musinnah."
+    "sharaf": "مُسِنَّةٌ: اِسْمٌ لِذَاتٍ أَسَنَّتْ وَتَمَّتْ لَهَا سَنَتَانِ",
+    "meaning_fiqh": "Musinnah adalah sapi yang telah genap dua tahun dan memasuki tahun ketiga. Pada 40 ekor sapi, zakat asalnya satu musinnah."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "سِتُّونَ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Enam puluh ekor sapi",
-    "sharaf": "سِتُّونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "سِتُّونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Pada 60 ekor sapi wajib dikeluarkan dua tabi' atau dua tabi'ah, karena setiap 30 ekor dikenai satu tabi'."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "سَبْعُونَ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh puluh ekor sapi",
-    "sharaf": "سَبْعُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "سَبْعُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Pada 70 ekor sapi, zakatnya satu tabi' dan satu musinnah, yaitu gabungan 30 dan 40."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "ثَمَانُونَ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Delapan puluh ekor sapi",
-    "sharaf": "ثَمَانُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "ثَمَانُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Pada 80 ekor sapi, zakatnya dua musinnah, karena 80 terdiri dari dua kelompok 40."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "تِسْعُونَ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Sembilan puluh ekor sapi",
-    "sharaf": "تِسْعُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "تِسْعُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Pada 90 ekor sapi, zakatnya tiga tabi' atau tiga tabi'ah."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "مِائَةٌ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Seratus ekor sapi",
-    "sharaf": "مِائَةٌ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "مِائَةٌ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Pada 100 ekor sapi, zakatnya dua tabi' dan satu musinnah, yaitu pembagian 30 + 30 + 40."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "مِائَةٌ وَعَشَرَةٌ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Seratus sepuluh ekor sapi",
-    "sharaf": "مِائَةٌ: عَدَدٌ؛ عَشَرَةٌ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "مِائَةٌ: عَدَدٌ؛ عَشَرَةٌ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Pada 110 ekor sapi, zakatnya satu tabi' dan dua musinnah, yaitu pembagian 30 + 40 + 40."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "مِائَةٌ وَعِشْرُونَ مِنَ الْبَقَرِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Seratus dua puluh ekor sapi",
-    "sharaf": "مِائَةٌ: عَدَدٌ؛ عِشْرُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جَمْعٍ",
+    "sharaf": "مِائَةٌ: عَدَدٌ؛ عِشْرُونَ: عَدَدٌ؛ بَقَرٌ: اِسْمُ جِنْسٍ جَمْعِيٍّ",
     "meaning_fiqh": "Pada 120 ekor sapi dapat dikeluarkan tiga musinnah atau empat tabi', sesuai pembagian setiap 40 atau setiap 30."
   },
   {
     "chapter_arabic": "نِصَابُ الْبَقَرِ",
     "term_arabic": "فِي كُلِّ ثَلَاثِينَ تَبِيعٌ وَفِي كُلِّ أَرْبَعِينَ مُسِنَّةٌ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Setiap tiga puluh ekor satu tabi' dan setiap empat puluh ekor satu musinnah",
-    "sharaf": "ثَلَاثُونَ: عَدَدٌ؛ أَرْبَعُونَ: عَدَدٌ؛ تَبِيعٌ: صِفَةٌ؛ مُسِنَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Kaidah perhitungan zakat sapi adalah setiap 30 ekor satu tabi' atau tabi'ah, dan setiap 40 ekor satu musinnah. Ketentuan ini ditegaskan dalam hadis Mu'adz dan menjadi dasar rincian nisab sapi dalam Fathul Qorib."
+    "sharaf": "ثَلَاثُونَ: عَدَدٌ؛ أَرْبَعُونَ: عَدَدٌ؛ تَبِيعٌ: اِسْمٌ؛ مُسِنَّةٌ: اِسْمٌ",
+    "meaning_fiqh": "Kaidah perhitungan zakat sapi adalah setiap 30 ekor satu tabi' atau tabi'ah, dan setiap 40 ekor satu musinnah. Pada jumlah yang dapat dibagi dengan kombinasi 30 dan 40, perhitungan dilakukan dengan kombinasi tersebut, sebagaimana contoh 70 = satu tabi' dan satu musinnah, 100 = dua tabi' dan satu musinnah, serta 120 = tiga musinnah atau empat tabi'."
   }
 ]
