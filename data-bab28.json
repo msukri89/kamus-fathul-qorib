@@ -36,16 +36,16 @@
   },
   {
     "chapter_arabic": "مَا تُخَالِفُ الْمَرْأَةُ فِيهِ الرَّجُلَ",
-    "term_arabic": "التَّسْبِيحُ عِنْدَ نُزُولِ الْحَاجَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Membaca tasbih ketika terjadi sesuatu yang perlu diberi tahu",
-    "sharaf": "سَبَّحَ – يُسَبِّحُ – تَسْبِيحًا؛ نَزَلَ – يَنْزِلُ – نُزُولًا",
+    "term_arabic": "إِذَا نَابَهُ شَيْءٌ فِي الصَّلَاةِ سَبَّحَ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Jika terjadi sesuatu dalam salat, laki-laki membaca tasbih",
+    "sharaf": "نَابَ – يَنُوبُ – نَوْبًا؛ سَبَّحَ – يُسَبِّحُ – تَسْبِيحًا",
     "meaning_fiqh": "Laki-laki mengucapkan tasbih ketika terjadi sesuatu dalam salat yang perlu diberi tanda atau perhatian."
   },
   {
     "chapter_arabic": "مَا تُخَالِفُ الْمَرْأَةُ فِيهِ الرَّجُلَ",
-    "term_arabic": "التَّصْفِيقُ عِنْدَ نُزُولِ الْحَاجَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Bertepuk tangan ketika terjadi sesuatu yang perlu diberi tahu",
-    "sharaf": "صَفَّقَ – يُصَفِّقُ – تَصْفِيقًا؛ نَزَلَ – يَنْزِلُ – نُزُولًا",
+    "term_arabic": "إِذَا نَابَهَا شَيْءٌ فِي الصَّلَاةِ صَفَّقَتْ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Jika terjadi sesuatu dalam salat, perempuan bertepuk tangan",
+    "sharaf": "نَابَ – يَنُوبُ – نَوْبًا؛ صَفَّقَ – يُصَفِّقُ – تَصْفِيقًا",
     "meaning_fiqh": "Perempuan menggunakan tepukan tangan ketika terjadi sesuatu dalam salat yang perlu diberi tanda atau perhatian."
   },
   {
@@ -60,6 +60,13 @@
     "term_arabic": "عَوْرَةُ الْحُرَّةِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Aurat perempuan merdeka",
     "sharaf": "حُرٌّ – حُرَّةٌ",
-    "meaning_fiqh": "Seluruh badan perempuan merdeka merupakan aurat dalam salat kecuali wajah dan kedua telapak tangan; adapun budak perempuan dalam matan ini disamakan dengan laki-laki dalam batas aurat."
+    "meaning_fiqh": "Seluruh badan perempuan merdeka merupakan aurat dalam salat kecuali wajah dan kedua telapak tangan."
+  },
+  {
+    "chapter_arabic": "مَا تُخَالِفُ الْمَرْأَةُ فِيهِ الرَّجُلَ",
+    "term_arabic": "الْأَمَةُ كَالرَّجُلِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Budak perempuan seperti laki-laki",
+    "sharaf": "أَمَةٌ: اِسْمٌ",
+    "meaning_fiqh": "Menurut matan ini, budak perempuan disamakan dengan laki-laki dalam batas aurat yang disebutkan pada bab ini."
   }
 ]
