@@ -1,0 +1,100 @@
+[
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "نِصَابُ الْإِبِلِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Nisab zakat unta",
+    "sharaf": "نِصَابٌ: اِسْمٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Permulaan nisab zakat unta adalah lima ekor. Ketentuan zakat berikutnya mengikuti jumlah ternak sebagaimana rincian Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "خَمْسُ إِبِلٍ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Lima ekor unta",
+    "sharaf": "خَمْسٌ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada lima ekor unta wajib dikeluarkan satu ekor kambing. Kambing tersebut berupa جذعة ضأن berusia satu tahun dan masuk tahun kedua, atau ثنية معز berusia dua tahun dan masuk tahun ketiga."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "عَشْرُ إِبِلٍ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Sepuluh ekor unta",
+    "sharaf": "عَشْرٌ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada sepuluh ekor unta wajib dikeluarkan dua ekor kambing."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "خَمْسَةَ عَشَرَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Lima belas ekor unta",
+    "sharaf": "خَمْسَةَ عَشَرَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada lima belas ekor unta wajib dikeluarkan tiga ekor kambing."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "عِشْرُونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Dua puluh ekor unta",
+    "sharaf": "عِشْرُونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada dua puluh ekor unta wajib dikeluarkan empat ekor kambing."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "خَمْسٌ وَعِشْرُونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Dua puluh lima ekor unta",
+    "sharaf": "خَمْسٌ وَعِشْرُونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada dua puluh lima ekor unta wajib dikeluarkan satu ekor بنت مخاض, yaitu unta betina yang telah berusia satu tahun dan masuk tahun kedua."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "سِتٌّ وَثَلَاثُونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tiga puluh enam ekor unta",
+    "sharaf": "سِتٌّ وَثَلَاثُونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada tiga puluh enam ekor unta wajib dikeluarkan satu ekor بنت لبون, yaitu unta betina yang telah berusia dua tahun dan masuk tahun ketiga."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "سِتٌّ وَأَرْبَعُونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Empat puluh enam ekor unta",
+    "sharaf": "سِتٌّ وَأَرْبَعُونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada empat puluh enam ekor unta wajib dikeluarkan satu ekor حِقَّة, yaitu unta betina yang telah berusia tiga tahun dan masuk tahun keempat."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "إِحْدَى وَسِتُّونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Enam puluh satu ekor unta",
+    "sharaf": "إِحْدَى وَسِتُّونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada enam puluh satu ekor unta wajib dikeluarkan satu ekor جذعة, yaitu unta betina yang telah berusia empat tahun dan masuk tahun kelima."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "سِتٌّ وَسَبْعُونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tujuh puluh enam ekor unta",
+    "sharaf": "سِتٌّ وَسَبْعُونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada tujuh puluh enam ekor unta wajib dikeluarkan dua ekor بنت لبون."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "إِحْدَى وَتِسْعُونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Sembilan puluh satu ekor unta",
+    "sharaf": "إِحْدَى وَتِسْعُونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada sembilan puluh satu ekor unta wajib dikeluarkan dua ekor حِقَّة."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "مِائَةٌ وَإِحْدَى وَعِشْرُونَ إِبِلًا",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Seratus dua puluh satu ekor unta",
+    "sharaf": "مِائَةٌ: عَدَدٌ؛ إِحْدَى وَعِشْرُونَ: عَدَدٌ؛ إِبِلٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada seratus dua puluh satu ekor unta wajib dikeluarkan tiga ekor بنت لبون. Setelah jumlah ini, setiap empat puluh ekor dikenai satu بنت لبون dan setiap lima puluh ekor dikenai satu حِقَّة."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "فِي كُلِّ أَرْبَعِينَ بِنْتُ لَبُونٍ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Setiap empat puluh ekor, satu bintu labun",
+    "sharaf": "أَرْبَعُونَ: عَدَدٌ؛ بِنْتٌ: اِسْمٌ؛ لَبُونٌ: صِفَةٌ",
+    "meaning_fiqh": "Setelah melewati seratus dua puluh satu ekor, setiap kelipatan empat puluh dihitung dengan kewajiban satu بنت لبون."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْإِبِلِ",
+    "term_arabic": "فِي كُلِّ خَمْسِينَ حِقَّةٌ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Setiap lima puluh ekor, satu hiqqah",
+    "sharaf": "خَمْسُونَ: عَدَدٌ؛ حِقَّةٌ: اِسْمٌ",
+    "meaning_fiqh": "Setelah melewati seratus dua puluh satu ekor, setiap kelipatan lima puluh dihitung dengan kewajiban satu حِقَّة. Misalnya, seratus empat puluh ekor dikenai dua حِقَّة dan satu بنت لبون, sedangkan seratus lima puluh ekor dikenai tiga حِقَّة."
+  }
+]
