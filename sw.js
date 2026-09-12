@@ -1,5 +1,5 @@
 // UBAH VERSI DI SINI SETIAP KALI ADA PERUBAHAN FILE (HTML/JS/JSON)
-const CACHE_NAME = 'kamus-fq-v87';
+const CACHE_NAME = 'kamus-fq-v88';
 
 const ASSETS_TO_CACHE = [
   './',
