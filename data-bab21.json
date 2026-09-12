@@ -1,0 +1,100 @@
+[
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "السُّنَنُ التَّابِعَةُ لِلْفَرَائِضِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Sunnah-sunnah yang mengikuti shalat fardhu",
+    "sharaf": "سُنَّةٌ: مصدر سَنَّ – يَسُنُّ – سُنَّةً؛ تَابِعٌ: اسم فاعل من تَبِعَ – يَتْبَعُ",
+    "meaning_fiqh": "Sunnah yang berkaitan dan mengikuti shalat-shalat fardhu. Fathul Qorib menyebutnya juga sebagai sunnah rawatib dan menghitungnya sebanyak tujuh belas rakaat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "السُّنَّةُ الرَّاتِبَةُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Sunnah rawatib / sunnah yang menyertai shalat fardhu",
+    "sharaf": "سُنَّةٌ: مصدر سَنَّ – يَسُنُّ – سُنَّةً؛ رَاتِبٌ: اسم فاعل من رَتَبَ – يَرْتُبُ",
+    "meaning_fiqh": "Istilah lain yang digunakan Fathul Qorib untuk menyebut sunnah-sunnah yang mengikuti shalat fardhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "سَبْعَةَ عَشَرَ رَكْعَةً",
+    "meaning_literal": "Bentuk: Frasa bilangan. Artinya: Tujuh belas rakaat",
+    "sharaf": "سَبْعَةَ عَشَرَ: عدد؛ رَكْعَةٌ: اسم من رَكَعَ – يَرْكَعُ",
+    "meaning_fiqh": "Jumlah seluruh sunnah yang mengikuti shalat fardhu menurut rincian Fathul Qorib adalah tujuh belas rakaat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "رَكْعَتَا الْفَجْرِ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Dua rakaat sebelum Subuh",
+    "sharaf": "رَكْعَةٌ: اسم من رَكَعَ – يَرْكَعُ؛ الْفَجْرُ: فَجَرَ – يَفْجُرُ – فُجُورًا",
+    "meaning_fiqh": "Dua rakaat sunnah sebelum shalat Subuh. Dalam hitungan sunnah rawatib Fathul Qorib, keduanya termasuk tujuh belas rakaat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "أَرْبَعٌ قَبْلَ الظُّهْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Empat rakaat sebelum Zuhur",
+    "sharaf": "أَرْبَعٌ: عدد؛ قَبْلَ: ظرف؛ الظُّهْرُ: ظَهَرَ – يَظْهَرُ – ظُهُورًا",
+    "meaning_fiqh": "Empat rakaat sunnah yang dikerjakan sebelum shalat Zuhur. Dalam hitungan Fathul Qorib, bagian ini termasuk sunnah rawatib tujuh belas rakaat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "رَكْعَتَانِ بَعْدَ الظُّهْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Dua rakaat setelah Zuhur",
+    "sharaf": "رَكْعَتَانِ: تثنية رَكْعَةٍ؛ بَعْدَ: ظرف؛ الظُّهْرُ: ظَهَرَ – يَظْهَرُ – ظُهُورًا",
+    "meaning_fiqh": "Dua rakaat sunnah yang dikerjakan setelah shalat Zuhur."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "أَرْبَعٌ قَبْلَ الْعَصْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Empat rakaat sebelum Asar",
+    "sharaf": "أَرْبَعٌ: عدد؛ قَبْلَ: ظرف؛ الْعَصْرُ: عَصَرَ – يَعْصِرُ – عَصْرًا",
+    "meaning_fiqh": "Empat rakaat sunnah yang dikerjakan sebelum shalat Asar dan termasuk dalam hitungan tujuh belas rakaat sunnah yang mengikuti shalat fardhu."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "رَكْعَتَانِ بَعْدَ الْمَغْرِبِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Dua rakaat setelah Magrib",
+    "sharaf": "رَكْعَتَانِ: تثنية رَكْعَةٍ؛ بَعْدَ: ظرف؛ الْمَغْرِبُ: غَرَبَ – يَغْرُبُ – غُرُوبًا",
+    "meaning_fiqh": "Dua rakaat sunnah yang dikerjakan setelah shalat Magrib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "ثَلَاثٌ بَعْدَ الْعِشَاءِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tiga rakaat setelah Isya",
+    "sharaf": "ثَلَاثٌ: عدد؛ بَعْدَ: ظرف؛ الْعِشَاءُ: عَشِيَ – يَعْشَى – عِشَاءً",
+    "meaning_fiqh": "Tiga rakaat sunnah setelah shalat Isya; satu rakaat dari tiga rakaat tersebut digunakan sebagai witir menurut penjelasan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "الْوِتْرُ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Ganjil / shalat witir",
+    "sharaf": "وَتَرَ – يَتِرُ – وَتْرًا",
+    "meaning_fiqh": "Shalat sunnah yang rakaatnya berjumlah ganjil. Dalam penjelasan Fathul Qorib, satu rakaat adalah jumlah minimal witir dan maksimalnya sebelas rakaat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "أَقَلُّ الْوِتْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Jumlah minimal witir",
+    "sharaf": "أَقَلُّ: اسم تفضيل من قَلَّ – يَقِلُّ؛ الْوِتْرُ: وَتَرَ – يَتِرُ – وَتْرًا",
+    "meaning_fiqh": "Jumlah minimal shalat witir adalah satu rakaat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "أَكْثَرُ الْوِتْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Jumlah maksimal witir",
+    "sharaf": "أَكْثَرُ: اسم تفضيل من كَثُرَ – يَكْثُرُ؛ الْوِتْرُ: وَتَرَ – يَتِرُ – وَتْرًا",
+    "meaning_fiqh": "Jumlah maksimal shalat witir adalah sebelas rakaat."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "وَقْتُ الْوِتْرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Waktu shalat witir",
+    "sharaf": "وَقْتٌ: اسم للزمان؛ الْوِتْرُ: وَتَرَ – يَتِرُ – وَتْرًا",
+    "meaning_fiqh": "Waktu witir dimulai setelah shalat Isya dan berakhir dengan terbitnya fajar. Melakukan witir sebelum Isya tidak dianggap sah menurut penjelasan Fathul Qorib."
+  },
+  {
+    "chapter_arabic": "فَصْلٌ فِي السُّنَنِ التَّابِعَةِ لِلْفَرَائِضِ",
+    "term_arabic": "الرَّاتِبُ الْمُؤَكَّدُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Sunnah rawatib yang sangat ditekankan",
+    "sharaf": "رَاتِبٌ: اسم فاعل من رَتَبَ – يَرْتُبُ؛ مُؤَكَّدٌ: اسم مفعول من أَكَّدَ – يُؤَكِّدُ",
+    "meaning_fiqh": "Dari seluruh sunnah yang mengikuti shalat fardhu, Fathul Qorib menyebut sepuluh rakaat sebagai rawatib muakkadah: dua sebelum Subuh, dua sebelum Zuhur, dua setelah Zuhur, dua setelah Magrib, dan dua setelah Isya."
+  }
+]
