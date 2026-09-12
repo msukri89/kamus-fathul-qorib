@@ -1,0 +1,65 @@
+[
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "الصِّيَامُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Puasa",
+    "sharaf": "صِيَامٌ: مَصْدَرٌ مِنْ صَامَ – يَصُومُ",
+    "meaning_fiqh": "Secara syariat, puasa adalah menahan diri dari hal-hal yang membatalkan puasa dengan niat tertentu sepanjang siang hari yang dapat digunakan untuk berpuasa."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "الْإِسْلَامُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Islam",
+    "sharaf": "أَسْلَمَ – يُسْلِمُ – إِسْلَامًا",
+    "meaning_fiqh": "Islam termasuk syarat wajib puasa."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "الْبُلُوغُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Baligh",
+    "sharaf": "بَلَغَ – يَبْلُغُ – بُلُوغًا",
+    "meaning_fiqh": "Baligh termasuk syarat wajib puasa."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "الْعَقْلُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Berakal",
+    "sharaf": "عَقَلَ – يَعْقِلُ – عَقْلًا",
+    "meaning_fiqh": "Berakal termasuk syarat wajib puasa."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "الْقُدْرَةُ عَلَى الصَّوْمِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Kemampuan untuk berpuasa",
+    "sharaf": "قَدَرَ – يَقْدِرُ – قُدْرَةً؛ صَامَ – يَصُومُ – صَوْمًا",
+    "meaning_fiqh": "Dalam sebagian riwayat naskah Fathul Qorib, kemampuan berpuasa disebut sebagai syarat wajib yang keempat."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "الطَّهَارَةُ مِنَ الْحَيْضِ وَالنِّفَاسِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Suci dari haid dan nifas",
+    "sharaf": "طَهُرَ – يَطْهُرُ – طُهْرًا؛ حَيْضٌ: اِسْمٌ؛ نِفَاسٌ: اِسْمٌ",
+    "meaning_fiqh": "Kesucian dari haid dan nifas termasuk keadaan yang disebut dalam definisi puasa secara syariat; perempuan yang sedang haid atau nifas tidak berada dalam keadaan yang sah untuk melakukan puasa."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "النِّيَّةُ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Niat",
+    "sharaf": "نِيَّةٌ: اِسْمٌ",
+    "meaning_fiqh": "Niat merupakan salah satu dari empat rukun puasa. Untuk puasa wajib seperti Ramadan dan nazar, niat harus dilakukan pada malam hari; puasa wajib juga harus ditentukan jenisnya, misalnya puasa Ramadan."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "الْإِمْسَاكُ عَنِ الْمُفَطِّرَاتِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Menahan diri dari hal-hal yang membatalkan puasa",
+    "sharaf": "أَمْسَكَ – يُمْسِكُ – إِمْسَاكًا؛ فَطَّرَ – يُفَطِّرُ – تَفْطِيرًا",
+    "meaning_fiqh": "Menahan diri dari hal-hal yang membatalkan puasa merupakan hakikat puasa secara syariat."
+  },
+  {
+    "chapter_arabic": "أَحْكَامُ الصِّيَامِ",
+    "term_arabic": "جَمِيعُ النَّهَارِ الْقَابِلِ لِلصَّوْمِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Seluruh siang yang dapat digunakan untuk berpuasa",
+    "sharaf": "جَمِيعٌ: اِسْمٌ؛ نَهَارٌ: اِسْمٌ؛ صَوْمٌ: مَصْدَرٌ",
+    "meaning_fiqh": "Puasa berlangsung sepanjang siang hari yang dapat digunakan untuk berpuasa."
+  }
+]
