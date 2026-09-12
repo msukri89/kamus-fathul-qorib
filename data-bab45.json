@@ -2,9 +2,9 @@
   {
     "chapter_arabic": "نِصَابُ الْغَنَمِ",
     "term_arabic": "نِصَابُ الْغَنَمِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Nisab zakat kambing",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Nisab zakat kambing",
     "sharaf": "نِصَابٌ: اِسْمٌ؛ غَنَمٌ: اِسْمُ جَمْعٍ",
-    "meaning_fiqh": "Nisab awal kambing adalah 40 ekor. Pada 40 ekor wajib dikeluarkan satu ekor kambing, yaitu جَذَعَةٌ dari domba atau ثَنِيَّةٌ dari kambing."
+    "meaning_fiqh": "Nisab awal kambing adalah 40 ekor. Pada 40 ekor wajib dikeluarkan satu ekor kambing."
   },
   {
     "chapter_arabic": "نِصَابُ الْغَنَمِ",
@@ -17,34 +17,41 @@
     "chapter_arabic": "نِصَابُ الْغَنَمِ",
     "term_arabic": "جَذَعَةٌ مِنَ الضَّأْنِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Domba jadz'ah dari jenis domba",
-    "sharaf": "جَذَعٌ: اِسْمٌ؛ ضَأْنٌ: اِسْمُ جَمْعٍ",
-    "meaning_fiqh": "Zakat 40 ekor kambing dapat berupa جَذَعَةٌ dari الضَّأْنِ. Dalam syarah Fathul Qorib, جذعة dari domba adalah yang telah berusia satu tahun."
+    "sharaf": "جَذَعٌ: اِسْمٌ؛ جَذَعَةٌ: اِسْمٌ؛ ضَأْنٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Zakat 40 ekor kambing dapat berupa جَذَعَةٌ dari الضَّأْنِ. Dalam syarah Fathul Qorib, جذعة dari domba adalah yang telah berusia satu tahun dan memasuki tahun kedua."
   },
   {
     "chapter_arabic": "نِصَابُ الْغَنَمِ",
     "term_arabic": "ثَنِيَّةٌ مِنَ الْمَعْزِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Kambing tsaniyyah dari jenis kambing",
-    "sharaf": "ثَنِيٌّ: اِسْمٌ؛ مَعْزٌ: اِسْمُ جَمْعٍ",
-    "meaning_fiqh": "Zakat 40 ekor kambing dapat berupa ثَنِيَّةٌ dari الْمَعْزِ. Dalam syarah Fathul Qorib, ثنية dari kambing adalah yang telah berusia dua tahun."
+    "sharaf": "ثَنِيَّةٌ: اِسْمٌ؛ مَعْزٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Zakat 40 ekor kambing dapat berupa ثَنِيَّةٌ dari الْمَعْزِ. Dalam syarah Fathul Qorib, ثنية dari kambing adalah yang telah berusia dua tahun dan memasuki tahun ketiga."
+  },
+  {
+    "chapter_arabic": "نِصَابُ الْغَنَمِ",
+    "term_arabic": "مِنْ أَرْبَعِينَ إِلَى مِائَةٍ وَعِشْرِينَ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Dari empat puluh sampai seratus dua puluh",
+    "sharaf": "أَرْبَعُونَ: عَدَدٌ؛ مِائَةٌ: عَدَدٌ؛ عِشْرُونَ: عَدَدٌ",
+    "meaning_fiqh": "Rentang 40 sampai 120 ekor kambing dikenai satu ekor kambing sebagai zakat."
   },
   {
     "chapter_arabic": "نِصَابُ الْغَنَمِ",
     "term_arabic": "مَائَةٌ وَإِحْدَى وَعِشْرُونَ مِنَ الْغَنَمِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Seratus dua puluh satu ekor kambing",
-    "sharaf": "مَائَةٌ: عَدَدٌ؛ إِحْدَى: عَدَدٌ؛ عِشْرُونَ: عَدَدٌ؛ غَنَمٌ: اِسْمُ جَمْعٍ",
-    "meaning_fiqh": "Pada 121 ekor kambing wajib dua ekor kambing."
+    "sharaf": "مَائَةٌ: عَدَدٌ؛ إِحْدَى وَعِشْرُونَ: عَدَدٌ؛ غَنَمٌ: اِسْمُ جَمْعٍ",
+    "meaning_fiqh": "Pada 121 sampai 200 ekor kambing wajib dua ekor kambing."
   },
   {
     "chapter_arabic": "نِصَابُ الْغَنَمِ",
     "term_arabic": "مِائَتَانِ وَوَاحِدَةٌ مِنَ الْغَنَمِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Dua ratus satu ekor kambing",
     "sharaf": "مِائَتَانِ: عَدَدٌ؛ وَاحِدَةٌ: عَدَدٌ؛ غَنَمٌ: اِسْمُ جَمْعٍ",
-    "meaning_fiqh": "Pada 201 ekor kambing wajib tiga ekor kambing."
+    "meaning_fiqh": "Pada 201 sampai 399 ekor kambing wajib tiga ekor kambing."
   },
   {
     "chapter_arabic": "نِصَابُ الْغَنَمِ",
     "term_arabic": "أَرْبَعُ مِائَةٍ مِنَ الْغَنَمِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Empat ratus ekor kambing",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Empat ratus ekor kambing",
     "sharaf": "أَرْبَعُ: عَدَدٌ؛ مِائَةٌ: عَدَدٌ؛ غَنَمٌ: اِسْمُ جَمْعٍ",
     "meaning_fiqh": "Pada 400 ekor kambing wajib empat ekor kambing."
   },
