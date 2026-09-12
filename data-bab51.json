@@ -9,16 +9,16 @@
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "مَعَادِنُ الذَّهَبِ وَالْفِضَّةِ",
-    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Tambang emas dan perak",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Tambang-tambang emas dan perak",
     "sharaf": "مَعْدِنٌ – مَعَادِنُ: اِسْمٌ وَجَمْعُهُ؛ ذَهَبٌ: اِسْمٌ؛ فِضَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Dalam pembahasan ini, hasil tambang yang dikenai zakat adalah emas dan perak yang dikeluarkan dari tempat tambangnya dan mencapai nisab."
+    "meaning_fiqh": "Dalam pembahasan Fathul Qorib, yang dikeluarkan dari tambang dan dikenai zakat adalah emas dan perak apabila hasilnya mencapai nisab dan orang yang mengeluarkannya termasuk pihak yang wajib zakat."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "اِسْتِخْرَاجُ الذَّهَبِ وَالْفِضَّةِ مِنَ الْمَعْدِنِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Mengeluarkan emas dan perak dari tambang",
     "sharaf": "اِسْتَخْرَجَ – يَسْتَخْرِجُ – اِسْتِخْرَاجًا؛ مَعْدِنٌ: اِسْمٌ",
-    "meaning_fiqh": "Emas atau perak yang berhasil dikeluarkan dari tambang menjadi objek zakat apabila memenuhi ketentuan nisab yang dibahas dalam bab ini."
+    "meaning_fiqh": "Emas atau perak yang berhasil dikeluarkan dari tambang menjadi objek zakat apabila mencapai nisab. Zakatnya tidak menunggu haul."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
@@ -39,27 +39,34 @@
     "term_arabic": "بُلُوغُ نِصَابِ الْمَعْدِنِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Mencapai nisab hasil tambang",
     "sharaf": "بُلُوغٌ: مَصْدَرٌ مِنْ بَلَغَ؛ نِصَابٌ: اِسْمٌ؛ مَعْدِنٌ: اِسْمٌ",
-    "meaning_fiqh": "Hasil tambang emas atau perak harus mencapai nisab agar zakatnya wajib dalam pendapat mu'tamad yang dijelaskan dalam syarah Syafi'iyyah."
+    "meaning_fiqh": "Hasil tambang emas atau perak harus mencapai nisab agar zakatnya wajib. Dalam syarah Fathul Qorib, zakatnya berlaku segera dan tidak menunggu haul."
+  },
+  {
+    "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
+    "term_arabic": "الْمَعْدِنُ",
+    "meaning_literal": "Bentuk: Isim. Artinya: Tempat tambang atau tempat terdapatnya mineral yang diciptakan Allah",
+    "sharaf": "مَعْدِنٌ: اِسْمٌ؛ مَعَادِنُ: جَمْعٌ",
+    "meaning_fiqh": "Fathul Qorib menjelaskan المعدن sebagai nama bagi tempat yang Allah menciptakan di dalamnya bahan tambang, baik di tanah mati maupun tanah milik."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "الرِّكَازُ",
     "meaning_literal": "Bentuk: Isim. Artinya: Rikaz, yaitu harta terpendam",
     "sharaf": "رِكَازٌ: اِسْمٌ",
-    "meaning_fiqh": "Rikaz yang dimaksud adalah harta terpendam peninggalan masa jahiliah yang ditemukan di dalam tanah."
+    "meaning_fiqh": "Rikaz yang dimaksud dalam Fathul Qorib adalah دفين الجاهلية, yaitu harta terpendam peninggalan masa jahiliah yang ditemukan di dalam tanah."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "دَفِينُ الْجَاهِلِيَّةِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Harta terpendam peninggalan masa jahiliah",
     "sharaf": "دَفِينٌ: اِسْمُ مَفْعُولٍ مِنْ دَفَنَ؛ جَاهِلِيَّةٌ: اِسْمٌ",
-    "meaning_fiqh": "Definisi penting rikaz adalah دفين الجاهلية, yaitu harta terpendam dari masa sebelum Islam yang ditemukan di dalam tanah."
+    "meaning_fiqh": "Definisi penting rikaz adalah دفين الجاهلية, yaitu harta terpendam peninggalan masa sebelum Islam yang ditemukan di dalam tanah."
   },
   {
     "chapter_arabic": "زَكَاةُ الْمَعَادِنِ وَالرِّكَازِ",
     "term_arabic": "الْخُمْسُ فِي الرِّكَازِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Seperlima pada rikaz",
     "sharaf": "خُمْسٌ: اِسْمٌ لِمِقْدَارِ الْخَمْسِ؛ رِكَازٌ: اِسْمٌ",
-    "meaning_fiqh": "Kewajiban pada rikaz adalah seperlima (20%) dan dikeluarkan segera, tanpa menunggu haul."
+    "meaning_fiqh": "Kewajiban pada rikaz adalah seperlima (20%) dan dikeluarkan segera ketika rikaz ditemukan; tidak disyaratkan menunggu haul. Menurut penjelasan Fathul Qorib, penyalurannya mengikuti zakat menurut pendapat masyhur."
   }
 ]
