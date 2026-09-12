@@ -2,113 +2,120 @@
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "مَصَارِفُ الزَّكَاةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Golongan yang berhak menerima zakat",
-    "sharaf": "مَصَارِفُ: جَمْعُ مَصْرِفٍ؛ زَكَاةٌ: اِسْمٌ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Golongan atau tempat penyaluran zakat",
+    "sharaf": "مَصْرِفٌ – مَصَارِفُ: اِسْمٌ وَجَمْعُهُ؛ زَكَاةٌ: اِسْمٌ",
     "meaning_fiqh": "Fathul Qorib menjelaskan bahwa zakat disalurkan kepada delapan golongan yang disebutkan dalam QS At-Taubah ayat 60."
+  },
+  {
+    "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
+    "term_arabic": "ثَمَانِيَةُ أَصْنَافٍ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Delapan golongan",
+    "sharaf": "ثَمَانِيَةٌ: عَدَدٌ؛ صِنْفٌ – أَصْنَافٌ: اِسْمٌ وَجَمْعُهُ",
+    "meaning_fiqh": "Penerima zakat ada delapan golongan: fakir, miskin, amil, muallaf, mukatab, gharim, fi sabilillah, dan ibnu sabil."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْفُقَرَاءُ",
     "meaning_literal": "Bentuk: Jamak. Artinya: Orang-orang fakir",
-    "sharaf": "فَقِيرٌ: صِفَةٌ، جَمْعُهُ فُقَرَاءُ",
-    "meaning_fiqh": "Fakir dalam zakat adalah orang yang tidak memiliki harta dan tidak memiliki pekerjaan atau penghasilan yang dapat memenuhi kebutuhannya secara berarti."
+    "sharaf": "فَقِيرٌ: صِفَةٌ؛ فُقَرَاءُ: جَمْعُ فَقِيرٍ",
+    "meaning_fiqh": "Fakir adalah orang yang tidak memiliki harta atau pekerjaan yang mencukupi kebutuhannya, sebagaimana rincian definisi dalam Fathul Qorib."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْمَسَاكِينُ",
     "meaning_literal": "Bentuk: Jamak. Artinya: Orang-orang miskin",
-    "sharaf": "مِسْكِينٌ: صِفَةٌ، جَمْعُهُ مَسَاكِينُ",
-    "meaning_fiqh": "Miskin adalah orang yang memiliki harta atau pekerjaan yang dapat memenuhi sebagian kebutuhannya, tetapi belum mencukupi seluruh kebutuhannya."
+    "sharaf": "مِسْكِينٌ: صِفَةٌ؛ مَسَاكِينُ: جَمْعُ مِسْكِينٍ",
+    "meaning_fiqh": "Miskin adalah orang yang memiliki harta atau pekerjaan yang menghasilkan sebagian kebutuhannya, tetapi belum mencukupi seluruh kebutuhan yang layak."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْعَامِلُونَ عَلَيْهَا",
     "meaning_literal": "Bentuk: Frasa. Artinya: Orang-orang yang bertugas mengelola zakat",
-    "sharaf": "عَامِلٌ: اِسْمُ فَاعِلٍ مِنْ عَمِلَ؛ عَلَى: حَرْفُ جَرٍّ",
-    "meaning_fiqh": "Amil adalah orang yang ditugaskan oleh imam untuk mengambil zakat dan menyalurkannya kepada para penerimanya."
+    "sharaf": "عَامِلٌ: اِسْمُ فَاعِلٍ مِنْ عَمِلَ؛ عَلَى: حَرْفُ جَرٍّ؛ هَا: ضَمِيرٌ",
+    "meaning_fiqh": "Amil adalah orang yang ditugaskan oleh imam untuk mengurus zakat, seperti mengumpulkan, mencatat, menjaga, dan menyalurkannya sesuai tugasnya."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْمُؤَلَّفَةُ قُلُوبُهُمْ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Orang-orang yang dilunakkan hatinya",
-    "sharaf": "مُؤَلَّفٌ: اِسْمُ مَفْعُولٍ مِنْ أَلَّفَ؛ قَلْبٌ: اِسْمٌ",
-    "meaning_fiqh": "Muallaf adalah golongan yang diberi zakat untuk menguatkan atau mendekatkan hati mereka kepada Islam. Fathul Qorib menyebutkan bahwa golongan ini memiliki empat bagian, dan salah satunya adalah Muslim yang lemah niatnya dalam Islam."
+    "sharaf": "مُؤَلَّفٌ: اِسْمُ مَفْعُولٍ مِنْ أَلَّفَ؛ قَلْبٌ – قُلُوبٌ: اِسْمٌ وَجَمْعُهُ",
+    "meaning_fiqh": "Muallaf adalah golongan yang diberi zakat untuk tujuan yang diakui dalam pembahasan fikih, seperti menguatkan hati terhadap Islam; Fathul Qorib merinci mereka menjadi empat bagian."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "فِي الرِّقَابِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Untuk memerdekakan budak",
-    "sharaf": "رِقَابٌ: جَمْعُ رَقَبَةٍ",
-    "meaning_fiqh": "Dalam penjelasan Fathul Qorib, bagian في الرقاب diberikan kepada mukatab yang melakukan akad kitabah yang sah untuk membantu pembebasan dirinya."
+    "meaning_literal": "Bentuk: Frasa jar-majrur. Artinya: Untuk memerdekakan budak",
+    "sharaf": "رَقَبَةٌ – رِقَابٌ: اِسْمٌ وَجَمْعُهُ؛ فِي: حَرْفُ جَرٍّ",
+    "meaning_fiqh": "Bagian في الرقاب dalam Fathul Qorib diberikan kepada mukatab, yaitu budak yang melakukan akad kitabah yang sah untuk membantu pembebasan dirinya."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْغَارِمُونَ",
-    "meaning_literal": "Bentuk: Jamak. Artinya: Orang-orang yang terlilit utang",
-    "sharaf": "غَارِمٌ: اِسْمُ فَاعِلٍ مِنْ غَرِمَ؛ جَمْعُهُ غَارِمُونَ",
-    "meaning_fiqh": "Gharim adalah orang yang memiliki tanggungan utang yang memenuhi ketentuan sebagai penerima zakat. Fathul Qorib menjelaskan bahwa gharim memiliki tiga bagian; salah satunya orang yang berutang untuk mendamaikan perselisihan antara dua kelompok."
+    "meaning_literal": "Bentuk: Jamak. Artinya: Orang-orang yang memiliki tanggungan utang",
+    "sharaf": "غَارِمٌ: اِسْمُ فَاعِلٍ مِنْ غَرِمَ؛ غَارِمُونَ: جَمْعُ غَارِمٍ",
+    "meaning_fiqh": "Gharim adalah orang yang memiliki utang yang memenuhi ketentuan untuk menerima zakat. Fathul Qorib merinci gharim menjadi tiga bagian."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "فِي سَبِيلِ اللَّهِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Di jalan Allah",
+    "meaning_literal": "Bentuk: Frasa jar-majrur. Artinya: Di jalan Allah",
     "sharaf": "سَبِيلٌ: اِسْمٌ؛ اللَّهُ: لَفْظُ الْجَلَالَةِ",
-    "meaning_fiqh": "Dalam pembahasan Fathul Qorib, yang dimaksud bagian ini adalah para pejuang yang berperang secara sukarela dan tidak mendapat bagian dari diwan tentara yang digaji."
+    "meaning_fiqh": "Dalam pembahasan Fathul Qorib, bagian ini diperuntukkan bagi para pejuang yang berperang secara sukarela dan tidak memperoleh bagian dari diwan tentara."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "ابْنُ السَّبِيلِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Orang yang sedang dalam perjalanan",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Orang yang sedang dalam perjalanan",
     "sharaf": "ابْنٌ: اِسْمٌ؛ سَبِيلٌ: اِسْمٌ",
-    "meaning_fiqh": "Ibnu sabil adalah orang yang melakukan perjalanan dari suatu negeri zakat atau sedang melewatinya, dengan syarat membutuhkan bantuan dan perjalanannya bukan perjalanan maksiat."
+    "meaning_fiqh": "Ibnu sabil adalah musafir yang membutuhkan bantuan untuk melanjutkan perjalanan yang mubah, sesuai rincian yang dijelaskan dalam Fathul Qorib."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "ثَلَاثَةٌ مِنْ كُلِّ صِنْفٍ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Tiga orang dari setiap golongan",
-    "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ صِنْفٌ: اِسْمٌ",
-    "meaning_fiqh": "Fathul Qorib menjelaskan bahwa zakat tidak dibatasi pada kurang dari tiga orang dari setiap golongan yang ada, kecuali amil; amil boleh hanya satu orang apabila kebutuhannya tercukupi."
+    "sharaf": "ثَلَاثَةٌ: عَدَدٌ؛ صِنْفٌ – أَصْنَافٌ: اِسْمٌ وَجَمْعُهُ",
+    "meaning_fiqh": "Dalam pembahasan Fathul Qorib, pada setiap golongan yang memiliki penerima, zakat pada asalnya tidak diberikan kurang dari tiga orang; amil memiliki pengecualian sehingga satu orang dapat mencukupi apabila tugasnya terpenuhi."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْغَنِيُّ بِمَالٍ أَوْ كَسْبٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Orang kaya karena harta atau penghasilan",
-    "sharaf": "غَنِيٌّ: صِفَةٌ؛ مَالٌ: اِسْمٌ؛ كَسْبٌ: اِسْمٌ",
-    "meaning_fiqh": "Orang yang kaya karena memiliki harta atau penghasilan termasuk di antara orang yang tidak boleh diberi zakat dalam pembahasan Fathul Qorib."
+    "meaning_literal": "Bentuk: Frasa sifat. Artinya: Orang kaya karena harta atau penghasilan",
+    "sharaf": "غَنِيٌّ: صِفَةٌ؛ مَالٌ: اِسْمٌ؛ كَسْبٌ: مَصْدَرٌ مِنْ كَسَبَ",
+    "meaning_fiqh": "Orang yang kaya karena memiliki harta atau penghasilan yang mencukupi termasuk orang yang tidak boleh diberi zakat atas dasar fakir atau miskin."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْعَبْدُ",
     "meaning_literal": "Bentuk: Isim. Artinya: Budak",
     "sharaf": "عَبْدٌ: اِسْمٌ",
-    "meaning_fiqh": "Budak termasuk di antara lima golongan yang disebut Fathul Qorib tidak boleh diberi zakat secara umum."
+    "meaning_fiqh": "Budak yang bukan mukatab termasuk di antara orang yang tidak diberi zakat secara umum dalam rincian Fathul Qorib; bagian في الرقاب memiliki hukum khusus bagi mukatab."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "بَنُو هَاشِمٍ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Bani Hasyim",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Bani Hasyim",
     "sharaf": "بَنُونَ: جَمْعُ ابْنٍ؛ هَاشِمٌ: اِسْمُ عَلَمٍ",
     "meaning_fiqh": "Bani Hasyim termasuk golongan yang tidak boleh menerima zakat menurut pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "بَنُو الْمُطَّلِبِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Bani al-Muththalib",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Bani al-Muththalib",
     "sharaf": "بَنُونَ: جَمْعُ ابْنٍ؛ الْمُطَّلِبُ: اِسْمُ عَلَمٍ",
-    "meaning_fiqh": "Bani al-Muththalib termasuk golongan yang tidak boleh menerima zakat menurut pembahasan Fathul Qorib, baik mereka mendapat bagian dari khumus atau tidak."
+    "meaning_fiqh": "Bani al-Muththalib termasuk golongan yang tidak boleh menerima zakat menurut pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "الْكَافِرُ",
     "meaning_literal": "Bentuk: Isim. Artinya: Orang kafir",
     "sharaf": "كَافِرٌ: اِسْمُ فَاعِلٍ مِنْ كَفَرَ",
-    "meaning_fiqh": "Orang kafir termasuk di antara lima golongan yang disebut Fathul Qorib tidak boleh diberi zakat."
+    "meaning_fiqh": "Orang kafir termasuk golongan yang tidak diberi zakat wajib menurut pembahasan Fathul Qorib."
   },
   {
     "chapter_arabic": "مَصَارِفُ الزَّكَاةِ",
     "term_arabic": "مَنْ تَلْزَمُ الْمُزَكِّيَ نَفَقَتُهُ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Orang yang nafkahnya wajib ditanggung oleh orang yang berzakat",
+    "meaning_literal": "Bentuk: Jumlah/Frasa. Artinya: Orang yang nafkahnya wajib ditanggung oleh orang yang berzakat",
     "sharaf": "لَزِمَ – يَلْزَمُ – لُزُومًا؛ نَفَقَةٌ: اِسْمٌ؛ مُزَكٍّ: اِسْمُ فَاعِلٍ مِنْ زَكَّى",
-    "meaning_fiqh": "Orang yang wajib dinafkahi oleh pemberi zakat tidak diberi zakat atas nama fakir atau miskin. Namun Fathul Qorib membolehkan pemberian kepadanya apabila ia berhak karena sebab lain, seperti menjadi pejuang atau gharim."
+    "meaning_fiqh": "Orang yang wajib dinafkahi oleh pemberi zakat tidak diberi zakat atas dasar fakir atau miskin. Namun ia dapat menerima zakat apabila berhak karena sebab lain yang diakui, seperti menjadi gharim atau pejuang."
   }
 ]
