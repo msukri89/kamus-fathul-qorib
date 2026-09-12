@@ -2,43 +2,43 @@
   {
     "chapter_arabic": "تَقْوِيمُ عُرُوضِ التِّجَارَةِ",
     "term_arabic": "تَقْوِيمُ عُرُوضِ التِّجَارَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Penilaian barang-barang dagangan",
-    "sharaf": "تَقْوِيمٌ: مَصْدَرٌ مِنْ قَوَّمَ؛ عُرُوضٌ: جَمْعُ عَرْضٍ؛ تِجَارَةٌ: اِسْمٌ",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Penilaian barang-barang dagangan",
+    "sharaf": "تَقْوِيمٌ: مَصْدَرٌ مِنْ قَوَّمَ؛ عَرْضٌ – عُرُوضٌ: اِسْمٌ؛ تِجَارَةٌ: اِسْمٌ",
     "meaning_fiqh": "Barang dagangan dinilai pada akhir haul untuk menentukan nilai yang menjadi dasar zakat perdagangan."
   },
   {
     "chapter_arabic": "تَقْوِيمُ عُرُوضِ التِّجَارَةِ",
     "term_arabic": "عُرُوضُ التِّجَارَةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Barang-barang dagangan",
-    "sharaf": "عُرُوضٌ: جَمْعُ عَرْضٍ؛ تِجَارَةٌ: اِسْمٌ",
-    "meaning_fiqh": "Yang dimaksud adalah harta atau barang yang dijadikan objek perdagangan untuk memperoleh keuntungan."
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Barang-barang dagangan",
+    "sharaf": "عَرْضٌ – عُرُوضٌ: اِسْمٌ؛ تِجَارَةٌ: اِسْمٌ",
+    "meaning_fiqh": "Yang dimaksud adalah barang atau harta yang dimiliki untuk diperdagangkan dengan tujuan memperoleh keuntungan."
   },
   {
     "chapter_arabic": "تَقْوِيمُ عُرُوضِ التِّجَارَةِ",
     "term_arabic": "آخِرُ الْحَوْلِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Akhir haul",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Akhir haul",
     "sharaf": "آخِرٌ: اِسْمٌ؛ حَوْلٌ: اِسْمٌ",
-    "meaning_fiqh": "Penilaian barang dagangan dilakukan pada akhir masa satu haul."
+    "meaning_fiqh": "Penilaian barang dagangan dilakukan ketika genap satu haul."
   },
   {
     "chapter_arabic": "تَقْوِيمُ عُرُوضِ التِّجَارَةِ",
     "term_arabic": "بِمَا اشْتُرِيَتْ بِهِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Dengan nilai yang digunakan untuk membelinya",
-    "sharaf": "اشْتَرَى – يَشْتَرِي – اشْتِرَاءً؛ قَوَّمَ – يُقَوِّمُ – تَقْوِيمًا",
-    "meaning_fiqh": "Menurut matan Fathul Qorib, barang dagangan dinilai pada akhir haul dengan dasar harga atau nilai yang digunakan ketika barang tersebut diperoleh melalui pembelian."
+    "sharaf": "اشْتَرَى – يَشْتَرِي – اشْتِرَاءً؛ اشْتُرِيَتْ: فِعْلٌ مَاضٍ مَبْنِيٌّ لِلْمَجْهُولِ؛ قَوَّمَ – يُقَوِّمُ – تَقْوِيمًا",
+    "meaning_fiqh": "Sesuai lafaz Fathul Qorib, barang dagangan dinilai pada akhir haul berdasarkan alat tukar yang digunakan untuk memperolehnya. Jika diperoleh dengan emas, dinilai dengan emas; jika dengan perak, dinilai dengan perak; jika diperoleh bukan dengan keduanya, terdapat rincian penilaian dengan mata uang dominan di negeri tersebut."
   },
   {
     "chapter_arabic": "تَقْوِيمُ عُرُوضِ التِّجَارَةِ",
     "term_arabic": "بُلُوغُ النِّصَابِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Mencapai nisab",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Mencapai nisab",
     "sharaf": "بُلُوغٌ: مَصْدَرٌ مِنْ بَلَغَ؛ نِصَابٌ: اِسْمٌ",
-    "meaning_fiqh": "Jika nilai barang dagangan pada akhir haul mencapai nisab, zakat perdagangan wajib dikeluarkan; jika tidak mencapai nisab, tidak wajib menurut ketentuan yang dijelaskan dalam syarah."
+    "meaning_fiqh": "Jika nilai barang dagangan pada akhir haul mencapai nisab, zakat perdagangan wajib dikeluarkan; jika tidak mencapai nisab, tidak wajib."
   },
   {
     "chapter_arabic": "تَقْوِيمُ عُرُوضِ التِّجَارَةِ",
     "term_arabic": "رُبْعُ الْعُشْرِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Seperempat dari sepersepuluh",
+    "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Seperempat dari sepersepuluh",
     "sharaf": "رُبْعٌ: اِسْمٌ؛ عُشْرٌ: اِسْمٌ",
-    "meaning_fiqh": "Kadar zakat perdagangan adalah رُبْعُ الْعُشْرِ, yaitu 2,5% dari nilai yang wajib dizakati setelah mencapai nisab dan haul."
+    "meaning_fiqh": "Kadar zakat perdagangan adalah رُبْعُ الْعُشْرِ, yaitu 2,5% dari nilai barang dagangan yang mencapai nisab pada akhir haul."
   }
 ]
