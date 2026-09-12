@@ -1,0 +1,114 @@
+[
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Rukun-rukun salat",
+    "sharaf": "رُكْنٌ – أَرْكَانٌ",
+    "meaning_fiqh": "Bagian-bagian pokok yang menjadi penyusun salat; dalam Matan Abi Syuja' disebut delapan belas rukun."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "النِّيَّةُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Niat",
+    "sharaf": "نَوَى – يَنْوِي – نِيَّةً",
+    "meaning_fiqh": "Maksud melakukan salat yang disertai dengan pelaksanaannya; tempat niat adalah hati."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "الْقِيَامُ مَعَ الْقُدْرَةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Berdiri ketika mampu",
+    "sharaf": "قَامَ – يَقُومُ – قِيَامًا",
+    "meaning_fiqh": "Berdiri bagi orang yang mampu merupakan rukun salat; orang yang tidak mampu berdiri boleh salat sambil duduk."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "تَكْبِيرَةُ الْإِحْرَامِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Takbiratul ihram",
+    "sharaf": "كَبَّرَ – يُكَبِّرُ – تَكْبِيرًا",
+    "meaning_fiqh": "Takbir pembuka salat yang menjadi rukun; bagi yang mampu mengucapkannya, lafaznya adalah الله أكبر."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "قِرَاءَةُ الْفَاتِحَةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Membaca Al-Fatihah",
+    "sharaf": "قَرَأَ – يَقْرَأُ – قِرَاءَةً",
+    "meaning_fiqh": "Membaca Al-Fatihah merupakan rukun salat; basmalah termasuk satu ayat darinya menurut susunan yang dijelaskan dalam Matan Abi Syuja'."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "الرُّكُوعُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Rukuk",
+    "sharaf": "رَكَعَ – يَرْكَعُ – رُكُوعًا",
+    "meaning_fiqh": "Membungkukkan badan dalam salat dengan tata cara rukuk yang ditentukan."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "الطُّمَأْنِينَةُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Tuma'ninah / tenang sejenak",
+    "sharaf": "طَمْأَنَ – يُطَمْئِنُ – طُمْأَنِينَةً",
+    "meaning_fiqh": "Berdiam dengan tenang pada rukun-rukun gerakan salat yang disertai tuma'ninah."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "الرَّفْعُ وَالِاعْتِدَالُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Bangkit dan i'tidal",
+    "sharaf": "رَفَعَ – يَرْفَعُ – رَفْعًا؛ اِعْتَدَلَ – يَعْتَدِلُ – اِعْتِدَالًا",
+    "meaning_fiqh": "Bangkit dari rukuk dan berdiri tegak dalam posisi i'tidal merupakan rukun salat."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "السُّجُودُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: Sujud",
+    "sharaf": "سَجَدَ – يَسْجُدُ – سُجُودًا",
+    "meaning_fiqh": "Meletakkan anggota-anggota sujud dalam salat sesuai ketentuan."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "الْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Duduk di antara dua sujud",
+    "sharaf": "جَلَسَ – يَجْلِسُ – جُلُوسًا",
+    "meaning_fiqh": "Duduk di antara dua sujud pada setiap rakaat merupakan rukun salat."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "الْجُلُوسُ الْأَخِيرُ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Duduk terakhir",
+    "sharaf": "جَلَسَ – يَجْلِسُ – جُلُوسًا",
+    "meaning_fiqh": "Duduk terakhir yang diikuti salam merupakan salah satu rukun salat."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "التَّشَهُّدُ فِي الْجُلُوسِ الْأَخِيرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Tasyahud dalam duduk terakhir",
+    "sharaf": "تَشَهَّدَ – يَتَشَهَّدُ – تَشَهُّدًا",
+    "meaning_fiqh": "Membaca tasyahud dalam duduk terakhir merupakan rukun salat."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "الصَّلَاةُ عَلَى النَّبِيِّ فِي الْجُلُوسِ الْأَخِيرِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Bersalawat kepada Nabi dalam duduk terakhir",
+    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً",
+    "meaning_fiqh": "Membaca salawat kepada Nabi ﷺ dalam duduk terakhir setelah tasyahud merupakan rukun salat."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "التَّسْلِيمَةُ الْأُولَى",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Salam pertama",
+    "sharaf": "سَلَّمَ – يُسَلِّمُ – تَسْلِيمًا",
+    "meaning_fiqh": "Salam pertama merupakan rukun yang digunakan untuk mengakhiri salat."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "نِيَّةُ الْخُرُوجِ مِنَ الصَّلَاةِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Niat keluar dari salat",
+    "sharaf": "نَوَى – يَنْوِي – نِيَّةً؛ خَرَجَ – يَخْرُجُ – خُرُوجًا",
+    "meaning_fiqh": "Niat keluar dari salat disebut sebagai rukun ke-17 dalam Matan Abi Syuja'; syarah menjelaskan bahwa pendapat yang mewajibkannya sebagai rukun adalah pendapat yang lemah, sedangkan pendapat yang lebih kuat tidak menjadikannya rukun."
+  },
+  {
+    "chapter_arabic": "أَرْكَانُ الصَّلَاةِ",
+    "term_arabic": "تَرْتِيبُ الْأَرْكَانِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Mengurutkan rukun-rukun",
+    "sharaf": "رَتَّبَ – يُرَتِّبُ – تَرْتِيبًا",
+    "meaning_fiqh": "Menjalankan rukun-rukun salat sesuai urutan yang telah disebutkan."
+  }
+]
