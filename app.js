@@ -98,6 +98,8 @@ function tampilkanHasil(data) {
             const fiqh = document.createElement('p');
             fiqh.innerHTML = `<strong>Makna fiqih:</strong> ${item.meaning_fiqh || '-'}`;
             div.appendChild(fiqh);
+
+            details.appendChild(div);
         });
 
         container.appendChild(details);
