@@ -4,28 +4,28 @@
     "term_arabic": "زَكَاةُ الْفِطْرِ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Zakat fitrah",
     "sharaf": "زَكَاةٌ: اِسْمٌ؛ فِطْرٌ: مَصْدَرٌ مِنْ أَفْطَرَ",
-    "meaning_fiqh": "Zakat fitrah wajib karena tiga perkara: Islam, terbenamnya matahari pada akhir hari Ramadan, dan adanya kelebihan dari makanan pokok diri sendiri serta orang-orang yang menjadi tanggungan pada hari tersebut."
+    "meaning_fiqh": "Zakat fitrah wajib karena tiga perkara: Islam, terbenamnya matahari pada akhir hari Ramadan, dan adanya kelebihan dari kebutuhan makanan pokok diri sendiri serta orang-orang yang menjadi tanggungan pada hari Id dan malamnya."
   },
   {
     "chapter_arabic": "زَكَاةُ الْفِطْرِ",
     "term_arabic": "الْإِسْلَامُ",
     "meaning_literal": "Bentuk: Isim. Artinya: Islam",
     "sharaf": "أَسْلَمَ – يُسْلِمُ – إِسْلَامًا",
-    "meaning_fiqh": "Islam merupakan salah satu dari tiga perkara yang menjadi sebab wajibnya zakat fitrah."
+    "meaning_fiqh": "Islam merupakan salah satu dari tiga perkara yang menjadi sebab wajibnya zakat fitrah. Orang kafir asli tidak terkena kewajiban zakat fitrah untuk dirinya, tetapi rincian kewajiban atas budak atau kerabat Muslimnya dibahas dalam syarah."
   },
   {
     "chapter_arabic": "زَكَاةُ الْفِطْرِ",
     "term_arabic": "غُرُوبُ الشَّمْسِ مِنْ آخِرِ يَوْمٍ مِنْ شَهْرِ رَمَضَانَ",
     "meaning_literal": "Bentuk: Frasa idhafah. Artinya: Terbenamnya matahari pada akhir hari bulan Ramadan",
     "sharaf": "غُرُوبٌ: مَصْدَرٌ مِنْ غَرَبَ؛ شَمْسٌ: اِسْمٌ؛ آخِرٌ: اِسْمٌ؛ يَوْمٌ – أَيَّامٌ: اِسْمٌ؛ رَمَضَانُ: اِسْمٌ",
-    "meaning_fiqh": "Menurut pembahasan Fathul Qorib, terbenamnya matahari pada akhir hari Ramadan merupakan waktu yang menyebabkan wajibnya zakat fitrah."
+    "meaning_fiqh": "Terbenamnya matahari pada akhir hari Ramadan adalah waktu yang menyebabkan wajibnya zakat fitrah. Karena itu, orang yang meninggal setelah matahari terbenam tetap dikeluarkan zakat fitrahnya, sedangkan anak yang lahir setelahnya tidak."
   },
   {
     "chapter_arabic": "زَكَاةُ الْفِطْرِ",
     "term_arabic": "وُجُودُ الْفَضْلِ عَنْ قُوتِهِ وَقُوتِ عِيَالِهِ فِي ذَلِكَ الْيَوْمِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Adanya kelebihan dari makanan pokok dirinya dan keluarganya pada hari itu",
     "sharaf": "وُجُودٌ: مَصْدَرٌ مِنْ وَجَدَ؛ فَضْلٌ: اِسْمٌ؛ قُوتٌ: اِسْمٌ؛ عِيَالٌ: اِسْمٌ",
-    "meaning_fiqh": "Yang dimaksud adalah adanya kelebihan dari kebutuhan makanan pokok diri sendiri dan orang-orang yang menjadi tanggungan pada hari Id dan malamnya menurut penjelasan syarah."
+    "meaning_fiqh": "Yang dimaksud adalah adanya kelebihan dari kebutuhan makanan pokok diri sendiri dan orang-orang yang menjadi tanggungan pada hari Idulfitri dan malamnya."
   },
   {
     "chapter_arabic": "زَكَاةُ الْفِطْرِ",
@@ -39,7 +39,7 @@
     "term_arabic": "صَاعًا مِنْ قُوتِ بَلَدِهِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Satu sha' dari makanan pokok negerinya",
     "sharaf": "صَاعٌ: اِسْمٌ؛ قُوتٌ: اِسْمٌ؛ بَلَدٌ: اِسْمٌ",
-    "meaning_fiqh": "Kadar zakat fitrah adalah satu sha' dari makanan pokok negeri orang yang mengeluarkan zakat. Jika terdapat beberapa makanan pokok, diperhatikan makanan pokok yang dominan."
+    "meaning_fiqh": "Kadar zakat fitrah adalah satu sha' dari makanan pokok negeri tempat orang yang mengeluarkan zakat. Jika dalam suatu negeri terdapat beberapa makanan pokok dan sebagian lebih dominan, yang dikeluarkan mengikuti makanan pokok yang dominan."
   },
   {
     "chapter_arabic": "زَكَاةُ الْفِطْرِ",
