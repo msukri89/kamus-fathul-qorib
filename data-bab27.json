@@ -4,7 +4,7 @@
     "term_arabic": "رَفْعُ الْيَدَيْنِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Mengangkat kedua tangan",
     "sharaf": "رَفَعَ – يَرْفَعُ – رَفْعًا",
-    "meaning_fiqh": "Mengangkat kedua tangan hingga sejajar dengan kedua pundak pada takbiratul ihram, ketika rukuk, ketika bangkit dari rukuk, dan ketika berdiri dari tasyahud pertama."
+    "meaning_fiqh": "Mengangkat kedua tangan hingga sejajar dengan kedua pundak pada takbiratul ihram, ketika rukuk, dan ketika bangkit dari rukuk."
   },
   {
     "chapter_arabic": "هَيْئَاتُ الصَّلَاةِ",
@@ -43,10 +43,17 @@
   },
   {
     "chapter_arabic": "هَيْئَاتُ الصَّلَاةِ",
-    "term_arabic": "الْجَهْرُ فِي مَوْضِعِهِ وَالْإِسْرَارُ فِي مَوْضِعِهِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Mengeraskan bacaan pada tempatnya dan memelankan bacaan pada tempatnya",
-    "sharaf": "جَهَرَ – يَجْهَرُ – جَهْرًا؛ أَسَرَّ – يُسِرُّ – إِسْرَارًا",
-    "meaning_fiqh": "Mengeraskan atau memelankan bacaan pada tempat yang disyariatkan termasuk sunah haiat dalam salat."
+    "term_arabic": "الْجَهْرُ فِي مَوْضِعِهِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Mengeraskan bacaan pada tempatnya",
+    "sharaf": "جَهَرَ – يَجْهَرُ – جَهْرًا",
+    "meaning_fiqh": "Mengeraskan bacaan pada tempat yang disyariatkan termasuk sunah haiat dalam salat."
+  },
+  {
+    "chapter_arabic": "هَيْئَاتُ الصَّلَاةِ",
+    "term_arabic": "الْإِسْرَارُ فِي مَوْضِعِهِ",
+    "meaning_literal": "Bentuk: Frasa. Artinya: Memelankan bacaan pada tempatnya",
+    "sharaf": "أَسَرَّ – يُسِرُّ – إِسْرَارًا",
+    "meaning_fiqh": "Memelankan bacaan pada tempat yang disyariatkan termasuk sunah haiat dalam salat."
   },
   {
     "chapter_arabic": "هَيْئَاتُ الصَّلَاةِ",
@@ -67,14 +74,14 @@
     "term_arabic": "التَّسْبِيحُ فِي الرُّكُوعِ وَالسُّجُودِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Membaca tasbih dalam rukuk dan sujud",
     "sharaf": "سَبَّحَ – يُسَبِّحُ – تَسْبِيحًا؛ رَكَعَ – يَرْكَعُ – رُكُوعًا؛ سَجَدَ – يَسْجُدُ – سُجُودًا",
-    "meaning_fiqh": "Membaca tasbih dalam rukuk dan sujud tiga kali termasuk sunah haiat dalam salat."
+    "meaning_fiqh": "Membaca tasbih dalam rukuk dan sujud termasuk sunah haiat dalam salat."
   },
   {
     "chapter_arabic": "هَيْئَاتُ الصَّلَاةِ",
     "term_arabic": "وَضْعُ الْيَدَيْنِ عَلَى الْفَخِذَيْنِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Meletakkan kedua tangan di atas kedua paha",
     "sharaf": "وَضَعَ – يَضَعُ – وَضْعًا",
-    "meaning_fiqh": "Meletakkan kedua tangan di atas kedua paha ketika duduk dalam salat, dengan tata cara yang dijelaskan dalam sumber, termasuk sunah haiat."
+    "meaning_fiqh": "Meletakkan kedua tangan di atas kedua paha ketika duduk dalam salat termasuk sunah haiat."
   },
   {
     "chapter_arabic": "هَيْئَاتُ الصَّلَاةِ",
@@ -96,12 +103,5 @@
     "meaning_literal": "Bentuk: Frasa. Artinya: Salam kedua",
     "sharaf": "سَلَّمَ – يُسَلِّمُ – تَسْلِيمًا",
     "meaning_fiqh": "Salam kedua setelah salam pertama termasuk sunah haiat dalam salat."
-  },
-  {
-    "chapter_arabic": "هَيْئَاتُ الصَّلَاةِ",
-    "term_arabic": "نِيَّةُ الْخُرُوجِ مِنَ الصَّلَاةِ",
-    "meaning_literal": "Bentuk: Frasa. Artinya: Niat keluar dari salat",
-    "sharaf": "نَوَى – يَنْوِي – نِيَّةً؛ خَرَجَ – يَخْرُجُ – خُرُوجًا",
-    "meaning_fiqh": "Niat keluar dari salat termasuk sunah haiat yang disebutkan pada bagian ini."
   }
 ]
