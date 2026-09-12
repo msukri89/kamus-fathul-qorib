@@ -4,7 +4,7 @@
     "term_arabic": "بُطْلَانُ الِاعْتِكَافِ بِالْوَطْءِ",
     "meaning_literal": "Bentuk: Frasa. Artinya: Batalnya i'tikaf karena hubungan seksual",
     "sharaf": "بُطْلَانٌ: مَصْدَرٌ مِنْ بَطَلَ؛ اعْتِكَافٌ: مَصْدَرٌ مِنِ اعْتَكَفَ؛ وَطْءٌ: مَصْدَرٌ مِنْ وَطِئَ",
-    "meaning_fiqh": "Fathul Qorib menjelaskan bahwa i'tikaf batal karena hubungan seksual yang dilakukan dengan sengaja, dalam keadaan ingat sedang beri'tikaf, dan mengetahui keharamannya."
+    "meaning_fiqh": "Fathul Qorib menjelaskan bahwa i'tikaf batal karena hubungan seksual. Rincian syarah menyebut pembatalan ini apabila dilakukan dengan sengaja, dalam keadaan ingat sedang beri'tikaf, dan mengetahui keharamannya."
   },
   {
     "chapter_arabic": "مُبْطِلَاتُ الِاعْتِكَافِ",
@@ -19,5 +19,12 @@
     "meaning_literal": "Bentuk: Frasa. Artinya: Hubungan seksual dengan sengaja disertai pengetahuan tentang keharamannya",
     "sharaf": "وَطْءٌ: مَصْدَرٌ مِنْ وَطِئَ؛ عَمْدًا: مَصْدَرٌ نَائِبٌ عَنِ الْحَالِ؛ تَحْرِيمٌ: مَصْدَرٌ مِنْ حَرَّمَ",
     "meaning_fiqh": "Syarah Fathul Qorib memberikan rincian bahwa pembatalan yang disebut pada matan berlaku ketika pelakunya memilih melakukannya, mengingat bahwa ia sedang beri'tikaf, dan mengetahui bahwa hubungan tersebut haram bagi orang yang sedang beri'tikaf."
+  },
+  {
+    "chapter_arabic": "مُبْطِلَاتُ الِاعْتِكَافِ",
+    "term_arabic": "الِاعْتِكَافُ",
+    "meaning_literal": "Bentuk: Masdar. Artinya: I'tikaf atau berdiam di masjid",
+    "sharaf": "اعْتَكَفَ – يَعْتَكِفُ – اعْتِكَافًا",
+    "meaning_fiqh": "I'tikaf adalah berdiam di masjid dengan niat ibadah dan ketentuan yang telah dijelaskan pada bab sebelumnya."
   }
 ]
