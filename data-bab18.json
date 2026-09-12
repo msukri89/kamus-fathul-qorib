@@ -1,44 +1,8 @@
 [
-  {
-    "chapter_arabic": "فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ",
-    "term_arabic": "الصَّلَاةُ",
-    "meaning_literal": "Bentuk: Masdar. Artinya: Shalat",
-    "sharaf": "صَلَّى – يُصَلِّي – صَلَاةً",
-    "meaning_fiqh": "Ibadah yang secara syariat berupa perkataan dan perbuatan tertentu, dimulai dengan takbir dan diakhiri dengan salam, dengan syarat-syarat tertentu. Dalam Fathul Qorib, shalat fardhu harian berjumlah lima."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ",
-    "term_arabic": "الظُّهْرُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Zuhur",
-    "sharaf": "ظَهَرَ – يَظْهَرُ – ظُهُورًا",
-    "meaning_fiqh": "Shalat fardhu yang dikerjakan pada waktu setelah matahari tergelincir dari tengah langit. Dalam Fathul Qorib, Zuhur merupakan salah satu dari lima shalat fardhu harian."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ",
-    "term_arabic": "الْعَصْرُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Asar",
-    "sharaf": "عَصَرَ – يَعْصِرُ – عَصْرًا",
-    "meaning_fiqh": "Shalat fardhu yang waktunya dimulai setelah berakhirnya waktu Zuhur dan berakhir dengan terbenamnya matahari. Dalam Fathul Qorib, Asar termasuk lima shalat fardhu harian."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ",
-    "term_arabic": "الْمَغْرِبُ",
-    "meaning_literal": "Bentuk: Isim Zaman / tempat. Artinya: Magrib / waktu terbenam",
-    "sharaf": "غَرَبَ – يَغْرُبُ – غُرُوبًا – مَغْرِبٌ",
-    "meaning_fiqh": "Shalat fardhu yang waktunya dimulai setelah matahari terbenam dan berakhir ketika syafaq merah menghilang."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ",
-    "term_arabic": "الْعِشَاءُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Isya",
-    "sharaf": "عَشِيَ – يَعْشَى – عَشَاءً",
-    "meaning_fiqh": "Shalat fardhu yang waktunya dimulai setelah hilangnya syafaq dan berakhir dengan terbitnya fajar shadiq."
-  },
-  {
-    "chapter_arabic": "فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ",
-    "term_arabic": "الصُّبْحُ",
-    "meaning_literal": "Bentuk: Isim. Artinya: Subuh / pagi",
-    "sharaf": "صَبَحَ – يُصْبِحُ – صُبْحًا",
-    "meaning_fiqh": "Shalat fardhu yang waktunya dimulai sejak terbit fajar shadiq dan berakhir ketika matahari terbit. Dalam Fathul Qorib, الصبح digunakan untuk menyebut shalat Subuh."
-  }
+{"chapter_arabic":"فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ","term_arabic":"الصَّلَاةُ","meaning_literal":"Bentuk: Masdar. Artinya: Shalat","sharaf":"صَلَّى – يُصَلِّي – صَلَاةً","meaning_fiqh":"Ibadah yang secara syariat berupa perkataan dan perbuatan tertentu, dimulai dengan takbir dan diakhiri dengan salam, dengan syarat-syarat tertentu. Dalam Fathul Qorib, shalat fardhu harian berjumlah lima."},
+{"chapter_arabic":"فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ","term_arabic":"الظُّهْرُ","meaning_literal":"Bentuk: Isim. Artinya: Zuhur","sharaf":"ظَهَرَ – يَظْهَرُ – ظُهُورًا","meaning_fiqh":"Shalat fardhu yang dikerjakan pada waktu setelah matahari tergelincir dari tengah langit. Dalam Fathul Qorib, Zuhur merupakan salah satu dari lima shalat fardhu harian."},
+{"chapter_arabic":"فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ","term_arabic":"الْعَصْرُ","meaning_literal":"Bentuk: Isim. Artinya: Asar","sharaf":"عَصَرَ – يَعْصِرُ – عَصْرًا","meaning_fiqh":"Shalat fardhu yang waktunya dimulai setelah berakhirnya waktu Zuhur dan berakhir dengan terbenamnya matahari. Dalam Fathul Qorib, Asar termasuk lima shalat fardhu harian."},
+{"chapter_arabic":"فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ","term_arabic":"الْمَغْرِبُ","meaning_literal":"Bentuk: Isim zaman. Artinya: Magrib / waktu terbenam","sharaf":"غَرَبَ – يَغْرُبُ – غُرُوبًا – مَغْرِبٌ","meaning_fiqh":"Shalat fardhu yang waktunya dimulai setelah matahari terbenam dan berakhir ketika syafaq merah menghilang."},
+{"chapter_arabic":"فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ","term_arabic":"الْعِشَاءُ","meaning_literal":"Bentuk: Isim. Artinya: Isya","sharaf":"عَشِيَ – يَعْشَى – عَشَاءً","meaning_fiqh":"Shalat fardhu yang waktunya dimulai setelah hilangnya syafaq dan berakhir dengan terbitnya fajar shadiq."},
+{"chapter_arabic":"فَصْلٌ فِي الصَّلَوَاتِ الْمَفْرُوضَاتِ","term_arabic":"الصُّبْحُ","meaning_literal":"Bentuk: Isim. Artinya: Subuh / pagi","sharaf":"صَبَحَ – يُصْبِحُ – صُبْحًا","meaning_fiqh":"Shalat fardhu yang waktunya dimulai sejak terbit fajar shadiq dan berakhir ketika matahari terbit. Dalam Fathul Qorib, الصبح digunakan untuk menyebut shalat Subuh."}
 ]
