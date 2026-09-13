@@ -6,6 +6,7 @@ function lexemeMap() { return new Map((state.data?.lexemes || []).map((item) => 
 function tokenArabic(token) { return token?.form?.arabic || token?.arabic || ""; }
 function getTokenLexemeIds(token) {
   if (token?.lexeme_id) return [token.lexeme_id];
+  if (token?.form?.lexeme_id) return [token.form.lexeme_id];
   if (Array.isArray(token?.form?.components)) return token.form.components.map((component) => component.lexeme_id).filter(Boolean);
   return [];
 }
@@ -58,12 +59,16 @@ function showToken(index, sourceButton = null) {
   $("#detail-meaning-label").textContent = isPhrase ? "Makna frasa" : "Makna literal";
 
   if (isPhrase) {
+    const contextual = token.contextual_meaning || "";
+    const literal = token.literal || "";
     const components = Array.isArray(token.form?.components) ? token.form.components : [];
     const componentMeanings = components.map((component) => {
       const lexeme = component.lexeme_id ? map.get(component.lexeme_id) : null;
       return lexeme?.literal || component.literal || "";
     }).filter(Boolean);
-    $("#detail-literal").textContent = token.literal || componentMeanings.join("; ") || token.contextual_meaning || "—";
+    // A phrase must first show its own contextual phrase meaning, not a misleading
+    // concatenation of component dictionary meanings.
+    $("#detail-literal").textContent = contextual || literal || componentMeanings.join("; ") || "—";
   } else {
     $("#detail-literal").textContent = getTokenLiteral(token, primary) || "—";
   }
