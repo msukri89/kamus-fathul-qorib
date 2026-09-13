@@ -6,77 +6,30 @@
     <title>Kamus Fathul Qorib</title>
     <link rel="manifest" href="./manifest.json">
     <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f8fafc;
-            color: #334155;
-        }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f8fafc; color: #334155; }
         h1 { text-align: center; color: #0f172a; }
-        .search-box {
-            width: 100%;
-            padding: 12px;
-            font-size: 16px;
-            border: 2px solid #cbd5e1;
-            border-radius: 8px;
-            margin-bottom: 20px;
-            box-sizing: border-box;
-        }
+        .search-box { width: 100%; padding: 12px; font-size: 16px; border: 2px solid #cbd5e1; border-radius: 8px; margin-bottom: 20px; box-sizing: border-box; }
         #hasil { margin-top: 20px; }
-        .v2-link {
-            display: block;
-            margin: 0 auto 22px;
-            padding: 13px 16px;
-            border-radius: 12px;
-            background: #172033;
-            color: #fff;
-            text-align: center;
-            text-decoration: none;
-            font-weight: 650;
-            box-shadow: 0 4px 14px rgba(15,23,42,.12);
-        }
+        .v2-link { display: block; margin: 0 auto 22px; padding: 13px 16px; border-radius: 12px; background: #172033; color: #fff; text-align: center; text-decoration: none; font-weight: 650; box-shadow: 0 4px 14px rgba(15,23,42,.12); }
         .v2-link:active { transform: translateY(1px); }
-        .v2-note {
-            display: block;
-            margin-top: 4px;
-            font-size: 11px;
-            font-weight: 400;
-            opacity: .75;
-        }
+        .v2-note { display: block; margin-top: 4px; font-size: 11px; font-weight: 400; opacity: .75; }
     </style>
 </head>
 <body>
-
     <h1>Kamus Fikih Fathul Qorib</h1>
     <p style="text-align: center;">Kamus saku offline untuk istilah fikih</p>
-
-    <a class="v2-link" href="./index-v2-prototype.html">
-        Coba Prototype V2
-        <span class="v2-note">Teks Arab utuh · Terjemah · Analisis lafaz · Popup</span>
-    </a>
-
+    <a class="v2-link" href="./index-v2-live-test-v3.html">Coba Prototype V2<span class="v2-note">Teks Arab utuh · Terjemah · Analisis lafaz · Popup</span></a>
     <input type="search" id="searchInput" class="search-box" placeholder="Cari istilah Indonesia atau Arab..." autocomplete="off">
-
-    <div id="hasil">
-        <p style="text-align: center; color: #64748b;">Memuat data kamus...</p>
-    </div>
-
+    <div id="hasil"><p style="text-align: center; color: #64748b;">Memuat data kamus...</p></div>
     <script src="./app.js"></script>
-
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', async () => {
                 try {
-                    const registration = await navigator.serviceWorker.register('./sw.js?v=55', {
-                        updateViaCache: 'none'
-                    });
+                    const registration = await navigator.serviceWorker.register('./sw.js?v=130', { updateViaCache: 'none' });
                     await registration.update();
                     console.log('Service Worker aktif:', registration.scope);
-                } catch (err) {
-                    console.log('Gagal memperbarui Service Worker:', err);
-                }
+                } catch (err) { console.log('Gagal memperbarui Service Worker:', err); }
             });
         }
     </script>
