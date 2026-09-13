@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Kamus Fathul Qorib — V2 Live Test</title>
+  <style>
+    :root { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #f5f7fb; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    body.modal-open { overflow: hidden; }
+    header { padding: 22px 18px; background: #172033; color: white; }
+    .wrap { max-width: 1050px; margin: 0 auto; }
+    .eyebrow { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; opacity: .75; }
+    h1 { margin: 5px 0 4px; font-size: 24px; }
+    .badge { display: inline-block; margin-top: 8px; padding: 4px 9px; border-radius: 999px; background: rgba(255,255,255,.12); font-size: 12px; }
+    main { padding: 18px; }
+    .card { background: white; border: 1px solid #e1e6ef; border-radius: 16px; padding: 18px; box-shadow: 0 4px 18px rgba(20,30,50,.05); }
+    .card + .card { margin-top: 16px; }
+    h2, h3 { margin: 0 0 10px; }
+    .arabic { direction: rtl; text-align: right; line-height: 2.2; }
+    #text-arabic { font-size: 24px; }
+    #translation { font-size: 16px; line-height: 1.7; }
+    .note { color: #5f6b7a; font-size: 13px; line-height: 1.6; }
+    .tokens { display: flex; flex-wrap: wrap; gap: 8px; direction: rtl; }
+    .token { border: 1px solid #dce3ed; background: #fff; border-radius: 12px; padding: 8px 12px; cursor: pointer; text-align: right; min-width: 92px; transition: border-color .15s, transform .15s, box-shadow .15s; }
+    .token:hover, .token:focus-visible { border-color: #7c8ba1; transform: translateY(-1px); box-shadow: 0 3px 10px rgba(20,30,50,.08); outline: none; }
+    .token-new { background: #f9fbff; }
+    .token-repeat { background: #fafafa; }
+    .token-arabic { display: block; font-size: 21px; }
+    .token-ref { display: block; margin-top: 3px; font-size: 10px; color: #7a8491; }
+    #app-error { margin-top: 12px; color: #a51d2d; }
+    .modal-backdrop { position: fixed; inset: 0; z-index: 1000; display: grid; place-items: center; padding: 18px; background: rgba(15,23,42,.58); backdrop-filter: blur(3px); }
+    .modal-backdrop[hidden] { display: none; }
+    .modal { width: min(560px, 100%); max-height: min(760px, calc(100vh - 36px)); overflow: auto; background: white; border-radius: 20px; box-shadow: 0 24px 70px rgba(0,0,0,.25); }
+    .modal-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 14px; padding: 20px 20px 14px; border-bottom: 1px solid #e8ecf2; }
+    .modal-title { margin: 0; font-size: 13px; color: #697586; }
+    .modal-arabic { margin: 4px 0 0; direction: rtl; text-align: right; font-size: 36px; line-height: 1.5; }
+    .close-button { flex: 0 0 auto; border: 0; background: #f1f3f7; color: #344054; width: 38px; height: 38px; border-radius: 50%; cursor: pointer; font-size: 22px; line-height: 1; }
+    .close-button:hover, .close-button:focus-visible { background: #e7ebf1; outline: 2px solid #9aa5b5; outline-offset: 2px; }
+    .modal-body { padding: 18px 20px 22px; }
+    .meaning-box { margin-bottom: 16px; padding: 14px; border-radius: 14px; background: #f7f9fc; }
+    .meaning-label { font-size: 11px; color: #697586; margin-bottom: 5px; }
+    .meaning-value { font-size: 17px; line-height: 1.65; font-weight: 650; }
+    dl { margin: 0; display: grid; grid-template-columns: 110px 1fr; gap: 10px 12px; font-size: 14px; }
+    dt { color: #697586; }
+    dd { margin: 0; font-weight: 600; overflow-wrap: anywhere; }
+    .component-list { display: grid; gap: 9px; }
+    .component-row { display: grid; grid-template-columns: minmax(90px, auto) 1fr; gap: 12px; align-items: start; padding: 10px 0; border-bottom: 1px solid #e8ecf2; }
+    .component-row:last-child { border-bottom: 0; }
+    .component-arabic { direction: rtl; text-align: right; font-size: 21px; }
+    .component-literal { margin-top: 2px; color: #697586; font-size: 13px; line-height: 1.5; }
+    .component-type { margin-top: 3px; color: #8a94a3; font-size: 11px; }
+    .context-box { margin-top: 18px; margin-bottom: 0; }
+    .repeat { margin-top: 18px; padding: 12px 14px; border-radius: 12px; background: #f2f5f9; color: #475467; font-size: 12px; line-height: 1.6; }
+    @media (max-width: 780px) { #text-arabic { font-size: 21px; } }
+    @media (max-width: 480px) { .modal-backdrop { padding: 10px; } .modal { max-height: calc(100vh - 20px); border-radius: 17px; } .modal-head { padding: 17px 16px 12px; } .modal-body { padding: 16px 16px 20px; } .modal-arabic { font-size: 32px; } dl { grid-template-columns: 92px 1fr; font-size: 13px; } .component-row { grid-template-columns: 82px 1fr; } }
+  </style>
+</head>
+<body>
+  <header><div class="wrap"><div class="eyebrow">Kamus Fathul Qorib</div><h1>V2 Live Test — Teks + Terjemah + Analisis Lafaz</h1><div id="format-badge" class="badge">memuat...</div></div></header>
+  <main class="wrap">
+    <div id="app-error" hidden></div>
+    <section class="card"><div class="eyebrow">Bab</div><h2 id="title-arabic" class="arabic">—</h2><div id="chapter-reference" class="note">—</div></section>
+    <section class="card"><h3>Teks Arab</h3><div id="text-arabic" class="arabic">—</div></section>
+    <section class="card"><h3>Terjemah Literal</h3><div id="translation">—</div><p id="translation-note" class="note">—</p></section>
+    <section class="card"><h3>Analisis Lafaz</h3><p class="note">Klik lafaz atau frasa untuk melihat rincian tanpa meninggalkan halaman bacaan. Data leksikal yang sama akan digunakan kembali ketika lafaz berulang.</p><div id="tokens" class="tokens"></div></section>
+  </main>
+  <div id="lexeme-modal" class="modal-backdrop" hidden aria-hidden="true">
+    <section class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-lexeme-title">
+      <div class="modal-head"><div><div id="modal-lexeme-title" class="modal-title">Rincian Lafaz</div><div id="detail-arabic" class="modal-arabic">—</div></div><button id="close-modal" class="close-button" type="button" aria-label="Tutup">×</button></div>
+      <div class="modal-body">
+        <div class="meaning-box"><div id="detail-meaning-label" class="meaning-label">Makna</div><div id="detail-literal" class="meaning-value">—</div></div>
+        <dl id="single-lexeme-fields"><dt>Lema</dt><dd id="detail-lemma">—</dd><dt>Jenis</dt><dd id="detail-type">—</dd><dt>Sharaf</dt><dd id="detail-morphology">—</dd><dt>Akar kata</dt><dd id="detail-root">—</dd><dt>Wazan</dt><dd id="detail-pattern">—</dd><dt>Tashrif</dt><dd id="detail-derivation">—</dd></dl>
+        <div id="detail-components-box" class="meaning-box" style="margin-top:18px;margin-bottom:0" hidden><div class="meaning-label">Komponen frasa</div><div id="detail-components" class="component-list"></div></div>
+        <div id="detail-context-box" class="meaning-box context-box" hidden><div class="meaning-label">Makna dalam konteks</div><div id="detail-context" class="note">—</div></div>
+        <div id="repeat-note" class="repeat" hidden></div>
+      </div>
+    </section>
+  </div>
+  <script src="app-v2-live-test-v3.js" defer></script>
+</body>
+</html>
